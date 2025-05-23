@@ -1,54 +1,53 @@
-import requests
-import logging
 import os
 import re
 import sys
 import json
-import dotenv
 import yaml
-from langsmith import Client
-from openai import OpenAI
-from langchain_core.messages import convert_to_openai_messages
+import dotenv
+import logging
+import requests
+
 from slugify import slugify
+from openai import OpenAI
+from langsmith import Client
+from langchain_core.messages import convert_to_openai_messages
 
 
-# Load environment variables from .env file
-dotenv.load_dotenv()
+# ------------------------- Configuration & Setup -------------------------
+
+def setup_logging():
+    log_level = os.getenv('LOG_LEVEL', 'INFO').upper()
+    logging.basicConfig(
+        level=log_level,
+        format='%(asctime)s %(levelname)s %(message)s',
+        handlers=[logging.StreamHandler()]
+    )
+    return logging.getLogger(__name__)
 
 
-# Configure logging
-log_level = os.getenv('LOG_LEVEL', 'INFO').upper()
-logging.basicConfig(
-    level=log_level,
-    format='%(asctime)s %(levelname)s %(message)s',
-    handlers=[logging.StreamHandler()]
-)
-logger = logging.getLogger(__name__)
+def load_env():
+    dotenv.load_dotenv()
+    return {
+        "BASE_URL": os.getenv('BASE_URL'),
+        "SESSION_TOKEN": os.getenv('AISYSTANT_SESSION_TOKEN')
+    }
 
-BASE_URL = os.getenv('BASE_URL')
-AISYSTANT_SESSION_TOKEN = os.getenv('AISYSTANT_SESSION_TOKEN')
-HEADERS = {'Session-Token': AISYSTANT_SESSION_TOKEN}
+
+logger = setup_logging()
+config = load_env()
+HEADERS = {'Session-Token': config["SESSION_TOKEN"]}
+
+# ------------------------- HTTP & File IO -------------------------
 
 def send_get_request(path):
-    url = f'{BASE_URL}/{path}'
+    url = f'{config["BASE_URL"]}/{path}'
     try:
         response = requests.get(url, headers=HEADERS)
         response.raise_for_status()
         return response.json()
     except requests.RequestException as e:
-        logger.error(f"Error while sending GET request to {url}: {e}")
+        logger.error(f"GET request failed: {e}")
         return None
-
-def get_course_structure(version_id):
-    try:
-        return send_get_request(f'courses/course-versions/{version_id}')
-    except Exception as e:
-        logger.error(f"Failed to fetch course structure for version ID {version_id}: {e}")
-        return None
-
-
-def remove_number_prefix(text):
-    return re.sub(r'^\d+\.\s*', '', text)
 
 
 def read_yaml_file(file_path):
@@ -58,19 +57,24 @@ def read_yaml_file(file_path):
     except FileNotFoundError:
         logger.error(f"File not found: {file_path}")
         return None
-    
+
+
 def write_yaml_file(file_path, data):
     try:
         with open(file_path, 'w', encoding='utf-8') as file:
             yaml.dump(data, file, allow_unicode=True, default_flow_style=False, sort_keys=False)
     except Exception as e:
-        logger.error(f"Error writing to file {file_path}: {e}")
-        return None
-    
+        logger.error(f"Error writing to {file_path}: {e}")
+
+# ------------------------- Section Utilities -------------------------
+
+def remove_number_prefix(text):
+    return re.sub(r'^\d+\.\s*', '', text)
+
 
 def find_section_by_title(title, sections):
     for section in sections:
-        if section["title_ru"] == title:
+        if section.get("title_ru") == title:
             return section
         if "children" in section:
             found = find_section_by_title(title, section["children"])
@@ -78,110 +82,107 @@ def find_section_by_title(title, sections):
                 return found
     return None
 
+# ------------------------- Translation -------------------------
 
-client = Client()           # LangSmith client
-oai_client = OpenAI()       # OpenAI client
+def init_clients():
+    return Client(), OpenAI()
+
+
+client, oai_client = init_clients()
 prompt = client.pull_prompt("translatetitlesv2")
 
 
 def translate_title(title, context=""):
-    """
-    Translate the title to English using LangSmith for prompt retrieval and OpenAI for generation.
-    The result is cached and saved immediately after each new translation.
-    """
     try:
-        # Prepare the data for the prompt
-        doc = {
-            "title": title,
-            "context": context,
-        }
-        # Invoke the prompt to format the request
-        formatted_prompt = prompt.invoke(doc)
-        # Send the request to OpenAI by converting messages to the required format
+        doc = {"title": title, "context": context}
+        formatted = prompt.invoke(doc)
         response = oai_client.chat.completions.create(
-            model="gpt-4o",  # Change to "gpt-4" if needed
-            messages=convert_to_openai_messages(formatted_prompt.messages)
+            model="gpt-4o",
+            messages=convert_to_openai_messages(formatted.messages)
         )
-        translated_title = response.choices[0].message.content.strip()
-        if not translated_title:
-            logger.error("Translation returned an empty result.")
-            sys.exit(1)
-
-        return translated_title
+        return response.choices[0].message.content.strip()
     except Exception as e:
-        logger.error(f"Error translating title '{title}': {e}")
-        sys.exit(1)
+        logger.error(f"Translation failed for '{title}': {e}")
+        return None
 
+# ------------------------- Section Building -------------------------
 
-def build_section_info(section):
-    section_type = section["type"]
-    section_title = remove_number_prefix(section["title"])
+def build_section_info(section, old_sections):
+    title = remove_number_prefix(section["title"])
     section_id = section["id"]
-    section_old_id = section["prevVersionSectionId"]
-    old_section = find_section_by_title(section_title, old_sections)
-    logger.info(f"Old section: {old_section}")
+    old_section = find_section_by_title(title, old_sections)
+
     if old_section:
-        section_title = old_section["title_ru"]
-        section_type = old_section["type"]
-        section_title_en = old_section["title_en"]
-        section_slug = old_section["slug"]
-    else:
-        section_title_en = translate_title(section_title)
-        section_slug = slugify(section_title_en, separator="-", lowercase=True)
-    logger.info(f"Section ID: {section_id}, Title: {section_title}, Type: {section_type}, Slug: {section_slug}")
+        return {
+            "type": old_section["type"],
+            "title_ru": old_section["title_ru"],
+            "title_en": old_section["title_en"],
+            "slug": old_section["slug"],
+            "section_id": section_id,
+        }
+
+    translated_title = translate_title(title)
+    if not translated_title:
+        logger.error(f"Could not translate title: {title}")
+        return None
+
+    slug = slugify(translated_title, separator="-", lowercase=True)
     return {
-        "type": section_type,
-        "title_ru": section_title,
-        "title_en": section_title_en,
-        "slug": section_slug,
+        "type": section["type"],
+        "title_ru": title,
+        "title_en": translated_title,
+        "slug": slug,
         "section_id": section_id,
     }
 
 
-def build_hierarchical_structure(sections):
+def build_hierarchical_structure(sections, old_sections):
     result = []
     current_header = None
 
     for section in sections:
-        print(section)
-        section_data = build_section_info(section)
+        data = build_section_info(section, old_sections)
+        if data is None:
+            continue
 
         if section["type"] == "HEADER":
-            current_header = section_data
+            current_header = data
             current_header["children"] = []
             result.append(current_header)
+        elif current_header:
+            current_header["children"].append(data)
         else:
-            if current_header:
-                current_header["children"].append(section_data)
-            else:
-                result.append(section_data)
+            result.append(data)
 
     return result
 
+# ------------------------- Main -------------------------
+
+def main():
+    if len(sys.argv) != 4:
+        logger.error("Usage: script.py <course_id> <version> <version_id>")
+        sys.exit(1)
+
+    course_id, version, version_id = sys.argv[1:4]
+    course_data = send_get_request(f'courses/course-versions/{version_id}')
+    if not course_data or "sections" not in course_data:
+        logger.error("Invalid course data")
+        sys.exit(1)
+
+    old_data = read_yaml_file(f"{course_id}.yaml") or {}
+    old_sections = old_data.get("sections", [])
+
+    new_structure = build_hierarchical_structure(course_data["sections"], old_sections)
+    doc = {
+        "course_id": course_id,
+        "version": version,
+        "version_id": version_id,
+        "sections": new_structure
+    }
+
+    print(yaml.dump(doc, allow_unicode=True, default_flow_style=False, sort_keys=False))
+    write_yaml_file(f"{course_id}.yaml", doc)
+
 
 if __name__ == "__main__":
-    course_id = sys.argv[1]
-    version = sys.argv[2]
-    version_id = sys.argv[3]
-    course_data = get_course_structure(version_id)
-
-    old_course_data = read_yaml_file(f"{course_id}.yaml")
-    if old_course_data is None:
-        old_course_data = dict()
-    
-    old_sections = old_course_data.get("sections", [])
-
-    if course_data and "sections" in course_data:
-        hierarchical_structure = build_hierarchical_structure(course_data["sections"])
-        doc = {
-            "course_id": course_id,
-            "version": version,
-            "version_id": version_id,
-            "sections": hierarchical_structure
-        }
-        print(yaml.dump(doc, allow_unicode=True, default_flow_style=False, sort_keys=False))
-        write_yaml_file(f"{course_id}.yaml", doc)
-        #print(json.dumps(hierarchical_structure, indent=4, ensure_ascii=False))
-    else:
-        logger.error(f"Failed to fetch or process sections for version ID {version_id}")
-        sys.exit(1)
+    main()
