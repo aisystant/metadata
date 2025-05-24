@@ -81,7 +81,8 @@ def translate_title(title, context=""):
         formatted = prompt.invoke(doc)
         response = oai_client.chat.completions.create(
             model="gpt-4o",
-            messages=convert_to_openai_messages(formatted.messages)
+            messages=convert_to_openai_messages(formatted.messages),
+            temperature=0
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
@@ -177,29 +178,30 @@ def build_hierarchy(sections, old_sections):
 # ------------------------- Main -------------------------
 
 def main():
-    if len(sys.argv) != 4:
-        logger.error("Usage: script.py <course_id> <version> <version_id>")
+    if len(sys.argv) != 5:
+        logger.error("Usage: script.py <course_id> <course_name> <version> <version_id>")
         sys.exit(1)
 
-    course_id, version, version_id = sys.argv[1:4]
+    course_id, course_name, version, version_id = sys.argv[1:5]
     course_data = send_get_request(f"{config['BASE_URL']}/courses/course-versions/{version_id}").json()
     if not course_data or "sections" not in course_data:
         logger.error("Invalid course data")
         sys.exit(1)
 
-    old_data = read_yaml_file(f"{course_id}.yaml") or {}
+    old_data = read_yaml_file(f"yaml/{course_id}.yaml") or {}
     old_sections = old_data.get("sections", [])
 
     structure = build_hierarchy(course_data["sections"], old_sections)
     doc = {
         "course_id": course_id,
+        "course_name": course_name,
         "version": version,
         "version_id": version_id,
         "sections": structure
     }
 
     print(yaml.dump(doc, allow_unicode=True, default_flow_style=False, sort_keys=False))
-    write_yaml_file(f"{course_id}.yaml", doc)
+    write_yaml_file(f"yaml/{course_id}.yaml", doc)
 
 if __name__ == "__main__":
     main()

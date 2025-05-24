@@ -1,0 +1,1047 @@
+course_id: systems-thinking-introduction
+course_name: Введение в системное мышление
+version: 2025-03-16T0959
+version_id: '501'
+sections:
+- type: TEXT
+  title_ru: Предисловие
+  title_en: Preface
+  slug: preface
+  section_id: 64772
+- type: TEXT
+  title_ru: Подготовка к обучению
+  title_en: Preparation for Training
+  slug: preparation-for-training
+  section_id: 64773
+- type: HEADER
+  title_ru: Что такое системное мышление и зачем оно современному человеку?
+  title_en: What is Systems Thinking and Why Do Modern People Need It?
+  slug: what-is-systems-thinking-and-why-do-modern-people-need-it
+  section_id: 64774
+  children:
+  - type: TEXT
+    title_ru: Зачем и чему учиться в современном мире
+    title_en: Why and What to Learn in the Modern World
+    slug: why-and-what-to-learn-in-the-modern-world
+    section_id: 64775
+  - type: TEXT
+    title_ru: Интеллект-стек и стек саморазвития
+    title_en: Intellect Stack and Self-Development Stack
+    slug: intellect-stack-and-self-development-stack
+    section_id: 64776
+  - type: TEXT
+    title_ru: Системность и систематичность
+    title_en: The use of a systems approach (or systems thinking) and systematicity
+    slug: the-use-of-a-systems-approach-or-systems-thinking-and-systematicity
+    section_id: 64777
+    images:
+    - filename: 0.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/250/0.png
+      orig_hash: 7cb7fb7752c056fac0c9f7c726a0eb99b092a8a1ced76340557deb4c46f28e4b
+  - type: TEXT
+    title_ru: Что такое системное мышление?
+    title_en: What is systems thinking?
+    slug: what-is-systems-thinking
+    section_id: 64778
+  - type: TEXT
+    title_ru: Что значит «применить системное мышление»?
+    title_en: What does it mean to apply systems thinking?
+    slug: what-does-it-mean-to-apply-systems-thinking
+    section_id: 64779
+  - type: TEXT
+    title_ru: Классический системный подход 1.0
+    title_en: Classic Systems Approach 1.0
+    slug: classic-systems-approach-1-0
+    section_id: 64780
+  - type: TEXT
+    title_ru: Функция системы
+    title_en: System Function
+    slug: system-function
+    section_id: 64781
+  - type: TEXT
+    title_ru: Основные понятия системного мышления
+    title_en: Key Concepts of Systems Thinking
+    slug: key-concepts-of-systems-thinking
+    section_id: 64782
+  - type: TEXT
+    title_ru: 'О коммуникации: форма против содержания'
+    title_en: 'On Communication: Form vs. Content'
+    slug: on-communication-form-vs-content
+    section_id: 64783
+  - type: TEXT
+    title_ru: Сложность
+    title_en: Complexity
+    slug: complexity
+    section_id: 64784
+  - type: TEXT
+    title_ru: Системный подход 2.0
+    title_en: Systems Approach 2.0
+    slug: systems-approach-2-0
+    section_id: 64785
+    images:
+    - filename: 1.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/650/1.png
+      orig_hash: f12da35d13d0aa335dab3efa111234675ec78780f3cb3d08ebecf5080c061343
+  - type: TEXT
+    title_ru: Выводы раздела и основные понятия
+    title_en: Conclusions of the Section and Main Concepts
+    slug: conclusions-of-the-section-and-main-concepts
+    section_id: 64786
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 1.1. Понятия'
+    title_en: 'Complete the Modeling Exercise: 1.1 Concepts'
+    slug: complete-the-modeling-exercise-1-1-concepts
+    section_id: 64787
+  - type: TEST
+    title_ru: Вопросы для повторения, обсуждения и мышления письмом
+    title_en: Review, Discussion, and Thinking Through Writing Questions
+    slug: review-discussion-and-thinking-through-writing-questions
+    section_id: 64788
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 64789
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 1.2. Дисциплина (теория, модель)'
+    title_en: 'Complete the Modeling Exercise: 1.2. Discipline (Theory, Model)'
+    slug: complete-the-modeling-exercise-1-2-discipline-theory-model
+    section_id: 64790
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 1.3. Мастерство'
+    title_en: 'Complete the Modeling Exercise: 1.3. Mastery'
+    slug: complete-the-modeling-exercise-1-3-mastery
+    section_id: 64791
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 1.4. Характеристики системы'
+    title_en: 'Complete the Modeling Exercise: 1.4. System Characteristics'
+    slug: complete-the-modeling-exercise-1-4-system-characteristics
+    section_id: 64792
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 1.5. Функция системы'
+    title_en: 'Complete the Modeling Exercise: 1.5. System Function'
+    slug: complete-the-modeling-exercise-1-5-system-function
+    section_id: 64793
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 1.6. Классические свойства системы'
+    title_en: 'Complete the Modeling Exercise: 1.6. Classic System Properties'
+    slug: complete-the-modeling-exercise-1-6-classic-system-properties
+    section_id: 64794
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 1.7. Форма и содержание'
+    title_en: 'Complete the Modeling Exercise: 1.7. Form and Content'
+    slug: complete-the-modeling-exercise-1-7-form-and-content
+    section_id: 64795
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 1.8. Заземление абстрактных текстов'
+    title_en: 'Complete the Modeling Exercise: 1.8. Grounding Abstract Texts'
+    slug: complete-the-modeling-exercise-1-8-grounding-abstract-texts
+    section_id: 64796
+- type: HEADER
+  title_ru: Воплощение и описание системы
+  title_en: System Implementation and Description
+  slug: system-implementation-and-description
+  section_id: 64797
+  children:
+  - type: TEXT
+    title_ru: Физический мир и ментальное пространство
+    title_en: Physical World and Mental Space
+    slug: physical-world-and-mental-space
+    section_id: 64798
+    images:
+    - filename: 2.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1300/2.png
+      orig_hash: d04e8234c98d5629a8c1927fc1c8edac7205fe15fb026714c973ab4390c67af7
+  - type: TEXT
+    title_ru: Описание и воплощение системы
+    title_en: Description and Implementation of the System
+    slug: description-and-implementation-of-the-system
+    section_id: 64799
+    images:
+    - filename: 3.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1350/3.png
+      orig_hash: 009a1107d7cea5eb134105c288494f55d238abe50343a511d2b991e908a49d3c
+  - type: TEXT
+    title_ru: Документация системы
+    title_en: System Documentation
+    slug: system-documentation
+    section_id: 64800
+    images:
+    - filename: 4.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1400/4.png
+      orig_hash: 2d6657ebc67f8da7c410c9b49b2ba85449943c9170566729428afd33b79a4c46
+  - type: TEXT
+    title_ru: Документация – это система? Рабочий продукт – это система?
+    title_en: Is documentation a system? Is a work artifact a system?
+    slug: is-documentation-a-system-is-a-work-artifact-a-system
+    section_id: 64801
+  - type: TEXT
+    title_ru: Система и ее ролевое поведение
+    title_en: System and Its Role-Based Behavior
+    slug: system-and-its-role-based-behavior
+    section_id: 64802
+  - type: TEXT
+    title_ru: Слово, объект, система
+    title_en: Word, Object, System
+    slug: word-object-system
+    section_id: 64803
+    images:
+    - filename: 5.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1550/5.jpeg
+      orig_hash: 403de0db21216e86971692cb7ecc9895fcfe1878af5aef87d0e76bf1c377fa96
+  - type: TEXT
+    title_ru: 'Системы и функции: названия важны'
+    title_en: 'Systems and Functions: Names Matter'
+    slug: systems-and-functions-names-matter
+    section_id: 64804
+  - type: TEXT
+    title_ru: 'Пример: как готовиться к путешествию с помощью системного подхода'
+    title_en: 'Example: How to Prepare for a Trip Using a Systems Approach'
+    slug: example-how-to-prepare-for-a-trip-using-a-systems-approach
+    section_id: 64805
+    images:
+    - filename: 6.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1650/6.png
+      orig_hash: d9d951f88ac8976108801e089f118efc4c9ecf3bf7f4677a9fc2f3896114d55e
+  - type: TEXT
+    title_ru: Отношение состава
+    title_en: Composition Ratio
+    slug: composition-ratio
+    section_id: 64806
+    images:
+    - filename: 7.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1700/7.png
+      orig_hash: 94f63d28f8829888c196cdf7e56c004c097c0645e5446addcea3ae613a3511fc
+  - type: TEXT
+    title_ru: Сложные системы
+    title_en: Complex Systems
+    slug: complex-systems
+    section_id: 64807
+  - type: TEXT
+    title_ru: Выводы раздела и основные понятия
+    title_en: Conclusions of the Section and Main Concepts
+    slug: conclusions-of-the-section-and-main-concepts
+    section_id: 64808
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 2.1. Понятия'
+    title_en: 'Complete the Modeling Exercise: 2.1 Concepts'
+    slug: complete-the-modeling-exercise-2-1-concepts
+    section_id: 64809
+  - type: TEST
+    title_ru: Вопросы для повторения, обсуждения и мышления письмом
+    title_en: Review, Discussion, and Thinking Through Writing Questions
+    slug: review-discussion-and-thinking-through-writing-questions
+    section_id: 64810
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 64811
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 2.2. Физический мир и ментальное пространство'
+    title_en: 'Complete the Modeling Exercise: 2.2. Physical World and Mental Space'
+    slug: complete-the-modeling-exercise-2-2-physical-world-and-mental-space
+    section_id: 64812
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 2.3. Система и её описание'
+    title_en: 'Complete the modeling exercise: 2.3. The System and Its Description'
+    slug: complete-the-modeling-exercise-2-3-the-system-and-its-description
+    section_id: 64813
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 2.4. Воплощение, описание и документация системы'
+    title_en: 'Complete the Modeling Exercise: 2.4. Implementation, Description, and
+      System Documentation'
+    slug: complete-the-modeling-exercise-2-4-implementation-description-and-system-documentation
+    section_id: 64814
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 2.5. Описание и метод описания (практика)'
+    title_en: 'Complete the Modeling Exercise: 2.5. Description and Method of Description
+      (Practice)'
+    slug: complete-the-modeling-exercise-2-5-description-and-method-of-description-practice
+    section_id: 64815
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 2.6. Функциональный объект, конструктивный
+      объект'
+    title_en: 'Complete the modeling exercise: 2.6. Functional Object, Structural
+      Object'
+    slug: complete-the-modeling-exercise-2-6-functional-object-structural-object
+    section_id: 64816
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 2.7. Сложные системы'
+    title_en: 'Complete the Modeling Exercise: 2.7. Complex Systems'
+    slug: complete-the-modeling-exercise-2-7-complex-systems
+    section_id: 64817
+- type: HEADER
+  title_ru: Роли и успешная система
+  title_en: Roles and a Successful System
+  slug: roles-and-a-successful-system
+  section_id: 64818
+  children:
+  - type: TEXT
+    title_ru: Театральная метафора
+    title_en: Theatrical Metaphor
+    slug: theatrical-metaphor
+    section_id: 64819
+  - type: TEXT
+    title_ru: Роль как модель мышления
+    title_en: Role as a Thinking Model
+    slug: role-as-a-thinking-model
+    section_id: 64820
+  - type: TEXT
+    title_ru: Роли и исполнители
+    title_en: Roles and Executors
+    slug: roles-and-executors
+    section_id: 64821
+  - type: TEXT
+    title_ru: Роль как часть системы или деятельности
+    title_en: Role as Part of a System or Activity
+    slug: role-as-part-of-a-system-or-activity
+    section_id: 64822
+  - type: TEXT
+    title_ru: Проектные роли, их методы и рабочие продукты
+    title_en: Project Roles, Their Methods, and Work Artifacts
+    slug: project-roles-their-methods-and-work-artifacts
+    section_id: 64823
+  - type: TEXT
+    title_ru: Предмет интереса, ролевой интерес или предпочтение
+    title_en: Subject of Interest, Role-Based Interest, or Preference
+    slug: subject-of-interest-role-based-interest-or-preference
+    section_id: 64824
+  - type: TEXT
+    title_ru: Успешная система
+    title_en: Successful System
+    slug: successful-system
+    section_id: 64825
+  - type: TEXT
+    title_ru: Исполнитель роли, роль, функция и названия систем
+    title_en: Role Performer, Role, Function, and System Names
+    slug: role-performer-role-function-and-system-names
+    section_id: 64826
+    images:
+    - filename: 8.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/2700/8.png
+      orig_hash: 5e700692799118e8cc26ab977f48dd63574e69425f0f14511b0614af680c1304
+  - type: TEXT
+    title_ru: 'Исполнители роли: агент и его намерение, стратегия и планы'
+    title_en: 'Role Performers: Agent and Their Intent, Strategy, and Plans'
+    slug: role-performers-agent-and-their-intent-strategy-and-plans
+    section_id: 64827
+  - type: TEXT
+    title_ru: Физические и функциональные объекты
+    title_en: Physical and Functional Objects
+    slug: physical-and-functional-objects
+    section_id: 64828
+    images:
+    - filename: 9.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/2800/9.png
+      orig_hash: 03a0c8ae67c9aa9e60e839630f34f72f16f610166e8f9c9f06ce8828098f1a9b
+  - type: TEXT
+    title_ru: “Роль” и “метод”
+    title_en: '"Role" and "Method"'
+    slug: role-and-method
+    section_id: 64829
+  - type: TEXT
+    title_ru: Должность, успешная система и интеллект
+    title_en: Position, Successful System, and Intelligence
+    slug: position-successful-system-and-intelligence
+    section_id: 64830
+  - type: TEXT
+    title_ru: Выводы раздела и основные понятия
+    title_en: Conclusions of the Section and Main Concepts
+    slug: conclusions-of-the-section-and-main-concepts
+    section_id: 64831
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 3.1. Понятия'
+    title_en: 'Complete the Modeling Exercise: 3.1. Concepts'
+    slug: complete-the-modeling-exercise-3-1-concepts
+    section_id: 64832
+  - type: TEST
+    title_ru: Вопросы для повторения, обсуждения и мышления письмом
+    title_en: Review, Discussion, and Thinking Through Writing Questions
+    slug: review-discussion-and-thinking-through-writing-questions
+    section_id: 64833
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 64834
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 3.2. Роль и исполнитель'
+    title_en: 'Complete the Modeling Exercise: 3.2. Role and Executor'
+    slug: complete-the-modeling-exercise-3-2-role-and-executor
+    section_id: 64835
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 3.3. Роль, исполнитель, звание и должность'
+    title_en: 'Complete the Modeling Exercise: 3.3. Role, Executor, Title, and Position'
+    slug: complete-the-modeling-exercise-3-3-role-executor-title-and-position
+    section_id: 64836
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 3.4. Внешние и внутренние роли в проекте'
+    title_en: 'Complete the Modeling Exercise: 3.4. External and Internal Roles in
+      the Project'
+    slug: complete-the-modeling-exercise-3-4-external-and-internal-roles-in-the-project
+    section_id: 64837
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 3.5. Роли, исполняемые начальником'
+    title_en: 'Complete the Modeling Exercise: 3.5. Roles Performed by a Manager'
+    slug: complete-the-modeling-exercise-3-5-roles-performed-by-a-manager
+    section_id: 64838
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 3.6. Предметы интересов к системе'
+    title_en: 'Complete the Modeling Exercise: 3.6. Subjects of Interest to the System'
+    slug: complete-the-modeling-exercise-3-6-subjects-of-interest-to-the-system
+    section_id: 64839
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 3.7. Намерение, предпочтение и предмет интереса'
+    title_en: 'Complete the Modeling Exercise: 3.7. Intention, Preference, and Subject
+      of Interest'
+    slug: complete-the-modeling-exercise-3-7-intention-preference-and-subject-of-interest
+    section_id: 64840
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 3.8. Выявление ролей и ролевых ожиданий'
+    title_en: 'Complete the Modeling Exercise: 3.8. Identifying Roles and Role Expectations'
+    slug: complete-the-modeling-exercise-3-8-identifying-roles-and-role-expectations
+    section_id: 64841
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 3.9. Работа аналитика'
+    title_en: 'Complete the Modeling Exercise: 3.9. Analyst''s Work'
+    slug: complete-the-modeling-exercise-3-9-analyst-s-work
+    section_id: 64842
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 3.10. Кто был на последнем совещании'
+    title_en: 'Complete the Modeling Exercise: 3.10. Who Attended the Last Meeting'
+    slug: complete-the-modeling-exercise-3-10-who-attended-the-last-meeting
+    section_id: 64843
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 3.11. Внешние проектные роли и успешность
+      системы'
+    title_en: 'Complete the Modeling Exercise: 3.11. External Project Roles and System
+      Success'
+    slug: complete-the-modeling-exercise-3-11-external-project-roles-and-system-success
+    section_id: 64844
+- type: HEADER
+  title_ru: 'Виды систем: целевая система, надсистема, системы создания и другие'
+  title_en: 'Types of Systems: System of Interest, Supersystem, Creation Systems,
+    and Others'
+  slug: types-of-systems-system-of-interest-supersystem-creation-systems-and-others
+  section_id: 64845
+  children:
+  - type: TEXT
+    title_ru: Три системы
+    title_en: Three Systems
+    slug: three-systems
+    section_id: 64846
+  - type: TEXT
+    title_ru: Виды систем
+    title_en: Types of Systems
+    slug: types-of-systems
+    section_id: 64847
+  - type: TEXT
+    title_ru: Целевая система и коллективное системное мышление
+    title_en: System of Interest and Collective Systems Thinking
+    slug: system-of-interest-and-collective-systems-thinking
+    section_id: 64848
+    images:
+    - filename: 10.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/3800/10.png
+      orig_hash: ac61ddcb89b47df4ec8b6f2ec97fe7f76035d8c57e96d41808b6eb9fc9c12725
+  - type: TEXT
+    title_ru: Наша система
+    title_en: Our System
+    slug: our-system
+    section_id: 64849
+  - type: TEXT
+    title_ru: Надсистема, системные уровни и рекурсия
+    title_en: Supersystem, System Levels, and Recursion
+    slug: supersystem-system-levels-and-recursion
+    section_id: 64850
+  - type: TEXT
+    title_ru: 'Пример: надсистема для мужчины и женщины'
+    title_en: 'Example: Supersystem for Men and Women'
+    slug: example-supersystem-for-men-and-women
+    section_id: 64851
+  - type: TEXT
+    title_ru: Системы создания
+    title_en: Creation systems
+    slug: creation-systems
+    section_id: 64852
+    images:
+    - filename: 11.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/4000/11.png
+      orig_hash: 8cb6f959bbd70255a9aab09fa5b08ca4abdc6a7cebb7dff9860a39b884b12d54
+  - type: TEXT
+    title_ru: Процесс, система и поведение системы
+    title_en: Process, System, and System Behavior
+    slug: process-system-and-system-behavior
+    section_id: 64853
+  - type: TEXT
+    title_ru: Функция и сервис
+    title_en: Function and Service
+    slug: function-and-service
+    section_id: 64854
+  - type: TEXT
+    title_ru: Пример сервиса - “стрижка”
+    title_en: Service Example - "Haircut"
+    slug: service-example-haircut
+    section_id: 64855
+    images:
+    - filename: 12.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/4150/12.png
+      orig_hash: 557906c82cb552d070e3d816a53716e2340336fd490b46183f3a210e4c29cd15
+  - type: TEXT
+    title_ru: Суть системного мышления
+    title_en: Essence of Systems Thinking
+    slug: essence-of-systems-thinking
+    section_id: 64856
+    images:
+    - filename: 13.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/4200/13.png
+      orig_hash: 9cab9219fdbdb7df619c0a7debce234c6cef18211bff203429b86e4fc45f57d3
+  - type: TEXT
+    title_ru: Выводы раздела и основные понятия
+    title_en: Conclusions of the Section and Main Concepts
+    slug: conclusions-of-the-section-and-main-concepts
+    section_id: 64857
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 4.1. Понятия'
+    title_en: 'Complete the Modeling Exercise: 4.1. Concepts'
+    slug: complete-the-modeling-exercise-4-1-concepts
+    section_id: 64858
+  - type: TEST
+    title_ru: Вопросы для повторения, обсуждения и мышления письмом
+    title_en: Review, Discussion, and Thinking Through Writing Questions
+    slug: review-discussion-and-thinking-through-writing-questions
+    section_id: 64859
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 64860
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 4.2. Пять главных типов систем'
+    title_en: 'Complete the Modeling Exercise: 4.2. Five Main Types of Systems'
+    slug: complete-the-modeling-exercise-4-2-five-main-types-of-systems
+    section_id: 64861
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 4.3. Выявление типа целевой системы по описаниям'
+    title_en: 'Complete the Modeling Exercise: 4.3. Identifying the Type of System
+      of Interest from Descriptions'
+    slug: complete-the-modeling-exercise-4-3-identifying-the-type-of-system-of-interest-from-descriptions
+    section_id: 64862
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 4.4. Целевая система и её надсистема'
+    title_en: 'Complete the Modeling Exercise: 4.4. System of Interest and Its Supersystem'
+    slug: complete-the-modeling-exercise-4-4-system-of-interest-and-its-supersystem
+    section_id: 64863
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 4.5. Целевая система и «наша система»'
+    title_en: 'Complete the modeling exercise: 4.5. System of Interest and "Our System"'
+    slug: complete-the-modeling-exercise-4-5-system-of-interest-and-our-system
+    section_id: 64864
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 4.6. Сервисы'
+    title_en: 'Complete the Modeling Exercise: 4.6. Services'
+    slug: complete-the-modeling-exercise-4-6-services
+    section_id: 64865
+- type: HEADER
+  title_ru: Системные уровни, цепочки создания, области интересов
+  title_en: System Levels, Creation Chains, Areas of Interest
+  slug: system-levels-creation-chains-areas-of-interest
+  section_id: 64866
+  children:
+  - type: TEXT
+    title_ru: Проектная деятельность и три главные деятельностные роли
+    title_en: Project Activities and Three Main Roles
+    slug: project-activities-and-three-main-roles
+    section_id: 64867
+  - type: TEXT
+    title_ru: Области интересов
+    title_en: Areas of Interest
+    slug: areas-of-interest
+    section_id: 64868
+  - type: TEXT
+    title_ru: Предметные области интересов предпринимателя, инженера и менеджера
+    title_en: Subject Areas of Interest for Entrepreneurs, Engineers, and Managers
+    slug: subject-areas-of-interest-for-entrepreneurs-engineers-and-managers
+    section_id: 64869
+  - type: TEXT
+    title_ru: Системное разбиение
+    title_en: System Breakdown
+    slug: system-breakdown
+    section_id: 64870
+    images:
+    - filename: 14.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/4900/14.png
+      orig_hash: 78e6a69e0a9dd2774ae6a92d23a9fa9ec60c0cb2baff412d7a4a179ff30cbd2c
+  - type: TEXT
+    title_ru: Мета-системный переход и эмерджентность
+    title_en: Meta-system transition and emergence
+    slug: meta-system-transition-and-emergence
+    section_id: 64871
+  - type: TEXT
+    title_ru: Цепочка создания
+    title_en: Creation Chain
+    slug: creation-chain
+    section_id: 64872
+  - type: TEXT
+    title_ru: Диаграмма цепочки создания
+    title_en: Creation Chain Diagram
+    slug: creation-chain-diagram
+    section_id: 64873
+  - type: TEXT
+    title_ru: Системный подход 3.0
+    title_en: Systems Approach 3.0
+    slug: systems-approach-3-0
+    section_id: 64874
+  - type: TEXT
+    title_ru: Этапы погружения в системную методологию на примере «молотка»
+    title_en: Stages of Immersion in Systems Methodology Using the "Hammer" Example
+    slug: stages-of-immersion-in-systems-methodology-using-the-hammer-example
+    section_id: 64875
+  - type: TEXT
+    title_ru: Выводы раздела и основные понятия
+    title_en: Conclusions of the Section and Main Concepts
+    slug: conclusions-of-the-section-and-main-concepts
+    section_id: 64876
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 5.1. Понятия'
+    title_en: 'Complete the Modeling Exercise: 5.1. Concepts'
+    slug: complete-the-modeling-exercise-5-1-concepts
+    section_id: 64877
+  - type: TEST
+    title_ru: Вопросы для повторения, обсуждения и мышления письмом
+    title_en: Review, Discussion, and Thinking Through Writing Questions
+    slug: review-discussion-and-thinking-through-writing-questions
+    section_id: 64878
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 64879
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 5.2. Аннотирование типами с использованием
+      нотации ::'
+    title_en: 'Complete the Modeling Exercise: 5.2. Type Annotation Using Notation'
+    slug: complete-the-modeling-exercise-5-2-type-annotation-using-notation
+    section_id: 64880
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 5.3. Области интересов надсистемы'
+    title_en: 'Complete the Modeling Exercise: 5.3. Areas of Interest of the Supersystem'
+    slug: complete-the-modeling-exercise-5-3-areas-of-interest-of-the-supersystem
+    section_id: 64881
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 5.4. Выделите системные уровни'
+    title_en: 'Complete the modeling exercise: 5.4. Identify system levels'
+    slug: complete-the-modeling-exercise-5-4-identify-system-levels
+    section_id: 64882
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 5.5. Цепочки создания'
+    title_en: 'Complete the Modeling Exercise: 5.5. Creation Chains'
+    slug: complete-the-modeling-exercise-5-5-creation-chains
+    section_id: 64883
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 5.6. Распределение времени на три области
+      интересов'
+    title_en: 'Complete the Modeling Exercise: 5.6. Time Allocation for Three Areas
+      of Interest'
+    slug: complete-the-modeling-exercise-5-6-time-allocation-for-three-areas-of-interest
+    section_id: 64884
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 5.7. Таблица 3х3'
+    title_en: 'Complete the Modeling Exercise: 5.7. 3x3 Table'
+    slug: complete-the-modeling-exercise-5-7-3x3-table
+    section_id: 64885
+- type: HEADER
+  title_ru: Системное моделирование
+  title_en: Systems Modeling
+  slug: systems-modeling
+  section_id: 64886
+  children:
+  - type: TEXT
+    title_ru: Как думать о системах?
+    title_en: How to Think About Systems
+    slug: how-to-think-about-systems
+    section_id: 64887
+  - type: TEXT
+    title_ru: Системная документация
+    title_en: System Documentation
+    slug: system-documentation
+    section_id: 64888
+  - type: TEXT
+    title_ru: Описания системы и системный язык
+    title_en: System Descriptions and Systems Language
+    slug: system-descriptions-and-systems-language
+    section_id: 64889
+    images:
+    - filename: 15.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/5850/15.png
+      orig_hash: cf7e5556c60fd1807ab7a4a6534c620c238daf6ae2c94b528c6d26adbc706ae5
+  - type: TEXT
+    title_ru: Ролевые описания и модели
+    title_en: Role Descriptions and Models
+    slug: role-descriptions-and-models
+    section_id: 64890
+    images:
+    - filename: 16.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/5900/16.png
+      orig_hash: 7670f8e0fe2cae45fd2db3bbeff1f7cf08eae91d6cbfe6e38eefac170c79fd47
+  - type: TEXT
+    title_ru: Метод описания
+    title_en: Description Method
+    slug: description-method
+    section_id: 64891
+    images:
+    - filename: 17.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/5950/17.png
+      orig_hash: e630d19bbf4e1a93d714af691817901b946508ebbd3b745b906b9e76292d8e51
+  - type: TEXT
+    title_ru: Связь метода описания с предметом интереса, проектными ролями и системой
+    title_en: Connection of the Description Method with the Subject of Interest, Project
+      Roles, and the System
+    slug: connection-of-the-description-method-with-the-subject-of-interest-project-roles-and-the-system
+    section_id: 64892
+    images:
+    - filename: 18.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/6000/18.png
+      orig_hash: bda25de728d90a4160c45cc30abf7be3763c43898edb7e0b490efe80af2002a0
+  - type: TEXT
+    title_ru: Модели, мета-модели, мульти-модели, мега-модели
+    title_en: Models, Meta-Models, Multi-Models, Mega-Models
+    slug: models-meta-models-multi-models-mega-models
+    section_id: 64893
+    images:
+    - filename: 19.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/6050/19.png
+      orig_hash: ecc13423724d3e668f738bbb563814e807bc75b5c08ccf83274d9a1de0ed9334
+  - type: TEXT
+    title_ru: Мета-моделирование и моделирование
+    title_en: Meta-modeling and Modeling
+    slug: meta-modeling-and-modeling
+    section_id: 64894
+  - type: TEXT
+    title_ru: Описание системы как «черного ящика»
+    title_en: Describing the System as a "Black Box"
+    slug: describing-the-system-as-a-black-box
+    section_id: 64895
+  - type: TEXT
+    title_ru: Характеристики системы, состояния системы, показатель характеристики
+    title_en: System Characteristics, System States, Characteristic Indicator
+    slug: system-characteristics-system-states-characteristic-indicator
+    section_id: 64896
+  - type: TEXT
+    title_ru: Что такое интерфейс системы?
+    title_en: What is a system interface?
+    slug: what-is-a-system-interface
+    section_id: 64897
+  - type: TEXT
+    title_ru: Главные описания системы как “прозрачного ящика”
+    title_en: Main Descriptions of the System as a "Transparent Box"
+    slug: main-descriptions-of-the-system-as-a-transparent-box
+    section_id: 64898
+    images:
+    - filename: 20.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/6300/20.jpeg
+      orig_hash: 592162600e336cfc8f2a71183f2cc9bf5ad1928688f2a3cb92d42c5b213a1918
+  - type: TEXT
+    title_ru: Примеры описаний системы как прозрачного ящика
+    title_en: Examples of Describing a System as a Transparent Box
+    slug: examples-of-describing-a-system-as-a-transparent-box
+    section_id: 64899
+    images:
+    - filename: 21.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/6350/21.png
+      orig_hash: bdafeeebde7241be0a3a3bca480d728fbd9341d7fa66c534570bc12f25512011
+  - type: TEXT
+    title_ru: Описания и документация разных областей интересов
+    title_en: Descriptions and Documentation of Various Areas of Interest
+    slug: descriptions-and-documentation-of-various-areas-of-interest
+    section_id: 64900
+  - type: TEXT
+    title_ru: Пример описания области интересов надсистемы
+    title_en: Example of Describing the Supersystem's Area of Interest
+    slug: example-of-describing-the-supersystem-s-area-of-interest
+    section_id: 64901
+  - type: TEXT
+    title_ru: Пример описания связи интересов надсистемы и целевой системы
+    title_en: Example of Describing the Connection Between Supersystem Interests and
+      the System of Interest
+    slug: example-of-describing-the-connection-between-supersystem-interests-and-the-system-of-interest
+    section_id: 64902
+  - type: TEXT
+    title_ru: Выводы раздела и основные понятия
+    title_en: Conclusions of the Section and Main Concepts
+    slug: conclusions-of-the-section-and-main-concepts
+    section_id: 64903
+  - type: TEST
+    title_ru: Вопросы для повторения, обсуждения и мышления письмом
+    title_en: Review, Discussion, and Thinking Through Writing Questions
+    slug: review-discussion-and-thinking-through-writing-questions
+    section_id: 64904
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 64905
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 6.1. Понятия'
+    title_en: 'Complete the Modeling Exercise: 6.1. Concepts'
+    slug: complete-the-modeling-exercise-6-1-concepts
+    section_id: 64906
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 6.2. Роль, система, предмет интереса, метод
+      описания и рабочий продукт'
+    title_en: 'Complete the Modeling Exercise: 6.2. Role, System, Subject of Interest,
+      Description Method, and Work Artifact'
+    slug: complete-the-modeling-exercise-6-2-role-system-subject-of-interest-description-method-and-work-artifact
+    section_id: 64907
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 6.3. Документы проекта (предприятия)'
+    title_en: 'Complete the Modeling Exercise: 6.3. Project (Enterprise) Documents'
+    slug: complete-the-modeling-exercise-6-3-project-enterprise-documents
+    section_id: 64908
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 6.4. Мои роли и мои методы описания'
+    title_en: 'Complete the Modeling Exercise: 6.4. My Roles and My Description Methods'
+    slug: complete-the-modeling-exercise-6-4-my-roles-and-my-description-methods
+    section_id: 64909
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 6.5. Модели, мета-модели, мульти-модели, мега-модели'
+    title_en: 'Complete the Modeling Exercise: 6.5. Models, Meta-Models, Multi-Models,
+      Mega-Models'
+    slug: complete-the-modeling-exercise-6-5-models-meta-models-multi-models-mega-models
+    section_id: 64910
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 6.6. Операционная модель, типы мета-модели,
+      типы мета-мета-модели'
+    title_en: 'Complete the Modeling Exercise: 6.6. Operational Model, Meta-Model
+      Types, Meta-Meta-Model Types'
+    slug: complete-the-modeling-exercise-6-6-operational-model-meta-model-types-meta-meta-model-types
+    section_id: 64911
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 6.7. Функциональное и конструктивное описания'
+    title_en: 'Complete the Modeling Exercise: 6.7. Functional and Structural Descriptions'
+    slug: complete-the-modeling-exercise-6-7-functional-and-structural-descriptions
+    section_id: 64912
+  - type: TEXT
+    title_ru: Выполните моделирование 6.9. Описание системы как черного ящика
+    title_en: Complete the Modeling Exercise 6.9. Describing the System as a Black
+      Box
+    slug: complete-the-modeling-exercise-6-9-describing-the-system-as-a-black-box
+    section_id: 64913
+- type: HEADER
+  title_ru: Создание и развитие
+  title_en: Creation and development
+  slug: creation-and-development
+  section_id: 64914
+  children:
+  - type: TEXT
+    title_ru: Как системное мышление помогает в рабочей деятельности
+    title_en: How Systems Thinking Helps in Work Activities
+    slug: how-systems-thinking-helps-in-work-activities
+    section_id: 64915
+  - type: TEXT
+    title_ru: Организация как система
+    title_en: Organization as a System
+    slug: organization-as-a-system
+    section_id: 64916
+  - type: TEXT
+    title_ru: Метод (Практика) – это дисциплина и инструменты
+    title_en: Method (Practice) – Discipline and Tools
+    slug: method-practice-discipline-and-tools
+    section_id: 64917
+  - type: TEXT
+    title_ru: Работа и задача
+    title_en: Work and Task
+    slug: work-and-task
+    section_id: 64918
+  - type: TEXT
+    title_ru: Стадии и этапы
+    title_en: Stages and Phases
+    slug: stages-and-phases
+    section_id: 64919
+  - type: TEXT
+    title_ru: Инкремент и итерация
+    title_en: Increment and Iteration
+    slug: increment-and-iteration
+    section_id: 64920
+  - type: TEXT
+    title_ru: Управление работами
+    title_en: Work Management
+    slug: work-management
+    section_id: 64921
+  - type: TEXT
+    title_ru: Оргзвенья, сервисы
+    title_en: Organizational Units, Services
+    slug: organizational-units-services
+    section_id: 64922
+  - type: TEXT
+    title_ru: Роли, стадии, методы
+    title_en: Roles, Stages, Methods
+    slug: roles-stages-methods
+    section_id: 64923
+  - type: TEXT
+    title_ru: Управление практиками
+    title_en: Practice Management
+    slug: practice-management
+    section_id: 64924
+  - type: TEXT
+    title_ru: Системное мышление как способ получения работ по созданию успешной системы
+    title_en: Systems Thinking as a Means of Accomplishing the Work of Creating a
+      Successful System
+    slug: systems-thinking-as-a-means-of-accomplishing-the-work-of-creating-a-successful-system
+    section_id: 64925
+  - type: TEXT
+    title_ru: Зачем и как объяснять, что такое системное мышление
+    title_en: Why and How to Explain Systems Thinking
+    slug: why-and-how-to-explain-systems-thinking
+    section_id: 64926
+  - type: TEXT
+    title_ru: 'Советы для молодого руководителя: главные объекты внимания'
+    title_en: 'Tips for a Young Manager: Key Focus Areas'
+    slug: tips-for-a-young-manager-key-focus-areas
+    section_id: 64927
+  - type: TEXT
+    title_ru: Выводы раздела и основные понятия
+    title_en: Conclusions of the Section and Main Concepts
+    slug: conclusions-of-the-section-and-main-concepts
+    section_id: 64928
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 7.1. Понятия'
+    title_en: 'Complete the Modeling Exercise: 7.1 Concepts'
+    slug: complete-the-modeling-exercise-7-1-concepts
+    section_id: 64929
+  - type: TEST
+    title_ru: Вопросы для повторения, обсуждения и мышления письмом
+    title_en: Review, Discussion, and Thinking Through Writing Questions
+    slug: review-discussion-and-thinking-through-writing-questions
+    section_id: 64930
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 64931
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 7.2. Метод: дисциплина и инструменты'
+    title_en: 'Complete the Modeling Exercise: 7.2. Method: Discipline and Tools'
+    slug: complete-the-modeling-exercise-7-2-method-discipline-and-tools
+    section_id: 64932
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 7.3. Квалификация исполнителя'
+    title_en: 'Complete the Modeling Exercise: 7.3. Executor Qualification'
+    slug: complete-the-modeling-exercise-7-3-executor-qualification
+    section_id: 64933
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 7.4. Профессиональные сообщества по sota-методам'
+    title_en: 'Complete the Modeling Exercise: 7.4. Professional Communities on SOTA
+      Methods'
+    slug: complete-the-modeling-exercise-7-4-professional-communities-on-sota-methods
+    section_id: 64934
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 7.5. Методы и системные уровни'
+    title_en: 'Complete the Modeling Exercise: 7.5. Methods and System Levels'
+    slug: complete-the-modeling-exercise-7-5-methods-and-system-levels
+    section_id: 64935
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 7.6. Роль, метод и рабочий продукт'
+    title_en: 'Complete the Modeling Exercise: 7.6. Role, Method, and Work Artifact'
+    slug: complete-the-modeling-exercise-7-6-role-method-and-work-artifact
+    section_id: 64936
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 7.7. Стадии и методы'
+    title_en: 'Complete the Modeling Exercise: 7.7. Stages and Methods'
+    slug: complete-the-modeling-exercise-7-7-stages-and-methods
+    section_id: 64937
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 7.8. Система и процесс'
+    title_en: 'Complete the Modeling Exercise: 7.8. System and Process'
+    slug: complete-the-modeling-exercise-7-8-system-and-process
+    section_id: 64938
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 7.9. Формулировка работы'
+    title_en: 'Complete the Modeling Exercise: 7.9. Formulating the Work'
+    slug: complete-the-modeling-exercise-7-9-formulating-the-work
+    section_id: 64939
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 7.10. Изменения на предприятии'
+    title_en: 'Complete the Modeling Exercise: 7.10. Changes in the Enterprise'
+    slug: complete-the-modeling-exercise-7-10-changes-in-the-enterprise
+    section_id: 64940
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 7.11. Назначение оргзвеньев на оргроли, выполняющие
+      методы'
+    title_en: 'Complete the Modeling Exercise: 7.11. Assigning Organizational Units
+      to Organizational Roles Executing Methods'
+    slug: complete-the-modeling-exercise-7-11-assigning-organizational-units-to-organizational-roles-executing-methods
+    section_id: 64941
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 7.12. Примеры кратких описаний проектов (резюме
+      проекта)'
+    title_en: 'Complete the modeling exercise: 7.12. Examples of Brief Project Descriptions
+      (Project Summary)'
+    slug: complete-the-modeling-exercise-7-12-examples-of-brief-project-descriptions-project-summary
+    section_id: 64942
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 7.13. Мои роли, методы и приоритетные проекты'
+    title_en: 'Complete the Modeling Exercise: 7.13. My Roles, Methods, and Priority
+      Projects'
+    slug: complete-the-modeling-exercise-7-13-my-roles-methods-and-priority-projects
+    section_id: 64943
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 7.14. Степень мыслительного мастерства'
+    title_en: 'Complete the modeling exercise: 7.14. Degree of Thinking Mastery'
+    slug: complete-the-modeling-exercise-7-14-degree-of-thinking-mastery
+    section_id: 64944
+  - type: TEXT
+    title_ru: 'Выполните моделирование: 7.15. Моя квалификация AISYSTANT'
+    title_en: 'Complete the modeling exercise: 7.15. My AISYSTANT Qualification'
+    slug: complete-the-modeling-exercise-7-15-my-aisystant-qualification
+    section_id: 64945
+  - type: TEXT
+    title_ru: Что дальше?
+    title_en: What's Next?
+    slug: what-s-next
+    section_id: 64946

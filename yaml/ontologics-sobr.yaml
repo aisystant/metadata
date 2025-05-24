@@ -1,4 +1,5 @@
 course_id: ontologics-sobr
+course_name: 1. Рациональная работа
 version: 2025-05-15T1900
 version_id: '550'
 sections:
@@ -19,13 +20,13 @@ sections:
   section_id: 67611
 - type: TEXT
   title_ru: Как проходить стажировку
-  title_en: How to Complete an Internship
-  slug: how-to-complete-an-internship
+  title_en: How to Intern
+  slug: how-to-intern
   section_id: 67612
 - type: TEXT
   title_ru: Памятка по факторам работоспособности
-  title_en: Checklist for Workability Factors
-  slug: checklist-for-workability-factors
+  title_en: Guide to Productivity Factors
+  slug: guide-to-productivity-factors
   section_id: 67613
 - type: TEXT
   title_ru: Чеклист организации сессий рабочего развития
@@ -34,8 +35,8 @@ sections:
   section_id: 67614
 - type: HEADER
   title_ru: Различать модели и физический мир
-  title_en: Distinguish Models from the Physical World
-  slug: distinguish-models-from-the-physical-world
+  title_en: Distinguishing Models from the Physical World
+  slug: distinguishing-models-from-the-physical-world
   section_id: 67615
   children:
   - type: TEXT
@@ -45,8 +46,8 @@ sections:
     section_id: 67616
   - type: TEXT
     title_ru: Собранность как фундаментальное мастерство
-    title_en: Focus as a Fundamental Mastery
-    slug: focus-as-a-fundamental-mastery
+    title_en: Composure as a Fundamental Mastery
+    slug: composure-as-a-fundamental-mastery
     section_id: 67617
   - type: TEXT
     title_ru: Что такое собранность
@@ -60,8 +61,8 @@ sections:
     section_id: 67619
   - type: TEXT
     title_ru: Собранность как дисциплина
-    title_en: Focus as Discipline
-    slug: focus-as-discipline
+    title_en: Composure as Discipline
+    slug: composure-as-discipline
     section_id: 67620
   - type: TEXT
     title_ru: Отличать модели и физический мир
@@ -113,8 +114,8 @@ sections:
     section_id: 67625
   - type: TEXT
     title_ru: Что может помешать видеть реальность
-    title_en: What Can Obstruct Perception of Reality
-    slug: what-can-obstruct-perception-of-reality
+    title_en: What Can Hinder Seeing Reality
+    slug: what-can-hinder-seeing-reality
     section_id: 67626
   - type: TEXT
     title_ru: Ресурсное планирование
@@ -123,13 +124,13 @@ sections:
     section_id: 67627
   - type: TEXT
     title_ru: Рабочая мощность
-    title_en: Work Power
-    slug: work-power
+    title_en: Work Capacity
+    slug: work-capacity
     section_id: 67628
   - type: TEXT
     title_ru: Усилитель собранности и проявитель реальности
-    title_en: Focus Enhancer and Reality Developer
-    slug: focus-enhancer-and-reality-developer
+    title_en: Focus Amplifier and Reality Developer
+    slug: focus-amplifier-and-reality-developer
     section_id: 67629
   - type: TEST
     title_ru: Упражнение 1.3.
@@ -244,8 +245,8 @@ sections:
     section_id: 67651
   - type: TEXT
     title_ru: Описание сложных отношений и комплексных объектов
-    title_en: Description of Complex Relations and Objects
-    slug: description-of-complex-relations-and-objects
+    title_en: Description of Complex Relationships and Objects
+    slug: description-of-complex-relationships-and-objects
     section_id: 67652
   - type: TEXT
     title_ru: Что такое дребезг
@@ -270,8 +271,8 @@ sections:
       orig_hash: 9f078bb55237d2382615b5720ce6d6751691908289f44d46e87e2070d3f31d64
   - type: TEXT
     title_ru: Надкласс — подкласс
-    title_en: Supersystem — Subsystem
-    slug: supersystem-subsystem
+    title_en: Superclass — Subclass
+    slug: superclass-subclass
     section_id: 67656
     images:
     - filename: 5.png
@@ -302,8 +303,8 @@ sections:
     section_id: 67660
   - type: TEST
     title_ru: Задание 3.1.
-    title_en: Assignment 3.1
-    slug: assignment-3-1
+    title_en: Task 3.1
+    slug: task-3-1
     section_id: 67661
   - type: TEST
     title_ru: Упражнение 3.2
@@ -347,13 +348,13 @@ sections:
     section_id: 67669
   - type: TEXT
     title_ru: Убираем лишние работы
-    title_en: Removing Unnecessary Work
-    slug: removing-unnecessary-work
+    title_en: Eliminating Unnecessary Work
+    slug: eliminating-unnecessary-work
     section_id: 67670
   - type: TEST
     title_ru: Задание 3.5
-    title_en: Task 3.5
-    slug: task-3-5
+    title_en: Assignment 3.5
+    slug: assignment-3-5
     section_id: 67671
   - type: TEST
     title_ru: Задание 3.6
@@ -394,8 +395,8 @@ sections:
     section_id: 67677
   - type: TEXT
     title_ru: Семантика языка
-    title_en: Semantics of Language
-    slug: semantics-of-language
+    title_en: Language Semantics
+    slug: language-semantics
     section_id: 67678
   - type: TEST
     title_ru: Задание 4.1
@@ -414,8 +415,8 @@ sections:
     section_id: 67681
   - type: TEST
     title_ru: Задание 4.3
-    title_en: Task 4.3
-    slug: task-4-3
+    title_en: Assignment 4.3
+    slug: assignment-4-3
     section_id: 67682
   - type: TEST
     title_ru: Упражнение 4.4
@@ -486,7 +487,7 @@ sections:
   children:
   - type: TEXT
     title_ru: Что такое внимание агента
-    title_en: What Is Agent Attention
+    title_en: What is Agent Attention
     slug: what-is-agent-attention
     section_id: 67695
   - type: TEXT
@@ -532,13 +533,13 @@ sections:
     section_id: 67702
   - type: TEXT
     title_ru: 'Фокус: формула быстрой работы'
-    title_en: 'Focus: Quick Work Formula'
-    slug: focus-quick-work-formula
+    title_en: 'Focus: Formula for Fast Work'
+    slug: focus-formula-for-fast-work
     section_id: 67703
   - type: TEXT
     title_ru: Мантра элегантности в работе/lean
-    title_en: Elegance Mantra in Work/Lean
-    slug: elegance-mantra-in-work-lean
+    title_en: Mantra of Elegance in Work/Lean
+    slug: mantra-of-elegance-in-work-lean
     section_id: 67704
   - type: TEST
     title_ru: Задание 5.2
@@ -547,8 +548,8 @@ sections:
     section_id: 67705
   - type: TEST
     title_ru: Задание 5.3
-    title_en: Assignment 5.3
-    slug: assignment-5-3
+    title_en: Task 5.3
+    slug: task-5-3
     section_id: 67706
 - type: HEADER
   title_ru: Онтология моделирования
@@ -558,8 +559,8 @@ sections:
   children:
   - type: TEXT
     title_ru: Варианты онтологического подхода
-    title_en: Ontological Approach Options
-    slug: ontological-approach-options
+    title_en: Ontological Approach Variants
+    slug: ontological-approach-variants
     section_id: 67708
   - type: TEXT
     title_ru: Классы классов
@@ -662,8 +663,8 @@ sections:
       orig_hash: e5d2546ed2e7f2af9c047bd413cab1f205ef0b9409dc32dd85fef14222b27248
   - type: TEXT
     title_ru: Выделение 4D индивидов
-    title_en: Highlighting 4D Individuals
-    slug: highlighting-4d-individuals
+    title_en: Identifying 4D Individuals
+    slug: identifying-4d-individuals
     section_id: 67716
     images:
     - filename: 21.png
@@ -704,8 +705,8 @@ sections:
     section_id: 67721
   - type: TEXT
     title_ru: Добавление классов в онтологию
-    title_en: Adding Classes to the Ontology
-    slug: adding-classes-to-the-ontology
+    title_en: Adding Classes to Ontology
+    slug: adding-classes-to-ontology
     section_id: 67722
   - type: TEXT
     title_ru: Функциональный физический объект
@@ -750,14 +751,14 @@ sections:
     section_id: 67729
 - type: HEADER
   title_ru: Распознать дребезг
-  title_en: Detect Debouncing
-  slug: detect-debouncing
+  title_en: Recognize Debounce
+  slug: recognize-debounce
   section_id: 67730
   children:
   - type: TEXT
     title_ru: Шкала скорости мышления
-    title_en: Scale of Thinking Speed
-    slug: scale-of-thinking-speed
+    title_en: Thinking Speed Scale
+    slug: thinking-speed-scale
     section_id: 67731
     images:
     - filename: 24.jpeg
@@ -777,18 +778,18 @@ sections:
       orig_hash: bce6459b28fde916befb76d01ea598e7ff63c0994527f0bb1c6cbdb32aa4ea53
   - type: TEST
     title_ru: Задание 7.1
-    title_en: Task 7.1
-    slug: task-7-1
+    title_en: Assignment 7.1
+    slug: assignment-7-1
     section_id: 67732
   - type: TEXT
     title_ru: Онтологический дребезг
-    title_en: Ontological Dribbling
-    slug: ontological-dribbling
+    title_en: Ontological Jitter
+    slug: ontological-jitter
     section_id: 67733
   - type: TEXT
     title_ru: Отношения объектов как источник дребезга
-    title_en: Relationships between Objects as a Source of Instability
-    slug: relationships-between-objects-as-a-source-of-instability
+    title_en: Relationships Between Objects as a Source of Jitter
+    slug: relationships-between-objects-as-a-source-of-jitter
     section_id: 67734
   - type: TEST
     title_ru: Упражнение 7.2
@@ -797,8 +798,8 @@ sections:
     section_id: 67735
   - type: TEXT
     title_ru: Работа с дребезгом как фундаментальный навык
-    title_en: Handling Bounce as a Fundamental Skill
-    slug: handling-bounce-as-a-fundamental-skill
+    title_en: Working with Debounce as a Fundamental Skill
+    slug: working-with-debounce-as-a-fundamental-skill
     section_id: 67736
   - type: TEST
     title_ru: Упражнение 7.3
@@ -848,13 +849,13 @@ sections:
       orig_hash: c195cbdee447a173f4e5674d80e8691fa77d9adc51a0c605240556e6e1dee106
   - type: TEXT
     title_ru: Поиск дребезга
-    title_en: Hunting for Bounce
-    slug: hunting-for-bounce
+    title_en: Searching for Jitter
+    slug: searching-for-jitter
     section_id: 67743
   - type: TEXT
     title_ru: Отслеживание изменений и дребезга
-    title_en: Tracking Changes and Debouncing
-    slug: tracking-changes-and-debouncing
+    title_en: Tracking Changes and Jitter
+    slug: tracking-changes-and-jitter
     section_id: 67744
   - type: TEXT
     title_ru: Метрики
@@ -863,8 +864,8 @@ sections:
     section_id: 67745
   - type: TEST
     title_ru: Задание 7.6
-    title_en: Task 7.6
-    slug: task-7-6
+    title_en: Assignment 7.6
+    slug: assignment-7-6
     section_id: 67746
   - type: TEXT
     title_ru: Действия для изменения состояний объектов
@@ -873,8 +874,8 @@ sections:
     section_id: 67747
   - type: TEST
     title_ru: Задание 7.7
-    title_en: Task 7.7
-    slug: task-7-7
+    title_en: Assignment 7.7
+    slug: assignment-7-7
     section_id: 67748
 - type: HEADER
   title_ru: Описания и шаблоны описаний
@@ -899,8 +900,8 @@ sections:
     section_id: 67752
   - type: TEXT
     title_ru: Описания описаний и шаблоны описаний
-    title_en: Descriptions of Descriptions and Templates
-    slug: descriptions-of-descriptions-and-templates
+    title_en: Descriptions of Descriptions and Description Templates
+    slug: descriptions-of-descriptions-and-description-templates
     section_id: 67753
     images:
     - filename: 30.jpg
@@ -921,7 +922,7 @@ sections:
       orig_hash: 63f4afc6d8ed1509ae06900a19b9d1ded5974217ea6b65a48d1b3bc409e0c939
   - type: TEST
     title_ru: Упражнение 8.2.
-    title_en: Exercise 8.2.
+    title_en: Exercise 8.2
     slug: exercise-8-2
     section_id: 67755
   - type: TEXT
@@ -931,8 +932,8 @@ sections:
     section_id: 67756
   - type: TEXT
     title_ru: Поиск или разработка онтологий
-    title_en: Search or Development of Ontologies
-    slug: search-or-development-of-ontologies
+    title_en: Searching or Developing Ontologies
+    slug: searching-or-developing-ontologies
     section_id: 67757
   - type: TEST
     title_ru: Упражнение 8.3.
@@ -977,13 +978,13 @@ sections:
     section_id: 67764
   - type: TEXT
     title_ru: Факультативное задание 8.6
-    title_en: Elective Assignment 8.6
-    slug: elective-assignment-8-6
+    title_en: Optional Assignment 8.6
+    slug: optional-assignment-8-6
     section_id: 67765
 - type: HEADER
   title_ru: Удержать внимание на сменах состояний объектов
-  title_en: Maintaining Focus on Object State Transitions
-  slug: maintaining-focus-on-object-state-transitions
+  title_en: Maintaining Focus on Object State Changes
+  slug: maintaining-focus-on-object-state-changes
   section_id: 67766
   children:
   - type: TEXT
@@ -1052,8 +1053,8 @@ sections:
       orig_hash: 01287ce5c3897903aeed2846263f468c7b9534d01eb6333d85be33b3e3adb252
   - type: TEXT
     title_ru: Вещь и граф создателей вещи
-    title_en: Thing and Graph of Creators of the Thing
-    slug: thing-and-graph-of-creators-of-the-thing
+    title_en: Thing and Its Creators Graph
+    slug: thing-and-its-creators-graph
     section_id: 67774
     images:
     - filename: 38.png
@@ -1099,8 +1100,8 @@ sections:
     section_id: 67778
   - type: TEXT
     title_ru: Проблемы и практики удержания внимания
-    title_en: Problems and Practices for Retaining Attention
-    slug: problems-and-practices-for-retaining-attention
+    title_en: Attention Retention Challenges and Practices
+    slug: attention-retention-challenges-and-practices
     section_id: 67779
     images:
     - filename: 42.jpg
@@ -1120,8 +1121,8 @@ sections:
     section_id: 67780
   - type: TEST
     title_ru: Задание 9.5
-    title_en: Task 9.5
-    slug: task-9-5
+    title_en: Assignment 9.5
+    slug: assignment-9-5
     section_id: 67781
 - type: HEADER
   title_ru: Построение онтологического описания
@@ -1141,8 +1142,8 @@ sections:
     section_id: 67784
   - type: TEST
     title_ru: Задание 10.1
-    title_en: Exercise 10.1
-    slug: exercise-10-1
+    title_en: Assignment 10.1
+    slug: assignment-10-1
     section_id: 67785
   - type: TEXT
     title_ru: Виды описаний
@@ -1181,8 +1182,8 @@ sections:
     section_id: 67792
   - type: TEST
     title_ru: Задание 10.5
-    title_en: Task 10.5
-    slug: task-10-5
+    title_en: Assignment 10.5
+    slug: assignment-10-5
     section_id: 67793
   - type: TEXT
     title_ru: Уровни детализации
@@ -1206,8 +1207,8 @@ sections:
     section_id: 67797
   - type: TEXT
     title_ru: Описатели и отношения объектов
-    title_en: Descriptors and Object Relationships
-    slug: descriptors-and-object-relationships
+    title_en: Object Descriptors and Relationships
+    slug: object-descriptors-and-relationships
     section_id: 67798
   - type: TEST
     title_ru: Упражнение 10.8
@@ -1237,8 +1238,8 @@ sections:
     section_id: 67803
   - type: TEXT
     title_ru: Зачем создаются объяснения
-    title_en: Why Are Explanations Created
-    slug: why-are-explanations-created
+    title_en: Why Explanations Are Created
+    slug: why-explanations-are-created
     section_id: 67804
   - type: TEXT
     title_ru: Как анализируют объяснения
@@ -1262,8 +1263,8 @@ sections:
     section_id: 67808
   - type: TEXT
     title_ru: Утверждения и убеждения
-    title_en: Assertions and Beliefs
-    slug: assertions-and-beliefs
+    title_en: Statements and Beliefs
+    slug: statements-and-beliefs
     section_id: 67809
     images:
     - filename: 44.png
@@ -1293,8 +1294,8 @@ sections:
     section_id: 67813
   - type: TEXT
     title_ru: Исследования самого себя
-    title_en: Researching Yourself
-    slug: researching-yourself
+    title_en: Self-Exploration
+    slug: self-exploration
     section_id: 67814
   - type: TEXT
     title_ru: Как оценить объяснение
@@ -1360,8 +1361,8 @@ sections:
       orig_hash: 43221cf6fdfcf70c9bdab979ee0ec2978ff742fb0eba35e61091fceb8d82e5b3
   - type: TEXT
     title_ru: Как работать с графами причинности
-    title_en: How to Work with Causal Graphs
-    slug: how-to-work-with-causal-graphs
+    title_en: How to Work with Causality Graphs
+    slug: how-to-work-with-causality-graphs
     section_id: 67824
     images:
     - filename: 48.jpeg
@@ -1376,13 +1377,13 @@ sections:
       orig_hash: 763eff9d40a76e7b50c6b9133dc253f8ec0844b04b1bafa8348e6922d9879eee
   - type: TEXT
     title_ru: 'Дребезг причинно-следственных связей:'
-    title_en: Causality Flutter
-    slug: causality-flutter
+    title_en: Causal Link Fluctuations
+    slug: causal-link-fluctuations
     section_id: 67825
   - type: TEST
     title_ru: Задание 12.3.
-    title_en: Task 12.3
-    slug: task-12-3
+    title_en: Assignment 12.3
+    slug: assignment-12-3
     section_id: 67826
 - type: HEADER
   title_ru: Проводить предварительную подготовку
@@ -1429,8 +1430,8 @@ sections:
       orig_hash: 4d90015886d29aed30fab6cbcda87eaccae45b0d18df247cddb998de293d2bc2
   - type: TEXT
     title_ru: Варианты предварительной подготовки
-    title_en: Preparation Options
-    slug: preparation-options
+    title_en: Preliminary Preparation Options
+    slug: preliminary-preparation-options
     section_id: 67831
     images:
     - filename: 54.png
@@ -1445,19 +1446,19 @@ sections:
     section_id: 67832
   - type: TEST
     title_ru: Задание 13.1
-    title_en: Task 13.1
-    slug: task-13-1
+    title_en: Assignment 13.1
+    slug: assignment-13-1
     section_id: 67833
 - type: HEADER
   title_ru: Удержать внимание на работе по моделям
-  title_en: Maintain Focus at Work by Models
-  slug: maintain-focus-at-work-by-models
+  title_en: Maintain Focus on Work Using Models
+  slug: maintain-focus-on-work-using-models
   section_id: 67834
   children:
   - type: TEXT
     title_ru: 'Подготовка к составлению модели: ситуация моделирования'
-    title_en: 'Preparing to Develop a Model: Modeling Situation'
-    slug: preparing-to-develop-a-model-modeling-situation
+    title_en: 'Preparing to Create a Model: Modeling Situation'
+    slug: preparing-to-create-a-model-modeling-situation
     section_id: 67835
     images:
     - filename: 55.png
@@ -1482,8 +1483,8 @@ sections:
     section_id: 67838
   - type: TEXT
     title_ru: Основные объекты описания и уровни организации
-    title_en: Main Descriptive Objects and Levels of Organization
-    slug: main-descriptive-objects-and-levels-of-organization
+    title_en: Main Objects of Description and Levels of Organization
+    slug: main-objects-of-description-and-levels-of-organization
     section_id: 67839
     images:
     - filename: 56.png
@@ -1498,8 +1499,8 @@ sections:
       orig_hash: 3ef3a53c9ce15fbb814098316918cbd80fc88ba691a310cefc95f7d78267f7d3
   - type: TEXT
     title_ru: Уровни моделирования и принципиальная модель предприятия
-    title_en: Modeling Levels and Enterprise Framework Model
-    slug: modeling-levels-and-enterprise-framework-model
+    title_en: Modeling Levels and Enterprise Conceptual Model
+    slug: modeling-levels-and-enterprise-conceptual-model
     section_id: 67840
     images:
     - filename: 58.png
@@ -1529,8 +1530,8 @@ sections:
     section_id: 67841
   - type: TEXT
     title_ru: Принципы физики предприятия и закон Литтла
-    title_en: Principles of Enterprise Physics and Little's Law
-    slug: principles-of-enterprise-physics-and-little-s-law
+    title_en: Enterprise Physics Principles and Little's Law
+    slug: enterprise-physics-principles-and-little-s-law
     section_id: 67842
     images:
     - filename: 62.png
@@ -1592,34 +1593,34 @@ sections:
       orig_hash: 9bfef77182dddec961be5c9ae5f55e86a23a4bf923f177ae5c2f8bbec3f88852
   - type: TEST
     title_ru: Задание 14.2
-    title_en: Exercise 14.2
-    slug: exercise-14-2
+    title_en: Assignment 14.2
+    slug: assignment-14-2
     section_id: 67845
 - type: HEADER
   title_ru: Деконцентрация для поиска важного
-  title_en: Deconcentration to Find the Important
-  slug: deconcentration-to-find-the-important
+  title_en: Deconcentration for Finding the Important
+  slug: deconcentration-for-finding-the-important
   section_id: 67846
   children:
   - type: TEXT
     title_ru: Зачем нужна деконцентрация
-    title_en: Why Decentralization Matters
-    slug: why-decentralization-matters
+    title_en: Why Deconcentration is Needed
+    slug: why-deconcentration-is-needed
     section_id: 67847
   - type: TEXT
     title_ru: Способы поиска важного
-    title_en: Ways to Find What Matters
-    slug: ways-to-find-what-matters
+    title_en: Ways to Find the Important
+    slug: ways-to-find-the-important
     section_id: 67848
   - type: TEXT
     title_ru: Поиск источников информации
-    title_en: Information Sources Search
-    slug: information-sources-search
+    title_en: Finding Information Sources
+    slug: finding-information-sources
     section_id: 67849
   - type: TEXT
     title_ru: 'Понятийное наведение внимания: контроль типов'
-    title_en: 'Conceptual Attention Focusing: Type Control'
-    slug: conceptual-attention-focusing-type-control
+    title_en: 'Conceptual Attention Guidance: Type Control'
+    slug: conceptual-attention-guidance-type-control
     section_id: 67850
     images:
     - filename: 71.png
@@ -1639,8 +1640,8 @@ sections:
       orig_hash: a960e067327891a0d278635365e2d5726491cd2077f9c345160a61d6658aa237
   - type: TEXT
     title_ru: Ошибки при постановке понятийного внимания
-    title_en: Errors in Establishing Conceptual Focus
-    slug: errors-in-establishing-conceptual-focus
+    title_en: Mistakes in Setting Conceptual Attention
+    slug: mistakes-in-setting-conceptual-attention
     section_id: 67851
     images:
     - filename: 74.jpg

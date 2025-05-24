@@ -4,6 +4,11 @@ import os
 import sys
 import base64
 
+import dotenv
+
+# Load environment variables from .env file
+dotenv.load_dotenv()
+
 # Configure logging
 log_level = os.getenv('LOG_LEVEL', 'INFO').upper()
 logging.basicConfig(
@@ -33,6 +38,7 @@ def get_courses_list():
         result = []
         for course in courses:
             course_id = course.get('productCode')
+            course_name = course.get('name')
             version = course.get('activeVersion')
             versionId = course.get('activeVersionId')
             # changelog and authors will be base64 encoded
@@ -40,9 +46,10 @@ def get_courses_list():
             changelog = course.get("activeVersionChangeLog") or ""
             authors = base64.b64encode(authors.encode()).decode()
             changelog = base64.b64encode(changelog.encode()).decode()
+            course_name = base64.b64encode(course_name.encode()).decode()
             if not course_id or not version:
                 continue
-            result.append(f"{course_id}:{version}:{versionId}:{authors}:{changelog}")
+            result.append(f"{course_id}:{course_name}:{version}:{versionId}:{authors}:{changelog}")
         logger.info("Successfully fetched the courses list")
         return result
     except Exception as e:
