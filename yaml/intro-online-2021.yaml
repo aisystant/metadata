@@ -1,0 +1,1083 @@
+course_id: intro-online-2021
+course_name: 1. Системное саморазвитие
+version: 2025-03-11T1212
+version_id: '488'
+sections:
+- type: TEXT
+  title_ru: О курсе
+  title_en: About the Course
+  slug: about-the-course
+  section_id: 61443
+- type: TEST
+  title_ru: 'Задания: подготовка к обучению'
+  title_en: 'Assignments: Training Preparation'
+  slug: assignments-training-preparation
+  section_id: 61444
+- type: HEADER
+  title_ru: Физический мир и ментальное пространство
+  title_en: Physical World and Mental Space
+  slug: physical-world-and-mental-space
+  section_id: 61445
+  children:
+  - type: TEXT
+    title_ru: Что такое ментальное пространство
+    title_en: What is Mental Space
+    slug: what-is-mental-space
+    section_id: 61446
+    images:
+    - filename: 0.jpg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/150/0.jpg
+      orig_hash: b1e3abd647094e6213107cfb05117d134cd00ff6175c5fd8856e0eb106524a0f
+  - type: TEXT
+    title_ru: Теория, модели и описания реальности
+    title_en: Theory, Models, and Descriptions of Reality
+    slug: theory-models-and-descriptions-of-reality
+    section_id: 61447
+    images:
+    - filename: 1.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/200/1.png
+      orig_hash: eccfa9f27f0e0b008b2232ae33a7131e4849ff56d121d1afac9c460ea91ca91f
+    - filename: 2.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/200/2.png
+      orig_hash: 7170655c2b4e6d902392b2c2cec14459169c36d2890a68864e166d495843ddf1
+    - filename: 3.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/200/3.png
+      orig_hash: af6feddcdae6741be01adc0b0d2cee89b1d90deb301ef7ba18265698ca5cdc1d
+    - filename: 4.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/200/4.png
+      orig_hash: e410779ea5f74fce4aa7d1cda2b5e551c29f95cb60612a96bb2b279ab5b8d3cf
+  - type: TEXT
+    title_ru: Техноэволюция
+    title_en: Technoevolution
+    slug: technoevolution
+    section_id: 61448
+    images:
+    - filename: 5.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/250/5.png
+      orig_hash: 6e4001edf45aa596996f8f0d9dea3b62f0cbcac93fb8f9db4e7c7e3adfe27189
+    - filename: 6.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/250/6.png
+      orig_hash: 4f8230473bfc914bff0830ee4af3d790c0be7e096b8a6ef51c65e93f7a658c39
+  - type: TEXT
+    title_ru: Создатель, меняющий мир к лучшему
+    title_en: Creator Changing the World for the Better
+    slug: creator-changing-the-world-for-the-better
+    section_id: 61449
+    images:
+    - filename: 7.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/300/7.png
+      orig_hash: 915c0a6579adf8842c388008600daf79bc7c6af21055af7ff266e1b1cd0c1d8b
+    - filename: 8.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/300/8.png
+      orig_hash: a8ecf75347c265dda742eefc4a4d5724026be5dd013891f966ee2d4cdbbaf11c
+    - filename: 9.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/300/9.png
+      orig_hash: a61ed2b1df082ce3b7a84be1c41fcc8054e7f48647863280d1a5f4984e004335
+  - type: TEXT
+    title_ru: 'Человек: тело и личность'
+    title_en: 'Human: Body and Personality'
+    slug: human-body-and-personality
+    section_id: 61450
+  - type: TEXT
+    title_ru: Социальная среда
+    title_en: Social Environment
+    slug: social-environment
+    section_id: 61451
+    images:
+    - filename: 10.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/400/10.png
+      orig_hash: 64ad9c0ba501af960b26d02c1ec6a5058c7b4857687d89994099ac6d501c005f
+    - filename: 11.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/400/11.png
+      orig_hash: 2e081fb4b4636a314a0b162b0650c7d282fdef8d83bfe9da5d34af161516c779
+    - filename: 12.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/400/12.png
+      orig_hash: 6e80807903b9a903d62978c293de186f74383a855ca92e4b5f0c8a2e1d2a2d81
+    - filename: 13.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/400/13.png
+      orig_hash: 11716ffdd5e4dcc1531619fba8552c9da8907cf34c558fe1b252f53cdf6df692
+  - type: TEXT
+    title_ru: Плюсы и минусы прогресса
+    title_en: Pros and Cons of Progress
+    slug: pros-and-cons-of-progress
+    section_id: 61452
+    images:
+    - filename: 14.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/450/14.png
+      orig_hash: a3c01386e77d402b7b2d5b6ab4629c89f16df8e9eb4b2b8edb4e714cfcca58de
+    - filename: 15.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/450/15.png
+      orig_hash: 88a17ef747458e4a1735d16bdc7338d1b9c92bef58494d319119556443c0d440
+  - type: TEXT
+    title_ru: Жизненное мастерство
+    title_en: Life Mastery
+    slug: life-mastery
+    section_id: 61453
+  - type: TEXT
+    title_ru: Мышление и интеллект
+    title_en: Thinking and Intelligence
+    slug: thinking-and-intelligence
+    section_id: 61454
+    images:
+    - filename: 16.jpg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/550/16.jpg
+      orig_hash: 34c6dff08b71a4183caf8fef572d215f094903f74e945abe8a4f6ee0dcf11634
+  - type: TEXT
+    title_ru: Мир задач и мир проблем
+    title_en: World of Tasks and World of Problems
+    slug: world-of-tasks-and-world-of-problems
+    section_id: 61455
+  - type: TEXT
+    title_ru: Саммари раздела
+    title_en: Section Summary
+    slug: section-summary
+    section_id: 61456
+  - type: TEST
+    title_ru: 'Моделирование: понятия'
+    title_en: 'Modeling: Concepts'
+    slug: modeling-concepts
+    section_id: 61457
+  - type: TEST
+    title_ru: Вопросы для повторения и дальнейшего изучения
+    title_en: Review and Further Study Questions
+    slug: review-and-further-study-questions
+    section_id: 61458
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 61459
+- type: HEADER
+  title_ru: Обучение и время
+  title_en: Training and Time
+  slug: training-and-time
+  section_id: 61460
+  children:
+  - type: TEXT
+    title_ru: Обучение
+    title_en: Training
+    slug: training
+    section_id: 61461
+    images:
+    - filename: 17.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/900/17.png
+      orig_hash: e0d9eb8957f8088d2ae29c2abff0d664a2cbbeed072c1ac9e8bc3e102660aee1
+    - filename: 18.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/900/18.png
+      orig_hash: e6a552f5342c66f642184e5f528aa589674ee27e95af73e2610afffebd99be63
+    - filename: 19.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/900/19.jpeg
+      orig_hash: 7c6ee9929c1f95db09c94a61ddaf4e59dccab19a164cfa1943b3e981a97981c4
+  - type: TEXT
+    title_ru: Знания и мировоззрение человека
+    title_en: Human Knowledge and Worldviews
+    slug: human-knowledge-and-worldviews
+    section_id: 61462
+  - type: TEXT
+    title_ru: Интеллект-стек
+    title_en: Intelligence Stack
+    slug: intelligence-stack
+    section_id: 61463
+    images:
+    - filename: 20.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/1000/20.png
+      orig_hash: 2bbe7fa814dc3fd034a90b7a767a5f59658a6a12cfe9cd6e83c3abe6eecf7629
+  - type: TEXT
+    title_ru: Культура
+    title_en: Culture
+    slug: culture
+    section_id: 61464
+  - type: TEXT
+    title_ru: Умение учиться, умение думать, умение делать
+    title_en: The Ability to Learn, Think, and Do
+    slug: the-ability-to-learn-think-and-do
+    section_id: 61465
+  - type: TEXT
+    title_ru: Профориентация
+    title_en: Career Guidance
+    slug: career-guidance
+    section_id: 61466
+  - type: TEXT
+    title_ru: Модели обучения
+    title_en: Learning Models
+    slug: learning-models
+    section_id: 61467
+    images:
+    - filename: 21.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/1200/21.png
+      orig_hash: c92893c51fd796872e38578f30e1fce1937864af7efb1ad236ccbde5b541c3eb
+    - filename: 22.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/1200/22.png
+      orig_hash: 65c450c543caac747f014962488b17ddb106c946acc45d6e9288257c6778deb3
+    - filename: 23.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/1200/23.png
+      orig_hash: 000a239ee541d1dfc4e3c2764bc54ec180913944f0184b8edad3a954f1aea4cb
+    - filename: 24.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/1200/24.png
+      orig_hash: 7844a406efecf2481752971aeb6a8b6c9bdccd0db67a56fc41c145d7bcba99aa
+  - type: TEXT
+    title_ru: Время
+    title_en: Time
+    slug: time
+    section_id: 61468
+    images:
+    - filename: 25.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/1250/25.png
+      orig_hash: de631150c45e875b81f64cd540e8b36631b9d37b800dc7c0677906e6e5446208
+    - filename: 26.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/1250/26.png
+      orig_hash: 5814b3fc25aa8f4ed01b1076512f06314c2c93e16ec40efd4e21b35aca493668
+  - type: TEXT
+    title_ru: Инвестирование времени
+    title_en: Time Investment
+    slug: time-investment
+    section_id: 61469
+    images:
+    - filename: 27.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/1300/27.png
+      orig_hash: d7ed67d198485d88c623c1b11e035cfd96c9ea56f71d179a1b2975902140b29c
+    - filename: 28.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/1300/28.png
+      orig_hash: c24a7fc1c2a671b3eec0c549f8ad40d0eb58330dea618059441161514c8cb7bf
+  - type: TEXT
+    title_ru: Осознанное времяпрепровождение и организация досуга
+    title_en: Mindful Leisure and Recreation Planning
+    slug: mindful-leisure-and-recreation-planning
+    section_id: 61470
+    images:
+    - filename: 29.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/1350/29.png
+      orig_hash: eb0592c690d41704b794d4922458125e348b404e66a0a4571924b717cb851aa3
+  - type: TEXT
+    title_ru: Продление жизни и эстетика человека
+    title_en: Life Extension and Human Aesthetics
+    slug: life-extension-and-human-aesthetics
+    section_id: 61471
+  - type: TEXT
+    title_ru: Саммари раздела
+    title_en: Section Summary
+    slug: section-summary
+    section_id: 61472
+  - type: TEST
+    title_ru: 'Моделирование: понятия'
+    title_en: 'Modeling: Concepts'
+    slug: modeling-concepts
+    section_id: 61473
+  - type: TEST
+    title_ru: Вопросы для повторения и дальнейшего изучения
+    title_en: Review and Further Study Questions
+    slug: review-and-further-study-questions
+    section_id: 61474
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 61475
+- type: HEADER
+  title_ru: Собранность и внимание
+  title_en: Focus and Attention
+  slug: focus-and-attention
+  section_id: 61476
+  children:
+  - type: TEXT
+    title_ru: Что такое собранность
+    title_en: What is Composure
+    slug: what-is-composure
+    section_id: 61477
+  - type: TEXT
+    title_ru: Внимание
+    title_en: Attention
+    slug: attention
+    section_id: 61478
+  - type: TEXT
+    title_ru: Важное, текущее и срочное
+    title_en: Important, Current, and Urgent
+    slug: important-current-and-urgent
+    section_id: 61479
+  - type: TEXT
+    title_ru: Рациональная работа
+    title_en: Efficient Work
+    slug: efficient-work
+    section_id: 61480
+  - type: TEXT
+    title_ru: Временные масштабы внимания
+    title_en: Time Scales of Attention
+    slug: time-scales-of-attention
+    section_id: 61481
+  - type: TEXT
+    title_ru: Потеря внимания
+    title_en: Loss of Attention
+    slug: loss-of-attention
+    section_id: 61482
+  - type: TEXT
+    title_ru: Понятийное наведение внимание
+    title_en: Conceptual Attention Guidance
+    slug: conceptual-attention-guidance
+    section_id: 61483
+  - type: TEXT
+    title_ru: Собранность в обучении
+    title_en: Focus in Learning
+    slug: focus-in-learning
+    section_id: 61484
+  - type: TEXT
+    title_ru: Экзокортекс для собранности
+    title_en: Exocortex for Focus
+    slug: exocortex-for-focus
+    section_id: 61485
+  - type: TEXT
+    title_ru: Внимание в моменте как основа для системных изменений и продуктивности
+    title_en: Attention in the Moment as a Basis for Systems Changes and Productivity
+    slug: attention-in-the-moment-as-a-basis-for-systems-changes-and-productivity
+    section_id: 61486
+  - type: TEXT
+    title_ru: Темная сторона собранности
+    title_en: The Dark Side of Composure
+    slug: the-dark-side-of-composure
+    section_id: 61487
+  - type: TEXT
+    title_ru: Киберличность
+    title_en: Cyber Identity
+    slug: cyber-identity
+    section_id: 61488
+  - type: TEXT
+    title_ru: Саммари раздела
+    title_en: Section Summary
+    slug: section-summary
+    section_id: 61489
+  - type: TEST
+    title_ru: 'Моделирование: понятия'
+    title_en: 'Modeling: Concepts'
+    slug: modeling-concepts
+    section_id: 61490
+  - type: TEST
+    title_ru: Вопросы для повторения и дальнейшего изучения
+    title_en: Review and Further Study Questions
+    slug: review-and-further-study-questions
+    section_id: 61491
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 61492
+- type: HEADER
+  title_ru: Системный подход в психологии личности
+  title_en: Systems Approach in Personality Psychology
+  slug: systems-approach-in-personality-psychology
+  section_id: 61493
+  children:
+  - type: TEXT
+    title_ru: Психология и системный подход
+    title_en: Psychology and the Systems Approach
+    slug: psychology-and-the-systems-approach
+    section_id: 61494
+    images:
+    - filename: 30.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/2550/30.png
+      orig_hash: 6be5d5e863feb829f8076664e82871f7790f27522c7c49d32a4fd94e1c97d255
+  - type: TEXT
+    title_ru: Системные уровни в организации жизни
+    title_en: System Levels in Life Organization
+    slug: system-levels-in-life-organization
+    section_id: 61495
+  - type: TEXT
+    title_ru: Неудовлетворенность
+    title_en: Dissatisfaction
+    slug: dissatisfaction
+    section_id: 61496
+  - type: TEXT
+    title_ru: Состояния человека
+    title_en: Human States
+    slug: human-states
+    section_id: 61497
+  - type: TEXT
+    title_ru: Характеристики человека в системном контексте
+    title_en: Characteristics of a Person in a Systems Context
+    slug: characteristics-of-a-person-in-a-systems-context
+    section_id: 61498
+  - type: TEXT
+    title_ru: Эмоции и чувства
+    title_en: Emotions and Feelings
+    slug: emotions-and-feelings
+    section_id: 61499
+  - type: TEXT
+    title_ru: 'Эмоциональная стабильность: основа бесконечного развития'
+    title_en: 'Emotional Stability: Foundation of Infinite Development'
+    slug: emotional-stability-foundation-of-infinite-development
+    section_id: 61500
+  - type: TEXT
+    title_ru: Мотивация и намерения
+    title_en: Motivation and Intentions
+    slug: motivation-and-intentions
+    section_id: 61501
+  - type: TEXT
+    title_ru: Воспоминания и память
+    title_en: Memories and Memory
+    slug: memories-and-memory
+    section_id: 61502
+  - type: TEXT
+    title_ru: Вычислительная мощность мозга
+    title_en: Brain Computing Power
+    slug: brain-computing-power
+    section_id: 61503
+  - type: TEXT
+    title_ru: Саммари раздела
+    title_en: Section Summary
+    slug: section-summary
+    section_id: 61504
+  - type: TEST
+    title_ru: 'Моделирование: понятия'
+    title_en: 'Modeling: Concepts'
+    slug: modeling-concepts
+    section_id: 61505
+  - type: TEST
+    title_ru: Вопросы для повторения и дальнейшего изучения
+    title_en: Review and Further Study Questions
+    slug: review-and-further-study-questions
+    section_id: 61506
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 61507
+- type: HEADER
+  title_ru: Роль, ролевое мастерство и метод
+  title_en: Role, Role-Based Mastery, and Method
+  slug: role-role-based-mastery-and-method
+  section_id: 61508
+  children:
+  - type: TEXT
+    title_ru: Что такое роль?
+    title_en: What is a Role?
+    slug: what-is-a-role
+    section_id: 61509
+    images:
+    - filename: 31.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/3300/31.png
+      orig_hash: 362ef1d36c1112caff7364024b2ab74dc7cb8a05f5ea020e3d2c8b00faadfe8b
+  - type: TEXT
+    title_ru: Ролевые интересы
+    title_en: Role-based interests
+    slug: role-based-interests
+    section_id: 61510
+    images:
+    - filename: 32.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/3350/32.png
+      orig_hash: 097e7fd05a63a559badfbd38e37766e179a3a2cb26a5a3b6a68ce91dd736c6de
+  - type: TEXT
+    title_ru: Удовлетворение ролевых интересов и личных неудовлетворенностей
+    title_en: Satisfying Role Interests and Personal Dissatisfactions
+    slug: satisfying-role-interests-and-personal-dissatisfactions
+    section_id: 61511
+    images:
+    - filename: 33.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/3400/33.png
+      orig_hash: 07240cc02629e5e0f5487996ad7c41a1fd4526f698d467c768f043fead688256
+  - type: TEXT
+    title_ru: 'Действия по роли: метод (практика)'
+    title_en: 'Role Actions: Method (Practice)'
+    slug: role-actions-method-practice
+    section_id: 61512
+    images:
+    - filename: 34.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/3450/34.png
+      orig_hash: bf8b0dc54ca0937230d1413c629026e379ed6cfd4217389d7f6079e1c6878622
+  - type: TEXT
+    title_ru: Стадии и методы (практики) саморазвития
+    title_en: Stages and Methods (Practices) of Self-Development
+    slug: stages-and-methods-practices-of-self-development
+    section_id: 61513
+    images:
+    - filename: 35.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/3500/35.png
+      orig_hash: 033a2c7202811894691f3241cf436b6e8acbb51d30aec381ecb98201db1ad17c
+  - type: TEXT
+    title_ru: Что такое ролевое мастерство
+    title_en: What is role-based mastery
+    slug: what-is-role-based-mastery
+    section_id: 61514
+  - type: TEXT
+    title_ru: Методы ролевого мастерства
+    title_en: Role-Based Mastery Methods
+    slug: role-based-mastery-methods
+    section_id: 61515
+    images:
+    - filename: 36.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/3600/36.png
+      orig_hash: dd4c8c8387033606e24b0a311038bd7f50b39e82bf8a3eb4f91b15e1cbd40fc9
+  - type: TEXT
+    title_ru: Самоконтроль и внимание в моменте
+    title_en: Self-Control and Present-Moment Awareness
+    slug: self-control-and-present-moment-awareness
+    section_id: 61516
+  - type: TEXT
+    title_ru: Деятельностный кругозор
+    title_en: Activity Perspective
+    slug: activity-perspective
+    section_id: 61517
+    images:
+    - filename: 37.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/3700/37.png
+      orig_hash: d40a1f159eb87f117e0b456c1c0e540fa1a9564b2be886530a5de0f41912dce1
+  - type: TEXT
+    title_ru: Должность, роль, карьера
+    title_en: Position, Role, Career
+    slug: position-role-career
+    section_id: 61518
+    images:
+    - filename: 38.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/3750/38.png
+      orig_hash: 10b52f13fb80bab50c92644b2ea9cfee3e2ca0dd3179f1c7a77ff8206f698951
+  - type: TEXT
+    title_ru: Систематичность и мастерство
+    title_en: Systematicity and Mastery
+    slug: systematicity-and-mastery
+    section_id: 61519
+    images:
+    - filename: 39.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/3800/39.jpeg
+      orig_hash: f30fa8f3f7e552dfc218013259a42bbc14d9318d6adcbf0072240b23227ec047
+  - type: TEXT
+    title_ru: Саммари раздела
+    title_en: Section Summary
+    slug: section-summary
+    section_id: 61520
+  - type: TEST
+    title_ru: 'Моделирование: понятия'
+    title_en: 'Modeling: Concepts'
+    slug: modeling-concepts
+    section_id: 61521
+  - type: TEST
+    title_ru: Вопросы для повторения и дальнейшего изучения
+    title_en: Review and Further Study Questions
+    slug: review-and-further-study-questions
+    section_id: 61522
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 61523
+- type: HEADER
+  title_ru: Что такое системное мышление
+  title_en: What is Systems Thinking
+  slug: what-is-systems-thinking
+  section_id: 61524
+  children:
+  - type: TEXT
+    title_ru: Что подразумевают под «системным мышлением»
+    title_en: What is Meant by "Systems Thinking"
+    slug: what-is-meant-by-systems-thinking
+    section_id: 61525
+    images:
+    - filename: 40.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/4100/40.png
+      orig_hash: bfc6c69ebf76b184e787951e9f8a7838e55eef9d39bc0ce04e34caf5036cefdc
+    - filename: 41.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/4100/41.png
+      orig_hash: 06abc98696d0bb6632bee39f86bfb2148004ea03bddaba76981a7d8530b0ac18
+  - type: TEXT
+    title_ru: Системное мировоззрение
+    title_en: Systems Worldview
+    slug: systems-worldview
+    section_id: 61526
+  - type: TEXT
+    title_ru: Понятия системного мышления
+    title_en: Concepts of Systems Thinking
+    slug: concepts-of-systems-thinking
+    section_id: 61527
+  - type: TEXT
+    title_ru: Понятие «система»
+    title_en: The Concept of "System"
+    slug: the-concept-of-system
+    section_id: 61528
+    images:
+    - filename: 42.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/4250/42.jpeg
+      orig_hash: 6c8c0016195776f69572ec3376f30cf0c78608aa40f0c573853ee68444eca78c
+    - filename: 43.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/4250/43.png
+      orig_hash: 52b57ebbb7f69fc97acb9fc4c5461bc8aa2872ff2442ddcd33916e76f9a1ab52
+    - filename: 44.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/4250/44.png
+      orig_hash: 411225f4f1fc6cce9657c20bade20afa17d5b39ff8989a12464f14f2571e809d
+  - type: TEXT
+    title_ru: Системный подход
+    title_en: Systems Approach
+    slug: systems-approach
+    section_id: 61529
+    images:
+    - filename: 45.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/4300/45.png
+      orig_hash: c575f4a73362445eaf558ba55b171638dfd4a18c5e4558f4800a3d9220138488
+    - filename: 46.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/4300/46.png
+      orig_hash: 097e7fd05a63a559badfbd38e37766e179a3a2cb26a5a3b6a68ce91dd736c6de
+  - type: TEXT
+    title_ru: Воплощение, описание и документация системы
+    title_en: Implementation, Description, and System Documentation
+    slug: implementation-description-and-system-documentation
+    section_id: 61530
+    images:
+    - filename: 47.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/4350/47.png
+      orig_hash: 71ace67ad9f9e4aef3472d4c317df81a29984e51b485e79e4ef81809707ce924
+    - filename: 48.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/4350/48.png
+      orig_hash: 0c52f53ea54177e4b4c7ee3b222fca0762ebafd9f8c2f7564214f5e00996f039
+  - type: TEXT
+    title_ru: Виды систем
+    title_en: Types of Systems
+    slug: types-of-systems
+    section_id: 61531
+  - type: TEXT
+    title_ru: Система и проект
+    title_en: System and Project
+    slug: system-and-project
+    section_id: 61532
+  - type: TEXT
+    title_ru: Человек в системном рассмотрении
+    title_en: Person in Systems Perspective
+    slug: person-in-systems-perspective
+    section_id: 61533
+  - type: TEXT
+    title_ru: Системные навыки и приемы мышления
+    title_en: System Skills and Thinking Techniques
+    slug: system-skills-and-thinking-techniques
+    section_id: 61534
+  - type: TEXT
+    title_ru: Саммари раздела
+    title_en: Section Summary
+    slug: section-summary
+    section_id: 61535
+  - type: TEST
+    title_ru: 'Моделирование: понятия'
+    title_en: 'Modeling: Concepts'
+    slug: modeling-concepts
+    section_id: 61536
+  - type: TEST
+    title_ru: Вопросы для повторения и дальнейшего изучения
+    title_en: Review and Further Study Questions
+    slug: review-and-further-study-questions
+    section_id: 61537
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 61538
+- type: HEADER
+  title_ru: Инженерия, менеджмент, предпринимательство
+  title_en: Engineering, Management, Entrepreneurship
+  slug: engineering-management-entrepreneurship
+  section_id: 61539
+  children:
+  - type: TEXT
+    title_ru: Что такое инженерия?
+    title_en: What is Engineering?
+    slug: what-is-engineering
+    section_id: 61540
+  - type: TEXT
+    title_ru: Кто такие инженеры?
+    title_en: Who Are Engineers?
+    slug: who-are-engineers
+    section_id: 61541
+  - type: TEXT
+    title_ru: 'Взаимосвязь инженерии, менеджмента и предпринимательства:'
+    title_en: The Interconnection of Engineering, Management, and Entrepreneurship
+    slug: the-interconnection-of-engineering-management-and-entrepreneurship
+    section_id: 61542
+  - type: TEXT
+    title_ru: Какие бывают предприниматели
+    title_en: Types of Entrepreneurs
+    slug: types-of-entrepreneurs
+    section_id: 61543
+  - type: TEXT
+    title_ru: Предпринимательство и техноэволюция
+    title_en: Entrepreneurship and Technoevolution
+    slug: entrepreneurship-and-technoevolution
+    section_id: 61544
+  - type: TEXT
+    title_ru: Системный менеджмент
+    title_en: systems management
+    slug: systems-management
+    section_id: 61545
+  - type: TEXT
+    title_ru: Директор по развитию
+    title_en: Chief Transformation Officer
+    slug: chief-transformation-officer
+    section_id: 61546
+  - type: TEXT
+    title_ru: Инженерный подход к корпоративной культуре
+    title_en: Engineering Approach to Corporate Culture
+    slug: engineering-approach-to-corporate-culture
+    section_id: 61547
+  - type: TEXT
+    title_ru: Траектория развития
+    title_en: Development Trajectory
+    slug: development-trajectory
+    section_id: 61548
+  - type: TEXT
+    title_ru: Саммари раздела
+    title_en: Section Summary
+    slug: section-summary
+    section_id: 61549
+  - type: TEST
+    title_ru: 'Моделирование: понятия'
+    title_en: 'Modeling: Concepts'
+    slug: modeling-concepts
+    section_id: 61550
+  - type: TEST
+    title_ru: Вопросы для повторения и дальнейшего изучения
+    title_en: Review and Further Study Questions
+    slug: review-and-further-study-questions
+    section_id: 61551
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 61552
+- type: HEADER
+  title_ru: 'Личность и агент: человек и ИИ'
+  title_en: 'Personality and Agent: Human and AI'
+  slug: personality-and-agent-human-and-ai
+  section_id: 61553
+  children:
+  - type: TEXT
+    title_ru: Агенты
+    title_en: Agents
+    slug: agents
+    section_id: 61554
+  - type: TEXT
+    title_ru: Неожиданности и принцип оптимизма
+    title_en: Surprises and the Principle of Optimism
+    slug: surprises-and-the-principle-of-optimism
+    section_id: 61555
+  - type: TEXT
+    title_ru: Фундаментальная причина беспокойств, депрессии и выгорания
+    title_en: The Fundamental Cause of Anxiety, Depression, and Burnout
+    slug: the-fundamental-cause-of-anxiety-depression-and-burnout
+    section_id: 61556
+  - type: TEXT
+    title_ru: Свобода воли
+    title_en: Free Will
+    slug: free-will
+    section_id: 61557
+  - type: TEXT
+    title_ru: «Два ключа» для действия человека
+    title_en: '"Two Keys" for Human Action'
+    slug: two-keys-for-human-action
+    section_id: 61558
+  - type: TEXT
+    title_ru: Искусственный интеллект
+    title_en: Artificial Intelligence
+    slug: artificial-intelligence
+    section_id: 61559
+  - type: TEXT
+    title_ru: Этика, мораль и неудовлетворенности
+    title_en: Ethics, Morality, and Dissatisfaction
+    slug: ethics-morality-and-dissatisfaction
+    section_id: 61560
+    images:
+    - filename: 49.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/5850/49.png
+      orig_hash: c933dca2ea44d41f848dfe792b46ba37c861064e73c7ea2988fafeade02f54d9
+    - filename: 50.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/5850/50.png
+      orig_hash: f08879b382ff31702341b34ce71e3eab6f9da94e7f505c3bf7a13dca665225ef
+    - filename: 51.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/5850/51.png
+      orig_hash: c3081b0493684309cd860eac31c90264ec0ed0bae9b1b78cc2609cc872ed321d
+    - filename: 52.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/5850/52.png
+      orig_hash: 95412259ade66e41ba70940ffaaeabfd1ecb1c40b7ec1252fd1cb065c06422a1
+  - type: TEXT
+    title_ru: Этика и системное мышление
+    title_en: Ethics and Systems Thinking
+    slug: ethics-and-systems-thinking
+    section_id: 61561
+    images:
+    - filename: 53.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/5900/53.png
+      orig_hash: 2442c9e9ba59b50da47382838b67ad65f0d9cf2d66a9cd2bb41d108ba3728131
+  - type: TEXT
+    title_ru: Сострадание и системное лидерство
+    title_en: Compassion and Systems Leadership
+    slug: compassion-and-systems-leadership
+    section_id: 61562
+    images:
+    - filename: 54.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/5950/54.png
+      orig_hash: b023ffb1aea3111a0fd65c0e8cb7e0569caad0fb13668e40ef63adba1d810be6
+  - type: TEXT
+    title_ru: Ответственность и фатальная ошибка
+    title_en: Responsibility and Critical Error
+    slug: responsibility-and-critical-error
+    section_id: 61563
+    images:
+    - filename: 55.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/6000/55.jpeg
+      orig_hash: aa5fd483afdc896e1c42d50444d94d2d125952e904ee05cd094c08cc3e1e0499
+    - filename: 56.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/6000/56.png
+      orig_hash: cecfa891cf2823005301630046b4e226c5bbfd7c5ccc4d2c429f6f608fb47f2e
+    - filename: 57.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/6000/57.png
+      orig_hash: ac302819dd371c1ea93a14cf906a01ad44d45f71b1af32294853c021be052865
+    - filename: 58.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/6000/58.png
+      orig_hash: 7b8c290155bab38ee4db5277c0ba4d61e3444c1a9892aae6cfeecd60cc327c34
+    - filename: 59.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/6000/59.png
+      orig_hash: 19c0f194e0e3325f7354c5640c69ae8bf351a5407249cc773c3f750b89012f4f
+  - type: TEXT
+    title_ru: Саммари раздела
+    title_en: Section Summary
+    slug: section-summary
+    section_id: 61564
+  - type: TEST
+    title_ru: 'Моделирование: понятия'
+    title_en: 'Modeling: Concepts'
+    slug: modeling-concepts
+    section_id: 61565
+  - type: TEST
+    title_ru: Вопросы для повторения и дальнейшего изучения
+    title_en: Review and Further Study Questions
+    slug: review-and-further-study-questions
+    section_id: 61566
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 61567
+- type: HEADER
+  title_ru: Личная траектория развития
+  title_en: Personal Development Path
+  slug: personal-development-path
+  section_id: 61568
+  children:
+  - type: TEXT
+    title_ru: Жизнь человека
+    title_en: Human Life
+    slug: human-life
+    section_id: 61569
+    images:
+    - filename: 60.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/6300/60.png
+      orig_hash: a6f389ad88b53204be9c3d99a6722778ee99a2d424ed752c3a71efc793667240
+    - filename: 61.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/6300/61.png
+      orig_hash: 6341c07ff691f3d023714eecf4b05021e9dc51fcb7f28b047a7612531f104e5b
+  - type: TEXT
+    title_ru: Сверхцели и великие идеи
+    title_en: Supergoals and Great Ideas
+    slug: supergoals-and-great-ideas
+    section_id: 61570
+  - type: TEXT
+    title_ru: Счастье
+    title_en: Happiness
+    slug: happiness
+    section_id: 61571
+  - type: TEXT
+    title_ru: Успех и интегральный успех
+    title_en: Success and Integral Success
+    slug: success-and-integral-success
+    section_id: 61572
+  - type: TEXT
+    title_ru: Непрерывное и бесконечное развитие
+    title_en: Continuous and Infinite Development
+    slug: continuous-and-infinite-development
+    section_id: 61573
+  - type: TEXT
+    title_ru: Проект системного саморазвития личности
+    title_en: Personal Systems Self-Development Project
+    slug: personal-systems-self-development-project
+    section_id: 61574
+    images:
+    - filename: 62.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/6550/62.png
+      orig_hash: f9d07a703997ff0681e7d7454526341c53a5c05cf632f4b696759a016f0d6064
+    - filename: 63.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/6550/63.png
+      orig_hash: f8544ee36012c3e9651ccea5ec6b294c4ba67388eb53aabb1500ddf1de917abb
+  - type: TEXT
+    title_ru: Как пропитать себя на изменения
+    title_en: How to Embrace Change
+    slug: how-to-embrace-change
+    section_id: 61575
+    images:
+    - filename: 64.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intro-online-2021/2025-03-11T1212/6600/64.png
+      orig_hash: 3f9bc66c40e268eb6daec0e1a86d9b7301a7ced7ab849bedf2751139fb5c8114
+  - type: TEXT
+    title_ru: Культура ШСМ
+    title_en: Aisystant Culture
+    slug: aisystant-culture
+    section_id: 61576
+  - type: TEXT
+    title_ru: Элита
+    title_en: Elite
+    slug: elite
+    section_id: 61577
+  - type: TEXT
+    title_ru: Траектория жизни
+    title_en: Life Path
+    slug: life-path
+    section_id: 61578
+  - type: TEXT
+    title_ru: Саммари раздела
+    title_en: Section Summary
+    slug: section-summary
+    section_id: 61579
+  - type: TEST
+    title_ru: 'Моделирование: понятия'
+    title_en: 'Modeling: Concepts'
+    slug: modeling-concepts
+    section_id: 61580
+  - type: TEST
+    title_ru: Вопросы для повторения и дальнейшего изучения
+    title_en: Review and Further Study Questions
+    slug: review-and-further-study-questions
+    section_id: 61581
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 61582
+  - type: TEXT
+    title_ru: Что дальше?
+    title_en: What's Next?
+    slug: what-s-next
+    section_id: 61583
+  - type: TEXT
+    title_ru: Дополнительные материалы
+    title_en: Additional Materials
+    slug: additional-materials
+    section_id: 61584

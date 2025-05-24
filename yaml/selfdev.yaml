@@ -1,0 +1,1270 @@
+course_id: selfdev
+course_name: 2. Практики саморазвития
+version: 2025-04-22T1344
+version_id: '521'
+sections:
+- type: TEXT
+  title_ru: О руководстве «Практики саморазвития»
+  title_en: About the Guide "Self-Development Practices"
+  slug: about-the-guide-self-development-practices
+  section_id: 66250
+- type: HEADER
+  title_ru: О практиках саморазвития и втором мозге
+  title_en: On Self-Development Practices and the Second Brain
+  slug: on-self-development-practices-and-the-second-brain
+  section_id: 66251
+  children:
+  - type: TEST
+    title_ru: Задание 1.1. Подготовка к обучению на неделе
+    title_en: Assignment 1.1. Preparation for the Week's Learning
+    slug: assignment-1-1-preparation-for-the-week-s-learning
+    section_id: 66252
+  - type: TEXT
+    title_ru: Обучение, культура, техноэволюция и практики саморазвития
+    title_en: Education, Culture, Technoevolution, and Self-Development Practices
+    slug: education-culture-technoevolution-and-self-development-practices
+    section_id: 66253
+  - type: TEXT
+    title_ru: О роли ученика
+    title_en: On the Role of the Student
+    slug: on-the-role-of-the-student
+    section_id: 66254
+  - type: TEST
+    title_ru: Моделирование 1.1. Чек-лист оценки текущего состояния мастерства саморазвития
+    title_en: 'Modeling 1.1: Self-Development Mastery Assessment Checklist'
+    slug: modeling-1-1-self-development-mastery-assessment-checklist
+    section_id: 66255
+  - type: TEXT
+    title_ru: Как стать профессиональным учеником
+    title_en: How to Become a Professional Learner
+    slug: how-to-become-a-professional-learner
+    section_id: 66256
+  - type: TEST
+    title_ru: Моделирование 1.2. Роли и практики (методы)
+    title_en: 'Modeling 1.2: Roles and Practices (Methods)'
+    slug: modeling-1-2-roles-and-practices-methods
+    section_id: 66257
+  - type: TEXT
+    title_ru: Обучение как тренировка
+    title_en: Learning as Training
+    slug: learning-as-training
+    section_id: 66258
+  - type: TEXT
+    title_ru: Как были выбраны практики саморазвития
+    title_en: How Self-Development Practices Were Chosen
+    slug: how-self-development-practices-were-chosen
+    section_id: 66259
+  - type: TEXT
+    title_ru: Творческий конвейер
+    title_en: Creative Assembly Line
+    slug: creative-assembly-line
+    section_id: 66260
+  - type: TEXT
+    title_ru: В каком порядке осваивать практики саморазвития?
+    title_en: In What Order to Master Self-Development Practices?
+    slug: in-what-order-to-master-self-development-practices
+    section_id: 66261
+  - type: TEST
+    title_ru: Моделирование 1.3. Мой экзокортекс
+    title_en: Modeling 1.3. My Exocortex
+    slug: modeling-1-3-my-exocortex
+    section_id: 66262
+  - type: TEXT
+    title_ru: Стадии обучения и степени мастерства
+    title_en: Stages of Learning and Levels of Mastery
+    slug: stages-of-learning-and-levels-of-mastery
+    section_id: 66263
+  - type: TEXT
+    title_ru: Сколько необходимо времени для мастерства саморазвития
+    title_en: How Much Time is Needed for Mastery of Self-Development
+    slug: how-much-time-is-needed-for-mastery-of-self-development
+    section_id: 66264
+  - type: TEST
+    title_ru: Задание 1.2. Подключите технологии
+    title_en: Task 1.2. Integrate Technologies
+    slug: task-1-2-integrate-technologies
+    section_id: 66265
+  - type: TEXT
+    title_ru: Этапы постановки мастерства саморазвития
+    title_en: Stages of Mastering Self-Development
+    slug: stages-of-mastering-self-development
+    section_id: 66266
+  - type: TEXT
+    title_ru: Самооценка степени мастерства саморазвития
+    title_en: Self-Assessment of Self-Development Mastery
+    slug: self-assessment-of-self-development-mastery
+    section_id: 66267
+  - type: TEXT
+    title_ru: Рабочие продукты руководства
+    title_en: Management Work Artifacts
+    slug: management-work-artifacts
+    section_id: 66268
+  - type: TEXT
+    title_ru: Начинайте думать как мастер
+    title_en: Start Thinking Like a Master
+    slug: start-thinking-like-a-master
+    section_id: 66269
+  - type: TEST
+    title_ru: Моделирование 1.4. Список понятий
+    title_en: Modeling 1.4. List of Concepts
+    slug: modeling-1-4-list-of-concepts
+    section_id: 66270
+  - type: TEST
+    title_ru: Вопросы для повторения и самопроверки
+    title_en: Review and Self-Check Questions
+    slug: review-and-self-check-questions
+    section_id: 66271
+  - type: TEST
+    title_ru: Моделирование 1.5. Список неудовлетворенностей
+    title_en: Modeling 1.5. List of Dissatisfactions
+    slug: modeling-1-5-list-of-dissatisfactions
+    section_id: 66272
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 66273
+  - type: TEST
+    title_ru: 'Моделирование 1.6. Чек-лист "Прогресс мастерства саморазвития" 1.1:
+      степень «Объяснения», мастерство ученика'
+    title_en: 'Modeling 1.6. Checklist "Progress in Self-Development Mastery" 1.1:
+      Level "Explanations," Student Mastery'
+    slug: modeling-1-6-checklist-progress-in-self-development-mastery-1-1-level-explanations-student-mastery
+    section_id: 66274
+- type: HEADER
+  title_ru: Инвестирование и учет времени
+  title_en: Investment and Time Management
+  slug: investment-and-time-management
+  section_id: 66275
+  children:
+  - type: TEST
+    title_ru: Задание 2.1. Подготовка к обучению на неделе
+    title_en: Assignment 2.1. Preparation for the Week's Learning
+    slug: assignment-2-1-preparation-for-the-week-s-learning
+    section_id: 66276
+  - type: TEXT
+    title_ru: Как наши неудовлетворенности связаны со временем
+    title_en: How Our Dissatisfactions Are Connected to Time
+    slug: how-our-dissatisfactions-are-connected-to-time
+    section_id: 66277
+  - type: TEXT
+    title_ru: Что такое инвестирование и учет времени
+    title_en: What is Investment and Time Management
+    slug: what-is-investment-and-time-management
+    section_id: 66278
+  - type: TEXT
+    title_ru: Что получает человек от инвестирования и учета времени
+    title_en: What a Person Gains from Investment and Time Management
+    slug: what-a-person-gains-from-investment-and-time-management
+    section_id: 66279
+  - type: TEST
+    title_ru: Моделирование 2.1. Список информационных ресурсов. Инвестирование и
+      учет времени
+    title_en: Modeling 2.1. List of Information Resources. Investment and Time Management
+    slug: modeling-2-1-list-of-information-resources-investment-and-time-management
+    section_id: 66280
+  - type: TEXT
+    title_ru: Для кого важно инвестирование и учет времени
+    title_en: Who Benefits from Investment and Time Management
+    slug: who-benefits-from-investment-and-time-management
+    section_id: 66281
+  - type: TEXT
+    title_ru: Мастерство инвестирования и учета времени
+    title_en: Investment and Time Management Mastery
+    slug: investment-and-time-management-mastery
+    section_id: 66282
+  - type: TEXT
+    title_ru: Что делает человек, обладающий мастерством инвестирования и учета времени
+    title_en: What a Person with Mastery in Investment and Time Management Does
+    slug: what-a-person-with-mastery-in-investment-and-time-management-does
+    section_id: 66283
+  - type: TEXT
+    title_ru: Основные количественные параметры практики инвестирования и учета времени
+    title_en: Key Quantitative Parameters of Investment and Time Management Practice
+    slug: key-quantitative-parameters-of-investment-and-time-management-practice
+    section_id: 66284
+  - type: TEXT
+    title_ru: Принципы практики инвестирования и учета времени
+    title_en: Principles of Investment and Time Management
+    slug: principles-of-investment-and-time-management
+    section_id: 66285
+  - type: TEXT
+    title_ru: Как практика инвестирования и учета времени связана с другими практиками
+      саморазвития
+    title_en: How Investment and Time Management Relate to Other Self-Development
+      Practices
+    slug: how-investment-and-time-management-relate-to-other-self-development-practices
+    section_id: 66286
+  - type: TEXT
+    title_ru: Как освоить практику инвестирования и учета времени. Первый этап – «Объяснение»
+    title_en: How to Master the Practice of Investment and Time Management. Stage
+      One – "Explanation"
+    slug: how-to-master-the-practice-of-investment-and-time-management-stage-one-explanation
+    section_id: 66287
+    images:
+    - filename: 0.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/selfdev/2025-04-22T1344/1850/0.png
+      orig_hash: 3a183b0df4df5c97e9cd2bc28a519a0f5993515d3b876536f92f19c9eb547c38
+  - type: TEST
+    title_ru: Моделирование 2.2. Список моих затруднений. Инвестирование и учет времени
+    title_en: Modeling 2.2. List of My Difficulties. Investment and Time Management
+    slug: modeling-2-2-list-of-my-difficulties-investment-and-time-management
+    section_id: 66288
+  - type: TEXT
+    title_ru: Как освоить практику инвестирования и учета времени. Второй этап – «Умение»
+    title_en: How to Master the Practice of Investment and Time Management. Stage
+      Two – "Skill"
+    slug: how-to-master-the-practice-of-investment-and-time-management-stage-two-skill
+    section_id: 66289
+  - type: TEXT
+    title_ru: Как освоить практику инвестирования и учета времени. Третий этап – «Навык»
+    title_en: How to Master the Practice of Investment and Time Management. Stage
+      Three – "Skill"
+    slug: how-to-master-the-practice-of-investment-and-time-management-stage-three-skill
+    section_id: 66290
+  - type: TEXT
+    title_ru: Как освоить практику инвестирования и учета времени. Четвертый этап
+      – «Мастерство»
+    title_en: How to Master the Practice of Investment and Time Management. Stage
+      Four – "Mastery"
+    slug: how-to-master-the-practice-of-investment-and-time-management-stage-four-mastery
+    section_id: 66291
+  - type: TEST
+    title_ru: Моделирование 2.3. Список понятий. Инвестирование и учет времени
+    title_en: Modeling 2.3. List of Concepts. Investment and Time Management
+    slug: modeling-2-3-list-of-concepts-investment-and-time-management
+    section_id: 66292
+  - type: TEST
+    title_ru: Вопросы для повторения и самопроверки
+    title_en: Review and Self-Check Questions
+    slug: review-and-self-check-questions
+    section_id: 66293
+  - type: TEXT
+    title_ru: Дополнительные материалы
+    title_en: Additional Materials
+    slug: additional-materials
+    section_id: 66294
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 66295
+  - type: TEST
+    title_ru: 'Моделирование 2.4. Чек-лист "Прогресс мастерства саморазвития" 1.2:
+      степень «Объяснения», мастерство инвестирования и учета времени'
+    title_en: 'Modeling 2.4. Checklist "Progress in Self-Development Mastery" 1.2:
+      Level "Explanations," Mastery of Investment and Time Management'
+    slug: modeling-2-4-checklist-progress-in-self-development-mastery-1-2-level-explanations-mastery-of-investment-and-time-management
+    section_id: 66296
+  - type: TEST
+    title_ru: 'Моделирование 2.5. Чек-лист "Прогресс мастерства саморазвития" 2.2:
+      степень «Умение», мастерство инвестирования и учета времени'
+    title_en: 'Modeling 2.5. Checklist "Progress in Self-Development Mastery" 2.2:
+      Level "Skill," Mastery of Investment and Time Management'
+    slug: modeling-2-5-checklist-progress-in-self-development-mastery-2-2-level-skill-mastery-of-investment-and-time-management
+    section_id: 66297
+- type: HEADER
+  title_ru: Систематическое медленное чтение
+  title_en: Systematic Slow Reading
+  slug: systematic-slow-reading
+  section_id: 66298
+  children:
+  - type: TEST
+    title_ru: Задание 3.1. Подготовка к обучению на неделе
+    title_en: Assignment 3.1. Preparation for the Week's Learning
+    slug: assignment-3-1-preparation-for-the-week-s-learning
+    section_id: 66299
+  - type: TEXT
+    title_ru: Что такое потребление информации и почему нам нравится это делать
+    title_en: What is Information Consumption and Why Do We Enjoy It
+    slug: what-is-information-consumption-and-why-do-we-enjoy-it
+    section_id: 66300
+  - type: TEXT
+    title_ru: Что такое систематическое медленное чтение
+    title_en: What is Systematic Slow Reading
+    slug: what-is-systematic-slow-reading
+    section_id: 66301
+  - type: TEXT
+    title_ru: Что получает человек от систематического медленного чтения
+    title_en: What One Gains from Systematic Slow Reading
+    slug: what-one-gains-from-systematic-slow-reading
+    section_id: 66302
+  - type: TEST
+    title_ru: Моделирование 3.1. Список информационных ресурсов. Систематическое медленное
+      чтение
+    title_en: Modeling 3.1. List of Information Resources. Systematic Slow Reading
+    slug: modeling-3-1-list-of-information-resources-systematic-slow-reading
+    section_id: 66303
+  - type: TEXT
+    title_ru: Для кого важно систематическое медленное чтение
+    title_en: Who Benefits from Systematic Slow Reading
+    slug: who-benefits-from-systematic-slow-reading
+    section_id: 66304
+  - type: TEXT
+    title_ru: Мастерство систематического медленного чтения
+    title_en: Mastery of Systematic Slow Reading
+    slug: mastery-of-systematic-slow-reading
+    section_id: 66305
+  - type: TEXT
+    title_ru: Что делает человек, владеющий практикой систематического медленного
+      чтения
+    title_en: What a Person Practicing Systematic Slow Reading Does
+    slug: what-a-person-practicing-systematic-slow-reading-does
+    section_id: 66306
+  - type: TEXT
+    title_ru: Принципы практики систематического медленного чтения
+    title_en: Principles of Systematic Slow Reading Practice
+    slug: principles-of-systematic-slow-reading-practice
+    section_id: 66307
+  - type: TEXT
+    title_ru: Как практика систематического медленного чтения связана с другими практиками
+      саморазвития
+    title_en: How the Practice of Systematic Slow Reading Relates to Other Self-Development
+      Practices
+    slug: how-the-practice-of-systematic-slow-reading-relates-to-other-self-development-practices
+    section_id: 66308
+  - type: TEXT
+    title_ru: Как освоить практику систематического медленного чтения. Первый этап
+      – «Объяснение»
+    title_en: 'How to Master the Practice of Systematic Slow Reading: Stage One -
+      Explanation'
+    slug: how-to-master-the-practice-of-systematic-slow-reading-stage-one-explanation
+    section_id: 66309
+  - type: TEST
+    title_ru: Моделирование 3.2. Список моих затруднений. Систематическое медленное
+      чтение
+    title_en: Modeling 3.2. List of My Difficulties. Systematic Slow Reading
+    slug: modeling-3-2-list-of-my-difficulties-systematic-slow-reading
+    section_id: 66310
+  - type: TEXT
+    title_ru: Как освоить практику систематического медленного чтения. Второй этап
+      – «Умение»
+    title_en: How to Master the Practice of Systematic Slow Reading. Stage Two – "Skill"
+    slug: how-to-master-the-practice-of-systematic-slow-reading-stage-two-skill
+    section_id: 66311
+  - type: TEXT
+    title_ru: Как освоить практику систематического медленного чтения. Третий этап
+      – «Навык»
+    title_en: How to Master the Practice of Systematic Slow Reading. Stage Three –
+      "Skill"
+    slug: how-to-master-the-practice-of-systematic-slow-reading-stage-three-skill
+    section_id: 66312
+  - type: TEXT
+    title_ru: Как освоить практику систематического медленного чтения. Четвертый этап
+      – «Мастерство»
+    title_en: 'How to Master the Practice of Systematic Slow Reading: Stage Four -
+      "Mastery"'
+    slug: how-to-master-the-practice-of-systematic-slow-reading-stage-four-mastery
+    section_id: 66313
+  - type: TEST
+    title_ru: Моделирование 3.3. Список понятий. Систематическое медленное чтение
+    title_en: Modeling 3.3. List of Concepts. Systematic Slow Reading
+    slug: modeling-3-3-list-of-concepts-systematic-slow-reading
+    section_id: 66314
+  - type: TEST
+    title_ru: Вопросы для повторения и самопроверки
+    title_en: Review and Self-Check Questions
+    slug: review-and-self-check-questions
+    section_id: 66315
+  - type: TEXT
+    title_ru: Дополнительные материалы
+    title_en: Additional Materials
+    slug: additional-materials
+    section_id: 66316
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 66317
+  - type: TEST
+    title_ru: 'Моделирование 3.4. Чек-лист "Прогресс мастерства саморазвития" 1.3:
+      степень «Объяснения», мастерство систематического медленного чтения'
+    title_en: 'Modeling 3.4. Checklist "Progress in Self-Development Mastery" 1.3:
+      Level "Explanations," Mastery of Systematic Slow Reading'
+    slug: modeling-3-4-checklist-progress-in-self-development-mastery-1-3-level-explanations-mastery-of-systematic-slow-reading
+    section_id: 66318
+  - type: TEST
+    title_ru: 'Моделирование 3.5. Чек-лист "Прогресс мастерства саморазвития" 2.3:
+      степень «Умение», мастерство систематического медленного чтения'
+    title_en: 'Modeling 3.5. Checklist "Progress in Self-Development Mastery" 2.3:
+      Level "Skill," Mastery of Systematic Slow Reading'
+    slug: modeling-3-5-checklist-progress-in-self-development-mastery-2-3-level-skill-mastery-of-systematic-slow-reading
+    section_id: 66319
+- type: HEADER
+  title_ru: Мышление письмом
+  title_en: Thinking Through Writing
+  slug: thinking-through-writing
+  section_id: 66320
+  children:
+  - type: TEST
+    title_ru: Задание 4.1. Подготовка к обучению на неделе
+    title_en: Assignment 4.1. Preparation for the Week's Learning
+    slug: assignment-4-1-preparation-for-the-week-s-learning
+    section_id: 66321
+  - type: TEXT
+    title_ru: Как сделать так, чтобы наш мозг работал все лучше и лучше
+    title_en: How to Make Our Brain Work Better and Better
+    slug: how-to-make-our-brain-work-better-and-better
+    section_id: 66322
+  - type: TEXT
+    title_ru: Что такое мышление письмом
+    title_en: What is Thinking Through Writing
+    slug: what-is-thinking-through-writing
+    section_id: 66323
+  - type: TEXT
+    title_ru: Что получает человек от мышления письмом
+    title_en: What One Gains from Thinking Through Writing
+    slug: what-one-gains-from-thinking-through-writing
+    section_id: 66324
+  - type: TEST
+    title_ru: Моделирование 4.1. Список информационных ресурсов. Мышление письмом
+    title_en: Modeling 4.1. List of Information Resources. Thinking Through Writing
+    slug: modeling-4-1-list-of-information-resources-thinking-through-writing
+    section_id: 66325
+  - type: TEXT
+    title_ru: Для кого важно мышление письмом
+    title_en: Who Benefits from Thinking Through Writing
+    slug: who-benefits-from-thinking-through-writing
+    section_id: 66326
+  - type: TEXT
+    title_ru: Мастерство мышления письмом
+    title_en: Thinking Mastery Through Writing
+    slug: thinking-mastery-through-writing
+    section_id: 66327
+  - type: TEXT
+    title_ru: Что делает человек, обладающий мастерством мышления письмом
+    title_en: What a Person with Thinking Through Writing Mastery Does
+    slug: what-a-person-with-thinking-through-writing-mastery-does
+    section_id: 66328
+  - type: TEXT
+    title_ru: Что за рамками мышления письмом
+    title_en: What Lies Beyond Thinking Through Writing
+    slug: what-lies-beyond-thinking-through-writing
+    section_id: 66329
+  - type: TEXT
+    title_ru: Рабочие продукты практики мышления письмом
+    title_en: Work Artifacts of the Thinking Through Writing Practice
+    slug: work-artifacts-of-the-thinking-through-writing-practice
+    section_id: 66330
+  - type: TEXT
+    title_ru: Принципы практики мышления письмом.
+    title_en: Principles of Practicing Thinking Through Writing
+    slug: principles-of-practicing-thinking-through-writing
+    section_id: 66331
+  - type: TEXT
+    title_ru: Как практика мышления письмом связана с другими практиками саморазвития
+    title_en: How the Practice of Thinking Through Writing Relates to Other Self-Development
+      Practices
+    slug: how-the-practice-of-thinking-through-writing-relates-to-other-self-development-practices
+    section_id: 66332
+  - type: TEXT
+    title_ru: Как освоить практику мышления письмом. Первый этап – «Объяснение»
+    title_en: 'How to Master the Practice of Thinking Through Writing: First Stage
+      - "Explanation"'
+    slug: how-to-master-the-practice-of-thinking-through-writing-first-stage-explanation
+    section_id: 66333
+  - type: TEST
+    title_ru: Моделирование 4.2. Список моих затруднений. Мышление письмом
+    title_en: Modeling 4.2. List of My Difficulties. Thinking Through Writing
+    slug: modeling-4-2-list-of-my-difficulties-thinking-through-writing
+    section_id: 66334
+  - type: TEXT
+    title_ru: Как освоить практику мышления письмом. Второй этап – «Умение»
+    title_en: How to Master the Practice of Thinking Through Writing. Stage Two –
+      "Skill"
+    slug: how-to-master-the-practice-of-thinking-through-writing-stage-two-skill
+    section_id: 66335
+  - type: TEXT
+    title_ru: Как освоить практику мышления письмом. Третий и четвертый этапы – «Навык»
+      и «Мастерство»
+    title_en: 'How to Master the Practice of Thinking Through Writing: Stages Three
+      and Four – "Skill" and "Mastery"'
+    slug: how-to-master-the-practice-of-thinking-through-writing-stages-three-and-four-skill-and-mastery
+    section_id: 66336
+  - type: TEST
+    title_ru: Моделирование 4.3. Список понятий. Мышление письмом
+    title_en: Modeling 4.3. List of Concepts. Thinking Through Writing
+    slug: modeling-4-3-list-of-concepts-thinking-through-writing
+    section_id: 66337
+  - type: TEST
+    title_ru: Моделирование 4.4. Мой творческий конвейер
+    title_en: Modeling 4.4. My Creative Assembly Line
+    slug: modeling-4-4-my-creative-assembly-line
+    section_id: 66338
+  - type: TEST
+    title_ru: Вопросы для повторения и самопроверки
+    title_en: Review and Self-Check Questions
+    slug: review-and-self-check-questions
+    section_id: 66339
+  - type: TEXT
+    title_ru: Дополнительные материалы
+    title_en: Additional Materials
+    slug: additional-materials
+    section_id: 66340
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 66341
+  - type: TEST
+    title_ru: 'Моделирование 4.5. Чек-лист "Прогресс мастерства саморазвития" 1.4:
+      степень «Объяснения», мастерство мышления письмом'
+    title_en: 'Modeling 4.5. Checklist "Progress in Self-Development Mastery" 1.4:
+      Level "Explanations," Thinking Through Writing Mastery'
+    slug: modeling-4-5-checklist-progress-in-self-development-mastery-1-4-level-explanations-thinking-through-writing-mastery
+    section_id: 66342
+  - type: TEST
+    title_ru: 'Моделирование 4.6. Чек-лист "Прогресс мастерства саморазвития" 2.4:
+      степень «Умение», мастерство мышления письмом'
+    title_en: 'Modeling 4.6. Checklist "Progress in Self-Development Mastery" 2.4:
+      Level "Skill," Thinking Through Writing Mastery'
+    slug: modeling-4-6-checklist-progress-in-self-development-mastery-2-4-level-skill-thinking-through-writing-mastery
+    section_id: 66343
+- type: HEADER
+  title_ru: Мышление проговариванием
+  title_en: Thinking by Speaking
+  slug: thinking-by-speaking
+  section_id: 66344
+  children:
+  - type: TEST
+    title_ru: 'Задание 5.1.: Подготовка к обучению на неделе'
+    title_en: 'Assignment 5.1: Preparation for Weekly Learning'
+    slug: assignment-5-1-preparation-for-weekly-learning
+    section_id: 66345
+  - type: TEXT
+    title_ru: Почему нам хочется поговорить?
+    title_en: Why Do We Want to Talk?
+    slug: why-do-we-want-to-talk
+    section_id: 66346
+  - type: TEXT
+    title_ru: Форма против содержания
+    title_en: Form versus Content
+    slug: form-versus-content
+    section_id: 66347
+  - type: TEXT
+    title_ru: Что такое мышление проговариванием
+    title_en: What is Thinking by Speaking
+    slug: what-is-thinking-by-speaking
+    section_id: 66348
+  - type: TEXT
+    title_ru: Что получает человек от мышления проговариванием
+    title_en: What Does a Person Gain from Thinking by Speaking
+    slug: what-does-a-person-gain-from-thinking-by-speaking
+    section_id: 66349
+  - type: TEST
+    title_ru: Моделирование 5.1. Список информационных ресурсов. Мышление проговариванием
+    title_en: Modeling 5.1. List of Information Resources. Thinking by Speaking
+    slug: modeling-5-1-list-of-information-resources-thinking-by-speaking
+    section_id: 66350
+  - type: TEXT
+    title_ru: Для кого важно мышление проговариванием
+    title_en: Who Benefits from Thinking by Speaking
+    slug: who-benefits-from-thinking-by-speaking
+    section_id: 66351
+  - type: TEXT
+    title_ru: Мастерство мышления проговариванием
+    title_en: Thinking Mastery by Speaking
+    slug: thinking-mastery-by-speaking
+    section_id: 66352
+  - type: TEXT
+    title_ru: Что делает человек, обладающий мастерством мышления проговариванием
+    title_en: What a Person with Thinking by Speaking Mastery Does
+    slug: what-a-person-with-thinking-by-speaking-mastery-does
+    section_id: 66353
+  - type: TEXT
+    title_ru: Принципы практики проговаривания
+    title_en: Principles of the Practice of Thinking by Speaking
+    slug: principles-of-the-practice-of-thinking-by-speaking
+    section_id: 66354
+  - type: TEXT
+    title_ru: Как практика мышления проговариванием связана с другими практиками саморазвития
+    title_en: How the Practice of Thinking by Speaking Relates to Other Self-Development
+      Practices
+    slug: how-the-practice-of-thinking-by-speaking-relates-to-other-self-development-practices
+    section_id: 66355
+  - type: TEXT
+    title_ru: Как освоить практику мышления проговариванием. Первый этап – «Объяснение»
+    title_en: 'How to Master the Practice of Thinking by Speaking: First Stage - "Explanation"'
+    slug: how-to-master-the-practice-of-thinking-by-speaking-first-stage-explanation
+    section_id: 66356
+  - type: TEST
+    title_ru: Моделирование 5.2. Список моих затруднений. Мышление проговариванием
+    title_en: Modeling 5.2. List of My Difficulties. Thinking by Speaking
+    slug: modeling-5-2-list-of-my-difficulties-thinking-by-speaking
+    section_id: 66357
+  - type: TEXT
+    title_ru: Как освоить практику мышления проговариванием. Второй этап – «Умение»
+    title_en: How to Master the Practice of Thinking by Speaking. Stage Two – "Skill"
+    slug: how-to-master-the-practice-of-thinking-by-speaking-stage-two-skill
+    section_id: 66358
+  - type: TEXT
+    title_ru: Как освоить практику мышления проговариванием. Третий этап – «Навык»
+    title_en: How to Master the Practice of Thinking by Speaking. Stage Three – "Skill"
+    slug: how-to-master-the-practice-of-thinking-by-speaking-stage-three-skill
+    section_id: 66359
+  - type: TEXT
+    title_ru: Как освоить практику мышления проговариванием. Четвертый этап – «Мастерство»
+    title_en: How to Master the Practice of Thinking by Speaking. Stage Four – "Mastery"
+    slug: how-to-master-the-practice-of-thinking-by-speaking-stage-four-mastery
+    section_id: 66360
+  - type: TEST
+    title_ru: Моделирование 5.3. Основные понятия. Мышление проговариванием
+    title_en: Modeling 5.3. Key Concepts. Thinking by Speaking
+    slug: modeling-5-3-key-concepts-thinking-by-speaking
+    section_id: 66361
+  - type: TEST
+    title_ru: Вопросы для повторения и самопроверки
+    title_en: Review and Self-Check Questions
+    slug: review-and-self-check-questions
+    section_id: 66362
+  - type: TEXT
+    title_ru: Дополнительные материалы
+    title_en: Additional Materials
+    slug: additional-materials
+    section_id: 66363
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 66364
+  - type: TEST
+    title_ru: 'Моделирование 5.4. Чек-лист "Прогресс мастерства саморазвития" 1.5:
+      степень «Объяснения», мастерство мышления проговариванием'
+    title_en: 'Modeling 5.4. Checklist "Progress in Self-Development Mastery" 1.5:
+      Level "Explanations," Mastery of Thinking by Speaking'
+    slug: modeling-5-4-checklist-progress-in-self-development-mastery-1-5-level-explanations-mastery-of-thinking-by-speaking
+    section_id: 66365
+  - type: TEST
+    title_ru: 'Моделирование 5.5. Чек-лист "Прогресс мастерства саморазвития" 2.5:
+      степень «Умение», мастерство мышления проговариванием'
+    title_en: 'Modeling 5.5. Checklist "Progress in Self-Development Mastery" 2.5:
+      Level "Skill," Thinking by Speaking Mastery'
+    slug: modeling-5-5-checklist-progress-in-self-development-mastery-2-5-level-skill-thinking-by-speaking-mastery
+    section_id: 66366
+- type: HEADER
+  title_ru: Организация досуга
+  title_en: Leisure Organization
+  slug: leisure-organization
+  section_id: 66367
+  children:
+  - type: TEST
+    title_ru: 'Задание 6.1.: Подготовка к обучению на неделе'
+    title_en: 'Assignment 6.1: Preparation for the Week''s Learning'
+    slug: assignment-6-1-preparation-for-the-week-s-learning
+    section_id: 66368
+  - type: TEXT
+    title_ru: Почему мы недовольны жизнью, часто выгораем или нам не хватает энергии
+      для реализации задуманного
+    title_en: Why We Are Dissatisfied with Life, Often Burn Out, or Lack Energy to
+      Implement Our Plans
+    slug: why-we-are-dissatisfied-with-life-often-burn-out-or-lack-energy-to-implement-our-plans
+    section_id: 66369
+  - type: TEXT
+    title_ru: Что такое досуг
+    title_en: What is Leisure
+    slug: what-is-leisure
+    section_id: 66370
+  - type: TEXT
+    title_ru: Что мы можем получить от правильно организованного досуга
+    title_en: What We Can Gain from Well-Organized Leisure
+    slug: what-we-can-gain-from-well-organized-leisure
+    section_id: 66371
+  - type: TEST
+    title_ru: Моделирование 6.1. Список информационных ресурсов. Практика организация
+      досуга
+    title_en: Modeling 6.1. List of Information Resources. Leisure Organization Practice
+    slug: modeling-6-1-list-of-information-resources-leisure-organization-practice
+    section_id: 66372
+  - type: TEXT
+    title_ru: Для кого важна организация досуга
+    title_en: Who Benefits from Leisure Organization
+    slug: who-benefits-from-leisure-organization
+    section_id: 66373
+  - type: TEXT
+    title_ru: Мастерство организации досуга
+    title_en: Leisure Organization Mastery
+    slug: leisure-organization-mastery
+    section_id: 66374
+  - type: TEXT
+    title_ru: Что делает человек, обладающий мастерством организации досуга
+    title_en: What Does a Person with Leisure Organization Mastery Do
+    slug: what-does-a-person-with-leisure-organization-mastery-do
+    section_id: 66375
+    images:
+    - filename: 1.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/selfdev/2025-04-22T1344/6250/1.jpeg
+      orig_hash: 901643f0089bc1d108868bd19b9b32a20fb5aeaf61bd4a49f4ffeb6003cd199d
+  - type: TEXT
+    title_ru: Что такое практики досуга
+    title_en: What are leisure practices
+    slug: what-are-leisure-practices
+    section_id: 66376
+  - type: TEXT
+    title_ru: Принципы практики организации досуга
+    title_en: Principles of Leisure Organization Practice
+    slug: principles-of-leisure-organization-practice
+    section_id: 66377
+  - type: TEXT
+    title_ru: Как практика организации досуга связана с другими практиками саморазвития?
+    title_en: How is the practice of organizing leisure connected to other self-development
+      practices?
+    slug: how-is-the-practice-of-organizing-leisure-connected-to-other-self-development-practices
+    section_id: 66378
+  - type: TEXT
+    title_ru: Как освоить практику организации досуга. Первый этап — “Объяснения”
+    title_en: 'How to Master Leisure Organization Practice: Stage One - "Explanations"'
+    slug: how-to-master-leisure-organization-practice-stage-one-explanations
+    section_id: 66379
+  - type: TEST
+    title_ru: Моделирование 6.2. Список моих затруднений. Организация досуга
+    title_en: Modeling 6.2. List of My Difficulties. Leisure Organization
+    slug: modeling-6-2-list-of-my-difficulties-leisure-organization
+    section_id: 66380
+  - type: TEXT
+    title_ru: Как освоить практику организации досуга. Второй этап — “Умение”
+    title_en: How to Master Leisure Organization Practice. Stage Two — "Skill"
+    slug: how-to-master-leisure-organization-practice-stage-two-skill
+    section_id: 66381
+  - type: TEST
+    title_ru: Моделирование 6.3. Мои практики досуга
+    title_en: Modeling 6.3. My Leisure Practices
+    slug: modeling-6-3-my-leisure-practices
+    section_id: 66382
+  - type: TEXT
+    title_ru: Как освоить практику организации досуга Третий и четвертый этапы — “Навык”
+      и “Мастерство”
+    title_en: 'How to Master Leisure Organization Practice: Stages Three and Four
+      — "Skill" and "Mastery"'
+    slug: how-to-master-leisure-organization-practice-stages-three-and-four-skill-and-mastery
+    section_id: 66383
+  - type: TEST
+    title_ru: Моделирование 6.4. Список понятий. Организация досуга
+    title_en: Modeling 6.4. List of Concepts. Leisure Organization
+    slug: modeling-6-4-list-of-concepts-leisure-organization
+    section_id: 66384
+  - type: TEST
+    title_ru: Вопросы для повторения и самопроверки
+    title_en: Review and Self-Check Questions
+    slug: review-and-self-check-questions
+    section_id: 66385
+  - type: TEXT
+    title_ru: Дополнительные материалы
+    title_en: Additional Materials
+    slug: additional-materials
+    section_id: 66386
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 66387
+  - type: TEST
+    title_ru: 'Моделирование 6.5. Чек-лист "Прогресс мастерства саморазвития" 1.6:
+      степень «Объяснения», мастерство организация досуга'
+    title_en: 'Modeling 6.5. Checklist "Progress in Self-Development Mastery" 1.6:
+      Level "Explanations," Mastery in Leisure Organization'
+    slug: modeling-6-5-checklist-progress-in-self-development-mastery-1-6-level-explanations-mastery-in-leisure-organization
+    section_id: 66388
+  - type: TEST
+    title_ru: 'Моделирование 6.6. Чек-лист "Прогресс мастерства саморазвития" 2.6:
+      степень «Умение», мастерство организация досуга'
+    title_en: 'Modeling 6.6. Checklist "Progress in Self-Development Mastery" 2.6:
+      Level "Skill," Mastery in Leisure Organization'
+    slug: modeling-6-6-checklist-progress-in-self-development-mastery-2-6-level-skill-mastery-in-leisure-organization
+    section_id: 66389
+- type: HEADER
+  title_ru: Формирование окружения
+  title_en: Environment Formation
+  slug: environment-formation
+  section_id: 66390
+  children:
+  - type: TEST
+    title_ru: Задание 7.1. Подготовка к обучению на неделе
+    title_en: Assignment 7.1. Preparation for Weekly Training
+    slug: assignment-7-1-preparation-for-weekly-training
+    section_id: 66391
+  - type: TEXT
+    title_ru: Почему мы “живем не свою жизнь” или ощущаем недостаток мотивации
+    title_en: Why We "Live Someone Else's Life" or Feel a Lack of Motivation
+    slug: why-we-live-someone-else-s-life-or-feel-a-lack-of-motivation
+    section_id: 66392
+  - type: TEXT
+    title_ru: Что такое окружающая человека среда
+    title_en: What is the Human Environment
+    slug: what-is-the-human-environment
+    section_id: 66393
+  - type: TEXT
+    title_ru: Что мы можем получить от правильного окружения
+    title_en: What We Can Gain from the Right Environment
+    slug: what-we-can-gain-from-the-right-environment
+    section_id: 66394
+  - type: TEST
+    title_ru: Моделирование 7.1. Список информационных ресурсов. Формирование окружения
+    title_en: Modeling 7.1. List of Information Resources. Environment Formation
+    slug: modeling-7-1-list-of-information-resources-environment-formation
+    section_id: 66395
+  - type: TEXT
+    title_ru: Для кого важно формирование окружения
+    title_en: Who Benefits from Environment Formation
+    slug: who-benefits-from-environment-formation
+    section_id: 66396
+  - type: TEXT
+    title_ru: Мастерство формирования окружения
+    title_en: Mastery of Shaping the Environment
+    slug: mastery-of-shaping-the-environment
+    section_id: 66397
+  - type: TEXT
+    title_ru: Что делает человек, обладающий мастерством формирования окружения
+    title_en: What Does a Person with Mastery in Shaping the Environment Do
+    slug: what-does-a-person-with-mastery-in-shaping-the-environment-do
+    section_id: 66398
+  - type: TEXT
+    title_ru: Принципы практики формирования окружения
+    title_en: Principles of Environment Formation Practice
+    slug: principles-of-environment-formation-practice
+    section_id: 66399
+  - type: TEXT
+    title_ru: Как практика формирования окружения связана с другими практиками саморазвития
+    title_en: How the Practice of Shaping the Environment Relates to Other Self-Development
+      Practices
+    slug: how-the-practice-of-shaping-the-environment-relates-to-other-self-development-practices
+    section_id: 66400
+  - type: TEXT
+    title_ru: Как освоить практику формирования окружения. Первый этап – «Объяснение»
+    title_en: How to Master the Practice of Forming an Environment. Stage One – "Explanation"
+    slug: how-to-master-the-practice-of-forming-an-environment-stage-one-explanation
+    section_id: 66401
+  - type: TEST
+    title_ru: Моделирование 7.2. Список моих затруднений. Формирование окружения
+    title_en: Modeling 7.2. List of My Difficulties. Forming the Environment
+    slug: modeling-7-2-list-of-my-difficulties-forming-the-environment
+    section_id: 66402
+  - type: TEXT
+    title_ru: Как освоить практику формирования окружения. Второй этап – «Умение»
+    title_en: How to Master the Practice of Forming an Environment. Stage Two – "Skill"
+    slug: how-to-master-the-practice-of-forming-an-environment-stage-two-skill
+    section_id: 66403
+  - type: TEST
+    title_ru: Моделирование 7.3. Моё окружение
+    title_en: 'Modeling 7.3: My Environment'
+    slug: modeling-7-3-my-environment
+    section_id: 66404
+  - type: TEXT
+    title_ru: Как освоить практику формирования окружения. Третий и четвертый этапы
+      – «Навык» и «Мастерство»
+    title_en: 'How to Master the Practice of Forming an Environment: Stages Three
+      and Four – "Skill" and "Mastery"'
+    slug: how-to-master-the-practice-of-forming-an-environment-stages-three-and-four-skill-and-mastery
+    section_id: 66405
+  - type: TEST
+    title_ru: Моделирование 7.4. Список понятия. Формирование окружения
+    title_en: Modeling 7.4. List of Concepts. Formation of Environment
+    slug: modeling-7-4-list-of-concepts-formation-of-environment
+    section_id: 66406
+  - type: TEST
+    title_ru: Вопросы для повторения и самопроверки
+    title_en: Review and Self-Check Questions
+    slug: review-and-self-check-questions
+    section_id: 66407
+  - type: TEXT
+    title_ru: Дополнительные материалы
+    title_en: Additional Materials
+    slug: additional-materials
+    section_id: 66408
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 66409
+  - type: TEST
+    title_ru: 'Моделирование 7.5. Чек-лист "Прогресс мастерства саморазвития" 1.7:
+      степень «Объяснения», мастерство формирования окружения'
+    title_en: 'Modeling 7.5. Checklist "Progress in Self-Development Mastery" 1.7:
+      Level "Explanations," Mastery of Environment Formation'
+    slug: modeling-7-5-checklist-progress-in-self-development-mastery-1-7-level-explanations-mastery-of-environment-formation
+    section_id: 66410
+  - type: TEST
+    title_ru: 'Моделирование 7.6. Чек-лист "Прогресс мастерства саморазвития" 2.7:
+      степень «Умение», мастерство формирования окружения'
+    title_en: 'Modeling 7.6. Checklist "Progress in Self-Development Mastery" 2.7:
+      Level "Skill," Mastery of Environment Formation'
+    slug: modeling-7-6-checklist-progress-in-self-development-mastery-2-7-level-skill-mastery-of-environment-formation
+    section_id: 66411
+- type: HEADER
+  title_ru: Стратегирование
+  title_en: Strategizing
+  slug: strategizing
+  section_id: 66412
+  children:
+  - type: TEST
+    title_ru: Задание 8.1. Подготовка к обучению на неделе
+    title_en: Assignment 8.1. Preparation for Weekly Learning
+    slug: assignment-8-1-preparation-for-weekly-learning
+    section_id: 66413
+  - type: TEXT
+    title_ru: О неудовлетворенностях и беспокойствах
+    title_en: On Dissatisfactions and Concerns
+    slug: on-dissatisfactions-and-concerns
+    section_id: 66414
+  - type: TEXT
+    title_ru: Как справляться с беспокойством и описывать неудовлетворенности
+    title_en: How to Manage Anxiety and Describe Dissatisfaction
+    slug: how-to-manage-anxiety-and-describe-dissatisfaction
+    section_id: 66415
+  - type: TEST
+    title_ru: Моделирование 8.1. Проблема, неудовлетворенность, эмоция (чувство)
+    title_en: Modeling 8.1. Problem, Dissatisfaction, Emotion (Feeling)
+    slug: modeling-8-1-problem-dissatisfaction-emotion-feeling
+    section_id: 66416
+  - type: TEXT
+    title_ru: Что такое стратегирование, стратегия и проект
+    title_en: What Are Strategizing, Strategy, and Project
+    slug: what-are-strategizing-strategy-and-project
+    section_id: 66417
+  - type: TEST
+    title_ru: Моделирование 8.2. Стратегия и проекты
+    title_en: 'Modeling 8.2: Strategy and Projects'
+    slug: modeling-8-2-strategy-and-projects
+    section_id: 66418
+  - type: TEXT
+    title_ru: Что получает человек от стратегирования
+    title_en: What a Person Gains from Strategizing
+    slug: what-a-person-gains-from-strategizing
+    section_id: 66419
+  - type: TEST
+    title_ru: Моделирование 8.3. Список информационных ресурсов. Стратегирование
+    title_en: Modeling 8.3. List of Information Resources. Strategizing
+    slug: modeling-8-3-list-of-information-resources-strategizing
+    section_id: 66420
+  - type: TEXT
+    title_ru: Для кого важно и полезно стратегировать
+    title_en: Who Benefits from Strategic Planning
+    slug: who-benefits-from-strategic-planning
+    section_id: 66421
+  - type: TEXT
+    title_ru: Мастерство стратегирования
+    title_en: Strategy Mastery
+    slug: strategy-mastery
+    section_id: 66422
+  - type: TEXT
+    title_ru: Что делает человек, обладающий мастерством стратегирования
+    title_en: What Does a Person with Strategic Mastery Do
+    slug: what-does-a-person-with-strategic-mastery-do
+    section_id: 66423
+  - type: TEXT
+    title_ru: Что такое стратегия
+    title_en: What is Strategy
+    slug: what-is-strategy
+    section_id: 66424
+  - type: TEXT
+    title_ru: Как принимать стратегические решения
+    title_en: How to Make Strategic Decisions
+    slug: how-to-make-strategic-decisions
+    section_id: 66425
+  - type: TEST
+    title_ru: Моделирование 8.4. Мои критерии выбора
+    title_en: Modeling 8.4. My Selection Criteria
+    slug: modeling-8-4-my-selection-criteria
+    section_id: 66426
+  - type: TEXT
+    title_ru: Повестка стратегической сессии
+    title_en: Strategic Session Agenda
+    slug: strategic-session-agenda
+    section_id: 66427
+  - type: TEXT
+    title_ru: Рабочие продукты практики стратегирования
+    title_en: Work Artifacts of Strategic Practice
+    slug: work-artifacts-of-strategic-practice
+    section_id: 66428
+  - type: TEST
+    title_ru: Моделирование 8.5. Список моих проектов
+    title_en: 'Modeling 8.5: My Project List'
+    slug: modeling-8-5-my-project-list
+    section_id: 66429
+  - type: TEXT
+    title_ru: Принципы практики стратегирования
+    title_en: Principles of Strategic Practice
+    slug: principles-of-strategic-practice
+    section_id: 66430
+  - type: TEST
+    title_ru: Моделирование 8.6. Анализ и выбор приоритетных проектов
+    title_en: Modeling 8.6. Analysis and Selection of Priority Projects
+    slug: modeling-8-6-analysis-and-selection-of-priority-projects
+    section_id: 66431
+  - type: TEXT
+    title_ru: Как практика стратегирования связана с другими практиками саморазвития
+    title_en: How Strategic Practice Relates to Other Self-Development Practices
+    slug: how-strategic-practice-relates-to-other-self-development-practices
+    section_id: 66432
+  - type: TEST
+    title_ru: Моделирование 8.7. Список моих затруднений. Стратегирование
+    title_en: Modeling 8.7. List of My Difficulties. Strategizing
+    slug: modeling-8-7-list-of-my-difficulties-strategizing
+    section_id: 66433
+  - type: TEXT
+    title_ru: Как освоить практику стратегирования. Первый этап – «Объяснение»
+    title_en: 'How to Master the Practice of Strategizing: Stage One - Explanation'
+    slug: how-to-master-the-practice-of-strategizing-stage-one-explanation
+    section_id: 66434
+  - type: TEST
+    title_ru: Моделирование 8.8. Задачи по приоритетным проектам
+    title_en: Modeling 8.8. Priority Project Tasks
+    slug: modeling-8-8-priority-project-tasks
+    section_id: 66435
+  - type: TEXT
+    title_ru: Как освоить практику стратегирования. Второй этап – «Умение»
+    title_en: How to Master the Practice of Strategizing. Stage Two – "Skill"
+    slug: how-to-master-the-practice-of-strategizing-stage-two-skill
+    section_id: 66436
+  - type: TEXT
+    title_ru: Как освоить практику стратегирования. Третий этап – «Навык»
+    title_en: How to Master the Practice of Strategizing. Stage Three – "Skill"
+    slug: how-to-master-the-practice-of-strategizing-stage-three-skill
+    section_id: 66437
+  - type: TEXT
+    title_ru: Как освоить практику стратегирования. Четвертый этап – «Мастерство»
+    title_en: 'How to Master the Practice of Strategizing: Stage Four – "Mastery"'
+    slug: how-to-master-the-practice-of-strategizing-stage-four-mastery
+    section_id: 66438
+  - type: TEST
+    title_ru: Моделирование 8.9. Список понятий. Стратегирование
+    title_en: Modeling 8.9. List of Concepts. Strategizing
+    slug: modeling-8-9-list-of-concepts-strategizing
+    section_id: 66439
+  - type: TEST
+    title_ru: Вопросы для повторения и самопроверки
+    title_en: Review and Self-Check Questions
+    slug: review-and-self-check-questions
+    section_id: 66440
+  - type: TEXT
+    title_ru: Дополнительные материалы
+    title_en: Additional Materials
+    slug: additional-materials
+    section_id: 66441
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 66442
+  - type: TEST
+    title_ru: 'Моделирование 8.10. Чек-лист "Прогресс мастерства саморазвития" 1.8:
+      степень «Объяснения», мастерство стратегирования'
+    title_en: 'Modeling 8.10. Checklist "Progress in Self-Development Mastery" 1.8:
+      Level "Explanations," Mastery of Strategizing'
+    slug: modeling-8-10-checklist-progress-in-self-development-mastery-1-8-level-explanations-mastery-of-strategizing
+    section_id: 66443
+  - type: TEST
+    title_ru: 'Моделирование 8.11. Чек-лист "Прогресс мастерства саморазвития" 2.8:
+      степень «Умение», мастерство стратегирования'
+    title_en: 'Modeling 8.11. Checklist "Progress in Self-Development Mastery" 2.8:
+      Level "Skill," Mastery of Strategizing'
+    slug: modeling-8-11-checklist-progress-in-self-development-mastery-2-8-level-skill-mastery-of-strategizing
+    section_id: 66444
+- type: HEADER
+  title_ru: Планирование
+  title_en: Planning
+  slug: planning
+  section_id: 66445
+  children:
+  - type: TEST
+    title_ru: Задание 9.1. Подготовка к обучению на неделе
+    title_en: Assignment 9.1. Preparation for Weekly Learning
+    slug: assignment-9-1-preparation-for-weekly-learning
+    section_id: 66446
+  - type: TEXT
+    title_ru: Неудовлетворенности, за которые отвечает планирование
+    title_en: Dissatisfactions Addressed by Planning
+    slug: dissatisfactions-addressed-by-planning
+    section_id: 66447
+  - type: TEXT
+    title_ru: Почему возникают проблемы с планированием?
+    title_en: Why Do Planning Problems Arise?
+    slug: why-do-planning-problems-arise
+    section_id: 66448
+  - type: TEXT
+    title_ru: Что такое планирование?
+    title_en: What is Planning?
+    slug: what-is-planning
+    section_id: 66449
+  - type: TEXT
+    title_ru: Что мы можем получить от правильного планирования?
+    title_en: What Can We Gain from Proper Planning?
+    slug: what-can-we-gain-from-proper-planning
+    section_id: 66450
+  - type: TEST
+    title_ru: Моделирование 9.1. Список информационных ресурсов. Планирование
+    title_en: Modeling 9.1. List of Information Resources. Planning
+    slug: modeling-9-1-list-of-information-resources-planning
+    section_id: 66451
+  - type: TEXT
+    title_ru: Для кого важно планирование
+    title_en: Who Needs Planning
+    slug: who-needs-planning
+    section_id: 66452
+  - type: TEXT
+    title_ru: Мастерство планирования
+    title_en: Planning Mastery
+    slug: planning-mastery
+    section_id: 66453
+  - type: TEXT
+    title_ru: Что делает человек, занимающийся личным планированием?
+    title_en: What Does a Person Engaged in Personal Planning Do?
+    slug: what-does-a-person-engaged-in-personal-planning-do
+    section_id: 66454
+  - type: TEST
+    title_ru: Моделирование 9.2. Формулировка работ
+    title_en: Modeling 9.2. Formulating Tasks
+    slug: modeling-9-2-formulating-tasks
+    section_id: 66455
+  - type: TEXT
+    title_ru: Как классифицировать работы и составлять бюджет времени
+    title_en: How to Classify Work and Budget Time
+    slug: how-to-classify-work-and-budget-time
+    section_id: 66456
+  - type: TEST
+    title_ru: Моделирование 9.3. Бюджет времени
+    title_en: Modeling 9.3. Time Budget
+    slug: modeling-9-3-time-budget
+    section_id: 66457
+  - type: TEXT
+    title_ru: Ресурсы для планирования
+    title_en: Planning Resources
+    slug: planning-resources
+    section_id: 66458
+  - type: TEST
+    title_ru: Моделирование 9.4. Мой распорядок дня
+    title_en: Modeling 9.4. My Daily Routine
+    slug: modeling-9-4-my-daily-routine
+    section_id: 66459
+  - type: TEXT
+    title_ru: Рабочие продукты по практике планирования
+    title_en: Work Artifacts for Planning Practice
+    slug: work-artifacts-for-planning-practice
+    section_id: 66460
+  - type: TEST
+    title_ru: Моделирование 9.5. Список работ для крошек времени
+    title_en: Modeling 9.5. Task List for Time Fragments
+    slug: modeling-9-5-task-list-for-time-fragments
+    section_id: 66461
+  - type: TEXT
+    title_ru: Принципы практики планирования
+    title_en: Principles of Planning Practice
+    slug: principles-of-planning-practice
+    section_id: 66462
+  - type: TEXT
+    title_ru: Как практика планирования связана с другими практиками саморазвития
+    title_en: How Planning Practice Relates to Other Self-Development Practices
+    slug: how-planning-practice-relates-to-other-self-development-practices
+    section_id: 66463
+  - type: TEXT
+    title_ru: Как освоить практику планирования. Первый этап — “Объяснения”
+    title_en: 'How to Master the Practice of Planning: Stage One - "Explanations"'
+    slug: how-to-master-the-practice-of-planning-stage-one-explanations
+    section_id: 66464
+  - type: TEST
+    title_ru: Моделирование 9.6. Список моих затруднений. Планирование
+    title_en: Modeling 9.6. List of My Difficulties. Planning
+    slug: modeling-9-6-list-of-my-difficulties-planning
+    section_id: 66465
+  - type: TEXT
+    title_ru: Как освоить практику планирования. Второй этап – «Умение»
+    title_en: How to Master Planning Practice. Stage Two – "Skill"
+    slug: how-to-master-planning-practice-stage-two-skill
+    section_id: 66466
+    images:
+    - filename: 2.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/selfdev/2025-04-22T1344/10800/2.png
+      orig_hash: b00964ccec0df8649ff6e44976f95ef8e6950f333532b91f8090a9861e138a10
+  - type: TEXT
+    title_ru: Как освоить практику планирования. Третий и четвертый этапы – «Навык»
+      и «Мастерство»
+    title_en: 'How to Master Planning Practice: Stages Three and Four – "Skill" and
+      "Mastery"'
+    slug: how-to-master-planning-practice-stages-three-and-four-skill-and-mastery
+    section_id: 66467
+  - type: TEST
+    title_ru: Моделирование 9.7. Список понятий. Планирование
+    title_en: Modeling 9.7. List of Concepts. Planning
+    slug: modeling-9-7-list-of-concepts-planning
+    section_id: 66468
+  - type: TEST
+    title_ru: Вопросы для повторения и самопроверки
+    title_en: Review and Self-Check Questions
+    slug: review-and-self-check-questions
+    section_id: 66469
+  - type: TEXT
+    title_ru: Дополнительные материалы
+    title_en: Additional Materials
+    slug: additional-materials
+    section_id: 66470
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 66471
+  - type: TEST
+    title_ru: 'Моделирование 9.8. Чек-лист "Прогресс мастерства саморазвития" 1.9:
+      степень «Объяснения», мастерство планирования'
+    title_en: 'Modeling 9.8. Checklist "Progress in Self-Development Mastery" 1.9:
+      Level "Explanations," Planning Mastery'
+    slug: modeling-9-8-checklist-progress-in-self-development-mastery-1-9-level-explanations-planning-mastery
+    section_id: 66472
+  - type: TEST
+    title_ru: 'Моделирование 9.9. Чек-лист "Прогресс мастерства саморазвития" 2.9:
+      степень «Умение», мастерство планирования'
+    title_en: 'Modeling 9.9. Checklist "Progress in Self-Development Mastery" 2.9:
+      Level "Skill," Mastery of Planning'
+    slug: modeling-9-9-checklist-progress-in-self-development-mastery-2-9-level-skill-mastery-of-planning
+    section_id: 66473
+- type: HEADER
+  title_ru: Заключение
+  title_en: Conclusion
+  slug: conclusion
+  section_id: 66474
+  children:
+  - type: TEXT
+    title_ru: Подготовка к защите
+    title_en: Preparing for Defense
+    slug: preparing-for-defense
+    section_id: 66475
+  - type: TEST
+    title_ru: Задание 10.1. Для подготовки к защите
+    title_en: Assignment 10.1. Preparation for Defense
+    slug: assignment-10-1-preparation-for-defense
+    section_id: 66476
+  - type: TEXT
+    title_ru: Что дальше
+    title_en: What's Next
+    slug: what-s-next
+    section_id: 66477
+  - type: TEST
+    title_ru: Моделирование 10.1. Чек-лист «Временной период по применению практик
+      саморазвития»
+    title_en: Modeling 10.1. Checklist "Time Period for Applying Self-Development
+      Practices"
+    slug: modeling-10-1-checklist-time-period-for-applying-self-development-practices
+    section_id: 66478
+  - type: TEST
+    title_ru: 'Моделирование 10.2. Чек-лист "Прогресс мастерства саморазвития" 3.0:
+      степень «Навык», мастерство саморазвития или мастерство ученика'
+    title_en: 'Modeling 10.2. Checklist "Progress of Self-Development Mastery" 3.0:
+      Level "Skill," Self-Development Mastery or Student Mastery'
+    slug: modeling-10-2-checklist-progress-of-self-development-mastery-3-0-level-skill-self-development-mastery-or-student-mastery
+    section_id: 66479
+  - type: TEST
+    title_ru: 'Моделирование 10.3. Чек-лист "Прогресс мастерства саморазвития" 4.0:
+      степень «Мастерство», мастерство саморазвития или мастерство ученика'
+    title_en: 'Modeling 10.3. Checklist "Progress of Self-Development Mastery" 4.0:
+      Level "Mastery," Self-Development Mastery or Student Mastery'
+    slug: modeling-10-3-checklist-progress-of-self-development-mastery-4-0-level-mastery-self-development-mastery-or-student-mastery
+    section_id: 66480
+  - type: TEXT
+    title_ru: Список использованной литературы
+    title_en: References List
+    slug: references-list
+    section_id: 66481
