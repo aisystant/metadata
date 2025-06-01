@@ -851,8 +851,8 @@ sections:
     slug: complete-the-modeling-exercise-6-7-functional-and-constructive-descriptions
     section_id: 64912
   - type: TEXT
-    title_ru: Выполните моделирование 6.8. Описание системы как черного ящика
-    title_en: Complete the Modeling Exercise: 6.8. Describing the System as a Black Box
+    title_ru: 'Выполните моделирование 6.8. Описание системы как черного ящика'
+    title_en: 'Complete the Modeling Exercise: 6.8. Describing the System as a Black Box'
     slug: complete-the-modeling-exercise-6-8-describing-the-system-as-a-black-box
     section_id: 64913
 - type: HEADER
