@@ -35,9 +35,9 @@ sections:
     slug: systems-thinking-vs-being-systematic
     section_id: 64777
     images:
-    - filename: 0.png
-      title_ru: ''
-      title_en: ''
+    - filename: Distinction_Systems_Thinking_vs_Systematicity.png
+      title_ru: 'Диаграмма показывает различие между системным мышлением и систематичностью. Системное мышление — это когнитивный метод, помогающий распознавать системы, роли и интересы, выделять главное и принимать решения. Систематичность обеспечивает регулярное и последовательное выполнение. Оба подхода важны, но выполняют разные функции.'
+      title_en: 'This diagram distinguishes systems thinking from systematicity. Systems thinking is a cognitive method that helps recognize systems, roles, and interests, identify what truly matters, and decide what to do. Systematicity ensures actions are carried out regularly and consistently. Both are essential but serve different purposes.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/250/0.png
       orig_hash: 7cb7fb7752c056fac0c9f7c726a0eb99b092a8a1ced76340557deb4c46f28e4b
   - type: TEXT
@@ -81,9 +81,9 @@ sections:
     slug: systems-approach-2-0
     section_id: 64785
     images:
-    - filename: 1.png
-      title_ru: ''
-      title_en: ''
+    - filename: Systems_Approach_1_vs_2.png
+      title_ru: 'Сравнение системного подхода 1.0 и 2.0. Классический подход начинается с внутренних компонентов, современный — с окружения, контекста и ролей, определяющих, чем станет система.'
+      title_en: 'Comparison of Systems Approach 1.0 and 2.0. The classic approach begins with internal components; the modern approach starts with environment, context, and roles — shaping what the system becomes.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/650/1.png
       orig_hash: f12da35d13d0aa335dab3efa111234675ec78780f3cb3d08ebecf5080c061343
   - type: TEXT
@@ -153,9 +153,9 @@ sections:
     slug: physical-world-and-mental-space
     section_id: 64798
     images:
-    - filename: 2.png
-      title_ru: ''
-      title_en: ''
+    - filename: Physical_vs_Mental_Space.png
+      title_ru: 'Показывает различие между человеком (физический мир) и описаниями, такими как имя, рост и фотография — они принадлежат к мысленному/ментальному пространству.'
+      title_en: 'Distinguishes a real human being (physical world) from descriptions like name, height, and photo — which exist in the mental space.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1300/2.png
       orig_hash: d04e8234c98d5629a8c1927fc1c8edac7205fe15fb026714c973ab4390c67af7
   - type: TEXT
@@ -164,9 +164,9 @@ sections:
     slug: description-and-implementation-of-the-system
     section_id: 64799
     images:
-    - filename: 3.png
-      title_ru: ''
-      title_en: ''
+    - filename: Car_Embodiment_Description_Documentation.png
+      title_ru: 'Показывает различие между реализацией системы (реальный автомобиль), её описанием (ментальные характеристики, такие как марка, модель и год) и документацией (физический носитель, содержащий описание). Иллюстрирует, как система существует в разных пространствах.'
+      title_en: 'Shows the difference between a system’s embodiment (a real car), its description (mental attributes like make, model, and year), and its documentation (a physical medium that stores the description). The image illustrates how a system is represented across different realms.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1350/3.png
       orig_hash: 009a1107d7cea5eb134105c288494f55d238abe50343a511d2b991e908a49d3c
   - type: TEXT
@@ -175,9 +175,9 @@ sections:
     slug: system-documentation
     section_id: 64800
     images:
-    - filename: 4.png
-      title_ru: ''
-      title_en: ''
+    - filename: Document_Passport.png
+      title_ru: 'Паспорт является примером системной документации, где официальные документы, такие как паспорта, являются частью системы идентификации и верификации.'
+      title_en: 'Passport is an example of system documentation, where official documents like passports are part of a broader system of identification and verification.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1400/4.png
       orig_hash: 2d6657ebc67f8da7c410c9b49b2ba85449943c9170566729428afd33b79a4c46
   - type: TEXT
@@ -196,9 +196,9 @@ sections:
     slug: word-object-system
     section_id: 64803
     images:
-    - filename: 5.jpeg
-      title_ru: ''
-      title_en: ''
+    - filename: Word_Object_System.png
+      title_ru: 'Слово – это просто звуки и знаки (буквы), которые собраны вместе. И именно люди именуют этим словом какой-то физический или абстрактный объект.'
+      title_en: 'Word is simply sounds and symbols (letters) put together. It is people who assign this word to a particular physical or abstract object.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1550/5.jpeg
       orig_hash: 403de0db21216e86971692cb7ecc9895fcfe1878af5aef87d0e76bf1c377fa96
   - type: TEXT
@@ -212,9 +212,9 @@ sections:
     slug: example-how-to-prepare-for-a-trip-using-a-systems-approach
     section_id: 64805
     images:
-    - filename: 6.png
-      title_ru: ''
-      title_en: ''
+    - filename: Shorts_comparison.png
+      title_ru: 'На изображении представлен пример различия между функциональными объектами ("шорты" и "плавки") и физическим объектом (конкретные гибридные шорты-плавки), которые были взяты в поездку.'
+      title_en: 'The image shows an example of distinguishing between the functional objects ("shorts" and "swim trunks") and the physical object (the specific swim-short hybrids) that were chosen for the trip.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1650/6.png
       orig_hash: d9d951f88ac8976108801e089f118efc4c9ecf3bf7f4677a9fc2f3896114d55e
   - type: TEXT
@@ -223,9 +223,9 @@ sections:
     slug: composition-relationship
     section_id: 64806
     images:
-    - filename: 7.png
-      title_ru: ''
-      title_en: ''
+    - filename: Airplane_Composition_Relationship.png
+      title_ru: 'Изображение иллюстрирует концепцию отношение «часть-целое», (отношения состава или сборки) в системном мышлении на примере самолёта. На диаграмме самолёт разобран на части, такие как кабина пилотов, центральный фюзеляж, крылья, элеваторы, рули направления, шасси и гондолы двигателей, каждая из которых подписана, чтобы показать отношение части и целого.'.'
+      title_en: 'The image illustrates the concept of the composition relationship in systems thinking, using an airplane as an example. It shows a diagram of an airplane broken down into its parts, such as the cockpit, center fuselage, wings, elevators, rudders, landing gear, and engine nacelles, each labeled to highlight the part-whole relationship.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1700/7.png
       orig_hash: 94f63d28f8829888c196cdf7e56c004c097c0645e5446addcea3ae613a3511fc
   - type: TEXT
@@ -331,9 +331,9 @@ sections:
     slug: role-performer-role-function-and-system-names
     section_id: 64826
     images:
-    - filename: 8.png
-      title_ru: ''
-      title_en: ''
+    - filename: Nail_Driving_Objects_Comparison.png
+      title_ru: 'Визуальное разделение физического объекта, роли и функции: молоток — это культурно закреплённая роль забивателя гвоздей, которую могут выполнять разные физические объекты (например, камень или микроскоп) для реализации функции забивания гвоздей.'
+      title_en: 'Visual breakdown of physical object, role, and function: a hammer is the culturally defined role of a nail driver, while various physical objects (like a stone or microscope) can perform that role to achieve the function of nail driving.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/2700/8.png
       orig_hash: 5e700692799118e8cc26ab977f48dd63574e69425f0f14511b0614af680c1304
   - type: TEXT
@@ -347,9 +347,9 @@ sections:
     slug: physical-and-functional-objects
     section_id: 64828
     images:
-    - filename: 9.png
-      title_ru: ''
-      title_en: ''
+    - filename: Physical_And_Functional_Objects_Comparison.png
+      title_ru: 'Изображение поясняет различие между физическими и функциональными объектами в системном мышлении. Слева показан "Робот-такси" как физический объект — реально существующее транспортное средство. Справа изображён человек-водитель в традиционном такси, представляющий функциональный объект (роль) — функцию вождения, которую может выполнять как человек, так и робот. Подпись уточняет, что неодушевлённые объекты, такие как робот-такси, не имеют интересов, но могут выполнять роли, тогда как интересы возникают у людей-агентов.'
+      title_en: 'The image explains the distinction between physical and functional objects in systems thinking. On the left, a "Robot Taxi" is depicted as a physical object—an actual vehicle existing in the real world. On the right, a human driver in a traditional taxi illustrates a functional object (role)—the function of driving, which can be performed by either a human or a robot. The caption clarifies that inanimate objects, like the robot taxi, lack interests but can still fulfill roles, while interests arise in human agents.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/2800/9.png
       orig_hash: 03a0c8ae67c9aa9e60e839630f34f72f16f610166e8f9c9f06ce8828098f1a9b
   - type: TEXT
@@ -455,9 +455,9 @@ sections:
     slug: system-of-interest-and-collective-systems-thinking
     section_id: 64848
     images:
-    - filename: 10.png
-      title_ru: ''
-      title_en: ''
+    - filename: System_of_Interest_Moon_Mission.png
+      title_ru: 'Изображение иллюстрирует понятие целевой системы на примере лунной миссии NASA. Сотрудники, выполняющие разные задачи — уборка, проектирование, связь — объединены общей целевой системой: отправка человека на Луну. Целевая система направляет усилия всех ролей на достижение общего результата.'
+      title_en: 'The image illustrates the idea of a system of interest using NASA’s moon mission. Team members engaged in different tasks—cleaning floors, designing spacecraft, supporting communications—are united by one shared system of interest: putting a man on the moon. A system of interest aligns all roles and efforts around a common goal.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/3800/10.png
       orig_hash: ac61ddcb89b47df4ec8b6f2ec97fe7f76035d8c57e96d41808b6eb9fc9c12725
   - type: TEXT
@@ -481,9 +481,9 @@ sections:
     slug: creation-systems
     section_id: 64852
     images:
-    - filename: 11.png
-      title_ru: ''
-      title_en: ''
+    - filename: Systems_Of_Creation_Automobile.png
+      title_ru: 'Изображение иллюстрирует "Системы создания", которые включают процессы замысливания, проектирования, создания, ремонта и утилизации системы. Оно показывает пять этапов: Проектирование (инженер с чертежами), Сборка (рабочий собирает автомобиль), Сервис (механик ремонтирует машину), Переработка (краб утилизирует автомобили) и Автосалон (продажа автомобиля). Пример подчёркивает, как эти системы применяются к автомобилю, включая дизайнеров, сборочные линии, автосалоны и утилизаторов.'
+      title_en: 'The image illustrates "Systems of Creation," which include the processes of conceiving, designing, creating, repairing, and disposing of a System of Interest. It features five stages: Design (an engineer with blueprints), Assembly (a worker building a car), Service (a mechanic repairing a car), Recycling (a crane dismantling cars), and a Car Dealer (selling a car). The example highlights how these systems apply to an automobile, involving designers, assembly lines, dealerships, and dismantlers.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/4000/11.png
       orig_hash: 8cb6f959bbd70255a9aab09fa5b08ca4abdc6a7cebb7dff9860a39b884b12d54
   - type: TEXT
@@ -502,9 +502,9 @@ sections:
     slug: service-example-haircut
     section_id: 64855
     images:
-    - filename: 12.png
-      title_ru: ''
-      title_en: ''
+    - filename: Haircut_Service_Example.png
+      title_ru: 'Изображение иллюстрирует стрижку как пример услуги, предоставляемой системой создания. Система создания включает парикмахера, инструменты и салон. Целевая система — это конечный результат: причёска. Системы в окружении — одежда, аксессуары и т.д. — показывают, как причёска вписывается в более широкий надсистемный контекст.'
+      title_en: 'This image illustrates a haircut as an example of a service provided by a system of creation. The system of creation includes the hairdresser, tools, and salon environment. The system of interest is the resulting hairstyle, while surrounding systems like clothing and accessories help contextualize the function of the haircut in the broader supersystem.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/4150/12.png
       orig_hash: 557906c82cb552d070e3d816a53716e2340336fd490b46183f3a210e4c29cd15
   - type: TEXT
@@ -513,9 +513,9 @@ sections:
     slug: essence-of-systems-thinking
     section_id: 64856
     images:
-    - filename: 13.png
-      title_ru: ''
-      title_en: ''
+    - filename: Systems_Thinking_Essence_Timeline.png
+      title_ru: 'Изображение иллюстрирует суть системного мышления через временную линию создания и эксплуатации систем. Диаграмма подчёркивает эволюцию и взаимодействие систем во времени.'
+      title_en: 'The image illustrates the essence of systems thinking through a timeline of system creation and operation. The diagram highlights how systems evolve, interact, and influence one another across different stages of time.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/4200/13.png
       orig_hash: 9cab9219fdbdb7df619c0a7debce234c6cef18211bff203429b86e4fc45f57d3
   - type: TEXT
@@ -590,9 +590,9 @@ sections:
     slug: system-breakdown
     section_id: 64870
     images:
-    - filename: 14.png
-      title_ru: ''
-      title_en: ''
+    - filename: System_Decomposition.png
+      title_ru: 'Иллюстрация декомпозиции системы: надсистема — целевая система — подсистема. Показывает уровни системы (организмы, органы, клетки, молекулы), определяемые вниманием, а не физическими границами. Отдельно подчёркивается, что уровни системы ≠ области интересов.'
+      title_en: 'Illustrates system decomposition into supersystem, system of interest, and subsystem. Demonstrates how system levels (organisms, organs, cells, molecules) are defined by attention, not by physical boundaries. Emphasizes that system levels differ from areas of interest.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/4900/14.png
       orig_hash: 78e6a69e0a9dd2774ae6a92d23a9fa9ec60c0cb2baff412d7a4a179ff30cbd2c
   - type: TEXT
@@ -693,9 +693,9 @@ sections:
     slug: system-descriptions-and-systems-language
     section_id: 64889
     images:
-    - filename: 15.png
-      title_ru: ''
-      title_en: ''
+    - filename: Project_Roles_And_System_Descriptions_Diagram.png
+      title_ru: 'Концептуальная схема, показывающая связи между проектными ролями, интересами, возможностями, методами, работами и описаниями. Всё сходится к воплощению системы — это и есть наша успешная система, ради которой мы изучаем системное мышление со всеми этими системными понятиями.'
+      title_en: 'A high-level concept map showing how project roles, interests, opportunities, methods, work, and descriptions are connected. All elements converge toward system implementation—the realized system that systems thinking aims to help us create.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/5850/15.png
       orig_hash: cf7e5556c60fd1807ab7a4a6534c620c238daf6ae2c94b528c6d26adbc706ae5
   - type: TEXT
@@ -704,9 +704,9 @@ sections:
     slug: role-descriptions-and-models
     section_id: 64890
     images:
-    - filename: 16.png
-      title_ru: ''
-      title_en: ''
+    - filename: Role_Description_and_Model_Tax_Example.png
+      title_ru: 'Диаграмма показывает, как создаётся описание системы с позиции роли на основе её интереса (например, налоги). Проектная роль формирует интерес, который описывается с помощью метода описания, использующего метамодели. При заполнении метамоделей данными получаются модели, составляющие часть описания роли и системной документации. Это соответствует стандарту ISO 42010 и показывает связь между описанием и реализацией системы.'
+      title_en: 'This diagram shows how a role-based system description is created in response to a role’s interest (e.g., taxes). A project role holds a subject of interest formalized via a description method that uses metamodels. Populating these metamodels generates models, which form part of the role description and system documentation. This aligns with ISO 42010 principles and illustrates how documentation connects to system implementation.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/5900/16.png
       orig_hash: 7670f8e0fe2cae45fd2db3bbeff1f7cf08eae91d6cbfe6e38eefac170c79fd47
   - type: TEXT
@@ -715,9 +715,9 @@ sections:
     slug: description-method
     section_id: 64891
     images:
-    - filename: 17.png
-      title_ru: ''
-      title_en: ''
+    - filename: Role_Interest_Description_Method_Table.png
+      title_ru: 'Таблица показывает связь между ролью, её предметом интереса, соответствующим описанием и подходящим методом описания. Например, менеджеру нужен календарный план, а архитектору — архитектурное описание. Каждый документ создаётся с использованием конкретной практики моделирования (например, Gantt, IFRS, ISO 42010). Выбор правильного метода критически важен для создания качественной документации системы.'
+      title_en: 'The table illustrates how different roles are associated with specific interests, leading to particular role-based descriptions. Each description is created using a suitable description method or modeling practice, such as Gantt charts, IFRS standards, or ISO 42010. Choosing the correct method is essential for creating relevant and usable system documentation.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/5950/17.png
       orig_hash: e630d19bbf4e1a93d714af691817901b946508ebbd3b745b906b9e76292d8e51
   - type: TEXT
@@ -726,9 +726,9 @@ sections:
     slug: connection-of-the-description-method-to-the-subject-of-interest-project-roles-and-the-system
     section_id: 64892
     images:
-    - filename: 18.png
-      title_ru: ''
-      title_en: ''
+    - filename: System_Description_Process_Map.png
+      title_ru: 'Диаграмма показывает, как создаётся описание системы в ответ на предмет интереса, принадлежащий внешней проектной роли. Команда выбирает метод описания, с помощью которого создаётся документация. Эта документация содержит описание системы, которое соответствует предмету интереса и характеризует саму систему.'
+      title_en: 'This diagram illustrates how a system description is created in response to the subject of interest held by an external project role. The team selects a description method, which is used to create documentation. This documentation contains a system description that corresponds to the subject of interest and ultimately characterizes the system.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/6000/18.png
       orig_hash: bda25de728d90a4160c45cc30abf7be3763c43898edb7e0b490efe80af2002a0
   - type: TEXT
@@ -737,9 +737,9 @@ sections:
     slug: models-meta-models-multi-models-mega-models
     section_id: 64893
     images:
-    - filename: 19.png
-      title_ru: ''
-      title_en: ''
+    - filename: Model_MetaModel_MultiModel_MegaModel.png
+      title_ru: 'Изображение демонстрирует различие между моделью (например, карта Москвы), метамоделью (легенда, задающая правила отображения), мультимоделью (набор моделей с разными аспектами описания) и мегамоделью (структурированная совокупность моделей с их метамоделями). Такая структура помогает системно описывать и понимать целевую систему.'
+      title_en: 'The image shows the relationship between a model (e.g., a map of Moscow), a meta-model (legend defining how to interpret model elements), a multi-model (a set of maps emphasizing different aspects), and a mega-model (a structured collection of models with their corresponding meta-models). This framework helps organize how systems of interest are described and understood.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/6050/19.png
       orig_hash: ecc13423724d3e668f738bbb563814e807bc75b5c08ccf83274d9a1de0ed9334
   - type: TEXT
@@ -768,9 +768,9 @@ sections:
     slug: main-descriptions-of-the-system-as-a-transparent-box
     section_id: 64898
     images:
-    - filename: 20.jpeg
-      title_ru: ''
-      title_en: ''
+    - filename: Scissors_Functional_vs_Modular_Description.png
+      title_ru: 'Изображение сравнивает два способа описания структуры системы «ножницы». Слева показано функциональное разбиение: лезвийный блок и ручка — части, выполняющие роли при работе. Справа — модульное разбиение: две физические половины, из которых собирается изделие. Этот пример иллюстрирует, что функциональные и конструктивные описания могут не совпадать.'
+      title_en: 'The image compares two structural descriptions of the same system—scissors. On the left, a functional decomposition shows parts based on their roles during operation (blade block and handle). On the right, a modular decomposition shows how the system is physically assembled (two symmetrical halves). This illustrates how functional and constructive breakdowns often differ.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/6300/20.jpeg
       orig_hash: 592162600e336cfc8f2a71183f2cc9bf5ad1928688f2a3cb92d42c5b213a1918
   - type: TEXT
@@ -779,9 +779,9 @@ sections:
     slug: examples-of-describing-a-system-as-a-transparent-box
     section_id: 64899
     images:
-    - filename: 21.png
-      title_ru: ''
-      title_en: ''
+    - filename: Clock_Functional_Modular_Spatial_View.png
+      title_ru: 'Изображение показывает три способа описания системы «часы»: функциональное представление описывает роли — такие как осциллятор, источник энергии, делитель времени; модульное представление показывает, из каких конструктивных компонентов (шестерёнки, заводной механизм) собрана система; пространственное представление фиксирует расположение модулей. Функциональное разбиение определяет уровни системы и является основным приёмом в системном мышлении.'
+      title_en: 'The image shows three perspectives on a clock as a system: the functional view shows how the system operates through roles like oscillator and energy source; the modular view shows the physical construction of the system from components like gears and winding stem; the spatial view highlights the placement of these modules. Functional decomposition defines system levels in systems thinking.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/6350/21.png
       orig_hash: bdafeeebde7241be0a3a3bca480d728fbd9341d7fa66c534570bc12f25512011
   - type: TEXT
