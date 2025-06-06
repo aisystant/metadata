@@ -224,7 +224,7 @@ sections:
     section_id: 64806
     images:
     - filename: Airplane_Composition_Relationship.png
-      title_ru: 'Изображение иллюстрирует концепцию отношение «часть-целое», (отношения состава или сборки) в системном мышлении на примере самолёта. На диаграмме самолёт разобран на части, такие как кабина пилотов, центральный фюзеляж, крылья, элеваторы, рули направления, шасси и гондолы двигателей, каждая из которых подписана, чтобы показать отношение части и целого.'.'
+      title_ru: 'Изображение иллюстрирует концепцию отношение «часть-целое», (отношения состава или сборки) в системном мышлении на примере самолёта. На диаграмме самолёт разобран на части, такие как кабина пилотов, центральный фюзеляж, крылья, элеваторы, рули направления, шасси и гондолы двигателей, каждая из которых подписана, чтобы показать отношение части и целого.'
       title_en: 'The image illustrates the concept of the composition relationship in systems thinking, using an airplane as an example. It shows a diagram of an airplane broken down into its parts, such as the cockpit, center fuselage, wings, elevators, rudders, landing gear, and engine nacelles, each labeled to highlight the part-whole relationship.'
       orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1700/7.png
       orig_hash: 94f63d28f8829888c196cdf7e56c004c097c0645e5446addcea3ae613a3511fc
