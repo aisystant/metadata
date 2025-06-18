@@ -1,5 +1,6 @@
 course_id: intro-online-2021
-course_name: 1. Системное саморазвитие
+course_name: Системное саморазвитие
+course_name_en: Systems-Based Self-Development
 version: 2025-03-11T1212
 version_id: '488'
 sections:
@@ -10,8 +11,8 @@ sections:
   section_id: 61443
 - type: TEST
   title_ru: 'Задания: подготовка к обучению'
-  title_en: 'Assignments: Training Preparation'
-  slug: assignments-training-preparation
+  title_en: 'Assignments: Preparation for Learning'
+  slug: assignments-preparation-for-learning
   section_id: 61444
 - type: HEADER
   title_ru: Физический мир и ментальное пространство
@@ -21,7 +22,7 @@ sections:
   children:
   - type: TEXT
     title_ru: Что такое ментальное пространство
-    title_en: What is Mental Space
+    title_en: What is Mental Space?
     slug: what-is-mental-space
     section_id: 61446
     images:
@@ -74,8 +75,8 @@ sections:
       orig_hash: 4f8230473bfc914bff0830ee4af3d790c0be7e096b8a6ef51c65e93f7a658c39
   - type: TEXT
     title_ru: Создатель, меняющий мир к лучшему
-    title_en: Creator Changing the World for the Better
-    slug: creator-changing-the-world-for-the-better
+    title_en: A Creator Changing the World for the Better
+    slug: a-creator-changing-the-world-for-the-better
     section_id: 61449
     images:
     - filename: 7.png
@@ -173,8 +174,8 @@ sections:
     section_id: 61457
   - type: TEST
     title_ru: Вопросы для повторения и дальнейшего изучения
-    title_en: Review and Further Study Questions
-    slug: review-and-further-study-questions
+    title_en: Questions for Review and Further Exploration
+    slug: questions-for-review-and-further-exploration
     section_id: 61458
   - type: TEST
     title_ru: Домашнее задание
@@ -183,14 +184,14 @@ sections:
     section_id: 61459
 - type: HEADER
   title_ru: Обучение и время
-  title_en: Training and Time
-  slug: training-and-time
+  title_en: Learning and Time
+  slug: learning-and-time
   section_id: 61460
   children:
   - type: TEXT
     title_ru: Обучение
-    title_en: Training
-    slug: training
+    title_en: Learning
+    slug: learning
     section_id: 61461
     images:
     - filename: 17.png
@@ -231,8 +232,8 @@ sections:
     section_id: 61464
   - type: TEXT
     title_ru: Умение учиться, умение думать, умение делать
-    title_en: The Ability to Learn, Think, and Do
-    slug: the-ability-to-learn-think-and-do
+    title_en: The Ability to Learn, Think, and Act
+    slug: the-ability-to-learn-think-and-act
     section_id: 61465
   - type: TEXT
     title_ru: Профориентация
@@ -299,8 +300,8 @@ sections:
       orig_hash: c24a7fc1c2a671b3eec0c549f8ad40d0eb58330dea618059441161514c8cb7bf
   - type: TEXT
     title_ru: Осознанное времяпрепровождение и организация досуга
-    title_en: Mindful Leisure and Recreation Planning
-    slug: mindful-leisure-and-recreation-planning
+    title_en: Intentional Leisure and Recreation Planning
+    slug: intentional-leisure-and-recreation-planning
     section_id: 61470
     images:
     - filename: 29.png
@@ -325,8 +326,8 @@ sections:
     section_id: 61473
   - type: TEST
     title_ru: Вопросы для повторения и дальнейшего изучения
-    title_en: Review and Further Study Questions
-    slug: review-and-further-study-questions
+    title_en: Questions for Review and Further Exploration
+    slug: questions-for-review-and-further-exploration
     section_id: 61474
   - type: TEST
     title_ru: Домашнее задание
@@ -335,14 +336,14 @@ sections:
     section_id: 61475
 - type: HEADER
   title_ru: Собранность и внимание
-  title_en: Focus and Attention
-  slug: focus-and-attention
+  title_en: Collected State and Attention
+  slug: collected-state-and-attention
   section_id: 61476
   children:
   - type: TEXT
     title_ru: Что такое собранность
-    title_en: What is Composure
-    slug: what-is-composure
+    title_en: What is a Collected State?
+    slug: what-is-a-collected-state
     section_id: 61477
   - type: TEXT
     title_ru: Внимание
@@ -356,8 +357,8 @@ sections:
     section_id: 61479
   - type: TEXT
     title_ru: Рациональная работа
-    title_en: Efficient Work
-    slug: efficient-work
+    title_en: Rational Work
+    slug: rational-work
     section_id: 61480
   - type: TEXT
     title_ru: Временные масштабы внимания
@@ -376,13 +377,13 @@ sections:
     section_id: 61483
   - type: TEXT
     title_ru: Собранность в обучении
-    title_en: Focus in Learning
-    slug: focus-in-learning
+    title_en: Collected State in Learning
+    slug: collected-state-in-learning
     section_id: 61484
   - type: TEXT
     title_ru: Экзокортекс для собранности
-    title_en: Exocortex for Focus
-    slug: exocortex-for-focus
+    title_en: Exocortex for Collected State
+    slug: exocortex-for-collected-state
     section_id: 61485
   - type: TEXT
     title_ru: Внимание в моменте как основа для системных изменений и продуктивности
@@ -391,8 +392,8 @@ sections:
     section_id: 61486
   - type: TEXT
     title_ru: Темная сторона собранности
-    title_en: The Dark Side of Composure
-    slug: the-dark-side-of-composure
+    title_en: The Dark Side of Collected State
+    slug: the-dark-side-of-collected-state
     section_id: 61487
   - type: TEXT
     title_ru: Киберличность
@@ -411,8 +412,8 @@ sections:
     section_id: 61490
   - type: TEST
     title_ru: Вопросы для повторения и дальнейшего изучения
-    title_en: Review and Further Study Questions
-    slug: review-and-further-study-questions
+    title_en: Questions for Review and Further Exploration
+    slug: questions-for-review-and-further-exploration
     section_id: 61491
   - type: TEST
     title_ru: Домашнее задание
@@ -438,8 +439,8 @@ sections:
       orig_hash: 6be5d5e863feb829f8076664e82871f7790f27522c7c49d32a4fd94e1c97d255
   - type: TEXT
     title_ru: Системные уровни в организации жизни
-    title_en: System Levels in Life Organization
-    slug: system-levels-in-life-organization
+    title_en: Systems Levels in Life Organization
+    slug: systems-levels-in-life-organization
     section_id: 61495
   - type: TEXT
     title_ru: Неудовлетворенность
@@ -463,8 +464,8 @@ sections:
     section_id: 61499
   - type: TEXT
     title_ru: 'Эмоциональная стабильность: основа бесконечного развития'
-    title_en: 'Emotional Stability: Foundation of Infinite Development'
-    slug: emotional-stability-foundation-of-infinite-development
+    title_en: 'Emotional Stability: Foundation of Lifelong Growth'
+    slug: emotional-stability-foundation-of-lifelong-growth
     section_id: 61500
   - type: TEXT
     title_ru: Мотивация и намерения
@@ -473,8 +474,8 @@ sections:
     section_id: 61501
   - type: TEXT
     title_ru: Воспоминания и память
-    title_en: Memories and Memory
-    slug: memories-and-memory
+    title_en: Memory and Recollection
+    slug: memory-and-recollection
     section_id: 61502
   - type: TEXT
     title_ru: Вычислительная мощность мозга
@@ -493,8 +494,8 @@ sections:
     section_id: 61505
   - type: TEST
     title_ru: Вопросы для повторения и дальнейшего изучения
-    title_en: Review and Further Study Questions
-    slug: review-and-further-study-questions
+    title_en: Questions for Review and Further Exploration
+    slug: questions-for-review-and-further-exploration
     section_id: 61506
   - type: TEST
     title_ru: Домашнее задание
@@ -564,7 +565,7 @@ sections:
       orig_hash: 033a2c7202811894691f3241cf436b6e8acbb51d30aec381ecb98201db1ad17c
   - type: TEXT
     title_ru: Что такое ролевое мастерство
-    title_en: What is role-based mastery
+    title_en: What is role-based mastery?
     slug: what-is-role-based-mastery
     section_id: 61514
   - type: TEXT
@@ -585,8 +586,8 @@ sections:
     section_id: 61516
   - type: TEXT
     title_ru: Деятельностный кругозор
-    title_en: Activity Perspective
-    slug: activity-perspective
+    title_en: Activity Outlook
+    slug: activity-outlook
     section_id: 61517
     images:
     - filename: 37.png
@@ -607,8 +608,8 @@ sections:
       orig_hash: 10b52f13fb80bab50c92644b2ea9cfee3e2ca0dd3179f1c7a77ff8206f698951
   - type: TEXT
     title_ru: Систематичность и мастерство
-    title_en: Systematicity and Mastery
-    slug: systematicity-and-mastery
+    title_en: Systematic Practice and Mastery
+    slug: systematic-practice-and-mastery
     section_id: 61519
     images:
     - filename: 39.jpeg
@@ -628,8 +629,8 @@ sections:
     section_id: 61521
   - type: TEST
     title_ru: Вопросы для повторения и дальнейшего изучения
-    title_en: Review and Further Study Questions
-    slug: review-and-further-study-questions
+    title_en: Questions for Review and Further Exploration
+    slug: questions-for-review-and-further-exploration
     section_id: 61522
   - type: TEST
     title_ru: Домашнее задание
@@ -638,13 +639,13 @@ sections:
     section_id: 61523
 - type: HEADER
   title_ru: Что такое системное мышление
-  title_en: What is Systems Thinking
+  title_en: What is Systems Thinking?
   slug: what-is-systems-thinking
   section_id: 61524
   children:
   - type: TEXT
     title_ru: Что подразумевают под «системным мышлением»
-    title_en: What is Meant by "Systems Thinking"
+    title_en: What is Meant by "Systems Thinking"?
     slug: what-is-meant-by-systems-thinking
     section_id: 61525
     images:
@@ -753,8 +754,8 @@ sections:
     section_id: 61536
   - type: TEST
     title_ru: Вопросы для повторения и дальнейшего изучения
-    title_en: Review and Further Study Questions
-    slug: review-and-further-study-questions
+    title_en: Questions for Review and Further Exploration
+    slug: questions-for-review-and-further-exploration
     section_id: 61537
   - type: TEST
     title_ru: Домашнее задание
@@ -794,7 +795,7 @@ sections:
     section_id: 61544
   - type: TEXT
     title_ru: Системный менеджмент
-    title_en: systems management
+    title_en: Systems Management
     slug: systems-management
     section_id: 61545
   - type: TEXT
@@ -824,8 +825,8 @@ sections:
     section_id: 61550
   - type: TEST
     title_ru: Вопросы для повторения и дальнейшего изучения
-    title_en: Review and Further Study Questions
-    slug: review-and-further-study-questions
+    title_en: Questions for Review and Further Exploration
+    slug: questions-for-review-and-further-exploration
     section_id: 61551
   - type: TEST
     title_ru: Домашнее задание
@@ -918,8 +919,8 @@ sections:
       orig_hash: b023ffb1aea3111a0fd65c0e8cb7e0569caad0fb13668e40ef63adba1d810be6
   - type: TEXT
     title_ru: Ответственность и фатальная ошибка
-    title_en: Responsibility and Critical Error
-    slug: responsibility-and-critical-error
+    title_en: Responsibility and Fatal Error
+    slug: responsibility-and-fatal-error
     section_id: 61563
     images:
     - filename: 55.jpeg
@@ -959,8 +960,8 @@ sections:
     section_id: 61565
   - type: TEST
     title_ru: Вопросы для повторения и дальнейшего изучения
-    title_en: Review and Further Study Questions
-    slug: review-and-further-study-questions
+    title_en: Questions for Review and Further Exploration
+    slug: questions-for-review-and-further-exploration
     section_id: 61566
   - type: TEST
     title_ru: Домашнее задание
@@ -1063,8 +1064,8 @@ sections:
     section_id: 61580
   - type: TEST
     title_ru: Вопросы для повторения и дальнейшего изучения
-    title_en: Review and Further Study Questions
-    slug: review-and-further-study-questions
+    title_en: Questions for Review and Further Exploration
+    slug: questions-for-review-and-further-exploration
     section_id: 61581
   - type: TEST
     title_ru: Домашнее задание
