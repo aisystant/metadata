@@ -152,7 +152,11 @@ def build_section_info(section, old_sections):
     if section["type"] == "TEXT":
         images = get_images_from_section(section_id)
         if images:
-            doc["images"] = [build_image_structure(img, doc.get("images", [])) for img in images]
+            if old and "images" in old:
+                old_images = old["images"]
+            else:
+                old_images = []
+            doc["images"] = [build_image_structure(img, old_images) for img in images]
 
     return doc
 
@@ -200,7 +204,7 @@ def main():
         "sections": structure
     }
 
-    print(yaml.dump(doc, allow_unicode=True, default_flow_style=False, sort_keys=False))
+    #print(yaml.dump(doc, allow_unicode=True, default_flow_style=False, sort_keys=False))
     write_yaml_file(f"yaml/{course_id}.yaml", doc)
 
 if __name__ == "__main__":
