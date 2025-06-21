@@ -1,11 +1,12 @@
 course_id: selfdev
-course_name: 2. Практики саморазвития
+course_name: Практики саморазвития
+course_name_en: Self-Development Practices
 version: 2025-04-22T1344
 version_id: '521'
 sections:
 - type: TEXT
   title_ru: О руководстве «Практики саморазвития»
-  title_en: About the Guide "Self-Development Practices"
+  title_en: About the "Self-Development Practices" Guide
   slug: about-the-guide-self-development-practices
   section_id: 66250
 - type: HEADER
@@ -46,8 +47,8 @@ sections:
     section_id: 66257
   - type: TEXT
     title_ru: Обучение как тренировка
-    title_en: Learning as Training
-    slug: learning-as-training
+    title_en: Learning as Practice
+    slug: learning-as-practice
     section_id: 66258
   - type: TEXT
     title_ru: Как были выбраны практики саморазвития
@@ -56,13 +57,13 @@ sections:
     section_id: 66259
   - type: TEXT
     title_ru: Творческий конвейер
-    title_en: Creative Assembly Line
-    slug: creative-assembly-line
+    title_en: Creative Workflow
+    slug: creative-workflow
     section_id: 66260
   - type: TEXT
     title_ru: В каком порядке осваивать практики саморазвития?
-    title_en: In What Order to Master Self-Development Practices?
-    slug: in-what-order-to-master-self-development-practices
+    title_en: What’s the Best Order to Learn Self-Development Practices?
+    slug: what-s-the-best-order-to-learn-self-development-practices
     section_id: 66261
   - type: TEST
     title_ru: Моделирование 1.3. Мой экзокортекс
@@ -96,8 +97,8 @@ sections:
     section_id: 66267
   - type: TEXT
     title_ru: Рабочие продукты руководства
-    title_en: Management Work Artifacts
-    slug: management-work-artifacts
+    title_en: Work Artifacts from the Guide
+    slug: work-artifacts-from-the-guide
     section_id: 66268
   - type: TEXT
     title_ru: Начинайте думать как мастер
@@ -133,8 +134,8 @@ sections:
     section_id: 66274
 - type: HEADER
   title_ru: Инвестирование и учет времени
-  title_en: Investment and Time Management
-  slug: investment-and-time-management
+  title_en: Time Investment and Management
+  slug: time-investment-and-management
   section_id: 66275
   children:
   - type: TEST
@@ -149,57 +150,57 @@ sections:
     section_id: 66277
   - type: TEXT
     title_ru: Что такое инвестирование и учет времени
-    title_en: What is Investment and Time Management
-    slug: what-is-investment-and-time-management
+    title_en: What is Time Investment and Management
+    slug: what-is-time-investment-and-management
     section_id: 66278
   - type: TEXT
     title_ru: Что получает человек от инвестирования и учета времени
-    title_en: What a Person Gains from Investment and Time Management
-    slug: what-a-person-gains-from-investment-and-time-management
+    title_en: What a Person Gains from Time Investment and Management
+    slug: what-a-person-gains-from-time-investment-and-management
     section_id: 66279
   - type: TEST
     title_ru: Моделирование 2.1. Список информационных ресурсов. Инвестирование и
       учет времени
-    title_en: Modeling 2.1. List of Information Resources. Investment and Time Management
-    slug: modeling-2-1-list-of-information-resources-investment-and-time-management
+    title_en: Modeling 2.1. List of Information Resources. Time Investment and Management
+    slug: modeling-2-1-list-of-information-resources-time-investment-and-management
     section_id: 66280
   - type: TEXT
     title_ru: Для кого важно инвестирование и учет времени
-    title_en: Who Benefits from Investment and Time Management
-    slug: who-benefits-from-investment-and-time-management
+    title_en: Who Benefits from Time Investment and Management
+    slug: who-benefits-from-time-investment-and-management
     section_id: 66281
   - type: TEXT
     title_ru: Мастерство инвестирования и учета времени
-    title_en: Investment and Time Management Mastery
-    slug: investment-and-time-management-mastery
+    title_en: Time Investment and Management Mastery
+    slug: time-investment-and-management-mastery
     section_id: 66282
   - type: TEXT
     title_ru: Что делает человек, обладающий мастерством инвестирования и учета времени
-    title_en: What a Person with Mastery in Investment and Time Management Does
-    slug: what-a-person-with-mastery-in-investment-and-time-management-does
+    title_en: What a Person with Mastery in Time Investment and Management Does
+    slug: what-a-person-with-mastery-in-time-investment-and-management-does
     section_id: 66283
   - type: TEXT
     title_ru: Основные количественные параметры практики инвестирования и учета времени
-    title_en: Key Quantitative Parameters of Investment and Time Management Practice
-    slug: key-quantitative-parameters-of-investment-and-time-management-practice
+    title_en: Key Quantitative Parameters of Time Investment and Management Practice
+    slug: key-quantitative-parameters-of-time-investment-and-management-practice
     section_id: 66284
   - type: TEXT
     title_ru: Принципы практики инвестирования и учета времени
-    title_en: Principles of Investment and Time Management
-    slug: principles-of-investment-and-time-management
+    title_en: Principles of Time Investment and Management
+    slug: principles-of-time-investment-and-management
     section_id: 66285
   - type: TEXT
     title_ru: Как практика инвестирования и учета времени связана с другими практиками
       саморазвития
-    title_en: How Investment and Time Management Relate to Other Self-Development
+    title_en: How Time Investment and Management Relate to Other Self-Development
       Practices
-    slug: how-investment-and-time-management-relate-to-other-self-development-practices
+    slug: how-time-investment-and-management-relate-to-other-self-development-practices
     section_id: 66286
   - type: TEXT
     title_ru: Как освоить практику инвестирования и учета времени. Первый этап – «Объяснение»
-    title_en: How to Master the Practice of Investment and Time Management. Stage
+    title_en: How to Master the Practice of Time Investment and Management. Stage
       One – "Explanation"
-    slug: how-to-master-the-practice-of-investment-and-time-management-stage-one-explanation
+    slug: how-to-master-the-practice-of-time-investment-and-management-stage-one-explanation
     section_id: 66287
     images:
     - filename: 0.png
@@ -209,32 +210,32 @@ sections:
       orig_hash: 3a183b0df4df5c97e9cd2bc28a519a0f5993515d3b876536f92f19c9eb547c38
   - type: TEST
     title_ru: Моделирование 2.2. Список моих затруднений. Инвестирование и учет времени
-    title_en: Modeling 2.2. List of My Difficulties. Investment and Time Management
-    slug: modeling-2-2-list-of-my-difficulties-investment-and-time-management
+    title_en: Modeling 2.2. List of My Difficulties. Time Investment and Management
+    slug: modeling-2-2-list-of-my-difficulties-time-investment-and-management
     section_id: 66288
   - type: TEXT
     title_ru: Как освоить практику инвестирования и учета времени. Второй этап – «Умение»
-    title_en: How to Master the Practice of Investment and Time Management. Stage
+    title_en: How to Master the Practice of Time Investment and Management. Stage
       Two – "Skill"
-    slug: how-to-master-the-practice-of-investment-and-time-management-stage-two-skill
+    slug: how-to-master-the-practice-of-time-investment-and-management-stage-two-skill
     section_id: 66289
   - type: TEXT
     title_ru: Как освоить практику инвестирования и учета времени. Третий этап – «Навык»
-    title_en: How to Master the Practice of Investment and Time Management. Stage
+    title_en: How to Master the Practice of Time Investment and Management. Stage
       Three – "Skill"
-    slug: how-to-master-the-practice-of-investment-and-time-management-stage-three-skill
+    slug: how-to-master-the-practice-of-time-investment-and-management-stage-three-skill
     section_id: 66290
   - type: TEXT
     title_ru: Как освоить практику инвестирования и учета времени. Четвертый этап
       – «Мастерство»
-    title_en: How to Master the Practice of Investment and Time Management. Stage
+    title_en: How to Master the Practice of Time Investment and Management. Stage
       Four – "Mastery"
-    slug: how-to-master-the-practice-of-investment-and-time-management-stage-four-mastery
+    slug: how-to-master-the-practice-of-time-investment-and-management-stage-four-mastery
     section_id: 66291
   - type: TEST
     title_ru: Моделирование 2.3. Список понятий. Инвестирование и учет времени
-    title_en: Modeling 2.3. List of Concepts. Investment and Time Management
-    slug: modeling-2-3-list-of-concepts-investment-and-time-management
+    title_en: Modeling 2.3. List of Concepts. Time Investment and Management
+    slug: modeling-2-3-list-of-concepts-time-investment-and-management
     section_id: 66292
   - type: TEST
     title_ru: Вопросы для повторения и самопроверки
@@ -255,15 +256,15 @@ sections:
     title_ru: 'Моделирование 2.4. Чек-лист "Прогресс мастерства саморазвития" 1.2:
       степень «Объяснения», мастерство инвестирования и учета времени'
     title_en: 'Modeling 2.4. Checklist "Progress in Self-Development Mastery" 1.2:
-      Level "Explanations," Mastery of Investment and Time Management'
-    slug: modeling-2-4-checklist-progress-in-self-development-mastery-1-2-level-explanations-mastery-of-investment-and-time-management
+      Level "Explanations," Mastery of Time Investment and Management'
+    slug: modeling-2-4-checklist-progress-in-self-development-mastery-1-2-level-explanations-mastery-of-time-investment-and-management
     section_id: 66296
   - type: TEST
     title_ru: 'Моделирование 2.5. Чек-лист "Прогресс мастерства саморазвития" 2.2:
       степень «Умение», мастерство инвестирования и учета времени'
     title_en: 'Modeling 2.5. Checklist "Progress in Self-Development Mastery" 2.2:
-      Level "Skill," Mastery of Investment and Time Management'
-    slug: modeling-2-5-checklist-progress-in-self-development-mastery-2-2-level-skill-mastery-of-investment-and-time-management
+      Level "Skill," Mastery of Time Investment and Management'
+    slug: modeling-2-5-checklist-progress-in-self-development-mastery-2-2-level-skill-mastery-of-time-investment-and-management
     section_id: 66297
 - type: HEADER
   title_ru: Систематическое медленное чтение
@@ -430,8 +431,8 @@ sections:
     section_id: 66326
   - type: TEXT
     title_ru: Мастерство мышления письмом
-    title_en: Thinking Mastery Through Writing
-    slug: thinking-mastery-through-writing
+    title_en: Mastery of Thinking Through Writing
+    slug: mastery-of-thinking-through-writing
     section_id: 66327
   - type: TEXT
     title_ru: Что делает человек, обладающий мастерством мышления письмом
@@ -490,8 +491,8 @@ sections:
     section_id: 66337
   - type: TEST
     title_ru: Моделирование 4.4. Мой творческий конвейер
-    title_en: Modeling 4.4. My Creative Assembly Line
-    slug: modeling-4-4-my-creative-assembly-line
+    title_en: Modeling 4.4. My Creative Workflow
+    slug: modeling-4-4-my-creative-workflow
     section_id: 66338
   - type: TEST
     title_ru: Вопросы для повторения и самопроверки
@@ -565,8 +566,8 @@ sections:
     section_id: 66351
   - type: TEXT
     title_ru: Мастерство мышления проговариванием
-    title_en: Thinking Mastery by Speaking
-    slug: thinking-mastery-by-speaking
+    title_en: Mastery of Thinking by Speaking
+    slug: mastery-of-thinking-by-speaking
     section_id: 66352
   - type: TEXT
     title_ru: Что делает человек, обладающий мастерством мышления проговариванием
@@ -645,8 +646,8 @@ sections:
     section_id: 66366
 - type: HEADER
   title_ru: Организация досуга
-  title_en: Leisure Organization
-  slug: leisure-organization
+  title_en: Leisure Planning
+  slug: leisure-planning
   section_id: 66367
   children:
   - type: TEST
@@ -663,7 +664,7 @@ sections:
     section_id: 66369
   - type: TEXT
     title_ru: Что такое досуг
-    title_en: What is Leisure
+    title_en: What is Leisure?
     slug: what-is-leisure
     section_id: 66370
   - type: TEXT
@@ -679,18 +680,18 @@ sections:
     section_id: 66372
   - type: TEXT
     title_ru: Для кого важна организация досуга
-    title_en: Who Benefits from Leisure Organization
-    slug: who-benefits-from-leisure-organization
+    title_en: Who Benefits from Leisure Planning?
+    slug: who-benefits-from-leisure-planning
     section_id: 66373
   - type: TEXT
     title_ru: Мастерство организации досуга
-    title_en: Leisure Organization Mastery
-    slug: leisure-organization-mastery
+    title_en: Leisure Planning Mastery
+    slug: leisure-planning-mastery
     section_id: 66374
   - type: TEXT
     title_ru: Что делает человек, обладающий мастерством организации досуга
-    title_en: What Does a Person with Leisure Organization Mastery Do
-    slug: what-does-a-person-with-leisure-organization-mastery-do
+    title_en: What Does a Person with Leisure Planning Mastery Do
+    slug: what-does-a-person-with-leisure-planning-mastery-do
     section_id: 66375
     images:
     - filename: 1.jpeg
@@ -716,18 +717,18 @@ sections:
     section_id: 66378
   - type: TEXT
     title_ru: Как освоить практику организации досуга. Первый этап — “Объяснения”
-    title_en: 'How to Master Leisure Organization Practice: Stage One - "Explanations"'
-    slug: how-to-master-leisure-organization-practice-stage-one-explanations
+    title_en: 'How to Master Leisure Planning Practice: Stage One - "Explanations"'
+    slug: how-to-master-leisure-planning-practice-stage-one-explanations
     section_id: 66379
   - type: TEST
     title_ru: Моделирование 6.2. Список моих затруднений. Организация досуга
-    title_en: Modeling 6.2. List of My Difficulties. Leisure Organization
-    slug: modeling-6-2-list-of-my-difficulties-leisure-organization
+    title_en: Modeling 6.2. List of My Difficulties. Leisure Planning
+    slug: modeling-6-2-list-of-my-difficulties-leisure-planning
     section_id: 66380
   - type: TEXT
     title_ru: Как освоить практику организации досуга. Второй этап — “Умение”
-    title_en: How to Master Leisure Organization Practice. Stage Two — "Skill"
-    slug: how-to-master-leisure-organization-practice-stage-two-skill
+    title_en: How to Master Leisure Planning Practice. Stage Two — "Skill"
+    slug: how-to-master-leisure-planning-practice-stage-two-skill
     section_id: 66381
   - type: TEST
     title_ru: Моделирование 6.3. Мои практики досуга
@@ -737,14 +738,14 @@ sections:
   - type: TEXT
     title_ru: Как освоить практику организации досуга Третий и четвертый этапы — “Навык”
       и “Мастерство”
-    title_en: 'How to Master Leisure Organization Practice: Stages Three and Four
+    title_en: 'How to Master Leisure Planning Practice: Stages Three and Four
       — "Skill" and "Mastery"'
-    slug: how-to-master-leisure-organization-practice-stages-three-and-four-skill-and-mastery
+    slug: how-to-master-leisure-planning-practice-stages-three-and-four-skill-and-mastery
     section_id: 66383
   - type: TEST
     title_ru: Моделирование 6.4. Список понятий. Организация досуга
-    title_en: Modeling 6.4. List of Concepts. Leisure Organization
-    slug: modeling-6-4-list-of-concepts-leisure-organization
+    title_en: Modeling 6.4. List of Concepts. Leisure Planning
+    slug: modeling-6-4-list-of-concepts-leisure-planning
     section_id: 66384
   - type: TEST
     title_ru: Вопросы для повторения и самопроверки
@@ -765,20 +766,20 @@ sections:
     title_ru: 'Моделирование 6.5. Чек-лист "Прогресс мастерства саморазвития" 1.6:
       степень «Объяснения», мастерство организация досуга'
     title_en: 'Modeling 6.5. Checklist "Progress in Self-Development Mastery" 1.6:
-      Level "Explanations," Mastery in Leisure Organization'
-    slug: modeling-6-5-checklist-progress-in-self-development-mastery-1-6-level-explanations-mastery-in-leisure-organization
+      Level "Explanations," Mastery in Leisure Planning'
+    slug: modeling-6-5-checklist-progress-in-self-development-mastery-1-6-level-explanations-mastery-in-leisure-planning
     section_id: 66388
   - type: TEST
     title_ru: 'Моделирование 6.6. Чек-лист "Прогресс мастерства саморазвития" 2.6:
       степень «Умение», мастерство организация досуга'
     title_en: 'Modeling 6.6. Checklist "Progress in Self-Development Mastery" 2.6:
-      Level "Skill," Mastery in Leisure Organization'
-    slug: modeling-6-6-checklist-progress-in-self-development-mastery-2-6-level-skill-mastery-in-leisure-organization
+      Level "Skill," Mastery in Leisure Planning'
+    slug: modeling-6-6-checklist-progress-in-self-development-mastery-2-6-level-skill-mastery-in-leisure-planning
     section_id: 66389
 - type: HEADER
   title_ru: Формирование окружения
-  title_en: Environment Formation
-  slug: environment-formation
+  title_en: Shaping Your Environment
+  slug: shaping-your-environment
   section_id: 66390
   children:
   - type: TEST
@@ -803,28 +804,28 @@ sections:
     section_id: 66394
   - type: TEST
     title_ru: Моделирование 7.1. Список информационных ресурсов. Формирование окружения
-    title_en: Modeling 7.1. List of Information Resources. Environment Formation
-    slug: modeling-7-1-list-of-information-resources-environment-formation
+    title_en: Modeling 7.1. List of Information Resources. Shaping Your environment.
+    slug: modeling-7-1-list-of-information-resources-shaping-the-environment
     section_id: 66395
   - type: TEXT
     title_ru: Для кого важно формирование окружения
-    title_en: Who Benefits from Environment Formation
-    slug: who-benefits-from-environment-formation
+    title_en: Who Benefits from Shaping Their Environment
+    slug: who-benefits-from-shaping-their-environment
     section_id: 66396
   - type: TEXT
     title_ru: Мастерство формирования окружения
-    title_en: Mastery of Shaping the Environment
-    slug: mastery-of-shaping-the-environment
+    title_en: Mastery in Shaping the Environment
+    slug: mastery-in-shaping-the-environment
     section_id: 66397
   - type: TEXT
     title_ru: Что делает человек, обладающий мастерством формирования окружения
-    title_en: What Does a Person with Mastery in Shaping the Environment Do
-    slug: what-does-a-person-with-mastery-in-shaping-the-environment-do
+    title_en: What Someone with Mastery in Shaping Their Environment Does
+    slug: what-someone-with-mastery-in-shaping-their-environment-do
     section_id: 66398
   - type: TEXT
     title_ru: Принципы практики формирования окружения
-    title_en: Principles of Environment Formation Practice
-    slug: principles-of-environment-formation-practice
+    title_en: Principles of the Practice of Shaping Your Environment
+    slug: principles-of-the-practice-of-shaping-your-environment
     section_id: 66399
   - type: TEXT
     title_ru: Как практика формирования окружения связана с другими практиками саморазвития
@@ -834,18 +835,18 @@ sections:
     section_id: 66400
   - type: TEXT
     title_ru: Как освоить практику формирования окружения. Первый этап – «Объяснение»
-    title_en: How to Master the Practice of Forming an Environment. Stage One – "Explanation"
-    slug: how-to-master-the-practice-of-forming-an-environment-stage-one-explanation
+    title_en: How to Master the Practice of Shaping an Environment. Stage One – "Explanation"
+    slug: how-to-master-the-practice-of-shaping-an-environment-stage-one-explanation
     section_id: 66401
   - type: TEST
     title_ru: Моделирование 7.2. Список моих затруднений. Формирование окружения
-    title_en: Modeling 7.2. List of My Difficulties. Forming the Environment
-    slug: modeling-7-2-list-of-my-difficulties-forming-the-environment
+    title_en: Modeling 7.2. List of My Difficulties. Shaping My Environment
+    slug: modeling-7-2-list-of-my-difficulties-shaping-my-environment
     section_id: 66402
   - type: TEXT
     title_ru: Как освоить практику формирования окружения. Второй этап – «Умение»
-    title_en: How to Master the Practice of Forming an Environment. Stage Two – "Skill"
-    slug: how-to-master-the-practice-of-forming-an-environment-stage-two-skill
+    title_en: How to Master the Practice of Shaping an Environment. Stage Two – "Skill"
+    slug: how-to-master-the-practice-of-shaping-an-environment-stage-two-skill
     section_id: 66403
   - type: TEST
     title_ru: Моделирование 7.3. Моё окружение
@@ -855,14 +856,14 @@ sections:
   - type: TEXT
     title_ru: Как освоить практику формирования окружения. Третий и четвертый этапы
       – «Навык» и «Мастерство»
-    title_en: 'How to Master the Practice of Forming an Environment: Stages Three
+    title_en: 'How to Master the Practice of Shaping an Environment: Stages Three
       and Four – "Skill" and "Mastery"'
-    slug: how-to-master-the-practice-of-forming-an-environment-stages-three-and-four-skill-and-mastery
+    slug: how-to-master-the-practice-of-shaping-an-environment-stages-three-and-four-skill-and-mastery
     section_id: 66405
   - type: TEST
     title_ru: Моделирование 7.4. Список понятия. Формирование окружения
-    title_en: Modeling 7.4. List of Concepts. Formation of Environment
-    slug: modeling-7-4-list-of-concepts-formation-of-environment
+    title_en: Modeling 7.4. List of Concepts. Shaping the Environment
+    slug: modeling-7-4-list-of-concepts-shaping-the-environment
     section_id: 66406
   - type: TEST
     title_ru: Вопросы для повторения и самопроверки
@@ -883,15 +884,15 @@ sections:
     title_ru: 'Моделирование 7.5. Чек-лист "Прогресс мастерства саморазвития" 1.7:
       степень «Объяснения», мастерство формирования окружения'
     title_en: 'Modeling 7.5. Checklist "Progress in Self-Development Mastery" 1.7:
-      Level "Explanations," Mastery of Environment Formation'
-    slug: modeling-7-5-checklist-progress-in-self-development-mastery-1-7-level-explanations-mastery-of-environment-formation
+      Level "Explanations," Mastery in Shaping Your Environment'
+    slug: modeling-7-5-checklist-progress-in-self-development-mastery-1-7-level-explanations-mastery-in-shaping-your-environment
     section_id: 66410
   - type: TEST
     title_ru: 'Моделирование 7.6. Чек-лист "Прогресс мастерства саморазвития" 2.7:
       степень «Умение», мастерство формирования окружения'
     title_en: 'Modeling 7.6. Checklist "Progress in Self-Development Mastery" 2.7:
-      Level "Skill," Mastery of Environment Formation'
-    slug: modeling-7-6-checklist-progress-in-self-development-mastery-2-7-level-skill-mastery-of-environment-formation
+      Level "Skill," Mastery in Shaping Your Environment'
+    slug: modeling-7-6-checklist-progress-in-self-development-mastery-2-7-level-skill-mastery-in-shaping-your-environment
     section_id: 66411
 - type: HEADER
   title_ru: Стратегирование
@@ -946,8 +947,8 @@ sections:
     section_id: 66421
   - type: TEXT
     title_ru: Мастерство стратегирования
-    title_en: Strategy Mastery
-    slug: strategy-mastery
+    title_en: Strategic Mastery
+    slug: strategic-mastery
     section_id: 66422
   - type: TEXT
     title_ru: Что делает человек, обладающий мастерством стратегирования
@@ -1265,6 +1266,6 @@ sections:
     section_id: 66480
   - type: TEXT
     title_ru: Список использованной литературы
-    title_en: References List
-    slug: references-list
+    title_en: Reference List
+    slug: reference-list
     section_id: 66481
