@@ -5,6 +5,7 @@ import sys
 import base64
 
 import dotenv
+from course_name_mapping import get_mapped_name
 
 # Load environment variables from .env file
 dotenv.load_dotenv()
@@ -49,7 +50,9 @@ def get_courses_list():
             course_name = base64.b64encode(course_name.encode()).decode()
             if not course_id or not version:
                 continue
-            result.append(f"{course_id}:{course_name}:{version}:{versionId}:{authors}:{changelog}")
+            # Apply course name mapping
+            mapped_course_id = get_mapped_name(course_id)
+            result.append(f"{mapped_course_id}:{course_name}:{version}:{versionId}:{authors}:{changelog}")
         logger.info("Successfully fetched the courses list")
         return result
     except Exception as e:
