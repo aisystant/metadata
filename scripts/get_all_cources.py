@@ -5,10 +5,11 @@ import sys
 import base64
 
 import dotenv
-from course_name_mapping import get_mapped_name
+from course_name_mapping import get_mapped_name, is_course_allowed
 
 # Load environment variables from .env file
 dotenv.load_dotenv()
+
 
 # Configure logging
 log_level = os.getenv('LOG_LEVEL', 'INFO').upper()
@@ -50,8 +51,15 @@ def get_courses_list():
             course_name = base64.b64encode(course_name.encode()).decode()
             if not course_id or not version:
                 continue
+            
+            # Filter by whitelist (only process courses in the mapping)
+            if not is_course_allowed(course_id):
+                logger.debug(f"Skipping course {course_id} (not in whitelist)")
+                continue
+                
             # Apply course name mapping
             mapped_course_id = get_mapped_name(course_id)
+                
             result.append(f"{mapped_course_id}:{course_name}:{version}:{versionId}:{authors}:{changelog}")
         logger.info("Successfully fetched the courses list")
         return result
