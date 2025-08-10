@@ -1,0 +1,1198 @@
+course_id: methodology
+course_name: 3. Методология
+version: 2025-05-26T1657
+version_id: '559'
+sections:
+- type: TEXT
+  title_ru: Введение
+  title_en: Introduction
+  slug: introduction
+  section_id: 68218
+- type: HEADER
+  title_ru: Методология как фундаментальный метод мышления
+  title_en: Methodology as a Fundamental Method of Thinking
+  slug: methodology-as-a-fundamental-method-of-thinking
+  section_id: 68219
+  children:
+  - type: TEXT
+    title_ru: О чём будет, и о чём не будет рассказано в руководстве по методологии
+    title_en: What the Methodology Guide Will and Will Not Cover
+    slug: what-the-methodology-guide-will-and-will-not-cover
+    section_id: 68220
+  - type: TEST
+    title_ru: 'Моделирование: онтика методологии из руководства по системному мышлению'
+    title_en: 'Modeling: Ontics of Methodology from the Systems Thinking Guide'
+    slug: modeling-ontics-of-methodology-from-the-systems-thinking-guide
+    section_id: 68221
+  - type: TEXT
+    title_ru: Фундаментальная и прикладная методология
+    title_en: Fundamental and Applied Methodology
+    slug: fundamental-and-applied-methodology
+    section_id: 68222
+  - type: TEXT
+    title_ru: Понятие метода
+    title_en: Concept of Method
+    slug: concept-of-method
+    section_id: 68223
+  - type: TEXT
+    title_ru: Зачем изучать методологию
+    title_en: Why Study Methodology
+    slug: why-study-methodology
+    section_id: 68224
+  - type: TEXT
+    title_ru: Методология в интеллект-стеке
+    title_en: Methodology in the Intelligence Stack
+    slug: methodology-in-the-intelligence-stack
+    section_id: 68225
+    images:
+    - filename: 0.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/350/0.png
+      orig_hash: 3a0166364c3a4fae173a4208b138b4fee335c85c447491c48f29461a75bdb52d
+  - type: TEST
+    title_ru: 'Моделирование: выбор метода'
+    title_en: 'Modeling: Choosing a Method'
+    slug: modeling-choosing-a-method
+    section_id: 68226
+  - type: TEXT
+    title_ru: Метафора разложения метода в стек. Спектр мастерства по стеку методов
+      как спектральной шкале.
+    title_en: Metaphor of Method Decomposition into a Stack. Mastery Spectrum by Method
+      Stack as a Spectral Scale.
+    slug: metaphor-of-method-decomposition-into-a-stack-mastery-spectrum-by-method-stack-as-a-spectral-scale
+    section_id: 68227
+    images:
+    - filename: 1.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/450/1.png
+      orig_hash: 1548703efceaf87a158153c8722c63785c88f6646e34f36071cfa3f79be30bdc
+    - filename: 2.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/450/2.png
+      orig_hash: d60577b66df7ea70e4059e3fc79754ddaea89a1cf6ef836bf25d6a8111a5cfb0
+    - filename: 3.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/450/3.png
+      orig_hash: cd27c8546cc3dbc7a4b7d3493e564721cd3befbe33d4fb21ec61b0812ac7bbcf
+    - filename: 4.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/450/4.png
+      orig_hash: b58b8d14f0215231d4e7e8e19804382aef32e926774a202f0d57c28095080fa1
+    - filename: 5.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/450/5.png
+      orig_hash: bb319bd1ff2fb31a91a708fc457bc9fd770643ad51858f2961f1647343c159eb
+    - filename: 6.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/450/6.png
+      orig_hash: ea6cb0dbedbb84e2459719405700dd42ddfeb10c1c239d7c4f5f511c59427a30
+    - filename: 7.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/450/7.png
+      orig_hash: 9be50752041d80a88423d3f87b6ba256f0b54f98174b45d9add05e8da573e9ee
+  - type: TEST
+    title_ru: 'Моделирование: разложение культурного движения в стек'
+    title_en: 'Modeling: Decomposition of Cultural Movement into a Stack'
+    slug: modeling-decomposition-of-cultural-movement-into-a-stack
+    section_id: 68228
+  - type: TEXT
+    title_ru: Представление разложения метода деревом
+    title_en: Tree Method Decomposition Presentation
+    slug: tree-method-decomposition-presentation
+    section_id: 68229
+    images:
+    - filename: 8.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/550/8.jpeg
+      orig_hash: d59269f8cb00086aa778604b04926598c4927726ea5f6b36126cd8de43728c62
+    - filename: 9.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/550/9.jpeg
+      orig_hash: c2ba8d39db5b2d0d1e3a84d8510e1aa4f294d6486bd1e9019b2f43edc5d51d8b
+    - filename: 10.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/550/10.jpeg
+      orig_hash: 70a06d6730da580aca0f9d43e66dce44edd1479fb99b975e9324c88443703c05
+  - type: TEXT
+    title_ru: '«Схемотехника»: представление метода работы графом потоков.'
+    title_en: '"Circuit Design: Presenting the Method of Flow Graphs"'
+    slug: circuit-design-presenting-the-method-of-flow-graphs
+    section_id: 68230
+    images:
+    - filename: 11.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/600/11.jpeg
+      orig_hash: 5e3e2c7cd0d588851623904151ce42f9eb9f6c649c793fd207e154092ea3a77c
+  - type: TEXT
+    title_ru: 'Виды физического системного моделирования: функциональные диаграммы
+      есть, но вместо них может быть компьютерный код'
+    title_en: 'Types of Physical System Modeling: Functional Diagrams or Computer
+      Code'
+    slug: types-of-physical-system-modeling-functional-diagrams-or-computer-code
+    section_id: 68231
+    images:
+    - filename: 12.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/650/12.jpeg
+      orig_hash: 6d9a652fcd895f7147dc2b043ed2eb38a298c52afb10fbb954931dd6346cd3a5
+    - filename: 13.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/650/13.png
+      orig_hash: 43a7bc726c455c3ac9de3b31ea399e434d5fcc0dcdb76ed90626f738fb84740e
+    - filename: 14.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/650/14.png
+      orig_hash: 76918094f45721b04f666caf3473346207991f52dfa9ed430b49fb7bf25981fc
+  - type: TEST
+    title_ru: 'Задания: принципиальные схемы'
+    title_en: 'Assignments: Schematic Diagrams'
+    slug: assignments-schematic-diagrams
+    section_id: 68232
+  - type: TEXT
+    title_ru: 'Пример: методы создания систем AI'
+    title_en: 'Example: Methods for Creating AI Systems'
+    slug: example-methods-for-creating-ai-systems
+    section_id: 68233
+    images:
+    - filename: 15.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/750/15.png
+      orig_hash: e1be4e4e1815e88f46f75a3632ab602ad174725eb04a90cb1a19e6643e9076ee
+    - filename: 16.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/750/16.png
+      orig_hash: 01003b905d53d5313fe9e8f581a43ee9f434db4f7a6fc7fac4d33f34002e3463
+    - filename: 17.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/750/17.png
+      orig_hash: 5398202028743629d95cb8e5476f2bc393c16ffdc6047417155c8db75a73b851
+    - filename: 18.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/750/18.jpeg
+      orig_hash: 6b4a59a129e4ca8ea0dc5b0bf9c33d21d0023029e918d6731d4938dc342e0adc
+    - filename: 19.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/750/19.png
+      orig_hash: 42ce23b2155b1c8dd9fea3d4e52f2c87ddf5d617c0dd0c22e1f41a02b2352719
+  - type: TEXT
+    title_ru: 'Представление метода работы как алгоритма: методология как алгоритмика-на-стероидах'
+    title_en: 'Presenting the Work Method as an Algorithm: Methodology as Algorithmics-on-Steroids'
+    slug: presenting-the-work-method-as-an-algorithm-methodology-as-algorithmics-on-steroids
+    section_id: 68234
+  - type: TEST
+    title_ru: 'Задание: разложение метода вашей работы'
+    title_en: 'Assignment: Breakdown of Your Work Method'
+    slug: assignment-breakdown-of-your-work-method
+    section_id: 68235
+- type: HEADER
+  title_ru: 'Создание и развитие: не жизненный, не цикл'
+  title_en: 'Creation and development: not life, not cycle'
+  slug: creation-and-development-not-life-not-cycle
+  section_id: 68236
+  children:
+  - type: TEXT
+    title_ru: Биологический жизненный цикл, нулевая версия
+    title_en: Biological Life Cycle, Version Zero
+    slug: biological-life-cycle-version-zero
+    section_id: 68237
+    images:
+    - filename: 20.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/950/20.png
+      orig_hash: 479d28e4902ceae680029fd17ce70baeaa0f68ba6457784fa4e7f0861755625f
+    - filename: 21.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/950/21.png
+      orig_hash: 0faf9067fed9f9607bff13cde87ed6af1a9abbe3073a590f361d8259b96534ae
+  - type: TEXT
+    title_ru: 'Жизненный цикл системы 1.0: работы, меняющие состояния целевой системы'
+    title_en: 'System Life Cycle 1.0: Tasks Transforming the System of Interest'
+    slug: system-life-cycle-1-0-tasks-transforming-the-system-of-interest
+    section_id: 68238
+    images:
+    - filename: 22.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1000/22.png
+      orig_hash: 8dd8847918d3fe74bdaf7156037cb4f69e3da47e6283887d096797874072ae0a
+  - type: TEXT
+    title_ru: Операционный менеджмент и методология.
+    title_en: Operational Management and Methodology
+    slug: operational-management-and-methodology
+    section_id: 68239
+  - type: TEXT
+    title_ru: Жизненный цикл 1.0 — это работы создателей над создаваемой системой
+    title_en: Life Cycle 1.0 — The Work of Creators on the System Being Created
+    slug: life-cycle-1-0-the-work-of-creators-on-the-system-being-created
+    section_id: 68240
+    images:
+    - filename: 23.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1100/23.png
+      orig_hash: cdaa6bfd717f08f0353983b83b2dbcc8cd3197689be4cfd9d9a846e650f6619c
+  - type: TEST
+    title_ru: 'Моделирование: предметы кейса, их состояния, практики достижения состояний'
+    title_en: 'Modeling: Case Subjects, Their States, Practices for Achieving States'
+    slug: modeling-case-subjects-their-states-practices-for-achieving-states
+    section_id: 68241
+  - type: TEXT
+    title_ru: Управление последовательностью работ
+    title_en: Managing Work Sequence
+    slug: managing-work-sequence
+    section_id: 68242
+    images:
+    - filename: 24.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1200/24.png
+      orig_hash: add8efd406168163d5df83e82b21dfb2cf4eea65f4ac3ad8a8e31c8309f37523
+    - filename: 25.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1200/25.png
+      orig_hash: 923637ec189e1c239c7451baa62a8e494cd33295c0cc7fd9cc50fa48d6dbea07
+    - filename: 26.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1200/26.png
+      orig_hash: 856db6902c5e9595c3dcd07fbe0538aec3aaca963224f4cc978bf540aec1c539
+    - filename: 27.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1200/27.png
+      orig_hash: a7ffc5cf7b9324ec6d2fd97547c0faadf1f2ff4a4e9bcfe188bbc8a581749701
+    - filename: 28.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1200/28.png
+      orig_hash: bc89f16a7d7b307cd630b2b86e4cecf136ff323dd45a3bfbc1dcec3cf3bff8d5
+    - filename: 29.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1200/29.png
+      orig_hash: 9033e1b61c927be6fdee9f143256e1284518e1b04344a27f9158ea2b262a34ae
+  - type: TEXT
+    title_ru: Жизненный цикл проекта
+    title_en: Project Life Cycle
+    slug: project-life-cycle
+    section_id: 68243
+    images:
+    - filename: 30.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1250/30.png
+      orig_hash: 9e73f1757e0fda25e2ed15dcc9aaacc16eb2a00db5cf3a0ed2076949145b1a87
+  - type: TEST
+    title_ru: TEST Жизненный цикл 1.0
+    title_en: TEST Life Cycle 1.0
+    slug: test-life-cycle-1-0
+    section_id: 68244
+  - type: TEXT
+    title_ru: Проблемы с жизненным циклом 1.0
+    title_en: Lifecycle Issues 1.0
+    slug: lifecycle-issues-1-0
+    section_id: 68245
+    images:
+    - filename: 31.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1350/31.png
+      orig_hash: 74ea3bcfef5149db4f3dc5b50b93373be448c6f9e4a83e6e5ce932d409a6dca8
+    - filename: 32.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1350/32.png
+      orig_hash: cd777846eadf0c3c7aba01c04b16fa6f5a4b05f16b5fec911707bc78f68fe7bd
+  - type: TEXT
+    title_ru: Провал водопадной модели жизненного цикла
+    title_en: Failure of the Waterfall Model Lifecycle
+    slug: failure-of-the-waterfall-model-lifecycle
+    section_id: 68246
+    images:
+    - filename: 33.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1400/33.png
+      orig_hash: 3e6a5dcb812bc1907e0d336a8993fb1638d5b9044b2e0a5060a92d836f0b63f1
+    - filename: 34.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1400/34.png
+      orig_hash: 5ee2bfc2226d75e8d329efc5e2f4c29b3c8192ace244a6700c5930121a5f04d9
+  - type: TEXT
+    title_ru: 'Жизненный цикл 2.0: от стадий работ к методам разработки'
+    title_en: 'Life Cycle 2.0: From Work Stages to Development Methods'
+    slug: life-cycle-2-0-from-work-stages-to-development-methods
+    section_id: 68247
+    images:
+    - filename: 35.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1450/35.png
+      orig_hash: 0a0a759bf4be25f27e117f3e95f88beadcab24e981449b7b7a5f8f59c59c413d
+    - filename: 36.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1450/36.png
+      orig_hash: 54f98334e0c062a24cfc7ec974a0c1f65173ae721ec0a48b635f36af361fac22
+  - type: TEXT
+    title_ru: 'Время эксплуатации: пример человека'
+    title_en: 'Service Life: A Human Example'
+    slug: service-life-a-human-example
+    section_id: 68248
+    images:
+    - filename: 37.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1500/37.png
+      orig_hash: 1132437215bc7ed8fe7788924a4608149dac5a27d324e97e9c7e3e64d141a121
+    - filename: 38.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1500/38.png
+      orig_hash: cb3181f7449314321d462fd0f2859875d72fd3b5b59e4575587725a3d9a4b462
+  - type: TEXT
+    title_ru: Граф создателей
+    title_en: Creators Graph
+    slug: creators-graph
+    section_id: 68249
+    images:
+    - filename: 39.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1550/39.png
+      orig_hash: f021246f306bcc4c64e41b541f937223c5d117531e6e2a55cd1814192ba77348
+    - filename: 40.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1550/40.png
+      orig_hash: a3311072ff91704fa488b6cdfe3ff79d6468c1f826d0662c97554cf8df9bfbc8
+  - type: TEXT
+    title_ru: «Времена» рассмотрения системы
+    title_en: Times of System Consideration
+    slug: times-of-system-consideration
+    section_id: 68250
+  - type: TEST
+    title_ru: 'Моделирование: время операционное, создания, методологическое'
+    title_en: 'Modeling: Operational, Creation, Methodological Time'
+    slug: modeling-operational-creation-methodological-time
+    section_id: 68251
+  - type: TEST
+    title_ru: 'Задания: процесс инженерии и методологическое время'
+    title_en: 'Assignments: Engineering Process and Methodological Time'
+    slug: assignments-engineering-process-and-methodological-time
+    section_id: 68252
+- type: HEADER
+  title_ru: Инженерные процессы (методы разработки)
+  title_en: Engineering Processes (Development Methods)
+  slug: engineering-processes-development-methods
+  section_id: 68253
+  children:
+  - type: TEXT
+    title_ru: V-диаграмма
+    title_en: V-Model Diagram
+    slug: v-model-diagram
+    section_id: 68254
+    images:
+    - filename: 41.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1800/41.png
+      orig_hash: ec7a041a2ff78cd6c76009dfd56aeac9bf458a06b909b7ca97278a9be51bf136
+  - type: TEXT
+    title_ru: Элегантность/lean за счёт повышения точности моделирования и изготовления
+    title_en: Elegance/Lean through Improved Modeling and Manufacturing Precision
+    slug: elegance-lean-through-improved-modeling-and-manufacturing-precision
+    section_id: 68255
+    images:
+    - filename: 42.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1850/42.png
+      orig_hash: d0ffeb6150719818748487a6c365eaa866f989a007b46076755b09d10d8ae160
+  - type: TEXT
+    title_ru: Выбор инженерного процесса и организация разработки
+    title_en: Selection of Engineering Process and Development Organization
+    slug: selection-of-engineering-process-and-development-organization
+    section_id: 68256
+    images:
+    - filename: 43.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1900/43.png
+      orig_hash: 1b0f7d4dac86abe940613bc6f6cf1ad0c97a7c7efa5c8b33a39b3d6bc716ce0a
+    - filename: 44.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/1900/44.png
+      orig_hash: d2d8f513e89dac648acaaaf21878c303ad23605aaa0a369a8cf310a4585a824b
+  - type: TEXT
+    title_ru: Разнообразие методов управления работами
+    title_en: Variety of Work Management Methods
+    slug: variety-of-work-management-methods
+    section_id: 68257
+  - type: TEXT
+    title_ru: Гибкие процессы разработки и управление кейсами
+    title_en: Flexible Development Processes and Case Management
+    slug: flexible-development-processes-and-case-management
+    section_id: 68258
+    images:
+    - filename: 45.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/2000/45.png
+      orig_hash: a3c45858cb03aa7f14f6d97149f45f170490b3569fed7b0a71cd36c404f7ea96
+    - filename: 46.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/2000/46.png
+      orig_hash: 7448bb81c26d3c03c552f8e4550a8608afe28909062c3ced7f2e5ac26d5aeec5
+  - type: TEXT
+    title_ru: 'JTBD: клиентоориентированность? Нет, метод-ориентированность!'
+    title_en: 'JTBD: Customer Orientation? No, Method Orientation!'
+    slug: jtbd-customer-orientation-no-method-orientation
+    section_id: 68259
+    images:
+    - filename: 47.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/2050/47.jpeg
+      orig_hash: 1679c720456adfb2a0036a1988e8bea88e8e5c3179abcc73ea7d384e0abf3af4
+  - type: TEXT
+    title_ru: 'Пример методологии маркетинга: customer eXperience management.'
+    title_en: 'Example of Marketing Methodology: Customer Experience Management'
+    slug: example-of-marketing-methodology-customer-experience-management
+    section_id: 68260
+  - type: TEXT
+    title_ru: Клиентоориентированность и управление впечатлениями
+    title_en: Customer Orientation and Experience Management
+    slug: customer-orientation-and-experience-management
+    section_id: 68261
+    images:
+    - filename: 48.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/2150/48.png
+      orig_hash: 453d23be74541cbec3e36a5e69ca3e44ccbe0d215db50b0587a9232ac94471fe
+    - filename: 49.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/2150/49.jpeg
+      orig_hash: 8be0bd2b72bb2ec2e96e907bcac032a7a69a536964cca24bc15e08109cddb8e0
+  - type: TEXT
+    title_ru: 'Корпоративные экзокортексы для управления впечатлениями: CRM, CXP,
+      DXP, LXP.'
+    title_en: 'Corporate Exocortexes for Experience Management: CRM, CXP, DXP, LXP'
+    slug: corporate-exocortexes-for-experience-management-crm-cxp-dxp-lxp
+    section_id: 68262
+  - type: TEST
+    title_ru: TEST Метод разработки
+    title_en: TEST Development Method
+    slug: test-development-method
+    section_id: 68263
+  - type: TEXT
+    title_ru: Метод разработки ничего не скажет об оргзвеньях
+    title_en: The Development Method Won't Reveal Organizational Units
+    slug: the-development-method-won-t-reveal-organizational-units
+    section_id: 68264
+  - type: TEXT
+    title_ru: 'Проект: это всё, что угодно'
+    title_en: 'Project: Anything and Everything'
+    slug: project-anything-and-everything
+    section_id: 68265
+  - type: TEST
+    title_ru: 'Моделирование: управление инженерным процессом против управления работами'
+    title_en: 'Modeling: Managing the Engineering Process vs. Managing Work'
+    slug: modeling-managing-the-engineering-process-vs-managing-work
+    section_id: 68266
+- type: HEADER
+  title_ru: Метод как объект первого класса
+  title_en: Method as a First-Class Object
+  slug: method-as-a-first-class-object
+  section_id: 68267
+  children:
+  - type: TEXT
+    title_ru: 'Понятие метода: повторение'
+    title_en: 'Concept of Method: Review'
+    slug: concept-of-method-review
+    section_id: 68268
+  - type: TEST
+    title_ru: TEST Методы
+    title_en: TEST Methods
+    slug: test-methods
+    section_id: 68269
+  - type: TEXT
+    title_ru: Знания метода и как их описывать.
+    title_en: Method Knowledge and How to Describe It
+    slug: method-knowledge-and-how-to-describe-it
+    section_id: 68270
+  - type: TEST
+    title_ru: TEST Дисциплины в основании методов работы
+    title_en: TEST Disciplines Underlying Work Methods
+    slug: test-disciplines-underlying-work-methods
+    section_id: 68271
+  - type: TEXT
+    title_ru: Инструменты метода как поддержка его дисциплины
+    title_en: Method Tools as Support for Its Discipline
+    slug: method-tools-as-support-for-its-discipline
+    section_id: 68272
+    images:
+    - filename: 50.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/2700/50.png
+      orig_hash: 71325429c38d8609e5f3d9f6563fe2b6c0ce8263faf94ed1ecc6562ffa1e4bda
+    - filename: 51.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/2700/51.png
+      orig_hash: 594aaae983250fce328b4e5293e068e1aa0f510c36aed1a0a24986ddf3bd86a4
+  - type: TEST
+    title_ru: TEST Инструментарий
+    title_en: TEST Toolkit
+    slug: test-toolkit
+    section_id: 68273
+  - type: TEXT
+    title_ru: Совершенствование и развитие
+    title_en: Improvement and Development
+    slug: improvement-and-development
+    section_id: 68274
+    images:
+    - filename: 52.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/2800/52.png
+      orig_hash: c1b413ba2d48c51e4cf590003ea936d93ccaad6e544125dfe6e51b0af418096d
+  - type: TEXT
+    title_ru: Где искать описания современных методов менеджмента и инженерии
+    title_en: Where to Find Descriptions of Modern Management and Engineering Methods
+    slug: where-to-find-descriptions-of-modern-management-and-engineering-methods
+    section_id: 68275
+  - type: TEXT
+    title_ru: Стандарты классической системной инженерии
+    title_en: Standards of Classical Systems Engineering
+    slug: standards-of-classical-systems-engineering
+    section_id: 68276
+    images:
+    - filename: 53.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/2900/53.png
+      orig_hash: aacf2446d40c58fb4fe08f70f2a8c80a828ab0eba7c682dc1e7d8e5c7506af79
+    - filename: 54.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/2900/54.png
+      orig_hash: 71f3cb8941b752e2c1a870ccc81e4635b6dee094b8162a8038fa9bdf421b21a2
+  - type: TEXT
+    title_ru: Закат тяжеловесных методологий
+    title_en: The Decline of Heavyweight Methodologies
+    slug: the-decline-of-heavyweight-methodologies
+    section_id: 68277
+  - type: TEST
+    title_ru: 'Моделирование: методология разработки'
+    title_en: 'Modeling: Development Methodology'
+    slug: modeling-development-methodology
+    section_id: 68278
+  - type: TEXT
+    title_ru: Онтологические нюансы в основе рациональности при стратегировании
+    title_en: Ontological Nuances Underlying Rationality in Strategizing
+    slug: ontological-nuances-underlying-rationality-in-strategizing
+    section_id: 68279
+  - type: TEXT
+    title_ru: Безмасштабность методологии
+    title_en: Scalelessness of Methodology
+    slug: scalelessness-of-methodology
+    section_id: 68280
+  - type: TEXT
+    title_ru: Метод как объект первого класса
+    title_en: Method as a First-Class Object
+    slug: method-as-a-first-class-object
+    section_id: 68281
+  - type: TEXT
+    title_ru: Вариативность культур
+    title_en: Cultural Variability
+    slug: cultural-variability
+    section_id: 68282
+    images:
+    - filename: 55.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/3200/55.png
+      orig_hash: f33ea1ee10d3a3f2d0caa136845bbf5a1e2a50c99e1736114de919f96787a370
+    - filename: 56.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/3200/56.png
+      orig_hash: 710dd2932f154e8bcabc2f7b1e6456363df6cdc4da3a9ee8f0b021001c6c4a7e
+    - filename: 57.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/3200/57.png
+      orig_hash: 3de37536a7bb5c8994695bc8c19673d9c457c4c0dd4c04dcb6bb5bd05d2c440a
+  - type: TEST
+    title_ru: TEST Онтология метода
+    title_en: TEST Method Ontology
+    slug: test-method-ontology
+    section_id: 68283
+  - type: TEST
+    title_ru: 'Моделирование: методы вашей работы'
+    title_en: 'Modeling: Methods of Your Work'
+    slug: modeling-methods-of-your-work
+    section_id: 68284
+  - type: TEST
+    title_ru: Задание
+    title_en: Assignment
+    slug: assignment
+    section_id: 68285
+  - type: TEXT
+    title_ru: Эволюция методов
+    title_en: Evolution of Methods
+    slug: evolution-of-methods
+    section_id: 68286
+    images:
+    - filename: 58.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/3400/58.png
+      orig_hash: 8d81edd51453f079379b7e231da5c481316531cdc6408472876441dbc81e1096
+    - filename: 59.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/3400/59.png
+      orig_hash: df9ccf8aa57e46dd68bb189574c125ad37f6eb502716ea170c94699002d27d13
+    - filename: 60.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/3400/60.png
+      orig_hash: 4588550ff82c3052adf36c7f146774eed773a03b34c13681710d8788d5ef7b59
+  - type: TEXT
+    title_ru: Системные уровни целевой системы и стратегирование
+    title_en: System Levels of the System of Interest and Strategizing
+    slug: system-levels-of-the-system-of-interest-and-strategizing
+    section_id: 68287
+    images:
+    - filename: 61.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/3450/61.png
+      orig_hash: 15bf51c756fa633720a33fb101277ad1b40cdeda290526a23e4f5b2627bd4270
+  - type: TEST
+    title_ru: 'Моделирование: практики для различных системных уровней'
+    title_en: 'Modeling: Practices for Different System Levels'
+    slug: modeling-practices-for-different-system-levels
+    section_id: 68288
+  - type: TEST
+    title_ru: Задание
+    title_en: Assignment
+    slug: assignment
+    section_id: 68289
+- type: HEADER
+  title_ru: Коллективная собранность в отслеживании выполнения работ
+  title_en: Collective Focus in Tracking Work Execution
+  slug: collective-focus-in-tracking-work-execution
+  section_id: 68290
+  children:
+  - type: TEXT
+    title_ru: Диаграмма системного описания графов создателей
+    title_en: System Description Diagram of Creator Graphs
+    slug: system-description-diagram-of-creator-graphs
+    section_id: 68291
+    images:
+    - filename: 62.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/3650/62.png
+      orig_hash: e2b106810d2814cbe6621641383d83d0bcff3e0fd9af904c779507a52f266c26
+  - type: TEXT
+    title_ru: Всегда используйте текст (аутлайн) и таблицу вместо диаграмм
+    title_en: Always Use Text (Outline) and Table Instead of Diagrams
+    slug: always-use-text-outline-and-table-instead-of-diagrams
+    section_id: 68292
+    images:
+    - filename: 63.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/3700/63.png
+      orig_hash: f99a097644e610e855498bd0e43ea2b92cef47e2761c97925a303f3c33877976
+  - type: TEST
+    title_ru: 'Задания: чеклисты'
+    title_en: 'Tasks: Checklists'
+    slug: tasks-checklists
+    section_id: 68293
+  - type: TEXT
+    title_ru: Области интересов надсистем, целевой системы, создателя
+    title_en: Areas of Interest of Supersystems, System of Interest, Creator
+    slug: areas-of-interest-of-supersystems-system-of-interest-creator
+    section_id: 68294
+    images:
+    - filename: 64.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/3800/64.png
+      orig_hash: 00da2715297556120243cfd1ef638ba0eccf96f139dd33a55c94878abe81a2c7
+    - filename: 65.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/3800/65.png
+      orig_hash: 54396250d0bcea7e8ba4db344f050eb3c50b5966cea9520e5e4084ebd78c8697
+  - type: TEST
+    title_ru: TEST Область интересов, основные альфы
+    title_en: TEST Area of Interest, Main Alphas
+    slug: test-area-of-interest-main-alphas
+    section_id: 68295
+  - type: TEXT
+    title_ru: Альфы — общий объект отслеживания для организации
+    title_en: Alphas as a Common Tracking Object for the Organization
+    slug: alphas-as-a-common-tracking-object-for-the-organization
+    section_id: 68296
+    images:
+    - filename: 66.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/3900/66.png
+      orig_hash: 70b921e33b1d738c363be479af61c463b5980865d2470b45e6b91e3a27055122
+  - type: TEST
+    title_ru: TEST Роли и их ведущие альфы
+    title_en: TEST Roles and Their Leading Alphas
+    slug: test-roles-and-their-leading-alphas
+    section_id: 68297
+  - type: TEXT
+    title_ru: Альфа коммерческой возможности ведения проекта
+    title_en: Alpha of a Commercial Project Opportunity
+    slug: alpha-of-a-commercial-project-opportunity
+    section_id: 68298
+    images:
+    - filename: 67.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/4000/67.jpeg
+      orig_hash: 82dd5911812fae80fccf8d81e5a25369a34fc4f7ef167000b788115a09aa9f9b
+    - filename: 68.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/4000/68.jpeg
+      orig_hash: 62622de236af104cb1ec75c12009be4c61651b6b6abd75d0b4d08f4bfda48381
+  - type: TEXT
+    title_ru: Альфа внешних проектных ролей
+    title_en: Alpha of External Project Roles
+    slug: alpha-of-external-project-roles
+    section_id: 68299
+  - type: TEXT
+    title_ru: Альфа системы
+    title_en: Alpha Systems
+    slug: alpha-systems
+    section_id: 68300
+  - type: TEXT
+    title_ru: Альфа описания системы
+    title_en: Alpha System Descriptions
+    slug: alpha-system-descriptions
+    section_id: 68301
+  - type: TEXT
+    title_ru: Альфа метода/способа/культуры работы
+    title_en: Alpha of Work Method/Culture
+    slug: alpha-of-work-method-culture
+    section_id: 68302
+  - type: TEXT
+    title_ru: Альфа работы (works/operations/эксплуатации/использования) целевой системы
+    title_en: Alpha Operations of the System of Interest
+    slug: alpha-operations-of-the-system-of-interest
+    section_id: 68303
+  - type: TEXT
+    title_ru: 'Пример: альфа «культура» для сообществ'
+    title_en: 'Example: Alpha "Culture" for Communities'
+    slug: example-alpha-culture-for-communities
+    section_id: 68304
+    images:
+    - filename: 69.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/4300/69.jpeg
+      orig_hash: 268c8a816b4ce6721cf691ddf3c1954c9d283feb2612106ccf7168b76d94bcfb
+  - type: TEXT
+    title_ru: За чем следить в проекте
+    title_en: What to Monitor in a Project
+    slug: what-to-monitor-in-a-project
+    section_id: 68305
+  - type: TEST
+    title_ru: 'Моделирование: распределение времени на целевую систему, надсистемы,
+      создателя'
+    title_en: 'Modeling: Time Allocation for System of Interest, Supersystems, Creator'
+    slug: modeling-time-allocation-for-system-of-interest-supersystems-creator
+    section_id: 68306
+  - type: TEXT
+    title_ru: Состояния альфы и артефакты/рабочие продукты
+    title_en: Alpha States and Artifacts/Work Artifacts
+    slug: alpha-states-and-artifacts-work-artifacts
+    section_id: 68307
+  - type: TEXT
+    title_ru: Как работают с моделью графа создателей в форме чеклиста
+    title_en: How to Work with the Graph Model of Creators in Checklist Form
+    slug: how-to-work-with-the-graph-model-of-creators-in-checklist-form
+    section_id: 68308
+  - type: TEXT
+    title_ru: Подальфы
+    title_en: Subalphas
+    slug: subalphas
+    section_id: 68309
+  - type: TEST
+    title_ru: 'Моделирование: адаптация модели графа создателей'
+    title_en: 'Modeling: Adapting the Graph of Creators'
+    slug: modeling-adapting-the-graph-of-creators
+    section_id: 68310
+  - type: TEST
+    title_ru: TEST Адаптация модели графа создателей
+    title_en: TEST Adapting the Creator Graph Model
+    slug: test-adapting-the-creator-graph-model
+    section_id: 68311
+- type: HEADER
+  title_ru: Теория стратегирования
+  title_en: Strategy Theory
+  slug: strategy-theory
+  section_id: 68312
+  children:
+  - type: TEXT
+    title_ru: Понятие стратегирования
+    title_en: The Concept of Strategizing
+    slug: the-concept-of-strategizing
+    section_id: 68313
+  - type: TEXT
+    title_ru: Будущее уже здесь
+    title_en: The Future Is Here
+    slug: the-future-is-here
+    section_id: 68314
+    images:
+    - filename: 70.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/4800/70.png
+      orig_hash: fd61bbe96c36d605a2de331a92b70a0a3ff5e29f339adc24f093250a9666c466
+  - type: TEXT
+    title_ru: 'Подрыв подо всей цивилизацией сразу: экспоненциальные технологии и
+      конвергенция'
+    title_en: 'Undermining All of Civilization at Once: Exponential Technologies and
+      Convergence'
+    slug: undermining-all-of-civilization-at-once-exponential-technologies-and-convergence
+    section_id: 68315
+    images:
+    - filename: 71.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/4850/71.png
+      orig_hash: 809b0148d93130e0f41260d9d86f231ded6ed8e92e59e40eec58c1b709e8293a
+    - filename: 72.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/4850/72.png
+      orig_hash: 1fa6886d1b17242f3c789e7944ed9f6ebb9006c8b273d54bf275c4c59569cbde
+    - filename: 73.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/4850/73.png
+      orig_hash: 9b608997cae4a1c257dfc54551975f7fa5892b6a69c209438e9233276f3e5fb0
+    - filename: 74.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/4850/74.png
+      orig_hash: daf485e58c440cc90e5ab293380b28819187aed378a4d4db6269c218354507ae
+  - type: TEXT
+    title_ru: 'Пример подрыва: электромобили уже сейчас дешевле бензиновых автомобилей
+      и их продаётся больше'
+    title_en: 'Example Disruption: Electric Cars Are Already Cheaper Than Gasoline
+      Cars and Sell More'
+    slug: example-disruption-electric-cars-are-already-cheaper-than-gasoline-cars-and-sell-more
+    section_id: 68316
+    images:
+    - filename: 75.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/4900/75.png
+      orig_hash: d7258d7d837f65284b1f1d5d7b0f9e3421622f6cd19648c90b7b0e8d91179b3d
+    - filename: 76.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/4900/76.png
+      orig_hash: a8c6f1e92b2ed2f85323988403f4b5472a26a9d1e854393ef932087b58d84b91
+    - filename: 77.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/4900/77.png
+      orig_hash: 71b822b75803b41dfce57b0b1fb54aaf6c9065d27bfafe1a39b5786f84abe28c
+    - filename: 78.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/4900/78.png
+      orig_hash: 5255064da3dbba1aa0c9ba8f3a77cd2d4fd32bcae228582b7b406e061db5314b
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68317
+  - type: TEXT
+    title_ru: Роботы заберут работу? Нет! Но работу/job/занятость надо будет менять
+      часто.
+    title_en: Will Robots Take Jobs? No! But Jobs Will Need to Change Often
+    slug: will-robots-take-jobs-no-but-jobs-will-need-to-change-often
+    section_id: 68318
+    images:
+    - filename: 79.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5000/79.png
+      orig_hash: 3ce2c12c9851300b58a23a010e575fef6a696123b47f7f2852abfca753f91984
+    - filename: 80.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5000/80.png
+      orig_hash: f5671bb9e885b0f9b9281e0b04adffc57d9ab232a988f14d6fdd0f8c1c33c322
+    - filename: 81.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5000/81.png
+      orig_hash: 6b0378b1393fe57ea335368fd6a0408f0e7be0a1488df7d1fef889049ed9f979
+  - type: TEXT
+    title_ru: 'Инновации: всегда сбоку'
+    title_en: 'Innovations: Always on the Side'
+    slug: innovations-always-on-the-side
+    section_id: 68319
+    images:
+    - filename: 82.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5050/82.png
+      orig_hash: 61955bdc34fdc73ebc43d4f3c674edf419d736b44c741a5ff856b94aa6f52bd4
+    - filename: 83.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5050/83.png
+      orig_hash: 3ac0fdf3efd824605810ad2ce9f3685e7fc6354c95657421f49f477e373dcd80
+    - filename: 84.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5050/84.png
+      orig_hash: 96462187f3d8ff248a9847c8b42d1f4f64b373e1b3d563d507ac825eb0fbac97
+    - filename: 85.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5050/85.jpeg
+      orig_hash: f008054a5822d0b37ddc29b1f0c2716b574ff5d922f8075d612827d2b33b749f
+    - filename: 86.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5050/86.png
+      orig_hash: 85d9afcfb340d0c108511022e328d33c01b154e45d1e92ee97c465d7969bc562
+  - type: TEST
+    title_ru: TEST Скорость обучения нейросети
+    title_en: TEST Neural Network Learning Speed
+    slug: test-neural-network-learning-speed
+    section_id: 68320
+  - type: TEST
+    title_ru: 'Моделирование: всё новое приходит сбоку'
+    title_en: 'Modeling: New Things Come from the Side'
+    slug: modeling-new-things-come-from-the-side
+    section_id: 68321
+  - type: TEXT
+    title_ru: Архистратегии ежа и лисы
+    title_en: Hedgehog and Fox Archistrategies
+    slug: hedgehog-and-fox-archistrategies
+    section_id: 68322
+    images:
+    - filename: 87.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5200/87.png
+      orig_hash: e02a5e1633ad1a800ce9b00ac5a6c57258b46a2a67256952695bd9a01b27a19b
+    - filename: 88.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5200/88.png
+      orig_hash: 328a2194bcdfd64eb49c1fe278496a73622b523e5ea3e73475852aa4a6ced86d
+  - type: TEST
+    title_ru: 'Моделирование: икигай по методу Коллинза'
+    title_en: 'Modeling: Ikigai Using Collins'' Method'
+    slug: modeling-ikigai-using-collins-method
+    section_id: 68323
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68324
+  - type: TEXT
+    title_ru: Мечту вполне можно иметь. На мечте просто нельзя застревать.
+    title_en: It's Okay to Have a Dream, Just Don't Get Stuck on It
+    slug: it-s-okay-to-have-a-dream-just-don-t-get-stuck-on-it
+    section_id: 68325
+    images:
+    - filename: 89.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5350/89.jpeg
+      orig_hash: 5e204bb40c4f886fed389becfd961812da4ee76f5a27e772e9d137a1153c75a3
+    - filename: 90.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5350/90.png
+      orig_hash: a08cd9213b5074911ff9a6022b40b1a96c2167579caed122eeb13674d2d0caff
+    - filename: 91.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5350/91.png
+      orig_hash: 04c3e97375cb1600e5a29a7344117523d12ff51cd3f19f2911a1ab0be93491a3
+    - filename: 92.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5350/92.png
+      orig_hash: 9bbac94e57118ba92473a4e5099cd8f87f9dcf30c42f08c6ac618391a6e4f16c
+  - type: TEXT
+    title_ru: Не шагай в туман, не надейся на «авось»!
+    title_en: Don't Step into the Fog, Don't Rely on Luck!
+    slug: don-t-step-into-the-fog-don-t-rely-on-luck
+    section_id: 68326
+    images:
+    - filename: 93.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5400/93.png
+      orig_hash: 8873dd8c72ebbdb626bfcce42c32445a7cf5e1d3cafd5ff9dd3bf98bee2b3435
+    - filename: 94.jpg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5400/94.jpg
+      orig_hash: 70dc0e3d2a1daf30212476d71f0f1299ab38ca2a82bdf0ccb13a4696139e059e
+    - filename: 95.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5400/95.jpeg
+      orig_hash: a95056c08de7040bd60ee0e51c912607e87c8229076847a8c1755ace4a733496
+  - type: TEXT
+    title_ru: В конкуренции побеждает самый быстроменяющийся
+    title_en: In Competition, the Fastest to Adapt Wins
+    slug: in-competition-the-fastest-to-adapt-wins
+    section_id: 68327
+    images:
+    - filename: 96.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5450/96.jpeg
+      orig_hash: 285141f581939e0d219609741e3822eef28ed144fd8186938743eab978a2c641
+    - filename: 97.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5450/97.png
+      orig_hash: 6840df0b55d43c24ff8b8adc7dd2ef312bde630b1e7ee9c5ac1ac2d564bdf2f7
+    - filename: 98.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5450/98.jpeg
+      orig_hash: cb9c7f1a385884034b1365ddd8e3bdd48cce2fd07328a14fef0b360e7841c121
+  - type: TEST
+    title_ru: 'Моделирование: варианты мечты'
+    title_en: 'Modeling: Dream Scenarios'
+    slug: modeling-dream-scenarios
+    section_id: 68328
+  - type: TEXT
+    title_ru: Бесконечное развитие (open-endedness)
+    title_en: Endless Development (Open-Endedness)
+    slug: endless-development-open-endedness
+    section_id: 68329
+    images:
+    - filename: 99.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5550/99.png
+      orig_hash: 24097110be08d1441128b2ce289708d684328349e8e56ed4fb85c5aa9985bbfd
+    - filename: 100.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5550/100.jpeg
+      orig_hash: 54add0221a058a204ac9f1f6fc963dd4cfd6b6345f7796a7188ddfb6959d7ad3
+    - filename: 101.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5550/101.png
+      orig_hash: 22b4341b14c6d72543cef128d9c71a364bf66f099b79b3db39b0c2a5009ec581
+  - type: TEST
+    title_ru: TEST бесконечного развития
+    title_en: TEST of Infinite Development
+    slug: test-of-infinite-development
+    section_id: 68330
+  - type: TEST
+    title_ru: 'Моделирование: версионирование стратегии'
+    title_en: 'Modeling: Strategy Versioning'
+    slug: modeling-strategy-versioning
+    section_id: 68331
+  - type: TEST
+    title_ru: 'Моделирование: использование личной или корпоративной стратегии как
+      фильтра'
+    title_en: 'Modeling: Using Personal or Corporate Strategy as a Filter'
+    slug: modeling-using-personal-or-corporate-strategy-as-a-filter
+    section_id: 68332
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68333
+  - type: TEXT
+    title_ru: Теории счастья и богатства
+    title_en: Theories of Happiness and Wealth
+    slug: theories-of-happiness-and-wealth
+    section_id: 68334
+    images:
+    - filename: 102.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5800/102.png
+      orig_hash: aa48e63d5104e37cd644d7f5f6afbded43b70b4150f11fef127c85b5c1c8c5e1
+    - filename: 103.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5800/103.png
+      orig_hash: 6ebe79d93485a3a29572a263dfdab63101c5cd9f1e48e6e55aa6e7c129658f48
+    - filename: 104.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5800/104.png
+      orig_hash: 8fdb7c2477ef478b81cc76fb073b76253f56837c23d4b0544db3c4f8aab487e8
+    - filename: 105.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/methodology/2025-05-26T1657/5800/105.png
+      orig_hash: 797b2437e2905b875a8f34d476aab7571cecf3900f026d5ed86901c84d1cdc8e
+  - type: TEST
+    title_ru: 'Моделирование: личные стратегии'
+    title_en: 'Modeling: Personal Strategies'
+    slug: modeling-personal-strategies
+    section_id: 68335
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68336
+  - type: TEXT
+    title_ru: Что дальше
+    title_en: What's Next
+    slug: what-s-next
+    section_id: 68337

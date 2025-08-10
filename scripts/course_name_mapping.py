@@ -3,10 +3,22 @@
 # Only courses listed here will be processed (serves as both mapping and whitelist)
 
 COURSE_NAME_MAPPING = {
+    # Personal Development (Личное развитие)
+    "intro-online-2021": "systems-self-development",
+    "selfdev": "self-development-methods",
+    "systems-thinking-intro-2022": "systems-thinking-introduction",
+    "sf": "systems-based-fitness",
+    
+    # Rational Work Program (Программа Рабочего развития)
     "ontologics-sobr": "rational-work",
-    "systems-thinking-introduction": "systems-thinking-introduction",
-    # Add more mappings here as needed
-    # "old-course-name": "new-course-name",
+    "practical-systems-thinking": "systems-thinking",
+    "methodology": "methodology",
+    "systems-engineering": "systems-engineering",
+    "systems-teaching": "personality-engineering",
+    "systems-management": "systems-management",
+    
+    # Research Development (Исследовательское развитие)
+    "intelligence-stack": "intellect-stack",
 }
 
 def get_mapped_name(original_name):

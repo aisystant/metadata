@@ -1,0 +1,434 @@
+course_id: personality-engineering
+course_name: 5. Инженерия личности
+version: '2023-10-20'
+version_id: '181'
+sections:
+- type: TEXT
+  title_ru: Введение
+  title_en: Introduction
+  slug: introduction
+  section_id: 16466
+- type: HEADER
+  title_ru: Инженерия личности и системная инженерия
+  title_en: Personality Engineering and Systems Engineering
+  slug: personality-engineering-and-systems-engineering
+  section_id: 16467
+  children:
+  - type: TEXT
+    title_ru: Обучение агентов
+    title_en: Agent Training
+    slug: agent-training
+    section_id: 16468
+  - type: TEXT
+    title_ru: 'Развитие мастерства: вслед за развитием практики'
+    title_en: 'Mastery Development: Following Practice Growth'
+    slug: mastery-development-following-practice-growth
+    section_id: 16469
+  - type: TEXT
+    title_ru: Онтология обучения личности
+    title_en: Ontology of Personal Learning
+    slug: ontology-of-personal-learning
+    section_id: 16470
+  - type: TEXT
+    title_ru: Адаптация системной схемы проекта для проекта учебного курса
+    title_en: Adapting the System Diagram for the Course Project
+    slug: adapting-the-system-diagram-for-the-course-project
+    section_id: 16471
+    images:
+    - filename: 0.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-teaching/2023-10-20/250/0.png
+      orig_hash: 1af7a5d6c6bd4810eb7fc0e6b670985d323f183d1dd0a2d33bdb87c0590a12bb
+  - type: TEXT
+    title_ru: Мастерство
+    title_en: Mastery
+    slug: mastery
+    section_id: 16472
+  - type: TEXT
+    title_ru: Описание мастерства/цифровой двойник целевого мастерства
+    title_en: Description of Mastery/Digital Twin of Target Mastery
+    slug: description-of-mastery-digital-twin-of-target-mastery
+    section_id: 16473
+  - type: TEXT
+    title_ru: Работы мастерства
+    title_en: Mastery Works
+    slug: mastery-works
+    section_id: 16474
+  - type: TEXT
+    title_ru: Внешние роли проекта обучения
+    title_en: External Roles of the Training Project
+    slug: external-roles-of-the-training-project
+    section_id: 16475
+  - type: TEST
+    title_ru: Упражнение по альфе внешних проектных ролей
+    title_en: Exercise on External Project Role Alphas
+    slug: exercise-on-external-project-role-alphas
+    section_id: 16476
+  - type: TEXT
+    title_ru: Учительская команда
+    title_en: Teaching Team
+    slug: teaching-team
+    section_id: 16477
+  - type: TEXT
+    title_ru: Оргмодель учительской команды / команды провайдера обучения
+    title_en: Organizational Model of a Teaching Team / Education Provider Team
+    slug: organizational-model-of-a-teaching-team-education-provider-team
+    section_id: 16478
+  - type: TEXT
+    title_ru: Работы учительской команды
+    title_en: Teacher Team Projects
+    slug: teacher-team-projects
+    section_id: 16479
+  - type: TEXT
+    title_ru: Организация обучения (менеджмент провайдера обучения)
+    title_en: Training Organization (Training Provider Management)
+    slug: training-organization-training-provider-management
+    section_id: 16480
+- type: HEADER
+  title_ru: Практика культуртрегерства
+  title_en: Cultural Promotion Practice
+  slug: cultural-promotion-practice
+  section_id: 16481
+  children:
+  - type: TEXT
+    title_ru: Роль культуртрегера
+    title_en: Role of the Cultural Promoter
+    slug: role-of-the-cultural-promoter
+    section_id: 16482
+  - type: TEXT
+    title_ru: Пример усиления интеллекта c помощью практик интеллект-стека
+    title_en: Example of Enhancing Intelligence with Intelligence Stack Practices
+    slug: example-of-enhancing-intelligence-with-intelligence-stack-practices
+    section_id: 16483
+  - type: TEXT
+    title_ru: 'Алгоритм культуртрегерства: его нет!'
+    title_en: 'The Algorithm of Cultural Promotion: It Doesn''t Exist!'
+    slug: the-algorithm-of-cultural-promotion-it-doesn-t-exist
+    section_id: 16484
+  - type: TEXT
+    title_ru: Коммерческая возможность обучения
+    title_en: Commercial Learning Opportunity
+    slug: commercial-learning-opportunity
+    section_id: 16485
+  - type: TEST
+    title_ru: Упражнение по альфе коммерческой возможности
+    title_en: Alpha Commercial Opportunity Exercise
+    slug: alpha-commercial-opportunity-exercise
+    section_id: 16486
+  - type: TEST
+    title_ru: Задания по культуртрегерству
+    title_en: Cultural Promotion Assignments
+    slug: cultural-promotion-assignments
+    section_id: 16487
+- type: HEADER
+  title_ru: 'Практика методологической работы: «чему учить»'
+  title_en: 'Methodological Work Practice: "What to Teach"'
+  slug: methodological-work-practice-what-to-teach
+  section_id: 16488
+  children:
+  - type: TEXT
+    title_ru: Место методологии в обучении
+    title_en: The Role of Methodology in Education
+    slug: the-role-of-methodology-in-education
+    section_id: 16489
+  - type: TEXT
+    title_ru: Типовые ситуации методологической работы в обучении
+    title_en: Typical Situations in Methodological Work in Education
+    slug: typical-situations-in-methodological-work-in-education
+    section_id: 16490
+  - type: TEXT
+    title_ru: 'Основная альфа методологии: описание практики'
+    title_en: 'Core Alpha of Methodology: Practice Description'
+    slug: core-alpha-of-methodology-practice-description
+    section_id: 16491
+  - type: TEXT
+    title_ru: Описание степени мастерства как «образовательный стандарт»
+    title_en: Description of Mastery Level as an "Educational Standard"
+    slug: description-of-mastery-level-as-an-educational-standard
+    section_id: 16492
+  - type: TEXT
+    title_ru: Отличие кругозорного обучения от профессионального
+    title_en: Difference Between Broad-Based Learning and Professional Learning
+    slug: difference-between-broad-based-learning-and-professional-learning
+    section_id: 16493
+  - type: TEXT
+    title_ru: Особенности методологической работы в проектах обучения
+    title_en: Features of Methodological Work in Training Projects
+    slug: features-of-methodological-work-in-training-projects
+    section_id: 16494
+  - type: TEST
+    title_ru: Упражнение по альфе описания мастерства
+    title_en: Alpha Description Mastery Exercise
+    slug: alpha-description-mastery-exercise
+    section_id: 16495
+  - type: TEST
+    title_ru: Задания по методологии
+    title_en: Methodology Assignments
+    slug: methodology-assignments
+    section_id: 16496
+- type: HEADER
+  title_ru: 'Практика методической работы: «как учить»'
+  title_en: 'Methodological Practice: How to Teach'
+  slug: methodological-practice-how-to-teach
+  section_id: 16497
+  children:
+  - type: TEXT
+    title_ru: Чем занимается методист
+    title_en: What Does a Methodologist Do
+    slug: what-does-a-methodologist-do
+    section_id: 16498
+  - type: TEXT
+    title_ru: Мотивация и предметное содержание как две составляющих методики
+    title_en: Motivation and Subject Content as Two Components of the Methodology
+    slug: motivation-and-subject-content-as-two-components-of-the-methodology
+    section_id: 16499
+  - type: TEXT
+    title_ru: Когнитивистика и нейронаука как наследники психологии
+    title_en: Cognitive Science and Neuroscience as Successors to Psychology
+    slug: cognitive-science-and-neuroscience-as-successors-to-psychology
+    section_id: 16500
+    images:
+    - filename: 1.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-teaching/2023-10-20/1700/1.png
+      orig_hash: f55a8261faaec6f788165ee5bd5af0b09ac38915cad9430a432535edb01c6fbe
+    - filename: 2.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-teaching/2023-10-20/1700/2.png
+      orig_hash: e3891b5e1fadf8720c095ed0d94f5c1c73f92de328eceb144cfb445767ab0737
+  - type: TEXT
+    title_ru: Конструктивизм и конструкционизм
+    title_en: Constructivism and Constructionism
+    slug: constructivism-and-constructionism
+    section_id: 16501
+  - type: TEXT
+    title_ru: Учим навыку или пониманию? Пониманию учить вдвое дольше!
+    title_en: Teaching Skills or Understanding? Teaching Understanding Takes Twice
+      as Long!
+    slug: teaching-skills-or-understanding-teaching-understanding-takes-twice-as-long
+    section_id: 16502
+  - type: TEXT
+    title_ru: Перечень понятий (concept inventory)
+    title_en: Concept Inventory
+    slug: concept-inventory
+    section_id: 16503
+  - type: TEXT
+    title_ru: Collaborative interactive learning
+    title_en: Collaborative Interactive Learning
+    slug: collaborative-interactive-learning
+    section_id: 16504
+  - type: TEXT
+    title_ru: Программированное и адаптивное обучение
+    title_en: Programmed and Adaptive Learning
+    slug: programmed-and-adaptive-learning
+    section_id: 16505
+  - type: TEXT
+    title_ru: Перевёрнутый класс/flip classroom
+    title_en: Flipped Classroom
+    slug: flipped-classroom
+    section_id: 16506
+  - type: TEXT
+    title_ru: Mastery learning
+    title_en: жизненное мастерство
+    slug: zhiznennoe-masterstvo
+    section_id: 16507
+  - type: TEXT
+    title_ru: Смешанное обучение/blended learning
+    title_en: Blended Learning
+    slug: blended-learning
+    section_id: 16508
+  - type: TEXT
+    title_ru: Перенос в жизнь/transfer of learning
+    title_en: Transfer of Learning
+    slug: transfer-of-learning
+    section_id: 16509
+    images:
+    - filename: 3.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-teaching/2023-10-20/2150/3.png
+      orig_hash: 70bc9bb8348283fef5c4e909982245cff2d3b4d22095185ce7dac74129908a29
+  - type: TEXT
+    title_ru: Предметное, преподавательское и методологическое мастерство агента,
+      выполняющего роль методиста
+    title_en: Subject, Teaching, and Methodological Mastery of an Agent Acting as
+      a Methodologist
+    slug: subject-teaching-and-methodological-mastery-of-an-agent-acting-as-a-methodologist
+    section_id: 16510
+  - type: TEXT
+    title_ru: 'Оформление материалов курса: LXP'
+    title_en: 'Course Materials Formatting: LXP'
+    slug: course-materials-formatting-lxp
+    section_id: 16511
+  - type: TEST
+    title_ru: Моделирование альфы метода обучения
+    title_en: Alpha Modeling of the Learning Method
+    slug: alpha-modeling-of-the-learning-method
+    section_id: 16512
+  - type: TEST
+    title_ru: Задания по методике
+    title_en: Methodology Assignments
+    slug: methodology-assignments
+    section_id: 16513
+- type: HEADER
+  title_ru: Архитектурная работа в обучении
+  title_en: Architectural Work in Education
+  slug: architectural-work-in-education
+  section_id: 16514
+  children:
+  - type: TEXT
+    title_ru: Сложность определения архитектуры личности
+    title_en: The Complexity of Defining Personality Architecture
+    slug: the-complexity-of-defining-personality-architecture
+    section_id: 16515
+  - type: TEXT
+    title_ru: Архитектурные характеристики личности
+    title_en: Architectural Characteristics of Personality
+    slug: architectural-characteristics-of-personality
+    section_id: 16516
+  - type: TEXT
+    title_ru: Какие роли могут путаться с ролью архитектора личности
+    title_en: What Roles Can Be Confused with the Role of a Personality Architect
+    slug: what-roles-can-be-confused-with-the-role-of-a-personality-architect
+    section_id: 16517
+- type: HEADER
+  title_ru: Практика преподавания
+  title_en: Teaching Practice
+  slug: teaching-practice
+  section_id: 16518
+  children:
+  - type: TEXT
+    title_ru: Преподаватель-предметник и преподаватель-лидер
+    title_en: Subject Teacher and Teacher-Leader
+    slug: subject-teacher-and-teacher-leader
+    section_id: 16519
+  - type: TEXT
+    title_ru: 'Особая экспертиза преподавателя: риторика'
+    title_en: 'Instructor''s Special Expertise: Rhetoric'
+    slug: instructor-s-special-expertise-rhetoric
+    section_id: 16520
+  - type: TEXT
+    title_ru: Отношения преподавателя и студента
+    title_en: Teacher-Student Relationships
+    slug: teacher-student-relationships
+    section_id: 16521
+  - type: TEST
+    title_ru: Упражнение по альфе мастерства
+    title_en: Alpha Mastery Exercise
+    slug: alpha-mastery-exercise
+    section_id: 16522
+  - type: TEST
+    title_ru: Задания по преподавательству
+    title_en: Teaching Assignments
+    slug: teaching-assignments
+    section_id: 16523
+- type: HEADER
+  title_ru: Оценка результатов обучения
+  title_en: Assessment of Learning Outcomes
+  slug: assessment-of-learning-outcomes
+  section_id: 16524
+  children:
+  - type: TEXT
+    title_ru: 'Предрассудки по поводу измерения интеллекта: путают с прикладными курсами'
+    title_en: 'Prejudices About Measuring Intelligence: Confused with Applied Courses'
+    slug: prejudices-about-measuring-intelligence-confused-with-applied-courses
+    section_id: 16525
+  - type: TEXT
+    title_ru: Люди, или люди с машинами, или коллективы — кто судьи в том, что они
+      поумнели по итогам обучения?
+    title_en: People, or People with Machines, or Collectives — Who Judges Their Intelligence
+      After Training?
+    slug: people-or-people-with-machines-or-collectives-who-judges-their-intelligence-after-training
+    section_id: 16526
+  - type: TEXT
+    title_ru: Нужно замерять не столько врождённый интеллект, сколько выученный интеллект
+    title_en: It's More Important to Measure Learned Intelligence Than Innate Intelligence
+    slug: it-s-more-important-to-measure-learned-intelligence-than-innate-intelligence
+    section_id: 16527
+  - type: TEXT
+    title_ru: 'Решение проблемы: ориентироваться на то, как проверяет интеллект эволюция'
+    title_en: 'Problem Solving: Focusing on How Evolution Tests Intelligence'
+    slug: problem-solving-focusing-on-how-evolution-tests-intelligence
+    section_id: 16528
+  - type: TEXT
+    title_ru: Новации ШСМ в определении того, что она делает людей умнее
+    title_en: Aisystant Innovations in Making People Smarter
+    slug: aisystant-innovations-in-making-people-smarter
+    section_id: 16529
+    images:
+    - filename: 4.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-teaching/2023-10-20/3150/4.png
+      orig_hash: a082b5d90b8677fbfe2d1563cb1d193f72c11276d819b727c1c17bcc0795971b
+  - type: TEXT
+    title_ru: Учебные программы дают не только немедленные результаты
+    title_en: Training Programs Provide More Than Immediate Results
+    slug: training-programs-provide-more-than-immediate-results
+    section_id: 16530
+- type: HEADER
+  title_ru: Практика администрирования обучения
+  title_en: Training Administration Practice
+  slug: training-administration-practice
+  section_id: 16531
+  children:
+  - type: TEXT
+    title_ru: Администрирование обучения как инженерия обучающей платформы
+    title_en: Training Administration as Learning Platform Engineering
+    slug: training-administration-as-learning-platform-engineering
+    section_id: 16532
+  - type: TEXT
+    title_ru: Интеллект студента как «выносная часть LXP»
+    title_en: Student Intelligence as an "External Part of LXP"
+    slug: student-intelligence-as-an-external-part-of-lxp
+    section_id: 16533
+  - type: TEXT
+    title_ru: Обучающая платформа в поддержке организационного моделирования
+    title_en: Educational Platform in Support of Organizational Modeling
+    slug: educational-platform-in-support-of-organizational-modeling
+    section_id: 16534
+  - type: TEXT
+    title_ru: Как это всё работает вместе
+    title_en: How It All Works Together
+    slug: how-it-all-works-together
+    section_id: 16535
+- type: HEADER
+  title_ru: Клубная работа
+  title_en: Club Activities
+  slug: club-activities
+  section_id: 16536
+  children:
+  - type: TEXT
+    title_ru: Субкультуры, контркультуры, школы, общества и сообщества
+    title_en: Subcultures, Countercultures, Schools, Societies, and Communities
+    slug: subcultures-countercultures-schools-societies-and-communities
+    section_id: 16537
+  - type: TEXT
+    title_ru: Клубы как способ думать о поддержке сообществ
+    title_en: Clubs as a Way to Think About Supporting Communities
+    slug: clubs-as-a-way-to-think-about-supporting-communities
+    section_id: 16538
+- type: HEADER
+  title_ru: Примеры инженерии личности
+  title_en: Examples of Personal Engineering
+  slug: examples-of-personal-engineering
+  section_id: 16539
+  children:
+  - type: TEXT
+    title_ru: Психотерапия и психологическое консультирование
+    title_en: Psychotherapy and Psychological Counseling
+    slug: psychotherapy-and-psychological-counseling
+    section_id: 16540
+  - type: TEXT
+    title_ru: Лидерство
+    title_en: Leadership
+    slug: leadership
+    section_id: 16541
+  - type: TEXT
+    title_ru: Продвижение
+    title_en: Promotion
+    slug: promotion
+    section_id: 16542
