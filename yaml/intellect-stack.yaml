@@ -22,8 +22,8 @@ sections:
   children:
   - type: TEXT
     title_ru: Берём понятие интеллекта у разработчиков машинного интеллекта
-    title_en: Borrowing the Concept of Intelligence from Machine Intelligence Developers
-    slug: borrowing-the-concept-of-intelligence-from-machine-intelligence-developers
+    title_en: Adopting the Concept of Intelligence from Machine Intelligence Developers
+    slug: adopting-the-concept-of-intelligence-from-machine-intelligence-developers
     section_id: 11478
   - type: TEXT
     title_ru: Интеллект — это вычислитель, мышление — это вычисления
@@ -32,8 +32,8 @@ sections:
     section_id: 11479
   - type: TEXT
     title_ru: Нет наград, но есть избегание неизвестности. Оптимизм.
-    title_en: No Rewards, but Avoidance of the Unknown. Optimism.
-    slug: no-rewards-but-avoidance-of-the-unknown-optimism
+    title_en: No Rewards, but Avoidance of the Unknown. The Optimism.
+    slug: no-rewards-but-avoidance-of-the-unknown-the-optimism
     section_id: 11480
     images:
     - filename: 1.jpeg
@@ -70,7 +70,7 @@ sections:
     section_id: 11483
   - type: TEXT
     title_ru: Интеллект и прикладное мастерство неразрывны, мышление и прикладное
-      рассуждение тесто переплетены
+      рассуждение тесно переплетены
     title_en: Intelligence and Applied Mastery Are Inseparable, Thinking and Applied
       Reasoning Are Interwoven
     slug: intelligence-and-applied-mastery-are-inseparable-thinking-and-applied-reasoning-are-interwoven
