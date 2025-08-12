@@ -303,8 +303,8 @@ sections:
       orig_hash: b8e11c95917e4e3c2b5df46ca8d5ffa108de00be312881d012f29873df6cf258
   - type: TEXT
     title_ru: Собранность — это не mindfulness и не спорт/цирк
-    title_en: Focus is Not Mindfulness or Sports/Circus
-    slug: focus-is-not-mindfulness-or-sports-circus
+    title_en: Composure is Not Mindfulness or Sports/Circus
+    slug: composure-is-not-mindfulness-or-sports-circus
     section_id: 11512
   - type: TEXT
     title_ru: Теория сознания
@@ -329,13 +329,13 @@ sections:
     section_id: 11515
   - type: TEXT
     title_ru: Обучение собранности требует времени
-    title_en: Training Focus Requires Time
-    slug: training-focus-requires-time
+    title_en: Training Composure Requires Time
+    slug: training-composure-requires-time
     section_id: 11516
   - type: TEXT
     title_ru: 'Инженерия собранности: стать киборгом'
-    title_en: 'Engineering Coherence: Becoming a Cyborg'
-    slug: engineering-coherence-becoming-a-cyborg
+    title_en: 'Engineering Composure: Becoming a Cyborg'
+    slug: engineering-composure-becoming-a-cyborg
     section_id: 11517
     images:
     - filename: 20.png
@@ -360,8 +360,8 @@ sections:
       orig_hash: 3e654cb2528c081d624f2255ab3a91d9ff943f174ec55c9b3a7f25c472aede23
   - type: TEXT
     title_ru: Организационная собранность
-    title_en: Organizational Cohesion
-    slug: organizational-cohesion
+    title_en: Organizational Composure
+    slug: organizational-composure
     section_id: 11518
   - type: TEST
     title_ru: 'Упражнение: собранность ума и тела'
@@ -376,8 +376,8 @@ sections:
   children:
   - type: TEXT
     title_ru: Чем занимается семантика
-    title_en: What Semantics Involves
-    slug: what-semantics-involves
+    title_en: What Semantics Is About
+    slug: what-semantics-is-about
     section_id: 11521
     images:
     - filename: 24.jpeg
@@ -493,8 +493,8 @@ sections:
       orig_hash: 447477e57be9f27e54ff365ecfbe712af45dd58d69893c0b13558b8267da6d67
   - type: TEXT
     title_ru: 'Пример: физмат-моделирование сознания и эволюции'
-    title_en: 'Example: PhysMath Modeling of Consciousness and Evolution'
-    slug: example-physmath-modeling-of-consciousness-and-evolution
+    title_en: 'Example: Physico-Mathematical Modeling of Consciousness and Evolution'
+    slug: example-physico-mathematical-modeling-of-consciousness-and-evolution
     section_id: 11535
   - type: TEXT
     title_ru: Склейка математики, онтологии, физики и computer science
@@ -504,9 +504,8 @@ sections:
   - type: TEXT
     title_ru: 'Онтология и гомотопическая теория типов: унифицировать всё против найти
       «убойное приложение»'
-    title_en: 'Ontology and Homotopy Type Theory: Unify Everything vs. Find a Killer
-      App'
-    slug: ontology-and-homotopy-type-theory-unify-everything-vs-find-a-killer-app
+    title_en: 'Ontology and Homotopy Type Theory: Unify Everything vs. Finding the Killer Application'
+    slug: ontology-and-homotopy-type-theory-unify-everything-vs-finding-the-killer-application
     section_id: 11537
   - type: TEXT
     title_ru: Математическому мышлению учат исподволь, а не явно
@@ -587,8 +586,8 @@ sections:
     section_id: 11549
   - type: TEXT
     title_ru: Онтология/модель данных как структура пространства смыслов
-    title_en: Ontology/Data Model as a Structure of Meaning Space
-    slug: ontology-data-model-as-a-structure-of-meaning-space
+    title_en: Ontology/Data Model as a Structure of the Space of Meanings
+    slug: ontology-data-model-as-a-structure-of-the-space-of-meanings
     section_id: 11550
   - type: TEXT
     title_ru: Уровни мета-моделирования/онтологические уровни
