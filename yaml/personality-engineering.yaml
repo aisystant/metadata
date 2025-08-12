@@ -231,9 +231,9 @@ sections:
     slug: flipped-classroom
     section_id: 16506
   - type: TEXT
-    title_ru: Mastery learning
-    title_en: жизненное мастерство
-    slug: zhiznennoe-masterstvo
+    title_ru: жизненное мастерство 
+    title_en: Mastery Learning
+    slug: mastery-learning
     section_id: 16507
   - type: TEXT
     title_ru: Смешанное обучение/blended learning
