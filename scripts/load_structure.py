@@ -60,12 +60,13 @@ def write_yaml_file(file_path, data):
 def remove_number_prefix(text):
     return re.sub(r'^\d+\.\s*', '', text)
 
-def find_section_by_title(title, sections):
+def find_section_by_title(title, sections, section_type=None):
     for section in sections:
         if section.get("title_ru") == title:
-            return section
+            if section_type is None or section.get("type") == section_type:
+                return section
         if "children" in section:
-            result = find_section_by_title(title, section["children"])
+            result = find_section_by_title(title, section["children"], section_type)
             if result:
                 return result
     return None
