@@ -1,0 +1,523 @@
+course_id: systems-based-fitness
+course_name: 4. Системный фитнес (пререлиз)
+version: 2024-04-17T1425
+version_id: '254'
+sections:
+- type: HEADER
+  title_ru: Системный фитнес
+  title_en: Systems Fitness
+  slug: systems-fitness
+  section_id: 28240
+  children:
+  - type: TEXT
+    title_ru: Введение
+    title_en: Introduction
+    slug: introduction
+    section_id: 28241
+  - type: TEXT
+    title_ru: Системный фитнес и другие методы
+    title_en: Systems Fitness and Other Methods
+    slug: systems-fitness-and-other-methods
+    section_id: 28242
+  - type: TEXT
+    title_ru: Роли системного фитнеса
+    title_en: Roles of Systems Fitness
+    slug: roles-of-systems-fitness
+    section_id: 28243
+    images:
+    - filename: 0.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/sf/2024-04-17T1425/150/0.png
+      orig_hash: 37a6a9ffe08d3dd7dfc084628f86898f4b7ab7f2b9083762e8bd8c89b116eb89
+- type: HEADER
+  title_ru: 'Ленты, распределение усилий, описание изменений. Библиотека: этажи глотки'
+  title_en: 'Ribbons, Effort Distribution, Change Description. Library: Throat Levels'
+  slug: ribbons-effort-distribution-change-description-library-throat-levels
+  section_id: 28244
+  children:
+  - type: TEXT
+    title_ru: Вводная часть
+    title_en: Introduction
+    slug: introduction
+    section_id: 28245
+  - type: TEST
+    title_ru: 'Моделирование: Напряжение тканевых объемов по стрелкам'
+    title_en: 'Modeling: Tissue Volume Tension by Arrows'
+    slug: modeling-tissue-volume-tension-by-arrows
+    section_id: 28246
+  - type: TEST
+    title_ru: 'Моделирование: Включение дополнительных объемов от усилия в ладонях'
+    title_en: 'Modeling: Including Additional Volumes from Effort in the Palms'
+    slug: modeling-including-additional-volumes-from-effort-in-the-palms
+    section_id: 28247
+  - type: TEXT
+    title_ru: Ленты и цепи
+    title_en: Belts and Chains
+    slug: belts-and-chains
+    section_id: 28248
+  - type: TEST
+    title_ru: 'Моделирование: Распределение натяжения'
+    title_en: 'Modeling: Tension Distribution'
+    slug: modeling-tension-distribution
+    section_id: 28249
+  - type: TEXT
+    title_ru: Распределение усилий, движение и его диапазон
+    title_en: Effort Distribution, Movement, and Its Range
+    slug: effort-distribution-movement-and-its-range
+    section_id: 28250
+  - type: TEST
+    title_ru: 'Моделирование: Выполнение замеров'
+    title_en: 'Modeling: Taking Measurements'
+    slug: modeling-taking-measurements
+    section_id: 28251
+  - type: TEXT
+    title_ru: Библиотека приемов. Этажи глотки
+    title_en: 'Library of Techniques: Throat Levels'
+    slug: library-of-techniques-throat-levels
+    section_id: 28252
+  - type: TEST
+    title_ru: 'Моделирование: Этажи глотки, часть 1'
+    title_en: 'Modeling: Levels of the Throat, Part 1'
+    slug: modeling-levels-of-the-throat-part-1
+    section_id: 28253
+  - type: TEXT
+    title_ru: Описание изменений в теле
+    title_en: Description of Bodily Changes
+    slug: description-of-bodily-changes
+    section_id: 28254
+  - type: TEST
+    title_ru: 'Моделирование: Этажи глотки, часть 2'
+    title_en: 'Modeling: Levels of the Throat, Part 2'
+    slug: modeling-levels-of-the-throat-part-2
+    section_id: 28255
+  - type: TEXT
+    title_ru: Протокол на уменьшение усилий
+    title_en: Protocol for Reducing Efforts
+    slug: protocol-for-reducing-efforts
+    section_id: 28256
+  - type: TEST
+    title_ru: 'Моделирование: Этажи глотки, часть 3'
+    title_en: 'Modeling: Levels of the Throat, Part 3'
+    slug: modeling-levels-of-the-throat-part-3
+    section_id: 28257
+  - type: TEXT
+    title_ru: Обямякание
+    title_en: Softening
+    slug: softening
+    section_id: 28258
+  - type: TEST
+    title_ru: 'Моделирование: Использование обмяканий'
+    title_en: 'Modeling: Use of Softening'
+    slug: modeling-use-of-softening
+    section_id: 28259
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 28260
+- type: HEADER
+  title_ru: 'Ансамбли, базовая регуляция, координационная заплатка. Библиотека приемов:
+    грудная сфера, тазовая диафрагма'
+  title_en: 'Ensembles, Basic Regulation, Coordination Patch. Technique Library: Chest
+    Area, Pelvic Diaphragm'
+  slug: ensembles-basic-regulation-coordination-patch-technique-library-chest-area-pelvic-diaphragm
+  section_id: 28261
+  children:
+  - type: TEXT
+    title_ru: Грудная сфера
+    title_en: Chest Area
+    slug: chest-area
+    section_id: 28262
+  - type: TEST
+    title_ru: 'Моделирование: Грудная сфера, часть 1'
+    title_en: 'Modeling: Chest Area, Part 1'
+    slug: modeling-chest-area-part-1
+    section_id: 28263
+  - type: TEXT
+    title_ru: Тазовая диафрагма
+    title_en: Pelvic Diaphragm
+    slug: pelvic-diaphragm
+    section_id: 28264
+  - type: TEST
+    title_ru: 'Моделирование: Тазовая диафрагма'
+    title_en: 'Modeling: Pelvic Diaphragm'
+    slug: modeling-pelvic-diaphragm
+    section_id: 28265
+  - type: TEXT
+    title_ru: Ансамбли, координационная заплатка
+    title_en: Ensembles, Coordination Patch
+    slug: ensembles-coordination-patch
+    section_id: 28266
+  - type: TEST
+    title_ru: 'Моделирование: Координационная заплатка'
+    title_en: 'Modeling: Coordination Patch'
+    slug: modeling-coordination-patch
+    section_id: 28267
+  - type: TEST
+    title_ru: 'Моделирование: Грудная сфера, часть 2'
+    title_en: 'Modeling: Chest Area, Part 2'
+    slug: modeling-chest-area-part-2
+    section_id: 28268
+  - type: TEXT
+    title_ru: Постановка базовой регуляции
+    title_en: Establishing Basic Regulation
+    slug: establishing-basic-regulation
+    section_id: 28269
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 28270
+- type: HEADER
+  title_ru: 'Постановка чувствительности, постановка памяти. Библиотека приемов: ансамбль
+    ног, голень, надколенник'
+  title_en: 'Sensitivity Setting, Memory Setting. Technique Library: Leg Ensemble,
+    Shin, Kneecap'
+  slug: sensitivity-setting-memory-setting-technique-library-leg-ensemble-shin-kneecap
+  section_id: 28271
+  children:
+  - type: TEXT
+    title_ru: Ноги
+    title_en: Legs
+    slug: legs
+    section_id: 28272
+  - type: TEXT
+    title_ru: Протокол постановки чувствительности, различения ощущений
+    title_en: Sensitivity Setting Protocol, Differentiation of Sensations
+    slug: sensitivity-setting-protocol-differentiation-of-sensations
+    section_id: 28273
+  - type: TEST
+    title_ru: 'Моделирование: Ансамбль ног, часть 1'
+    title_en: 'Modeling: Ensemble of Legs, Part 1'
+    slug: modeling-ensemble-of-legs-part-1
+    section_id: 28274
+  - type: TEST
+    title_ru: 'Моделирование: Ансамбль ног, часть 2'
+    title_en: 'Modeling: Ensemble of Legs, Part 2'
+    slug: modeling-ensemble-of-legs-part-2
+    section_id: 28275
+  - type: TEXT
+    title_ru: Голень
+    title_en: Shin
+    slug: shin
+    section_id: 28276
+  - type: TEST
+    title_ru: 'Моделирование: Голень'
+    title_en: 'Modeling: Shin'
+    slug: modeling-shin
+    section_id: 28277
+  - type: TEXT
+    title_ru: Постановка памяти и регуляции ансамблями
+    title_en: Memory Formation and Regulation by Ensembles
+    slug: memory-formation-and-regulation-by-ensembles
+    section_id: 28278
+  - type: TEST
+    title_ru: 'Моделирование: Надколенник'
+    title_en: 'Modeling: Patella'
+    slug: modeling-patella
+    section_id: 28279
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 28280
+- type: HEADER
+  title_ru: 'Модель из трех контекстов, лестница усилий, коррекция восприятия. Библиотека
+    приемов: применение контекстов, лестница усилий'
+  title_en: 'Three-Context Model, Effort Ladder, Perception Adjustment. Techniques
+    Library: Context Application, Effort Ladder'
+  slug: three-context-model-effort-ladder-perception-adjustment-techniques-library-context-application-effort-ladder
+  section_id: 28281
+  children:
+  - type: TEXT
+    title_ru: Контексты
+    title_en: Contexts
+    slug: contexts
+    section_id: 28282
+  - type: TEST
+    title_ru: 'Моделирование: Контексты'
+    title_en: 'Modeling: Contexts'
+    slug: modeling-contexts
+    section_id: 28283
+  - type: TEXT
+    title_ru: Лестница усилий
+    title_en: Ladder of Efforts
+    slug: ladder-of-efforts
+    section_id: 28284
+  - type: TEXT
+    title_ru: Коррекция восприятия
+    title_en: Perception Adjustment
+    slug: perception-adjustment
+    section_id: 28285
+  - type: TEST
+    title_ru: 'Моделирование: Лестница усилий'
+    title_en: 'Modeling: Effort Ladder'
+    slug: modeling-effort-ladder
+    section_id: 28286
+  - type: TEXT
+    title_ru: Работа с кривыми забывания, постановка автоматизма
+    title_en: Working with Forgetting Curves, Establishing Automaticity
+    slug: working-with-forgetting-curves-establishing-automaticity
+    section_id: 28287
+- type: HEADER
+  title_ru: 'Постановка регуляции, ленты и фон, регуляция. Библиотека приемов: предплечье
+    и кисть, плечо-лопатка'
+  title_en: 'Regulation Setup, Tape and Background, Regulation. Techniques Library:
+    Forearm and Hand, Shoulder-Scapula'
+  slug: regulation-setup-tape-and-background-regulation-techniques-library-forearm-and-hand-shoulder-scapula
+  section_id: 28288
+  children:
+  - type: TEXT
+    title_ru: Предплечье и кисть
+    title_en: Forearm and Hand
+    slug: forearm-and-hand
+    section_id: 28289
+  - type: TEST
+    title_ru: 'Моделирование: Предплечье и кисть'
+    title_en: 'Modeling: Forearm and Hand'
+    slug: modeling-forearm-and-hand
+    section_id: 28290
+  - type: TEXT
+    title_ru: Постановка регуляции лентами
+    title_en: Tape Regulation Setup
+    slug: tape-regulation-setup
+    section_id: 28291
+  - type: TEXT
+    title_ru: Регуляторы и регуляция
+    title_en: Regulators and Regulation
+    slug: regulators-and-regulation
+    section_id: 28292
+  - type: TEXT
+    title_ru: Замок плечо-лопатка
+    title_en: Shoulder-Scapula Lock
+    slug: shoulder-scapula-lock
+    section_id: 28293
+  - type: TEST
+    title_ru: 'Моделирование: Плечо-лопатка, часть 1'
+    title_en: 'Modeling: Shoulder-Scapula, Part 1'
+    slug: modeling-shoulder-scapula-part-1
+    section_id: 28294
+  - type: TEST
+    title_ru: 'Моделирование: Плечо-лопатка, часть 2'
+    title_en: 'Modeling: Shoulder-Scapula, Part 2'
+    slug: modeling-shoulder-scapula-part-2
+    section_id: 28295
+  - type: TEST
+    title_ru: 'Моделирование: Плечо-лопатка, часть 3'
+    title_en: 'Modeling: Shoulder-Scapula, Part 3'
+    slug: modeling-shoulder-scapula-part-3
+    section_id: 28296
+  - type: TEST
+    title_ru: 'Моделирование: Плечо-лопатка, часть 4'
+    title_en: 'Modeling: Shoulder-Scapula, Part 4'
+    slug: modeling-shoulder-scapula-part-4
+    section_id: 28297
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 28298
+- type: HEADER
+  title_ru: Шаг усилия, циклы дорасслабления
+  title_en: Effort Step, Relaxation Cycles
+  slug: effort-step-relaxation-cycles
+  section_id: 28299
+  children:
+  - type: TEST
+    title_ru: 'Моделирование: Лопатка'
+    title_en: 'Modeling: Blade'
+    slug: modeling-blade
+    section_id: 28300
+  - type: TEST
+    title_ru: 'Моделирование: Плечевая кость'
+    title_en: 'Modeling: Humerus'
+    slug: modeling-humerus
+    section_id: 28301
+  - type: TEXT
+    title_ru: Шаг усилия, весы
+    title_en: Effort Step, Scales
+    slug: effort-step-scales
+    section_id: 28302
+  - type: TEST
+    title_ru: 'Моделирование: Живот'
+    title_en: 'Modeling: Abdomen'
+    slug: modeling-abdomen
+    section_id: 28303
+  - type: TEXT
+    title_ru: Циклы дорасслабления, обмякания, определения адреса тканевого объема
+    title_en: Relaxation Cycles, Softening, and Determining Tissue Volume Address
+    slug: relaxation-cycles-softening-and-determining-tissue-volume-address
+    section_id: 28304
+  - type: TEXT
+    title_ru: Этажи поясницы
+    title_en: Levels of the Lower Back
+    slug: levels-of-the-lower-back
+    section_id: 28305
+  - type: TEST
+    title_ru: 'Моделирование: Этажи поясницы'
+    title_en: 'Modeling: Levels of the Lower Back'
+    slug: modeling-levels-of-the-lower-back
+    section_id: 28306
+  - type: TEXT
+    title_ru: Первая лента
+    title_en: First Feed
+    slug: first-feed
+    section_id: 28307
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 28308
+- type: HEADER
+  title_ru: 'Проработка различных контекстов. Библиотека приемов: глазодвигательные
+    мышцы'
+  title_en: 'Exploring Different Contexts. Techniques Library: Eye Movement Muscles'
+  slug: exploring-different-contexts-techniques-library-eye-movement-muscles
+  section_id: 28309
+  children:
+  - type: TEXT
+    title_ru: Приемы в контексте вывешивания
+    title_en: Techniques in the Context of Posting
+    slug: techniques-in-the-context-of-posting
+    section_id: 28310
+  - type: TEST
+    title_ru: 'Моделирование: Вывешивания'
+    title_en: 'Modeling: Suspension'
+    slug: modeling-suspension
+    section_id: 28311
+  - type: TEST
+    title_ru: 'Моделирование: Лодочки'
+    title_en: 'Modeling: Boats'
+    slug: modeling-boats
+    section_id: 28312
+  - type: TEXT
+    title_ru: Фоновые реакции в теле
+    title_en: Background Reactions in the Body
+    slug: background-reactions-in-the-body
+    section_id: 28313
+  - type: TEST
+    title_ru: 'Моделирование: Глазодвигательные мышцы'
+    title_en: 'Modeling: Extraocular Muscles'
+    slug: modeling-extraocular-muscles
+    section_id: 28314
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 28315
+- type: HEADER
+  title_ru: 'Нижняя граница усилий, разрешение ограничений, объединение координационных
+    заплаток, перекаты. Библиотека приемов: улучшенная координационная заплатка, перекаты'
+  title_en: 'Lower Bound of Efforts, Constraint Resolution, Coordination Patch Integration,
+    Rollovers. Technique Library: Enhanced Coordination Patch, Rollovers'
+  slug: lower-bound-of-efforts-constraint-resolution-coordination-patch-integration-rollovers-technique-library-enhanced-coordination-patch-rollovers
+  section_id: 28316
+  children:
+  - type: TEXT
+    title_ru: Работа с нижней границей усилия
+    title_en: Working with the Lower Effort Boundary
+    slug: working-with-the-lower-effort-boundary
+    section_id: 28317
+  - type: TEXT
+    title_ru: Протокол работы с разрешением ограничения
+    title_en: Protocol for Handling Constraint Resolution
+    slug: protocol-for-handling-constraint-resolution
+    section_id: 28318
+  - type: TEST
+    title_ru: 'Моделирование: Опорность и соскальзывание'
+    title_en: 'Modeling: Support and Slippage'
+    slug: modeling-support-and-slippage
+    section_id: 28319
+  - type: TEXT
+    title_ru: Координационные заплатки в разных контекстах
+    title_en: Coordination Patches in Different Contexts
+    slug: coordination-patches-in-different-contexts
+    section_id: 28320
+  - type: TEST
+    title_ru: 'Моделирование: Координационная заплатка по трем контекстам'
+    title_en: 'Modeling: Coordination Patch for Three Contexts'
+    slug: modeling-coordination-patch-for-three-contexts
+    section_id: 28321
+  - type: TEXT
+    title_ru: Перекаты
+    title_en: Rollovers
+    slug: rollovers
+    section_id: 28322
+  - type: TEST
+    title_ru: 'Моделирование: Перекаты'
+    title_en: 'Modeling: Transitions'
+    slug: modeling-transitions
+    section_id: 28323
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 28324
+- type: HEADER
+  title_ru: 'Опорность. Библиотека приемов: мимические мышцы'
+  title_en: 'Support. Techniques Library: Facial Muscles'
+  slug: support-techniques-library-facial-muscles
+  section_id: 28325
+  children:
+  - type: TEXT
+    title_ru: Опорность, развитие регуляции
+    title_en: Support, Regulation Development
+    slug: support-regulation-development
+    section_id: 28326
+  - type: TEST
+    title_ru: 'Моделирование: Опорность'
+    title_en: 'Modeling: Supportability'
+    slug: modeling-supportability
+    section_id: 28327
+  - type: TEXT
+    title_ru: Мимические мышцы
+    title_en: Facial Muscles
+    slug: facial-muscles
+    section_id: 28328
+  - type: TEST
+    title_ru: 'Моделирование: Мимические мышцы'
+    title_en: 'Modeling: Facial Muscles'
+    slug: modeling-facial-muscles
+    section_id: 28329
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 28330
+- type: HEADER
+  title_ru: 'Перекаты, подготовка падения, сбор каркаса. Библиотека приемов: перекаты'
+  title_en: 'Rolls, Fall Preparation, Frame Assembly. Technique Library: Rolls'
+  slug: rolls-fall-preparation-frame-assembly-technique-library-rolls
+  section_id: 28331
+  children:
+  - type: TEXT
+    title_ru: Технология приземления
+    title_en: Landing Technology
+    slug: landing-technology
+    section_id: 28332
+  - type: TEST
+    title_ru: 'Моделирование: Перекаты, часть 1'
+    title_en: 'Modeling: Transitions, Part 1'
+    slug: modeling-transitions-part-1
+    section_id: 28333
+  - type: TEXT
+    title_ru: Подготовка падения
+    title_en: Preparing for a Fall
+    slug: preparing-for-a-fall
+    section_id: 28334
+  - type: TEST
+    title_ru: 'Моделирование: Перекаты, часть 2'
+    title_en: 'Modeling: Rolls, Part 2'
+    slug: modeling-rolls-part-2
+    section_id: 28335
+  - type: TEXT
+    title_ru: Сбор каркаса
+    title_en: Frame Assembly
+    slug: frame-assembly
+    section_id: 28336
+  - type: TEST
+    title_ru: Домашнее задание
+    title_en: Homework Assignment
+    slug: homework-assignment
+    section_id: 28337

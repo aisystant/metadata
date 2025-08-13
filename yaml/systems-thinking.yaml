@@ -1,0 +1,1633 @@
+course_id: systems-thinking
+course_name: 2. Cистемное мышление
+version: 2025-05-19T1258
+version_id: '552'
+sections:
+- type: TEXT
+  title_ru: Введение
+  title_en: Introduction
+  slug: introduction
+  section_id: 67868
+  images:
+  - filename: 0.jpeg
+    title_ru: ''
+    title_en: ''
+    orig_path: /text/practical-systems-thinking/2025-05-19T1258/0/0.jpeg
+    orig_hash: d7abfef3391a0c7e65f8ca7a576a51a2c7b455812dfdb9e2ccef034dc4ea7277
+- type: HEADER
+  title_ru: О мышлении
+  title_en: About Thinking
+  slug: about-thinking
+  section_id: 67869
+  children:
+  - type: TEXT
+    title_ru: Понятия, используемые в системном мышлении
+    title_en: Concepts Used in Systems Thinking
+    slug: concepts-used-in-systems-thinking
+    section_id: 67870
+  - type: TEXT
+    title_ru: Системное мышление как сильное/универсальное/общее
+    title_en: Systems Thinking as a Strong/Universal/Common Approach
+    slug: systems-thinking-as-a-strong-universal-common-approach
+    section_id: 67871
+  - type: TEXT
+    title_ru: Эмерджентность и разделение труда
+    title_en: Emergence and Division of Labor
+    slug: emergence-and-division-of-labor
+    section_id: 67872
+  - type: TEXT
+    title_ru: Особенности подачи учебного материала
+    title_en: Features of Presenting Educational Material
+    slug: features-of-presenting-educational-material
+    section_id: 67873
+  - type: TEST
+    title_ru: Вопросы. Как устроен текст руководства?
+    title_en: 'Questions: How Is the Guide Text Structured?'
+    slug: questions-how-is-the-guide-text-structured
+    section_id: 67874
+  - type: TEXT
+    title_ru: Разные мышления
+    title_en: Different Types of Thinking
+    slug: different-types-of-thinking
+    section_id: 67875
+  - type: TEST
+    title_ru: Вопросы. Типы интеллекта и мышления.
+    title_en: Questions. Types of Intelligence and Thinking.
+    slug: questions-types-of-intelligence-and-thinking
+    section_id: 67876
+  - type: TEXT
+    title_ru: Критерии сильного мышления
+    title_en: Criteria for Strong Thinking
+    slug: criteria-for-strong-thinking
+    section_id: 67877
+    images:
+    - filename: 1.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/450/1.jpeg
+      orig_hash: 3b2237c8e5290fee39bc20bacb5aeee6f9db96e06729696aaf73f9dbce3105db
+  - type: TEXT
+    title_ru: Заменяет ли системное мышление прикладное мышление?
+    title_en: Does Systems Thinking Replace Applied Thinking?
+    slug: does-systems-thinking-replace-applied-thinking
+    section_id: 67878
+  - type: TEXT
+    title_ru: 'Место системного мышления среди других мышлений: интеллект-стек'
+    title_en: 'Place of Systems Thinking Among Other Types of Thinking: Intelligence
+      Stack'
+    slug: place-of-systems-thinking-among-other-types-of-thinking-intelligence-stack
+    section_id: 67879
+  - type: TEST
+    title_ru: Вопросы. Системный анализ, необходимость прикладного мышления.
+    title_en: Questions. Systems Analysis, the Need for Applied Thinking
+    slug: questions-systems-analysis-the-need-for-applied-thinking
+    section_id: 67880
+  - type: TEXT
+    title_ru: Состав интеллект-стека
+    title_en: Composition of the Intelligence Stack
+    slug: composition-of-the-intelligence-stack
+    section_id: 67881
+  - type: TEXT
+    title_ru: Интеллект-стек и системное мышление
+    title_en: Intelligence Stack and Systems Thinking
+    slug: intelligence-stack-and-systems-thinking
+    section_id: 67882
+  - type: TEST
+    title_ru: 'Моделирование: понятия.'
+    title_en: 'Modeling: Concepts'
+    slug: modeling-concepts
+    section_id: 67883
+  - type: TEXT
+    title_ru: 'Мыслительный минимум современного человека: учим один раз, используем
+      во всех проектах'
+    title_en: 'Conceptual Minimum for the Modern Person: Learn Once, Use in All Projects'
+    slug: conceptual-minimum-for-the-modern-person-learn-once-use-in-all-projects
+    section_id: 67884
+  - type: TEST
+    title_ru: Моделирование мыслительного мастерства
+    title_en: Modeling Thinking Mastery
+    slug: modeling-thinking-mastery
+    section_id: 67885
+  - type: TEST
+    title_ru: 'Задания: мышление и интеллект-стек.'
+    title_en: 'Assignments: Thinking and Intelligence Stack'
+    slug: assignments-thinking-and-intelligence-stack
+    section_id: 67886
+- type: HEADER
+  title_ru: 'Наш вариант системного мышления: третье поколение'
+  title_en: 'Our Version of Systems Thinking: Third Generation'
+  slug: our-version-of-systems-thinking-third-generation
+  section_id: 67887
+  children:
+  - type: TEXT
+    title_ru: Варианты системного подхода
+    title_en: Variants of the Systems Approach
+    slug: variants-of-the-systems-approach
+    section_id: 67888
+  - type: TEST
+    title_ru: 'Моделирование: пропущенные системные уровни'
+    title_en: 'Modeling: Missing System Levels'
+    slug: modeling-missing-system-levels
+    section_id: 67889
+  - type: TEXT
+    title_ru: 'Системная инженерия: инженерия на основе системного подхода'
+    title_en: 'Systems Engineering: Engineering Based on a Systems Approach'
+    slug: systems-engineering-engineering-based-on-a-systems-approach
+    section_id: 67890
+  - type: TEST
+    title_ru: Вопросы. Успешность системы.
+    title_en: Questions. System Success
+    slug: questions-system-success
+    section_id: 67891
+  - type: TEXT
+    title_ru: Системность — это не систематичность
+    title_en: The use of a systems approach is not systematicity
+    slug: the-use-of-a-systems-approach-is-not-systematicity
+    section_id: 67892
+  - type: TEXT
+    title_ru: Опора на стандарты и публичные документы системной инженерии и менеджмента
+      в нашем варианте системного подхода
+    title_en: Relying on Standards and Public Documents in Our Version of the Systems
+      Approach
+    slug: relying-on-standards-and-public-documents-in-our-version-of-the-systems-approach
+    section_id: 67893
+  - type: TEXT
+    title_ru: Основные понятия системного подхода
+    title_en: Main Concepts of the Systems Approach
+    slug: main-concepts-of-the-systems-approach
+    section_id: 67894
+  - type: TEXT
+    title_ru: Терминология
+    title_en: Terminology
+    slug: terminology
+    section_id: 67895
+  - type: TEXT
+    title_ru: Слова-термины важны и не важны
+    title_en: Terms Are Both Important and Unimportant
+    slug: terms-are-both-important-and-unimportant
+    section_id: 67896
+  - type: TEXT
+    title_ru: 'Определения: гробик для умершей мысли'
+    title_en: 'Definitions: Coffin for a Dead Thought'
+    slug: definitions-coffin-for-a-dead-thought
+    section_id: 67897
+  - type: TEST
+    title_ru: 'Задания: обходимся без определений и не спорим о терминах.'
+    title_en: 'Assignments: Avoid Definitions and Don''t Argue About Terms'
+    slug: assignments-avoid-definitions-and-don-t-argue-about-terms
+    section_id: 67898
+  - type: TEXT
+    title_ru: Как выбирались термины для наших руководств
+    title_en: How Terms Were Chosen for Our Guides
+    slug: how-terms-were-chosen-for-our-guides
+    section_id: 67899
+  - type: TEST
+    title_ru: Вопросы. Терминология
+    title_en: Questions. Terminology
+    slug: questions-terminology
+    section_id: 67900
+- type: HEADER
+  title_ru: 'Творчество: догадки и их критика'
+  title_en: 'Creativity: Guesses and Their Critique'
+  slug: creativity-guesses-and-their-critique
+  section_id: 67901
+  children:
+  - type: TEXT
+    title_ru: Формальность системного мышления
+    title_en: Formality of Systems Thinking
+    slug: formality-of-systems-thinking
+    section_id: 67902
+    images:
+    - filename: 2.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/1700/2.png
+      orig_hash: e8206debd0788f253983c90d110c24d8ae432bf78b6ee73a473ca7e04ab94b22
+  - type: TEXT
+    title_ru: Системное творчество
+    title_en: Systems Creativity
+    slug: systems-creativity
+    section_id: 67903
+    images:
+    - filename: 3.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/1750/3.png
+      orig_hash: 36fbb24a9c7df35865b8aef84434c7059f9a506d3407016ea0ffb27ed2ffb36a
+    - filename: 4.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/1750/4.png
+      orig_hash: d1abaa8317a32908e42845a68df3fe5d730c6f783e5e96cac879514dbd2602ec
+    - filename: 5.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/1750/5.png
+      orig_hash: b1fc363c57cc7da665df081f16bca8ccf9591384d417e55110e71eff0d63e930
+  - type: TEST
+    title_ru: 'Вопросы: аффордансы.'
+    title_en: 'Questions: Affordances'
+    slug: questions-affordances
+    section_id: 67904
+  - type: TEST
+    title_ru: 'Задание: эволюция.'
+    title_en: 'Assignment: Evolution'
+    slug: assignment-evolution
+    section_id: 67905
+  - type: TEXT
+    title_ru: Предметные специализации системного мышления
+    title_en: Subject Specializations of Systems Thinking
+    slug: subject-specializations-of-systems-thinking
+    section_id: 67906
+  - type: TEST
+    title_ru: Моделирование. Предметные области
+    title_en: Modeling. Subject Areas
+    slug: modeling-subject-areas
+    section_id: 67907
+  - type: TEXT
+    title_ru: Можно ли научить мышлению?
+    title_en: Can You Teach Thinking?
+    slug: can-you-teach-thinking
+    section_id: 67908
+  - type: TEXT
+    title_ru: Метанойя
+    title_en: Metanoia
+    slug: metanoia
+    section_id: 67909
+    images:
+    - filename: 6.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/2050/6.png
+      orig_hash: ad21eb42f09687432f0bf044bd127faeeba7a82fa31bed9217c71022524dea9f
+  - type: TEST
+    title_ru: Задания. Контринтуитивность и метанойя.
+    title_en: Assignments. Counterintuitiveness and Metanoia.
+    slug: assignments-counterintuitiveness-and-metanoia
+    section_id: 67910
+  - type: TEXT
+    title_ru: Состояния ученика в ходе обучения мышлению
+    title_en: Student States During Thinking Training
+    slug: student-states-during-thinking-training
+    section_id: 67911
+  - type: TEXT
+    title_ru: Особенности ответов на тренажёрные вопросы (quiz)
+    title_en: Features of Quiz Responses
+    slug: features-of-quiz-responses
+    section_id: 67912
+    images:
+    - filename: 7.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/2200/7.png
+      orig_hash: 90dcdc8fb64c9e56407728b5f78112b56b25b9abfc0e48b2cb908d6f32f538b9
+  - type: TEXT
+    title_ru: Переход к использованию мышления
+    title_en: Transition to Using Thinking
+    slug: transition-to-using-thinking
+    section_id: 67913
+    images:
+    - filename: 8.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/2250/8.png
+      orig_hash: 3fb505f6bbe512cab550d568b15b246608b052aed9cf24ac1aff8616e33e4fef
+  - type: TEST
+    title_ru: 'Задания: невидимость системного мышления для окружающих.'
+    title_en: 'Assignments: Invisibility of Systems Thinking to Others'
+    slug: assignments-invisibility-of-systems-thinking-to-others
+    section_id: 67914
+  - type: TEXT
+    title_ru: Искушение сложностью
+    title_en: Temptation of Complexity
+    slug: temptation-of-complexity
+    section_id: 67915
+  - type: TEST
+    title_ru: 'Моделирование: выбор рабочего проекта'
+    title_en: 'Modeling: Selecting a Work Project'
+    slug: modeling-selecting-a-work-project
+    section_id: 67916
+  - type: TEXT
+    title_ru: 'Применимость системного мышления: везде и всегда'
+    title_en: 'Applicability of Systems Thinking: Everywhere and Always'
+    slug: applicability-of-systems-thinking-everywhere-and-always
+    section_id: 67917
+  - type: TEST
+    title_ru: 'Задания: системное творчество'
+    title_en: 'Assignments: Systems Creativity'
+    slug: assignments-systems-creativity
+    section_id: 67918
+- type: HEADER
+  title_ru: Воплощение и описание системы
+  title_en: System Implementation and Description
+  slug: system-implementation-and-description
+  section_id: 67919
+  children:
+  - type: TEXT
+    title_ru: Воплощение, описание и документация системы
+    title_en: Implementation, Description, and System Documentation
+    slug: implementation-description-and-system-documentation
+    section_id: 67920
+    images:
+    - filename: 9.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/2600/9.png
+      orig_hash: a8bd8fc8a4b2bb936b3f0cc0b5d7928efdf8a8771ba5330ec9f619d52e8bded6
+  - type: TEST
+    title_ru: 'Моделирование: воплощения, описания, документы с описаниями'
+    title_en: 'Modeling: Implementations, Descriptions, Description Documents'
+    slug: modeling-implementations-descriptions-description-documents
+    section_id: 67921
+  - type: TEXT
+    title_ru: Описания
+    title_en: Descriptions
+    slug: descriptions
+    section_id: 67922
+  - type: TEST
+    title_ru: 'Моделирование: присвоение типа системе по её описаниям'
+    title_en: 'Modeling: Assigning a Type to a System Based on Its Descriptions'
+    slug: modeling-assigning-a-type-to-a-system-based-on-its-descriptions
+    section_id: 67923
+  - type: TEXT
+    title_ru: 'Как договориться: не обобщать, а конкретизировать'
+    title_en: 'How to Negotiate: Be Specific, Not General'
+    slug: how-to-negotiate-be-specific-not-general
+    section_id: 67924
+  - type: TEST
+    title_ru: 'Моделирование: заземление абстрактных текстов'
+    title_en: 'Modeling: Grounding Abstract Texts'
+    slug: modeling-grounding-abstract-texts
+    section_id: 67925
+  - type: TEXT
+    title_ru: Отношение состава
+    title_en: Composition Ratio
+    slug: composition-ratio
+    section_id: 67926
+    images:
+    - filename: 10.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/2900/10.png
+      orig_hash: 9af3c80e0a4f91a7d9db7e54c19d1b6f85342fd7b876041fc41b5755a55e41a3
+    - filename: 11.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/2900/11.jpeg
+      orig_hash: dda97461a8fbdc579b7b562cf891f5131ebfa701f6fe206e540b1ef8a441b2fc
+    - filename: 12.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/2900/12.png
+      orig_hash: ef58934378e4f52e322577c7477522f9cbd7e45e5a634b896324d2e26b08963f
+  - type: TEST
+    title_ru: Вопросы. Воплощение и описание систем
+    title_en: Questions. Implementation and Description of Systems
+    slug: questions-implementation-and-description-of-systems
+    section_id: 67927
+  - type: TEXT
+    title_ru: Отверстия
+    title_en: Holes
+    slug: holes
+    section_id: 67928
+  - type: TEXT
+    title_ru: 'Поведение системы: процессы/изменения'
+    title_en: 'System Behavior: Processes/Changes'
+    slug: system-behavior-processes-changes
+    section_id: 67929
+    images:
+    - filename: 13.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/3050/13.png
+      orig_hash: a3cbb0753e49676020c237b6228583b1358508748cf908480f11a6676e85ceef
+  - type: TEXT
+    title_ru: Поведение — это не система
+    title_en: Behavior is Not a System
+    slug: behavior-is-not-a-system
+    section_id: 67930
+  - type: TEST
+    title_ru: Вопросы. Процессы как физические объекты
+    title_en: Questions. Processes as Physical Objects
+    slug: questions-processes-as-physical-objects
+    section_id: 67931
+  - type: TEXT
+    title_ru: Компьютерные программы как системы
+    title_en: Computer Programs as Systems
+    slug: computer-programs-as-systems
+    section_id: 67932
+    images:
+    - filename: 14.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/3200/14.png
+      orig_hash: 9e309c03472311de37651b2999195b089a6e97987f5548254db7e0e65661f2fc
+  - type: TEXT
+    title_ru: Целевая система в проектах разработки софта
+    title_en: System of Interest in Software Development Projects
+    slug: system-of-interest-in-software-development-projects
+    section_id: 67933
+  - type: TEXT
+    title_ru: Мастерство как система
+    title_en: Mastery as a System
+    slug: mastery-as-a-system
+    section_id: 67934
+    images:
+    - filename: 15.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/3300/15.png
+      orig_hash: 676076ad8974ac399295674d8745ba81fcc02a7db35cd32d6fe2a117d2677450
+    - filename: 16.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/3300/16.png
+      orig_hash: f49c22848297ca98457581186d09bdf363e12303d97cb46ab670d9eeb6512900
+  - type: TEST
+    title_ru: Вопросы на физичность отношения состава
+    title_en: Questions on the Physicality of Composition Relations
+    slug: questions-on-the-physicality-of-composition-relations
+    section_id: 67935
+  - type: TEST
+    title_ru: 'Задания: системы в физическом мире'
+    title_en: 'Assignments: Systems in the Physical World'
+    slug: assignments-systems-in-the-physical-world
+    section_id: 67936
+- type: HEADER
+  title_ru: Методы/функции/практики/деятельности/культуры/методы работы и роли
+  title_en: Methods/Functions/Practices/Activities/Cultures/Work Methods and Roles
+  slug: methods-functions-practices-activities-cultures-work-methods-and-roles
+  section_id: 67937
+  children:
+  - type: TEXT
+    title_ru: Машинка типов
+    title_en: Type Classifier/Cognitive Type Machine
+    slug: type-classifier-cognitive-type-machine
+    section_id: 67938
+  - type: TEXT
+    title_ru: Ролевые объекты/роли и «игра по роли»/функция/назначение в окружении
+    title_en: Role Objects/Roles and Role-Playing/Function/Purpose in the Environment
+    slug: role-objects-roles-and-role-playing-function-purpose-in-the-environment
+    section_id: 67939
+    images:
+    - filename: 17.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/3550/17.png
+      orig_hash: 36419402c7edc1d9c93a5b99e2be997cb6a3d2fb7edc5da2a71dfdd82512375a
+    - filename: 18.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/3550/18.png
+      orig_hash: fb5324fcca3b2d911a220fb3be55871a58a872fb0b35363e1757353074ae47ec
+  - type: TEXT
+    title_ru: От целевой системы через метод работы к роли создателя, но не наоборот
+    title_en: From System of Interest to Work Method to Creator Role, Not Vice Versa
+    slug: from-system-of-interest-to-work-method-to-creator-role-not-vice-versa
+    section_id: 67940
+  - type: TEXT
+    title_ru: 'Онтика изобретательства: конструктивы как аффордансы для ролей'
+    title_en: 'Ontics of Invention: Constructs as Affordances for Roles'
+    slug: ontics-of-invention-constructs-as-affordances-for-roles
+    section_id: 67941
+  - type: TEST
+    title_ru: 'Моделирование: функциональный/ролевой объект (роль) и его функция,
+      материальный/конструктивный объект как аффорданс'
+    title_en: 'Modeling: Functional/Role Object (Role) and Its Function, Material/Structural
+      Object as Affordance'
+    slug: modeling-functional-role-object-role-and-its-function-material-structural-object-as-affordance
+    section_id: 67942
+  - type: TEXT
+    title_ru: Физическое мышление в системном мышлении
+    title_en: Physical Thinking in Systems Thinking
+    slug: physical-thinking-in-systems-thinking
+    section_id: 67943
+    images:
+    - filename: 19.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/3750/19.png
+      orig_hash: 3f3abfb86349fb554e38493b2c518bd1d85e8b78dee9fd5edbecc59bf2118165
+  - type: TEXT
+    title_ru: Функциональные и конструктивные рассмотрения одной и той же системы
+    title_en: Functional and Structural Considerations of the Same System
+    slug: functional-and-structural-considerations-of-the-same-system
+    section_id: 67944
+  - type: TEST
+    title_ru: Вопросы. Конструктивные и функциональные объекты
+    title_en: Questions. Structural and Functional Objects
+    slug: questions-structural-and-functional-objects
+    section_id: 67945
+  - type: TEXT
+    title_ru: Производство систем как конструктивов в их потенциальных ролях
+    title_en: Production of Systems as Constructs in Their Potential Roles
+    slug: production-of-systems-as-constructs-in-their-potential-roles
+    section_id: 67946
+  - type: TEXT
+    title_ru: Мантра системного мышления
+    title_en: Mantra of Systems Thinking
+    slug: mantra-of-systems-thinking
+    section_id: 67947
+  - type: TEST
+    title_ru: Задание по следованию «мантре системного мышления»
+    title_en: Assignment on Following the "Systems Thinking Mantra"
+    slug: assignment-on-following-the-systems-thinking-mantra
+    section_id: 67948
+  - type: TEXT
+    title_ru: Второе и третье поколения системного подхода
+    title_en: Second and Third Generations of the Systems Approach
+    slug: second-and-third-generations-of-the-systems-approach
+    section_id: 67949
+  - type: TEXT
+    title_ru: 'Методология: агенты, роли, предметы интереса, интересы'
+    title_en: 'Methodology: Agents, Roles, Subjects of Interest, Interests'
+    slug: methodology-agents-roles-subjects-of-interest-interests
+    section_id: 67950
+  - type: TEXT
+    title_ru: Методологическое моделирование
+    title_en: Methodological Modeling
+    slug: methodological-modeling
+    section_id: 67951
+    images:
+    - filename: 20.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/4150/20.png
+      orig_hash: f913be45b8209fc918f6cae5d841de407dc7df00efb439a97d7f1c54cf9ca3e1
+  - type: TEST
+    title_ru: 'Моделирование: аннотирование типами с использованием нотации ::'
+    title_en: 'Modeling: Type Annotation Using Notation'
+    slug: modeling-type-annotation-using-notation
+    section_id: 67952
+  - type: TEST
+    title_ru: Вопросы. Конфликт интересов
+    title_en: Questions. Conflict of Interest
+    slug: questions-conflict-of-interest
+    section_id: 67953
+  - type: TEXT
+    title_ru: Роли аналитиков и инженеров. Должности
+    title_en: Roles of Analysts and Engineers. Positions
+    slug: roles-of-analysts-and-engineers-positions
+    section_id: 67954
+  - type: TEST
+    title_ru: 'Моделирование: аналитика и инженерия'
+    title_en: 'Modeling: Analytics and Engineering'
+    slug: modeling-analytics-and-engineering
+    section_id: 67955
+  - type: TEXT
+    title_ru: Внешние и внутренние проектные роли
+    title_en: External and Internal Project Roles
+    slug: external-and-internal-project-roles
+    section_id: 67956
+  - type: TEST
+    title_ru: 'Моделирование: внешние проектные роли и успешность системы и её проекта'
+    title_en: 'Modeling: External Project Roles and System and Project Success'
+    slug: modeling-external-project-roles-and-system-and-project-success
+    section_id: 67957
+  - type: TEXT
+    title_ru: Культурная обусловленность проектных ролей
+    title_en: Cultural Determinants of Project Roles
+    slug: cultural-determinants-of-project-roles
+    section_id: 67958
+    images:
+    - filename: 21.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/4500/21.png
+      orig_hash: 4b219414eb7443fff4251d1221db4a4409e99017786467e90edefaa726bcc723
+  - type: TEXT
+    title_ru: Игровая метафора
+    title_en: Game Metaphor
+    slug: game-metaphor
+    section_id: 67959
+    images:
+    - filename: 22.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/4550/22.jpeg
+      orig_hash: 1394d2f37f2fd9ea7c7ca4232af9f5ed4a5154d3dc27de29b40537b7e8ef54ac
+    - filename: 23.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/4550/23.png
+      orig_hash: ab5066debb97911cca8f963257cc3b714e584a295005a68842af765043919dcf
+    - filename: 24.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/4550/24.png
+      orig_hash: 4b80824ef56a4e65ea4302d5be2934682d8e692d708a8dfbe7c4eb300f7d2e14
+    - filename: 25.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/4550/25.png
+      orig_hash: e2a63796c8a3aff2350c40065f7830cfbfa4a1322115efd11e2f5a44f9a85b8c
+  - type: TEXT
+    title_ru: 'Мышление об агентах (людях и AI): прежде всего они исполнители ролей'
+    title_en: 'Thinking About Agents (Humans and AI): Primarily Role Performers'
+    slug: thinking-about-agents-humans-and-ai-primarily-role-performers
+    section_id: 67960
+  - type: TEST
+    title_ru: Вопросы. Проектные роли
+    title_en: Questions. Project Roles
+    slug: questions-project-roles
+    section_id: 67961
+- type: HEADER
+  title_ru: Интересы
+  title_en: Interests
+  slug: interests
+  section_id: 67962
+  children:
+  - type: TEXT
+    title_ru: Предметы интереса и интересы
+    title_en: Subjects of Interest and Interests
+    slug: subjects-of-interest-and-interests
+    section_id: 67963
+  - type: TEXT
+    title_ru: Не склеивайте важную характеристику и предпочтение
+    title_en: Do Not Conflate Important Characteristics and Preferences
+    slug: do-not-conflate-important-characteristics-and-preferences
+    section_id: 67964
+  - type: TEXT
+    title_ru: Список методов описания из CPS PWG Cyber-Physical Systems (CPS) Framework
+    title_en: List of Description Methods from CPS PWG Cyber-Physical Systems (CPS)
+      Framework
+    slug: list-of-description-methods-from-cps-pwg-cyber-physical-systems-cps-framework
+    section_id: 67965
+    images:
+    - filename: 26.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/4850/26.png
+      orig_hash: 38d7dfbbbfeb9b7699cb1dd5b77a49cb52db09b2af2c4f08a920e8c3b00f1b76
+  - type: TEXT
+    title_ru: Разговаривайте не с людьми, разговаривайте с ролями
+    title_en: Talk to Roles, Not People
+    slug: talk-to-roles-not-people
+    section_id: 67966
+  - type: TEST
+    title_ru: 'Моделирование: использование чеклиста для отслеживания ролей'
+    title_en: 'Modeling: Using a Checklist to Track Roles'
+    slug: modeling-using-a-checklist-to-track-roles
+    section_id: 67967
+  - type: TEST
+    title_ru: Вопросы. Проектные роли и их предметы интереса
+    title_en: Questions. Project Roles and Their Subjects of Interest
+    slug: questions-project-roles-and-their-subjects-of-interest
+    section_id: 67968
+  - type: TEXT
+    title_ru: Позиция
+    title_en: Position
+    slug: position
+    section_id: 67969
+  - type: TEXT
+    title_ru: Лидерство
+    title_en: Leadership
+    slug: leadership
+    section_id: 67970
+  - type: TEST
+    title_ru: 'Моделирование: роли коллег по организации'
+    title_en: 'Modeling: Roles of Organizational Colleagues'
+    slug: modeling-roles-of-organizational-colleagues
+    section_id: 67971
+  - type: TEXT
+    title_ru: Внешние и внутренние роли
+    title_en: External and Internal Roles
+    slug: external-and-internal-roles
+    section_id: 67972
+  - type: TEXT
+    title_ru: Организационные места, организации, оргзвенья
+    title_en: Organizational Locations, Organizations, Units
+    slug: organizational-locations-organizations-units
+    section_id: 67973
+  - type: TEXT
+    title_ru: 'Начальники: это джокеры, ожидайте от них исполнения любых ролей'
+    title_en: 'Title: Managers: They Are Jokers, Expect Them to Play Any Role'
+    slug: title-managers-they-are-jokers-expect-them-to-play-any-role
+    section_id: 67974
+  - type: TEST
+    title_ru: 'Моделирование: роли начальника'
+    title_en: 'Modeling: Roles of a Manager'
+    slug: modeling-roles-of-a-manager
+    section_id: 67975
+  - type: TEXT
+    title_ru: Звание и степень мастерства
+    title_en: Title and Level of Mastery
+    slug: title-and-level-of-mastery
+    section_id: 67976
+  - type: TEXT
+    title_ru: Сколько всего проектных ролей
+    title_en: How Many Project Roles Are There
+    slug: how-many-project-roles-are-there
+    section_id: 67977
+  - type: TEXT
+    title_ru: Ошибки в определении ролей
+    title_en: Errors in Role Definition
+    slug: errors-in-role-definition
+    section_id: 67978
+  - type: TEST
+    title_ru: 'Моделирование: кто был на последнем совещании'
+    title_en: 'Modeling: Who Was at the Last Meeting'
+    slug: modeling-who-was-at-the-last-meeting
+    section_id: 67979
+  - type: TEST
+    title_ru: 'Задания: исполнение ролей в жизни'
+    title_en: 'Assignments: Role Execution in Life'
+    slug: assignments-role-execution-in-life
+    section_id: 67980
+- type: HEADER
+  title_ru: Системные уровни
+  title_en: System Levels
+  slug: system-levels
+  section_id: 67981
+  children:
+  - type: TEXT
+    title_ru: Не всё системы, что ими называют
+    title_en: Not Everything Called a System Is One
+    slug: not-everything-called-a-system-is-one
+    section_id: 67982
+  - type: TEST
+    title_ru: Вопросы. Что считать системой
+    title_en: 'Questions: What to Consider a System'
+    slug: questions-what-to-consider-a-system
+    section_id: 67983
+  - type: TEXT
+    title_ru: Системное разбиение
+    title_en: System Breakdown
+    slug: system-breakdown
+    section_id: 67984
+    images:
+    - filename: 27.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/5800/27.png
+      orig_hash: f1af4175c6f18cc0806e304d6d4fdf1036c3723f38d41e387e2aa695201409f5
+  - type: TEXT
+    title_ru: Эмерджентность и мета-системный переход
+    title_en: Emergence and Meta-System Transition
+    slug: emergence-and-meta-system-transition
+    section_id: 67985
+    images:
+    - filename: 28.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/5850/28.png
+      orig_hash: cb27e1a57f0d754396c497a8d8db405d4a4df4e5c1171849f648fd418a9e81db
+    - filename: 29.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/5850/29.png
+      orig_hash: 89f97a23ccda8d47fe3b5b9fbaebb1e0da00d35e4518ade48c28e681eab9d796
+  - type: TEST
+    title_ru: Вопросы. Системное разбиение и эмерджентность
+    title_en: 'Questions: System Breakdowns and Emergence'
+    slug: questions-system-breakdowns-and-emergence
+    section_id: 67986
+  - type: TEXT
+    title_ru: Неустроенность и мета-системный переход
+    title_en: Misalignments and Meta-system Transition
+    slug: misalignments-and-meta-system-transition
+    section_id: 67987
+    images:
+    - filename: 30.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/5950/30.png
+      orig_hash: 5e60e01f9ead6c7e62a5c5f1fba181748b165948c8931711fb43041cf55b6577
+    - filename: 31.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/5950/31.png
+      orig_hash: abe22c35b5f6e30d08735c92f8d6a952ca70300ff0852d9a838cc02c872dde81
+  - type: TEXT
+    title_ru: Системный подход против и редукционизма, и холизма.
+    title_en: Systems Approach versus Both Reductionism and Holism
+    slug: systems-approach-versus-both-reductionism-and-holism
+    section_id: 67988
+  - type: TEXT
+    title_ru: Целевая система и коллективное системное мышление
+    title_en: System of Interest and Collective Systems Thinking
+    slug: system-of-interest-and-collective-systems-thinking
+    section_id: 67989
+    images:
+    - filename: 32.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/6050/32.png
+      orig_hash: 160a19afd445139545ede8280c1fa8ccc002fdc9855874da0f3df7fb655578c3
+  - type: TEXT
+    title_ru: Форматы описания системных уровней
+    title_en: Formats for Describing System Levels
+    slug: formats-for-describing-system-levels
+    section_id: 67990
+    images:
+    - filename: 33.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/6100/33.png
+      orig_hash: 48fcf1a432e868668d7b3f0cf79cf3d38a0c54195eca70dc962caa194b6c4331
+  - type: TEXT
+    title_ru: Системные уровни в системной инженерии. Пример вычислительной техники.
+    title_en: 'System Levels in Systems Engineering: A Computing Example'
+    slug: system-levels-in-systems-engineering-a-computing-example
+    section_id: 67991
+  - type: TEST
+    title_ru: 'Моделирование: системные уровни'
+    title_en: 'Modeling: System Levels'
+    slug: modeling-system-levels
+    section_id: 67992
+  - type: TEXT
+    title_ru: '4D системность: паттерны в пространстве-времени, ритмы'
+    title_en: '4D Systems Thinking: Patterns in Space-Time, Rhythms'
+    slug: 4d-systems-thinking-patterns-in-space-time-rhythms
+    section_id: 67993
+  - type: TEST
+    title_ru: Моделирование ритмики
+    title_en: Rhythm Modeling
+    slug: rhythm-modeling
+    section_id: 67994
+  - type: TEST
+    title_ru: Задания по ритмике
+    title_en: Rhythm Exercises
+    slug: rhythm-exercises
+    section_id: 67995
+  - type: TEXT
+    title_ru: Системные уровни выделяются вниманием. Пример методов телесной работы
+    title_en: 'System Levels Highlighted by Attention: Example Methods of Somatic
+      Work'
+    slug: system-levels-highlighted-by-attention-example-methods-of-somatic-work
+    section_id: 67996
+    images:
+    - filename: 34.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/6400/34.jpeg
+      orig_hash: d312dbac38a69c84313af1743c31eeb70054a62e1a57d383b0f4172e561ec0fa
+    - filename: 35.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/6400/35.png
+      orig_hash: fc05de92cdb1988145d0890b335761baf2603b109ace927890eb803a92ea6f35
+    - filename: 36.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/6400/36.png
+      orig_hash: d42f1adb94641c9eff0ccb3bca4a936c16fa7dc32027ab266b36d6d99a6b2506
+    - filename: 37.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/6400/37.png
+      orig_hash: 7730dcf73e5f75d257c8b61f47cb9c474b9b4290e77646342ac31f9e0838334b
+  - type: TEXT
+    title_ru: Выделение системных уровней вниманием. Пример социальных танцев
+    title_en: 'Focusing on System Levels: Example of Social Dances'
+    slug: focusing-on-system-levels-example-of-social-dances
+    section_id: 67997
+  - type: TEXT
+    title_ru: 'Системные уровни. Продолжение примера социальных танцев: уровни выше
+      танцора.'
+    title_en: 'System Levels. Continuing the Example of Social Dances: Levels Above
+      the Dancer'
+    slug: system-levels-continuing-the-example-of-social-dances-levels-above-the-dancer
+    section_id: 67998
+  - type: TEXT
+    title_ru: Разделение труда между создателями. Наша система. Граф создателей.
+    title_en: Division of Labor Among Creators. Our System. Creators' Graph.
+    slug: division-of-labor-among-creators-our-system-creators-graph
+    section_id: 67999
+  - type: TEST
+    title_ru: Вопросы. Целевая система и соотношение систем
+    title_en: 'Questions: System of Interest and System Relationships'
+    slug: questions-system-of-interest-and-system-relationships
+    section_id: 68000
+  - type: TEXT
+    title_ru: 'Рекурсивное применение системного мышления: рекурсивное управление
+      вниманием'
+    title_en: 'Recursive Application of Systems Thinking: Recursive Attention Management'
+    slug: recursive-application-of-systems-thinking-recursive-attention-management
+    section_id: 68001
+    images:
+    - filename: 38.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/6650/38.png
+      orig_hash: baf9dcc9e774103fcfc3a61b35fd5c42bd583327621da7bf3b115c4f21ab6054
+    - filename: 39.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/6650/39.jpeg
+      orig_hash: e99ebc93641d499545c854cb1d544fc4f3c39601575308050818d0c7562f429f
+  - type: TEST
+    title_ru: Задания по системным уровням
+    title_en: Assignments on System Levels
+    slug: assignments-on-system-levels
+    section_id: 68002
+- type: HEADER
+  title_ru: Графы создателей
+  title_en: Creators Graphs
+  slug: creators-graphs
+  section_id: 68003
+  children:
+  - type: TEXT
+    title_ru: Отношения создания
+    title_en: Creation Relationships
+    slug: creation-relationships
+    section_id: 68004
+    images:
+    - filename: 40.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/6800/40.png
+      orig_hash: d9e9a132a4c4255f3a2d5ea437627bc227694329bf383e647c814c61d728a012
+  - type: TEST
+    title_ru: 'Моделирование: граф создателей'
+    title_en: 'Modeling: Creator Graph'
+    slug: modeling-creator-graph
+    section_id: 68005
+  - type: TEXT
+    title_ru: Концепция использования
+    title_en: Usage Concept
+    slug: usage-concept
+    section_id: 68006
+  - type: TEXT
+    title_ru: Концепция системы и архитектура
+    title_en: System Concept and Architecture
+    slug: system-concept-and-architecture
+    section_id: 68007
+  - type: TEST
+    title_ru: 'Моделирование: концепция использования и концепция системы'
+    title_en: 'Modeling: Usage Concept and System Concept'
+    slug: modeling-usage-concept-and-system-concept
+    section_id: 68008
+  - type: TEXT
+    title_ru: Рекурсивное рассмотрение в системном мышлении
+    title_en: Recursive Consideration in Systems Thinking
+    slug: recursive-consideration-in-systems-thinking
+    section_id: 68009
+    images:
+    - filename: 41.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/7050/41.png
+      orig_hash: 434a14bbcb999cf84b0f9e066fe67d24ee50317e6cc3157c8c6bc9ae4ec345a5
+  - type: TEXT
+    title_ru: Примеры системной терминологии
+    title_en: Examples of Systems Terminology
+    slug: examples-of-systems-terminology
+    section_id: 68010
+    images:
+    - filename: 42.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/7100/42.png
+      orig_hash: 0c8e9573631decb7b45e2ebd9a8a9595cd4ffbfbd7a93ad905b67d9dc291519c
+    - filename: 43.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/7100/43.jpeg
+      orig_hash: 585291a0cb64427ddee84dfc2d10b8a402fda8d0ad2af908cfba07ecf886f515
+    - filename: 44.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/7100/44.png
+      orig_hash: f9f3c22c8c8d648d2ab6a72a6f1586137219b306ee67d70fb9b717dc68a37cf8
+  - type: TEST
+    title_ru: 'Моделирование: краткое описание системы'
+    title_en: 'Modeling: Brief System Description'
+    slug: modeling-brief-system-description
+    section_id: 68011
+  - type: TEXT
+    title_ru: Разделение труда и системные уровни
+    title_en: Division of Labor and System Levels
+    slug: division-of-labor-and-system-levels
+    section_id: 68012
+  - type: TEST
+    title_ru: Вопросы. Концепция использования и концепция системы
+    title_en: Questions. Usage Concept and System Concept
+    slug: questions-usage-concept-and-system-concept
+    section_id: 68013
+  - type: TEST
+    title_ru: 'Моделирование: концепция использования'
+    title_en: 'Modeling: Usage Concept'
+    slug: modeling-usage-concept
+    section_id: 68014
+  - type: TEXT
+    title_ru: Системы систем
+    title_en: Systems of Systems
+    slug: systems-of-systems
+    section_id: 68015
+    images:
+    - filename: 45.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/7350/45.png
+      orig_hash: 98f20458555eb53168dfa30b9887f9ed2309be88526b9a859f8818bf20f0e94b
+  - type: TEXT
+    title_ru: Интеллектуальные агенты в системах
+    title_en: Intelligent Agents in Systems
+    slug: intelligent-agents-in-systems
+    section_id: 68016
+  - type: TEXT
+    title_ru: Системная этика
+    title_en: Systems Ethics
+    slug: systems-ethics
+    section_id: 68017
+  - type: TEXT
+    title_ru: Государственное строительство и госпроекты
+    title_en: State Construction and Government Projects
+    slug: state-construction-and-government-projects
+    section_id: 68018
+  - type: TEXT
+    title_ru: Будущее и проактивность деятельности
+    title_en: Future and Proactive Activities
+    slug: future-and-proactive-activities
+    section_id: 68019
+    images:
+    - filename: 46.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/7550/46.png
+      orig_hash: 053ca190898a9f0f7ee021ce3acf3b259318acd004a82299e78a8dfd94666f90
+  - type: TEXT
+    title_ru: Сложность и меры сложности
+    title_en: Complexity and Complexity Measures
+    slug: complexity-and-complexity-measures
+    section_id: 68020
+  - type: TEST
+    title_ru: 'Задания: системность мышления окружающих вас людей'
+    title_en: 'Assignments: Systems Thinking of People Around You'
+    slug: assignments-systems-thinking-of-people-around-you
+    section_id: 68021
+  - type: TEXT
+    title_ru: 'Проблема наборов/collections как систем: чаще всего нет, но иногда —
+      да.'
+    title_en: 'Problem of Sets/Collections as Systems: Usually No, but Sometimes Yes'
+    slug: problem-of-sets-collections-as-systems-usually-no-but-sometimes-yes
+    section_id: 68022
+    images:
+    - filename: 47.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/7700/47.jpeg
+      orig_hash: a7ef6b301e0a9e32f5f7f81290ed61620c4a9f5d8dd29b8a47dd11a074bdf62d
+- type: HEADER
+  title_ru: Целевая система и её надсистема
+  title_en: System of Interest and Its Supersystem
+  slug: system-of-interest-and-its-supersystem
+  section_id: 68023
+  children:
+  - type: TEXT
+    title_ru: Сначала найти целевую систему
+    title_en: First Identify the System of Interest
+    slug: first-identify-the-system-of-interest
+    section_id: 68024
+    images:
+    - filename: 48.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/7800/48.png
+      orig_hash: 2d95d01de6c9d55e7d8eb73c87d13ea6d68beb6cc111337e03474c803fda55ba
+  - type: TEXT
+    title_ru: Целевая система зависит от того, кто её ищет
+    title_en: The System of Interest Depends on Who Seeks It
+    slug: the-system-of-interest-depends-on-who-seeks-it
+    section_id: 68025
+  - type: TEST
+    title_ru: 'Моделирование: целевые системы'
+    title_en: 'Modeling: Systems of Interest'
+    slug: modeling-systems-of-interest
+    section_id: 68026
+  - type: TEXT
+    title_ru: Системы-продукты и сервисы/методы провайдеров/создателей
+    title_en: Systems-Products and Services/Methods of Providers/Creators
+    slug: systems-products-and-services-methods-of-providers-creators
+    section_id: 68027
+  - type: TEXT
+    title_ru: Пример парикмахерской как сервис-провайдера
+    title_en: Example of a Hair Salon as a Service Provider
+    slug: example-of-a-hair-salon-as-a-service-provider
+    section_id: 68028
+  - type: TEXT
+    title_ru: Сервис-ориентация. Мир провайдеров.
+    title_en: Service Orientation. The World of Providers.
+    slug: service-orientation-the-world-of-providers
+    section_id: 68029
+    images:
+    - filename: 49.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/8050/49.png
+      orig_hash: a1a02ce42a8387865a47b8161035e3ae9d2e2b3d485931123f41abca14af29f8
+  - type: TEXT
+    title_ru: Примеры сервисов и их провайдеров
+    title_en: Examples of Services and Their Providers
+    slug: examples-of-services-and-their-providers
+    section_id: 68030
+  - type: TEST
+    title_ru: 'Моделирование: сервисы в компании'
+    title_en: 'Modeling: Services in the Company'
+    slug: modeling-services-in-the-company
+    section_id: 68031
+  - type: TEXT
+    title_ru: Ты — член команды
+    title_en: You Are a Team Member
+    slug: you-are-a-team-member
+    section_id: 68032
+    images:
+    - filename: 50.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/8200/50.png
+      orig_hash: 26af4f93652bb2c4373b8f51c4ffc16002e17236272a69e0c1ce1faca3359c09
+  - type: TEST
+    title_ru: 'Моделирование: целевая система и ваша система'
+    title_en: 'Modeling: System of Interest and Your System'
+    slug: modeling-system-of-interest-and-your-system
+    section_id: 68033
+  - type: TEXT
+    title_ru: Признаки целевой системы
+    title_en: Signs of the System of Interest
+    slug: signs-of-the-system-of-interest
+    section_id: 68034
+    images:
+    - filename: 51.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/8300/51.png
+      orig_hash: bdbd28fb38b53e33a206298a326fdb7a39703b7b33a6c59eb328b82bb05cfd41
+  - type: TEXT
+    title_ru: Частые ошибки в выявлении целевой системы
+    title_en: Common Mistakes in Identifying the System of Interest
+    slug: common-mistakes-in-identifying-the-system-of-interest
+    section_id: 68035
+    images:
+    - filename: 52.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/8350/52.png
+      orig_hash: 073e5d0b575b981cf610000609420d12a80beba1b2c033696afe50941dcd3b34
+  - type: TEST
+    title_ru: 'Моделирование: проверка на ошибки выявления целевой системы'
+    title_en: 'Modeling: Checking for Errors in Identifying the System of Interest'
+    slug: modeling-checking-for-errors-in-identifying-the-system-of-interest
+    section_id: 68036
+  - type: TEXT
+    title_ru: Именование системы
+    title_en: Naming the System
+    slug: naming-the-system
+    section_id: 68037
+    images:
+    - filename: 53.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/8450/53.png
+      orig_hash: 1ded4391355231690b6824cffd1273c010b39407fec45deea48ba7db97217cff
+  - type: TEST
+    title_ru: Вопросы. Именование системы
+    title_en: 'Questions: Naming the System'
+    slug: questions-naming-the-system
+    section_id: 68038
+  - type: TEXT
+    title_ru: 'Надсистема: её тоже нужно выявить!'
+    title_en: 'Supersystem: It Must Also Be Identified!'
+    slug: supersystem-it-must-also-be-identified
+    section_id: 68039
+    images:
+    - filename: 54.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/8550/54.png
+      orig_hash: a7fa27a1d55c05acd7eb0a1948ebea54e90bd60556c8edb54ac31d61f4f7da5c
+    - filename: 55.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/8550/55.png
+      orig_hash: 86570045857ee5f7171385ae5cbf9910f7b1cf390e5efb127efa153868231eaa
+  - type: TEXT
+    title_ru: 'Системный подход: для всех видов систем, не только для целевой'
+    title_en: 'Systems Approach: For All Types of Systems, Not Just the System of
+      Interest'
+    slug: systems-approach-for-all-types-of-systems-not-just-the-system-of-interest
+    section_id: 68040
+  - type: TEST
+    title_ru: Вопросы. Системы создания
+    title_en: Questions. Creation Systems
+    slug: questions-creation-systems
+    section_id: 68041
+  - type: TEST
+    title_ru: 'Задания: вы — сервис-провайдер'
+    title_en: 'Assignments: You Are a Service Provider'
+    slug: assignments-you-are-a-service-provider
+    section_id: 68042
+- type: HEADER
+  title_ru: Как описывать системы
+  title_en: How to Describe Systems
+  slug: how-to-describe-systems
+  section_id: 68043
+  children:
+  - type: TEXT
+    title_ru: Фундаментальность/трансдисциплинарность системного мышления
+    title_en: Fundamentality/Transdisciplinarity of Systems Thinking
+    slug: fundamentality-transdisciplinarity-of-systems-thinking
+    section_id: 68044
+  - type: TEXT
+    title_ru: Четыре основных вида описания системы на базе четырёх способов разбиения
+      системы
+    title_en: Four Main Types of System Descriptions Based on Four System Breakdowns
+    slug: four-main-types-of-system-descriptions-based-on-four-system-breakdowns
+    section_id: 68045
+    images:
+    - filename: 56.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/8850/56.png
+      orig_hash: f8808831d202476e797aa48525783f38de55c951c668824d1935b3f4dfc07a77
+  - type: TEXT
+    title_ru: Функциональный анализ и модульный синтез
+    title_en: Functional Analysis and Modular Synthesis
+    slug: functional-analysis-and-modular-synthesis
+    section_id: 68046
+  - type: TEXT
+    title_ru: 'Одна система, но множество описаний, множество имён: это нормально!'
+    title_en: 'One System, Many Descriptions, Many Names: That''s Normal!'
+    slug: one-system-many-descriptions-many-names-that-s-normal
+    section_id: 68047
+  - type: TEXT
+    title_ru: Альтернативные варианты основных видов разбиения системы на части
+    title_en: Alternative Options for Main Types of System Breakdown into Parts
+    slug: alternative-options-for-main-types-of-system-breakdown-into-parts
+    section_id: 68048
+  - type: TEXT
+    title_ru: Несовпадение функционального и конструктивного разбиений системы
+    title_en: Mismatch of Functional and Structural System Breakdowns
+    slug: mismatch-of-functional-and-structural-system-breakdowns
+    section_id: 68049
+    images:
+    - filename: 57.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/9050/57.png
+      orig_hash: 9c9bf22f7040b26efbaa6dbe209d7b813567b897d0b8eba4959ec95cf478d20d
+    - filename: 58.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/9050/58.png
+      orig_hash: 7ce7d93cccd056247911d78aa464445d81139b9aa3514f0aa521b310d2f30547
+    - filename: 59.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/9050/59.jpeg
+      orig_hash: baad5b9132737f8d0d2032b2443d022fb921778b1212eabaac975c0918dd49da
+    - filename: 60.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/9050/60.png
+      orig_hash: f1aa5dd5be170d7532a06f33e53e46f0fb6a454b8c377270acb19d222f28ea00
+    - filename: 61.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/9050/61.png
+      orig_hash: 931c1e326eef2c15ff876b1b5be6be19058273fb126b115f97a3aa29681671f6
+  - type: TEST
+    title_ru: 'Моделирование: функциональные и конструктивные разбиения'
+    title_en: 'Modeling: Functional and Structural Breakdowns'
+    slug: modeling-functional-and-structural-breakdowns
+    section_id: 68050
+  - type: TEXT
+    title_ru: 'Разработка концепции системы: функциональный анализ и модульный синтез'
+    title_en: 'Developing a System Concept: Functional Analysis and Modular Synthesis'
+    slug: developing-a-system-concept-functional-analysis-and-modular-synthesis
+    section_id: 68051
+    images:
+    - filename: 62.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/9150/62.png
+      orig_hash: a6d82c01ed93009285ccbc360a4073c63ef8d2681cb6b0d271f4a1d17fad55a5
+  - type: TEST
+    title_ru: Вопросы. Функциональные, конструктивные, пространственные, стоимостные
+      части - 1
+    title_en: 'Questions: Functional, Structural, Spatial, Cost Components - 1'
+    slug: questions-functional-structural-spatial-cost-components-1
+    section_id: 68052
+  - type: TEST
+    title_ru: Вопросы. Функциональные, конструктивные, пространственные, стоимостные
+      части — 2
+    title_en: 'Questions: Functional, Structural, Spatial, Cost Components — 2'
+    slug: questions-functional-structural-spatial-cost-components-2
+    section_id: 68053
+  - type: TEST
+    title_ru: 'Моделирование: изобретение (поиск аффорданса)'
+    title_en: 'Modeling: Invention (Affordance Search)'
+    slug: modeling-invention-affordance-search
+    section_id: 68054
+  - type: TEXT
+    title_ru: Альфы и артефакты/«рабочие продукты»
+    title_en: Alphas and Artifacts/"Work Artifacts"
+    slug: alphas-and-artifacts-work-artifacts
+    section_id: 68055
+    images:
+    - filename: 63.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/9350/63.png
+      orig_hash: 5ebe32d87f4172e20ad13491c0a7c7c5c4b5f66b5aa28769021c0b2572ce8694
+  - type: TEST
+    title_ru: Вопросы. Рабочие продукты
+    title_en: Questions. Work Artifacts
+    slug: questions-work-artifacts
+    section_id: 68056
+  - type: TEXT
+    title_ru: Яблоки из жизни, яблоки из задачи
+    title_en: Apples from Life, Apples from the Task
+    slug: apples-from-life-apples-from-the-task
+    section_id: 68057
+  - type: TEST
+    title_ru: 'Моделирование: классификация типов мета-модели типами мета-мета-модели'
+    title_en: 'Modeling: Classification of Meta-Model Types by Meta-Meta-Model Types'
+    slug: modeling-classification-of-meta-model-types-by-meta-meta-model-types
+    section_id: 68058
+  - type: TEXT
+    title_ru: Альфы
+    title_en: Alphas
+    slug: alphas
+    section_id: 68059
+  - type: TEXT
+    title_ru: Системное описание
+    title_en: System Description
+    slug: system-description
+    section_id: 68060
+    images:
+    - filename: 64.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/9600/64.png
+      orig_hash: d8abf2c01120c1574d6ed32ac7a9fbabf8d236bd4d15a90254876c2bddf1f50e
+    - filename: 65.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/9600/65.png
+      orig_hash: c04cb1f00238d116d1377707aaf6d73a2df75378e70b62e6c7878434fa881e30
+  - type: TEST
+    title_ru: 'Моделирование: описания, методы описания, предметы интереса описания,
+      заинтересованные стороны'
+    title_en: 'Modeling: Descriptions, Description Methods, Subjects of Interest,
+      Stakeholders'
+    slug: modeling-descriptions-description-methods-subjects-of-interest-stakeholders
+    section_id: 68061
+  - type: TEXT
+    title_ru: Системное описание (предметов) деятельности предприятия
+    title_en: System Description of Enterprise Activities
+    slug: system-description-of-enterprise-activities
+    section_id: 68062
+    images:
+    - filename: 66.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/9700/66.png
+      orig_hash: fbb484005edc4244f842620e77605f898715b003a3881e437635fe0c5542114f
+  - type: TEXT
+    title_ru: Системное описание, описание, метод описания
+    title_en: System Description, Description, Description Method
+    slug: system-description-description-description-method
+    section_id: 68063
+  - type: TEST
+    title_ru: Вопросы. Описания и важные характеристики
+    title_en: 'Questions: Descriptions and Key Characteristics'
+    slug: questions-descriptions-and-key-characteristics
+    section_id: 68064
+  - type: TEST
+    title_ru: 'Задания: мета-моделирование'
+    title_en: 'Assignments: Meta-Modeling'
+    slug: assignments-meta-modeling
+    section_id: 68065
+- type: HEADER
+  title_ru: Системное моделирование
+  title_en: Systems Modeling
+  slug: systems-modeling
+  section_id: 68066
+  children:
+  - type: TEXT
+    title_ru: Описания и методы описания, модели и мета-модели
+    title_en: Descriptions and Description Methods, Models and Meta-Models
+    slug: descriptions-and-description-methods-models-and-meta-models
+    section_id: 68067
+  - type: TEST
+    title_ru: 'Моделирование: цепочки классификации (операционная модель, мета-модель,
+      мета-мета-модель)'
+    title_en: 'Modeling: Classification Chains (Operational Model, Meta-Model, Meta-Meta-Model)'
+    slug: modeling-classification-chains-operational-model-meta-model-meta-meta-model
+    section_id: 68068
+  - type: TEXT
+    title_ru: Системная модель, мета-модель, мета-мета-модель
+    title_en: System Model, Meta-Model, Meta-Meta-Model
+    slug: system-model-meta-model-meta-meta-model
+    section_id: 68069
+  - type: TEXT
+    title_ru: Мульти-модель. Мега-модель.
+    title_en: Multi-Model. Mega-Model.
+    slug: multi-model-mega-model
+    section_id: 68070
+  - type: TEST
+    title_ru: Вопросы. Множественность описаний в системном моделировании
+    title_en: Questions. Multiple Descriptions in System Modeling
+    slug: questions-multiple-descriptions-in-system-modeling
+    section_id: 68071
+  - type: TEXT
+    title_ru: Понятие конфигурации системы
+    title_en: System Configuration Concept
+    slug: system-configuration-concept
+    section_id: 68072
+  - type: TEXT
+    title_ru: 'Функциональные описания: принципиальные схемы и сценарии'
+    title_en: 'Functional Descriptions: Schematics and Use Cases'
+    slug: functional-descriptions-schematics-and-use-cases
+    section_id: 68073
+    images:
+    - filename: 67.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/10250/67.png
+      orig_hash: 45874a477cc119b5809d17d7305ff65fbe110f56ebb3545f976660ba0d1d967a
+    - filename: 68.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/10250/68.png
+      orig_hash: ece1e6def4be1ac68e61b5571c52542fc3ffa1957e5b85a7746cd60f13c4e189
+    - filename: 69.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/10250/69.png
+      orig_hash: c22ed31fc529037c603a180edf3d5cfa7474fddb3613344aaf823c9b7c7d9171
+    - filename: 70.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/10250/70.png
+      orig_hash: e25758410027e8fa745099bc74ac46604d1b15d7c1681f390b6625b370d714d5
+    - filename: 71.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/10250/71.jpeg
+      orig_hash: 0b9d6b64833fdb5352872cdc31ecd128eb0e9f60c69b9ed839b67a7de8fa0bff
+    - filename: 72.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/10250/72.png
+      orig_hash: 11ce8789379d8ef4a7768907dee879046af0d2ca5eba23f38992a6da55dd892b
+  - type: TEXT
+    title_ru: Конструктивные/продуктовые описания
+    title_en: Structural/Product Descriptions
+    slug: structural-product-descriptions
+    section_id: 68074
+    images:
+    - filename: 73.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/10300/73.png
+      orig_hash: ee3d8464bfe72304266672eb77529cc05e7c09b80e8de2d6092edfc17289c27b
+    - filename: 74.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/10300/74.png
+      orig_hash: 2684e9670ed2e5f6b3cdf7cfd7defec312f79039e98deabef2195b9cf1657e5e
+  - type: TEST
+    title_ru: Вопросы. Функциональные, конструктивные, пространственные, стоимостные
+      части — 3
+    title_en: 'Questions: Functional, Structural, Spatial, Cost Components — 3'
+    slug: questions-functional-structural-spatial-cost-components-3
+    section_id: 68075
+  - type: TEXT
+    title_ru: Платформы и платформенные/инструментальные стеки
+    title_en: Platforms and Platform/Tool Stacks
+    slug: platforms-and-platform-tool-stacks
+    section_id: 68076
+    images:
+    - filename: 75.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/10400/75.png
+      orig_hash: 1f029949d223bc4c1a53aa34f91e0fcc0132d22e98d937a81e1e973780cab4bb
+    - filename: 76.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/10400/76.jpeg
+      orig_hash: 26329a2619637e9876e831b4341eba6415fbd1aae061ad2c72a52600ce2bdeff
+    - filename: 77.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/10400/77.png
+      orig_hash: ffc0fefe1164e117e854b72b5e4730fd6e8bd3dbe3a7a38956c588b47a1ba82e
+  - type: TEST
+    title_ru: 'Моделирование: уровни платформенного стека'
+    title_en: 'Modeling: Platform Stack Levels'
+    slug: modeling-platform-stack-levels
+    section_id: 68077
+  - type: TEXT
+    title_ru: Прикладная функциональность против универсальной конструкции
+    title_en: Applied Functionality vs. Universal Design
+    slug: applied-functionality-vs-universal-design
+    section_id: 68078
+  - type: TEST
+    title_ru: Вопросы. Наличие описания функциональности
+    title_en: Questions. Availability of Functionality Description
+    slug: questions-availability-of-functionality-description
+    section_id: 68079
+  - type: TEXT
+    title_ru: Оргзвенья
+    title_en: Organizational Units
+    slug: organizational-units
+    section_id: 68080
+  - type: TEST
+    title_ru: 'Моделирование: назначение оргзвеньев на оргроли, выполняющие практики'
+    title_en: 'Modeling: Assigning Organizational Units to Org Roles Performing Practices'
+    slug: modeling-assigning-organizational-units-to-org-roles-performing-practices
+    section_id: 68081
+  - type: TEXT
+    title_ru: Необходимость хорошей модульности
+    title_en: The Need for Good Modularity
+    slug: the-need-for-good-modularity
+    section_id: 68082
+    images:
+    - filename: 78.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/10700/78.png
+      orig_hash: da3f5dab9f62ffd2cdfda792f04f0f780ccb93fc4622cf1058c4c752e8137d21
+  - type: TEXT
+    title_ru: Борьба со сложностью в мышлении
+    title_en: Dealing with Complexity in Thinking
+    slug: dealing-with-complexity-in-thinking
+    section_id: 68083
+    images:
+    - filename: 79.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/10750/79.png
+      orig_hash: b057890efd163471f56ecd229f714732f57f510afd984b69bc728c1a0e3c8c33
+  - type: TEST
+    title_ru: 'Задания: системное моделирование'
+    title_en: 'Assignments: Systems Modeling'
+    slug: assignments-systems-modeling
+    section_id: 68084
+- type: HEADER
+  title_ru: 'Вместо глоссария: онтология системного подхода третьего поколения'
+  title_en: 'Instead of a Glossary: Ontology of Third-Generation Systems Approach'
+  slug: instead-of-a-glossary-ontology-of-third-generation-systems-approach
+  section_id: 68085
+  children:
+  - type: TEXT
+    title_ru: Онтология системы как набор описаний для понятийного наведения внимания
+    title_en: Ontology of a System as a Set of Descriptions for Conceptual Attention
+      Guidance
+    slug: ontology-of-a-system-as-a-set-of-descriptions-for-conceptual-attention-guidance
+    section_id: 68086
+  - type: TEXT
+    title_ru: 'Первое поколение системного подхода: система в её окружении во время
+      operations/эксплуатации'
+    title_en: 'First Generation of the Systems Approach: System in Its Environment
+      During Operations'
+    slug: first-generation-of-the-systems-approach-system-in-its-environment-during-operations
+    section_id: 68087
+  - type: TEXT
+    title_ru: 'Второе поколение системного подхода: целевая система в её окружении,
+      которую создают системы-создатели в их графе'
+    title_en: 'Second Generation Systems Approach: System of Interest in Its Environment
+      Created by System-Creators in Their Graph'
+    slug: second-generation-systems-approach-system-of-interest-in-its-environment-created-by-system-creators-in-their-graph
+    section_id: 68088
+  - type: TEXT
+    title_ru: Continuous everything в инженерии как техно-эволюция
+    title_en: Continuous Everything in Engineering as Techno-Evolution
+    slug: continuous-everything-in-engineering-as-techno-evolution
+    section_id: 68089
+  - type: TEXT
+    title_ru: Безмасштабные описания физических систем
+    title_en: Scale-Free Descriptions of Physical Systems
+    slug: scale-free-descriptions-of-physical-systems
+    section_id: 68090
+  - type: TEXT
+    title_ru: 'Конструктивизм: системы выполняют операции как с физическими объектами,
+      так и с абстрактными объектами'
+    title_en: 'Constructivism: Systems Operate on Both Physical and Abstract Objects'
+    slug: constructivism-systems-operate-on-both-physical-and-abstract-objects
+    section_id: 68091
+  - type: TEXT
+    title_ru: 'Третье поколение системного подхода: учёт времени эволюции'
+    title_en: 'Third Generation Systems Approach: Accounting for Evolution Time'
+    slug: third-generation-systems-approach-accounting-for-evolution-time
+    section_id: 68092
+    images:
+    - filename: 80.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/11200/80.png
+      orig_hash: d1abaa8317a32908e42845a68df3fe5d730c6f783e5e96cac879514dbd2602ec
+    - filename: 81.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/practical-systems-thinking/2025-05-19T1258/11200/81.png
+      orig_hash: 02ff6af388f2aa093c2bbce2e27b0024b096737df503e71d90cd6e729b33e1b4
+  - type: TEXT
+    title_ru: Что дальше
+    title_en: What's Next
+    slug: what-s-next
+    section_id: 68093

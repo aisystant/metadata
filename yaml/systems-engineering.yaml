@@ -1,0 +1,857 @@
+course_id: systems-engineering
+course_name: 4. Системная инженерия
+version: 2025-05-27T1549
+version_id: '560'
+sections:
+- type: TEXT
+  title_ru: Введение
+  title_en: Introduction
+  slug: introduction
+  section_id: 68338
+- type: HEADER
+  title_ru: Безмасштабная эволюционная системная инженерия
+  title_en: Scale-Free Evolutionary Systems Engineering
+  slug: scale-free-evolutionary-systems-engineering
+  section_id: 68339
+  children:
+  - type: TEXT
+    title_ru: Инженерия
+    title_en: Engineering
+    slug: engineering
+    section_id: 68340
+  - type: TEXT
+    title_ru: Системность инженерии как задающая её безмасштабность и эволюционность
+    title_en: The Systems Approach in Engineering as Defining Its Scalability and
+      Evolutionary Nature
+    slug: the-systems-approach-in-engineering-as-defining-its-scalability-and-evolutionary-nature
+    section_id: 68341
+  - type: TEST
+    title_ru: 'Моделирование: «неинженерные» инженерные проекты'
+    title_en: 'Modeling: "Non-Engineering" Engineering Projects'
+    slug: modeling-non-engineering-engineering-projects
+    section_id: 68342
+  - type: TEXT
+    title_ru: Инженерия и эволюция
+    title_en: Engineering and Evolution
+    slug: engineering-and-evolution
+    section_id: 68343
+  - type: TEXT
+    title_ru: Динамический ландшафт приспособленности
+    title_en: Dynamic Fitness Landscape
+    slug: dynamic-fitness-landscape
+    section_id: 68344
+    images:
+    - filename: 0.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/300/0.png
+      orig_hash: 8ad043246314d76582ff3b5e6c0fd0676bf550a3b429a44dc8bda1dfe0c56f41
+    - filename: 1.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/300/1.png
+      orig_hash: 01c489954c4e18baaffaf928b53b21b2c333c2bdf918da1c71e8d660e19538d7
+    - filename: 2.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/300/2.png
+      orig_hash: 8d895de581250a8b79e80bfaf57bcb75e1d79f4d1d93e8e02b0bb08dc11b8d6a
+    - filename: 3.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/300/3.png
+      orig_hash: 362371eb39fc56107089cf3c73439dfa825fc0536c030568affedcb8a0abaf93
+  - type: TEXT
+    title_ru: Эволюционная неизбежность этических/политических проблем и инженерные
+      подходы к их решению
+    title_en: Evolutionary Inevitability of Ethical/Political Issues and Engineering
+      Approaches to Solving Them
+    slug: evolutionary-inevitability-of-ethical-political-issues-and-engineering-approaches-to-solving-them
+    section_id: 68345
+    images:
+    - filename: 4.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/350/4.png
+      orig_hash: 0359c04e6f07ffd912f83df43e0df3ee2f5ac981dcb7015a4663a186fb898941
+  - type: TEXT
+    title_ru: Слова-термины в безмасштабной эволюционной инженерии и важны, и не важны
+    title_en: 'Terms in Scale-Free Evolutionary Engineering: Both Important and Unimportant'
+    slug: terms-in-scale-free-evolutionary-engineering-both-important-and-unimportant
+    section_id: 68346
+    images:
+    - filename: 5.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/400/5.png
+      orig_hash: 48fcf1a432e868668d7b3f0cf79cf3d38a0c54195eca70dc962caa194b6c4331
+  - type: TEXT
+    title_ru: Прикладная инженерия как специализация системной инженерии
+    title_en: Applied Engineering as a Specialization of Systems Engineering
+    slug: applied-engineering-as-a-specialization-of-systems-engineering
+    section_id: 68347
+    images:
+    - filename: 6.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/450/6.png
+      orig_hash: 311f2910cd4589458af6de9518087c175153043ea92f6a3f1c6a6d8f83824ebd
+    - filename: 7.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/450/7.jpeg
+      orig_hash: 270f6c7e7f42b22058103fec55ed67a59150453e6a0af82d64ee0650f18e60fb
+    - filename: 8.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/450/8.png
+      orig_hash: 68e944ec05a0e141bd0dc77bb1659bc8c8ca3e3649a5e7f411b8e17b0aeffbd0
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68348
+- type: HEADER
+  title_ru: Архироль создателя/инженера и разделение инженерного труда
+  title_en: Arch-role of Creator/Engineer and the Division of Engineering
+    Labor
+  slug: arch-role-of-creator-engineer-and-the-division-of-engineering-labor
+  section_id: 68349
+  children:
+  - type: TEXT
+    title_ru: Роль системного инженера в её отличии от роли прикладного инженера
+    title_en: Role of a Systems Engineer vs. an Applied Engineer
+    slug: role-of-a-systems-engineer-vs-an-applied-engineer
+    section_id: 68350
+    images:
+    - filename: 9.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/600/9.png
+      orig_hash: f0500f4c2607508f83579dc7eac9f86b3994e54804cd86f2b2e57a7f59b03eda
+  - type: TEXT
+    title_ru: Разделение инженерного труда
+    title_en: Division of Engineering Labor
+    slug: division-of-engineering-labor
+    section_id: 68351
+    images:
+    - filename: 10.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/650/10.png
+      orig_hash: e273998a8b05bab0f3e47f8596696a17ee5b75a9d084947e1ef249008ff4b624
+    - filename: 11.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/650/11.png
+      orig_hash: 0f0ee63fdbbeb8cf43a85802e13f1ef9c19b0b228a86ec7b9b700a4436caa844
+  - type: TEXT
+    title_ru: Системная инженерия в основе сотрудничества
+    title_en: Systems Engineering as the Foundation of Collaboration
+    slug: systems-engineering-as-the-foundation-of-collaboration
+    section_id: 68352
+    images:
+    - filename: 12.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/700/12.png
+      orig_hash: 332ad744d740655e4a20cecace6cfaefd70488e6211d9064e202b3fee68a4750
+  - type: TEXT
+    title_ru: Инженерия и наука
+    title_en: Engineering and Science
+    slug: engineering-and-science
+    section_id: 68353
+    images:
+    - filename: 13.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/750/13.png
+      orig_hash: d8f40e3230c0cfec9743193e48de91801e553e1769e62866a1254c751337b9eb
+    - filename: 14.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/750/14.png
+      orig_hash: ce1f541ab587e546603dca007f2735053350204f429994010ae47716af5bb5fb
+    - filename: 15.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/750/15.png
+      orig_hash: 02f3b41657bd871ad30039f1744934270a69414c7bac3a216dcd92ac2616f74a
+  - type: TEXT
+    title_ru: Ненаучность инженерии. Эвристики
+    title_en: Unscientific Nature of Engineering. Heuristics
+    slug: unscientific-nature-of-engineering-heuristics
+    section_id: 68354
+    images:
+    - filename: 16.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/800/16.png
+      orig_hash: d712593db94aa308c11be942c874630b7461fc7a345137ede238b773e07d2f15
+    - filename: 17.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/800/17.png
+      orig_hash: 5886b912424d4cb9d7936ea56371a0d8282d077ba129482850645f8b96ef65cb
+  - type: TEXT
+    title_ru: Инженерная наука
+    title_en: Engineering Science
+    slug: engineering-science
+    section_id: 68355
+  - type: TEST
+    title_ru: 'Моделирование: мои инженерные проекты'
+    title_en: 'Modeling: My Engineering Projects'
+    slug: modeling-my-engineering-projects
+    section_id: 68356
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68357
+- type: HEADER
+  title_ru: Инженерный процесс
+  title_en: Engineering Process
+  slug: engineering-process
+  section_id: 68358
+  children:
+  - type: TEXT
+    title_ru: Тренды современной системной инженерии
+    title_en: Trends in Modern Systems Engineering
+    slug: trends-in-modern-systems-engineering
+    section_id: 68359
+  - type: TEST
+    title_ru: 'Моделирование: инженерные тренды и мой рабочий проект'
+    title_en: 'Modeling: Engineering Trends and My Work Project'
+    slug: modeling-engineering-trends-and-my-work-project
+    section_id: 68360
+  - type: TEXT
+    title_ru: Что делают разработчики
+    title_en: What Developers Do
+    slug: what-developers-do
+    section_id: 68361
+    images:
+    - filename: 18.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1150/18.png
+      orig_hash: f9a8889f713ea12bf02709be14ee410e31c7182dd33c1b54fca2a2a43433f5db
+    - filename: 19.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1150/19.png
+      orig_hash: 8ecb321a1b04fe3750e20aca53bbc6a3336a96cf20e916aece4251f24334cb57
+    - filename: 20.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1150/20.png
+      orig_hash: 1af81c560acbe70b9bfefe25a232ec73cde5432365e2a77b9c0c938e35efe407
+  - type: TEXT
+    title_ru: Смерть инженерии требований
+    title_en: The Death of Requirements Engineering
+    slug: the-death-of-requirements-engineering
+    section_id: 68362
+    images:
+    - filename: 21.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1200/21.png
+      orig_hash: 0ae9f14012c938e662992a11d91caa45cab11853db7e3a3352c671b93a476456
+    - filename: 22.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1200/22.png
+      orig_hash: 109c8e8ef2c7a0328b7fa4ea9c490f42d31cbbcd4ddae2698eed52c5d6214936
+    - filename: 23.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1200/23.png
+      orig_hash: 0ba25dc09ad4599f422d9638ecdff465719d907c0233cdc3a0ccb0c6f7acf9ae
+    - filename: 24.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1200/24.png
+      orig_hash: f87b5d41a507c4cc8251034135d95be2f4fbbce3b1c2f9b3c7042fa598a744fd
+    - filename: 25.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1200/25.png
+      orig_hash: b06d9ad661a0afa5094c1ea0598cdf06f629ddf3a984fe996871d484e1037d19
+    - filename: 26.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1200/26.png
+      orig_hash: 2f93cceb0407d7372f76c9a8894bc47bc218d8643e4678e259343d5731710afd
+    - filename: 27.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1200/27.jpeg
+      orig_hash: dbb0201d52ca02cf269e2b45a1a50f1de955c204188ba939a7ddbe76833dab92
+  - type: TEST
+    title_ru: 'Моделирование: мой «испорченный телефон»'
+    title_en: 'Modeling: My "Broken Telephone"'
+    slug: modeling-my-broken-telephone
+    section_id: 68363
+  - type: TEST
+    title_ru: TEST концепция использования и концепция системы
+    title_en: TEST usage concept and system concept
+    slug: test-usage-concept-and-system-concept
+    section_id: 68364
+  - type: TEXT
+    title_ru: Разработка концепции использования и концепции системы
+    title_en: Developing the Usage Concept and System Concept
+    slug: developing-the-usage-concept-and-system-concept
+    section_id: 68365
+    images:
+    - filename: 28.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1350/28.png
+      orig_hash: 775e56cfacd233d417288e7f76d4dfbfb4d5eead41f1b24f94a415116e9cc28f
+  - type: TEST
+    title_ru: 'Моделирование: визионер, разработчик, эволюционный архитектор в моём
+      проекте'
+    title_en: 'Modeling: Visionary, Developer, Evolutionary Architect in My Project'
+    slug: modeling-visionary-developer-evolutionary-architect-in-my-project
+    section_id: 68366
+- type: HEADER
+  title_ru: Прикладная методология предметной области
+  title_en: Applied Methodology of the Subject Area
+  slug: applied-methodology-of-the-subject-area
+  section_id: 68367
+  children:
+  - type: TEXT
+    title_ru: Функциональное проектирование
+    title_en: Functional Design
+    slug: functional-design
+    section_id: 68368
+    images:
+    - filename: 29.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1500/29.png
+      orig_hash: dc8d21e37808fa7da2822c9a89613cc0f50914b18d46707a3e4968cb09f252f2
+    - filename: 30.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1500/30.png
+      orig_hash: e267e04b50bb0ad28437f6d3e57b38c95688aa7e2cc52a3112796f7b2f955cf4
+    - filename: 31.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1500/31.png
+      orig_hash: f11ad509673a0539849934a6481d44f936e58c1a212a86dbe19ec8e7d6817233
+    - filename: 32.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1500/32.jpeg
+      orig_hash: 3f3dd71501ea431462ae727ebfe589af44041a6219437efb5da3ee408bc20f57
+    - filename: 33.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1500/33.jpeg
+      orig_hash: 7ed4a192bab4f2f95a8d3003047a671f643f3a135a5f014f20cf72b7f1414223
+  - type: TEXT
+    title_ru: Сценарии использования
+    title_en: Use Cases
+    slug: use-cases
+    section_id: 68369
+    images:
+    - filename: 34.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1550/34.png
+      orig_hash: 3bcfedcd6eb44c2b1de857df4f4607092378e3e1f0278358819ed2730c34db49
+    - filename: 35.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1550/35.jpeg
+      orig_hash: c1b714677e74080ce53fc8dcb312724a0c33a8d1b5b39e3ab8888d560ba65f60
+    - filename: 36.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1550/36.png
+      orig_hash: 29571f404389c3fddd62493c6b1b3e8381a4b7669149a5e19df5ffed8f19e0fd
+    - filename: 37.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1550/37.png
+      orig_hash: e0b89ab86440ee17a67c7ff28e08a7c0097eb53ba5edc1e608afa2f07be9f5eb
+    - filename: 38.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1550/38.png
+      orig_hash: b8c12015769be3308494d6d08826ad0bf96930b08101c3c545e3290f51df12a9
+    - filename: 39.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1550/39.png
+      orig_hash: 4d56768d141053142f60d57a0ef9a49f3af0d7410a3e6444ee64fd6f5deace71
+    - filename: 40.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1550/40.png
+      orig_hash: 1d1d49c42023d7894dff042c7f79bf257ac5ae2be486f18f1ec072b68d63446d
+    - filename: 41.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1550/41.png
+      orig_hash: 96940818adcba3a6aba0b2471d9fe5789fd46d6e837f20dd359f693bfe4ceaeb
+    - filename: 42.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1550/42.png
+      orig_hash: 886e1bf4bb7aaed4643cbb41832ab0a98911518dfb0181fccc1d4d63d6be4652
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68370
+- type: HEADER
+  title_ru: Эволюционная архитектура
+  title_en: Evolutionary Architecture
+  slug: evolutionary-architecture
+  section_id: 68371
+  children:
+  - type: TEXT
+    title_ru: 'Архитектура: было «про трудно изменяемое», стало «про облегчение изменений»'
+    title_en: 'Architecture: From "Hard to Change" to "Facilitating Change"'
+    slug: architecture-from-hard-to-change-to-facilitating-change
+    section_id: 68372
+    images:
+    - filename: 43.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1700/43.png
+      orig_hash: f602e0a4b6b55d1bef16c94191268dfeb1b3eddc1a2c9ce1bdd1b037733119f4
+  - type: TEXT
+    title_ru: Архитектурные характеристики
+    title_en: Architectural Characteristics
+    slug: architectural-characteristics
+    section_id: 68373
+    images:
+    - filename: 44.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1750/44.png
+      orig_hash: 5e64c5fb36546957b7f8c497831c7cf1f2c6f61f04c9a00abe74acc19668bf88
+    - filename: 45.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1750/45.png
+      orig_hash: bf5110265dae250a523a54574e3b2c6da5789ae005b6244eeefebc9d28814685
+    - filename: 46.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1750/46.png
+      orig_hash: f7c935dfcaaaa5bf1b6a8206a29c63fc59564cf30a21354c838c30195bf04e3b
+  - type: TEST
+    title_ru: 'Моделирование: архитектурные характеристики'
+    title_en: 'Modeling: Architectural Characteristics'
+    slug: modeling-architectural-characteristics
+    section_id: 68374
+  - type: TEXT
+    title_ru: Архитектурные решения
+    title_en: Architectural Solutions
+    slug: architectural-solutions
+    section_id: 68375
+    images:
+    - filename: 47.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/1850/47.png
+      orig_hash: 8497a80427992e10acd4ddee6ddffb45b2b0ad657f75aa71c87f87edfdce1445
+  - type: TEXT
+    title_ru: Прохождение архитектурных развилок
+    title_en: Navigating Architectural Forks
+    slug: navigating-architectural-forks
+    section_id: 68376
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68377
+  - type: TEXT
+    title_ru: Архитектурные стили
+    title_en: Architectural Styles
+    slug: architectural-styles
+    section_id: 68378
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68379
+- type: HEADER
+  title_ru: Эволюционное проектирование
+  title_en: Evolutionary Design
+  slug: evolutionary-design
+  section_id: 68380
+  children:
+  - type: TEXT
+    title_ru: Проект/design и проектирование/design
+    title_en: Project Design and Planning
+    slug: project-design-and-planning
+    section_id: 68381
+  - type: TEST
+    title_ru: 'Моделирование: идеи для концепции моей системы'
+    title_en: 'Modeling: Ideas for My System Concept'
+    slug: modeling-ideas-for-my-system-concept
+    section_id: 68382
+  - type: TEXT
+    title_ru: 'Принятие решения: прохождение развилок (trade-offs)'
+    title_en: 'Decision Making: Navigating Trade-offs'
+    slug: decision-making-navigating-trade-offs
+    section_id: 68383
+    images:
+    - filename: 48.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2250/48.png
+      orig_hash: aa4f9bda3770aa856f0c9c458b4ac9cd1f4e18bffd82c82a367b9bec36ba28df
+    - filename: 49.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2250/49.png
+      orig_hash: bf5e0503328800f87c3fe7c6035246c573035af52d12a82a9e5788e1e2dde706
+  - type: TEXT
+    title_ru: Системное проектирование
+    title_en: Systems Design
+    slug: systems-design
+    section_id: 68384
+    images:
+    - filename: 50.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2300/50.png
+      orig_hash: a6d82c01ed93009285ccbc360a4073c63ef8d2681cb6b0d271f4a1d17fad55a5
+    - filename: 51.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2300/51.png
+      orig_hash: c3edda7c5204ab450a54341ca0d59e8f11a58520ebab714dfae728bc23aafa70
+  - type: TEXT
+    title_ru: Проектирование как следование архитектуре
+    title_en: Design as Following Architecture
+    slug: design-as-following-architecture
+    section_id: 68385
+    images:
+    - filename: 52.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2350/52.png
+      orig_hash: 339ad1988e4c97c1bbb883430597792a2982b986c6601c204a5316d15a49516c
+    - filename: 53.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2350/53.png
+      orig_hash: 64d10fe5904dff36c354f514f7872d5d41e4d749de8b220ae1de97099ecea48a
+    - filename: 54.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2350/54.png
+      orig_hash: 7be14bcf9e160660600948579d78b564c025f4f765d7004874635dc3fcd53e3a
+    - filename: 55.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2350/55.png
+      orig_hash: 1725b27ffa7fe21702d08766c9a46a34b3342e2c45e261ce31b94a5202263f3c
+    - filename: 56.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2350/56.png
+      orig_hash: 83acfc4c46bab8d892366f362b43fd2748ae8f12e858e8806d58513752086e57
+  - type: TEXT
+    title_ru: Как неправильно понять первый подраздел про «требований теперь нет»
+    title_en: How to Misunderstand the First Subsection on "Requirements No Longer
+      Exist"
+    slug: how-to-misunderstand-the-first-subsection-on-requirements-no-longer-exist
+    section_id: 68386
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68387
+  - type: TEXT
+    title_ru: Системный менеджмент и разработка
+    title_en: Systems Management and Development
+    slug: systems-management-and-development
+    section_id: 68388
+    images:
+    - filename: 57.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2500/57.png
+      orig_hash: c734a00e7d796ce693af12a0f6b5843d03b38f30bd2aa4adc770e814d5dcff15
+    - filename: 58.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2500/58.png
+      orig_hash: c33b6d6b3d3faa43ac9de1736bbf01411207320a284b3764d53c80068741e2bf
+    - filename: 59.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2500/59.png
+      orig_hash: 3c1161131e52a7700b1dc49d935b923ee985bbc54b54b2250443893433eda650
+    - filename: 60.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2500/60.png
+      orig_hash: e4a71fb52beeaf3b14b0663747bb6051a0ea0a8cced82329b4049313c5c42ec7
+  - type: TEST
+    title_ru: Задание
+    title_en: Assignment
+    slug: assignment
+    section_id: 68389
+  - type: TEXT
+    title_ru: Безошибочность проектирования, точность изготовления, тотальная автоматизация
+      инженерии
+    title_en: Error-Free Design, Precision Manufacturing, Total Engineering Automation
+    slug: error-free-design-precision-manufacturing-total-engineering-automation
+    section_id: 68390
+    images:
+    - filename: 61.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2600/61.png
+      orig_hash: 5df066145890979b8e2aee652956180e8041d0a5c019aefc520c7ba8f06588a6
+  - type: TEST
+    title_ru: Задание
+    title_en: Assignment
+    slug: assignment
+    section_id: 68391
+- type: HEADER
+  title_ru: DevOps
+  title_en: DevOps
+  slug: devops
+  section_id: 68392
+  children:
+  - type: TEXT
+    title_ru: DevOps и инженерия платформы
+    title_en: DevOps and Platform Engineering
+    slug: devops-and-platform-engineering
+    section_id: 68393
+    images:
+    - filename: 62.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2750/62.png
+      orig_hash: 924a16e651d5d9427c535dd0babe8df53c5f84a3c77414f8f2e7c0949615e7fc
+    - filename: 63.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2750/63.png
+      orig_hash: b884093c0c874f447225a9a2c204a29e6bef1cc71629af3a01aad9f7eeb011b9
+  - type: TEXT
+    title_ru: Составляющие DevOps
+    title_en: Components of DevOps
+    slug: components-of-devops
+    section_id: 68394
+    images:
+    - filename: 64.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2800/64.png
+      orig_hash: 8a698cc7589f1c0150473316c915604a681d291788ca3917002bb8473221a266
+    - filename: 65.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2800/65.png
+      orig_hash: e48843b425dae79a6d6d4c16ed6c281f1c7c140ad102589b24d57d443e15481a
+    - filename: 66.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2800/66.png
+      orig_hash: e26668394ca77658897e7682cc7cdcd70d83905321a2c11f0733438dbc155444
+  - type: TEXT
+    title_ru: Управление конфигурацией
+    title_en: Configuration Management
+    slug: configuration-management
+    section_id: 68395
+    images:
+    - filename: 67.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2850/67.png
+      orig_hash: e2399438e1256150f77d51acee23dc224751111b5e9b72fbaff0b2db8bc4f9af
+    - filename: 68.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/2850/68.png
+      orig_hash: fd9188b2203ed2189eab695850e4e4c23348ff5f1a08ea31ef01de189b9d5ec3
+  - type: TEST
+    title_ru: 'Моделирование: рабочие продукты, которые вы изменяли'
+    title_en: 'Modeling: Work Artifacts You Modified'
+    slug: modeling-work-artifacts-you-modified
+    section_id: 68396
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68397
+  - type: TEXT
+    title_ru: Чеклисты в регламентации
+    title_en: Checklists in Regulation
+    slug: checklists-in-regulation
+    section_id: 68398
+    images:
+    - filename: 69.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/3000/69.png
+      orig_hash: b7d12211808ddec104bb34481614682b16e09084fdf6ca33075d4ca8b4fd14ce
+    - filename: 70.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/3000/70.png
+      orig_hash: c19ee16f8d3ef0db1e07389cd89aa36726b7e9a46187a282600ff59bfb07bf07
+    - filename: 71.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/3000/71.png
+      orig_hash: 2ed536e1f6528d5bd8007ad47efb883f28084af6f7adcb078776eb4605e8c879
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68399
+  - type: TEXT
+    title_ru: 6-, Multi-, poly-, … D
+    title_en: 6-, Multi-, Poly-, … D
+    slug: 6-multi-poly-d
+    section_id: 68400
+    images:
+    - filename: 72.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/3100/72.png
+      orig_hash: 73c180e3c7fc2aa4d832aa85bc9b32e92362927b15722e60b33ac3784421869e
+  - type: TEXT
+    title_ru: Интеграция данных
+    title_en: Data Integration
+    slug: data-integration
+    section_id: 68401
+    images:
+    - filename: 73.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/3150/73.png
+      orig_hash: 0eafee3e0c53e46d1b958e2e6bfe2cbda9a3bc0cb7eddf604139517518ee8ba6
+    - filename: 74.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/3150/74.png
+      orig_hash: 7495910968e6a7dcb4135cf7765d7db58ae684e8c5cf237991626dfcf3519c92
+    - filename: 75.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/3150/75.png
+      orig_hash: 1d57154556acd2f9f5c140f70a38635c7b9a714e2fa307f6329c8f5bb9ec11a5
+  - type: TEST
+    title_ru: 'Моделирование: конфигурационные коллизии'
+    title_en: 'Modeling: Configuration Collisions'
+    slug: modeling-configuration-collisions
+    section_id: 68402
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68403
+  - type: TEXT
+    title_ru: Цифровой двойник
+    title_en: Digital Twin
+    slug: digital-twin
+    section_id: 68404
+    images:
+    - filename: 76.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/3300/76.png
+      orig_hash: 79486aaa6b27d5dd72ccf788ac03a4b3f111966b1382d9d59c101c1e9ff17672
+  - type: TEST
+    title_ru: 'Моделирование: цифровые модели, тени, двойники в рабочем проекте'
+    title_en: 'Modeling: Digital Models, Shadows, Twins in a Work Project'
+    slug: modeling-digital-models-shadows-twins-in-a-work-project
+    section_id: 68405
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68406
+- type: HEADER
+  title_ru: Инженерные обоснования
+  title_en: Engineering Justifications
+  slug: engineering-justifications
+  section_id: 68407
+  children:
+  - type: TEXT
+    title_ru: Испытания, проверка и приёмка, обоснования
+    title_en: Testing, Verification, and Validation, Justifications
+    slug: testing-verification-and-validation-justifications
+    section_id: 68408
+    images:
+    - filename: 77.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/3500/77.jpeg
+      orig_hash: 20ae7b85ba684dd1ae35c08f8ec699f79b9ae2cca0bcc59b9c8a1f26dfe3f606
+  - type: TEST
+    title_ru: 'Моделирование: обоснования в инженерии'
+    title_en: 'Modeling: Justifications in Engineering'
+    slug: modeling-justifications-in-engineering
+    section_id: 68409
+  - type: TEXT
+    title_ru: Что обосновывают в инженерии
+    title_en: What is Justified in Engineering
+    slug: what-is-justified-in-engineering
+    section_id: 68410
+    images:
+    - filename: 78.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/3600/78.png
+      orig_hash: 8d9aebc4db7268e10adf9f87e57b545a064e5447cd52d124d4bb9debbeefc390
+    - filename: 79.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/3600/79.jpeg
+      orig_hash: a8c18b58811601e3aa28d15b53bf8e29ae36872d7722c70eb4ad01b293081785
+    - filename: 80.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-engineering/2025-05-27T1549/3600/80.jpeg
+      orig_hash: c57b7d22539e2bfc8ac1cbcfe9eb8cad6e1d03d814fe88c5b2ba52c6303e7a3d
+  - type: TEXT
+    title_ru: Рациональность обоснований
+    title_en: Rationality of Justifications
+    slug: rationality-of-justifications
+    section_id: 68411
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68412
+  - type: TEXT
+    title_ru: Обоснование выполнения требований стандартов (compliance)
+    title_en: Justification for Standards Compliance
+    slug: justification-for-standards-compliance
+    section_id: 68413
+  - type: TEXT
+    title_ru: Инженерное обоснование деятельно, оно требует ресурсов
+    title_en: Engineering Justification Requires Resources
+    slug: engineering-justification-requires-resources
+    section_id: 68414
+  - type: TEXT
+    title_ru: 'Испытания: это измерения'
+    title_en: 'Testing: These Are Measurements'
+    slug: testing-these-are-measurements
+    section_id: 68415
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 68416
+  - type: TEXT
+    title_ru: Проблемы инженерных обоснований для существ, личности, сообщества, общества
+    title_en: Engineering Justification Issues for Beings, Individuals, Communities,
+      Society
+    slug: engineering-justification-issues-for-beings-individuals-communities-society
+    section_id: 68417

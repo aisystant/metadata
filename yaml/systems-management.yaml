@@ -1,0 +1,1061 @@
+course_id: systems-management
+course_name: 6. Системный менеджмент
+version: '2023-05-17'
+version_id: '132'
+sections:
+- type: TEXT
+  title_ru: Введение
+  title_en: Introduction
+  slug: introduction
+  section_id: 8110
+  images:
+  - filename: 0.jpeg
+    title_ru: ''
+    title_en: ''
+    orig_path: /text/systems-management/2023-05-17/0/0.jpeg
+    orig_hash: c034e80e7df875aff7a619e95c247ec9b2b18ac7fc40cca3ba8bcf9ecefdebc8
+- type: TEXT
+  title_ru: Дополнительные материалы
+  title_en: Additional Materials
+  slug: additional-materials
+  section_id: 8111
+- type: HEADER
+  title_ru: Системный менеджмент и системная инженерия
+  title_en: Systems Management and Systems Engineering
+  slug: systems-management-and-systems-engineering
+  section_id: 8112
+  children:
+  - type: TEXT
+    title_ru: Менеджмент как прикладная системная инженерия для организаций
+    title_en: Management as Applied Systems Engineering for Organizations
+    slug: management-as-applied-systems-engineering-for-organizations
+    section_id: 8113
+  - type: TEST
+    title_ru: TEST
+    title_en: TEST
+    slug: test
+    section_id: 8114
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8115
+  - type: TEXT
+    title_ru: Теории менеджмента
+    title_en: Management Theories
+    slug: management-theories
+    section_id: 8116
+    images:
+    - filename: 1.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/300/1.png
+      orig_hash: d84d63d4fd7ea3540a1b83a5a89f94cd093a910b2b4003445798da8ba5866e8b
+  - type: TEST
+    title_ru: Упражнения
+    title_en: Exercises
+    slug: exercises
+    section_id: 8117
+  - type: TEXT
+    title_ru: Праксеология, экономика и менеджмент
+    title_en: Praxeology, Economics, and Management
+    slug: praxeology-economics-and-management
+    section_id: 8118
+    images:
+    - filename: 2.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/400/2.png
+      orig_hash: b1cc68d4078d3dbc217928f4811f958e63899e90b2ded8f788c9a043c30b8658
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8119
+  - type: TEXT
+    title_ru: Право, этика и менеджмент
+    title_en: Law, Ethics, and Management
+    slug: law-ethics-and-management
+    section_id: 8120
+  - type: TEXT
+    title_ru: Менеджмент и эволюция
+    title_en: Management and Evolution
+    slug: management-and-evolution
+    section_id: 8121
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8122
+- type: HEADER
+  title_ru: Практики менеджмента и роли менеджеров
+  title_en: Management Practices and Manager Roles
+  slug: management-practices-and-manager-roles
+  section_id: 8123
+  children:
+  - type: TEXT
+    title_ru: Конкретизация мета-мета-модели инженерии до мета-модели прикладной практики
+    title_en: Refinement of the Meta-Meta-Model of Engineering to the Meta-Model of
+      Applied Practice
+    slug: refinement-of-the-meta-meta-model-of-engineering-to-the-meta-model-of-applied-practice
+    section_id: 8124
+  - type: TEXT
+    title_ru: Конкретизация системноинженерных практик и ролей для менеджмента
+    title_en: Specification of Systems Engineering Practices and Roles for Management
+    slug: specification-of-systems-engineering-practices-and-roles-for-management
+    section_id: 8125
+    images:
+    - filename: 3.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/750/3.png
+      orig_hash: 6ab3bda3c881f3cccdf29addba396b872fab7d1fb90c702015ce084e1f1639c2
+    - filename: 4.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/750/4.png
+      orig_hash: cab59cf037a61ede235a50a6b6b795f93ffed8bc97211ce404e3b1fd62539549
+  - type: TEXT
+    title_ru: Примеры соответствия системноинженерных и прикладных ролей
+    title_en: Examples of Alignment Between Systems Engineering and Applied Roles
+    slug: examples-of-alignment-between-systems-engineering-and-applied-roles
+    section_id: 8126
+    images:
+    - filename: 5.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/800/5.png
+      orig_hash: 90feeb1b7c4e63bd929f54808e6d82e240193425dea0bb79feea938c761ad321
+  - type: TEST
+    title_ru: Упражнения
+    title_en: Exercises
+    slug: exercises
+    section_id: 8127
+  - type: TEXT
+    title_ru: Широкое, узкое и слишком узкое понимание менеджмента. Менеджерские (под)практики
+      и (под)роли
+    title_en: Broad, Narrow, and Too Narrow Understanding of Management. Managerial
+      (Sub)Practices and (Sub)Roles
+    slug: broad-narrow-and-too-narrow-understanding-of-management-managerial-sub-practices-and-sub-roles
+    section_id: 8128
+  - type: TEXT
+    title_ru: Роли, должности, организационные статусы
+    title_en: Roles, Positions, Organizational Statuses
+    slug: roles-positions-organizational-statuses
+    section_id: 8129
+  - type: TEXT
+    title_ru: Менеджмент, предпринимательство и начальничество
+    title_en: Management, Entrepreneurship, and Bossing
+    slug: management-entrepreneurship-and-bossing
+    section_id: 8130
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8131
+  - type: TEXT
+    title_ru: Тренды современного менеджмента и выбор SoTA
+    title_en: Trends in Modern Management and Choosing SoTA
+    slug: trends-in-modern-management-and-choosing-sota
+    section_id: 8132
+    images:
+    - filename: 6.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1100/6.png
+      orig_hash: a28cd0ddd8e0128674e2f2f43504dd2f7af0d378a8b12989628362a16792bf7c
+  - type: TEST
+    title_ru: Упражнения
+    title_en: Exercises
+    slug: exercises
+    section_id: 8133
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8134
+- type: HEADER
+  title_ru: Практика бизнеса (прибыльности)
+  title_en: Business Practice (Profitability)
+  slug: business-practice-profitability
+  section_id: 8135
+  children:
+  - type: TEXT
+    title_ru: 'Предприятие как продукт: оно тоже продаётся'
+    title_en: 'Enterprise as a Product: It Can Be Sold Too'
+    slug: enterprise-as-a-product-it-can-be-sold-too
+    section_id: 8136
+  - type: TEST
+    title_ru: TEST Бизнес
+    title_en: TEST Business
+    slug: test-business
+    section_id: 8137
+  - type: TEST
+    title_ru: Упражнения
+    title_en: Exercises
+    slug: exercises
+    section_id: 8138
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8139
+  - type: TEXT
+    title_ru: Практика корпоративных финансов (инвестиции и займы)
+    title_en: Corporate Finance Practice (Investments and Loans)
+    slug: corporate-finance-practice-investments-and-loans
+    section_id: 8140
+    images:
+    - filename: 7.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1500/7.png
+      orig_hash: 3a3c244f830c194c2bcb3fbd101a9a6dd2fbb490353efe5099aced3d505462f8
+    - filename: 8.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1500/8.png
+      orig_hash: a0045c5af154de73193ff646e00f76493ad5be093a5648e97797e6f6d4c69856
+    - filename: 9.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1500/9.png
+      orig_hash: 0cf0350510ba863eb4039d65b8eaa3ebcb344201bcc83dd328c7c90071db5a1c
+  - type: TEXT
+    title_ru: Практика корпоративной подназдорности (corporate governance)
+    title_en: Corporate Governance Practice
+    slug: corporate-governance-practice
+    section_id: 8141
+    images:
+    - filename: 10.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1550/10.png
+      orig_hash: 4fc53d1adce392442ac05bdca8a4b95124e0d2670f6a7ad83438c76d55d7db5a
+- type: HEADER
+  title_ru: Практика стратегирования
+  title_en: Strategizing Practice
+  slug: strategizing-practice
+  section_id: 8142
+  children:
+  - type: TEXT
+    title_ru: Понятие стратегии
+    title_en: Concept of Strategy
+    slug: concept-of-strategy
+    section_id: 8143
+    images:
+    - filename: 11.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1650/11.png
+      orig_hash: 6ab3bda3c881f3cccdf29addba396b872fab7d1fb90c702015ce084e1f1639c2
+    - filename: 12.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1650/12.png
+      orig_hash: 7c00e8f6760f08b2fb4b6253a2a931c365a37d96155194a3e006adee3ffdcb43
+  - type: TEXT
+    title_ru: Практика стратегирования
+    title_en: Strategy Practice
+    slug: strategy-practice
+    section_id: 8144
+    images:
+    - filename: 13.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1700/13.png
+      orig_hash: ead109c4721c0675c0c589eeabea2e51732a0d9e1bddc23a41ce6d240d80ec9d
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8145
+  - type: TEXT
+    title_ru: 'Качества хорошей стратегии: это фильтр'
+    title_en: 'Qualities of a Good Strategy: It''s a Filter'
+    slug: qualities-of-a-good-strategy-it-s-a-filter
+    section_id: 8146
+    images:
+    - filename: 14.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1800/14.png
+      orig_hash: 6c5818914c8b50ceeca55830ba5e45fd9498b59e87a4cbee633ac67d3624bd66
+    - filename: 15.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1800/15.png
+      orig_hash: e9b415c49fa8bf899f2cc86706987869167ba13eb941c90ca831a681f01ba282
+    - filename: 16.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1800/16.png
+      orig_hash: 1870c2300e6b66fc7bac12c8689224ee10140445ef66c170eadd0074243e5117
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8147
+  - type: TEXT
+    title_ru: Бизнес-модель и её «холстовое» моделирование
+    title_en: Business Model and Its "Canvas" Modeling
+    slug: business-model-and-its-canvas-modeling
+    section_id: 8148
+    images:
+    - filename: 17.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1900/17.png
+      orig_hash: 2639c070f489b4451f7578d89495805159feda89167bfaab618319e6f921d58c
+    - filename: 18.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1900/18.png
+      orig_hash: 601b7ad91fd3e24d095fe662c36ce3686f3753e88d614f3cfc54fa3fa483a384
+    - filename: 19.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1900/19.png
+      orig_hash: ddbeb1d0c764770284b7493592a263f3b7803d149bb07066190348bfd484a004
+    - filename: 20.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1900/20.png
+      orig_hash: 8413db1954d776c799dc24c2b3b8046f139c151b6b7fb08e98723d02e9f4435c
+    - filename: 21.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1900/21.png
+      orig_hash: 94c126150cbf412c9a1076c0416d0b38c366792cad74419f73f9bb5047746dd7
+    - filename: 22.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1900/22.png
+      orig_hash: 75bba5dd36838e242658b247d47fbb5bf8489d5112cde81e08579d9f785b7827
+    - filename: 23.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1900/23.png
+      orig_hash: 12e4c94b711f08e27c4427b0663e16ed3ed3107aba80bf68b2be19869e8c164a
+    - filename: 24.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1900/24.png
+      orig_hash: 2037e5ebb111ac0fff7c4baf8e0c931313d044892d710eaf7f9e6f0cecbcb30a
+  - type: TEXT
+    title_ru: Модель оргразвития
+    title_en: Organizational Development Model
+    slug: organizational-development-model
+    section_id: 8149
+    images:
+    - filename: 25.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1950/25.png
+      orig_hash: 1a0c506630732aad5c356de485d7eade6e728bb7e3181e2a15fa013f6281735e
+    - filename: 26.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1950/26.png
+      orig_hash: be92eb3eb9a130fdce3b2d24004bae4f92c605504972f37082d88f5f152f67ae
+    - filename: 27.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1950/27.png
+      orig_hash: dbd63c38f9e0d8868cf772aff29f516dccb803db6a8d4e5b6d26b68b78739d55
+    - filename: 28.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/1950/28.png
+      orig_hash: f0e184af07c75ae9e77871a32cedc1572e440148c3e8a93f641322dcd3023e7d
+  - type: TEXT
+    title_ru: Модель целеполагания/motivation для согласования интересов
+    title_en: Goal-Setting Model for Aligning Interests
+    slug: goal-setting-model-for-aligning-interests
+    section_id: 8150
+  - type: TEST
+    title_ru: Упражнения
+    title_en: Exercises
+    slug: exercises
+    section_id: 8151
+  - type: TEXT
+    title_ru: Культура съедает стратегию на завтрак, а реорганизацию на обед
+    title_en: Culture Eats Strategy for Breakfast and Reorganization for Lunch
+    slug: culture-eats-strategy-for-breakfast-and-reorganization-for-lunch
+    section_id: 8152
+  - type: TEST
+    title_ru: TEST Получение инвестиций
+    title_en: TEST Securing Investments
+    slug: test-securing-investments
+    section_id: 8153
+- type: HEADER
+  title_ru: Теория стратегирования
+  title_en: Strategy Theory
+  slug: strategy-theory
+  section_id: 8154
+  children:
+  - type: TEXT
+    title_ru: Будущее уже здесь
+    title_en: The Future Is Already Here
+    slug: the-future-is-already-here
+    section_id: 8155
+    images:
+    - filename: 29.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2250/29.png
+      orig_hash: fd61bbe96c36d605a2de331a92b70a0a3ff5e29f339adc24f093250a9666c466
+  - type: TEXT
+    title_ru: Подрыв подо всей цивилизацией сразу
+    title_en: Undermining the Entire Civilization at Once
+    slug: undermining-the-entire-civilization-at-once
+    section_id: 8156
+    images:
+    - filename: 30.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2300/30.png
+      orig_hash: 809b0148d93130e0f41260d9d86f231ded6ed8e92e59e40eec58c1b709e8293a
+    - filename: 31.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2300/31.png
+      orig_hash: 1fa6886d1b17242f3c789e7944ed9f6ebb9006c8b273d54bf275c4c59569cbde
+    - filename: 32.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2300/32.png
+      orig_hash: 9b608997cae4a1c257dfc54551975f7fa5892b6a69c209438e9233276f3e5fb0
+    - filename: 33.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2300/33.png
+      orig_hash: daf485e58c440cc90e5ab293380b28819187aed378a4d4db6269c218354507ae
+  - type: TEXT
+    title_ru: 'Пример подрыва: электромобили уже сейчас дешевле бензиновых автомобилей'
+    title_en: 'Example of Disruption: Electric Cars Already Cheaper Than Gasoline
+      Cars'
+    slug: example-of-disruption-electric-cars-already-cheaper-than-gasoline-cars
+    section_id: 8157
+  - type: TEST
+    title_ru: TEST Технологический подрыв
+    title_en: TEST Technological Disruption
+    slug: test-technological-disruption
+    section_id: 8158
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8159
+  - type: TEXT
+    title_ru: Роботы заберут работу? Нет!
+    title_en: Will Robots Take Our Jobs? No!
+    slug: will-robots-take-our-jobs-no
+    section_id: 8160
+    images:
+    - filename: 34.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2500/34.png
+      orig_hash: 3ce2c12c9851300b58a23a010e575fef6a696123b47f7f2852abfca753f91984
+    - filename: 35.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2500/35.png
+      orig_hash: f5671bb9e885b0f9b9281e0b04adffc57d9ab232a988f14d6fdd0f8c1c33c322
+  - type: TEXT
+    title_ru: 'Инновации: всегда сбоку'
+    title_en: 'Innovations: Always on the Side'
+    slug: innovations-always-on-the-side
+    section_id: 8161
+    images:
+    - filename: 36.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2550/36.png
+      orig_hash: 61955bdc34fdc73ebc43d4f3c674edf419d736b44c741a5ff856b94aa6f52bd4
+    - filename: 37.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2550/37.png
+      orig_hash: 3ac0fdf3efd824605810ad2ce9f3685e7fc6354c95657421f49f477e373dcd80
+    - filename: 38.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2550/38.png
+      orig_hash: 96462187f3d8ff248a9847c8b42d1f4f64b373e1b3d563d507ac825eb0fbac97
+    - filename: 39.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2550/39.jpeg
+      orig_hash: f008054a5822d0b37ddc29b1f0c2716b574ff5d922f8075d612827d2b33b749f
+    - filename: 40.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2550/40.png
+      orig_hash: 85d9afcfb340d0c108511022e328d33c01b154e45d1e92ee97c465d7969bc562
+  - type: TEST
+    title_ru: TEST Скорость обучения нейросети
+    title_en: TEST Neural Network Learning Speed
+    slug: test-neural-network-learning-speed
+    section_id: 8162
+  - type: TEST
+    title_ru: Упражнения
+    title_en: Exercises
+    slug: exercises
+    section_id: 8163
+  - type: TEXT
+    title_ru: 'Неудачная практика Коллинза: стратегирование ежа'
+    title_en: 'Collins'' Failed Practice: Hedgehog Strategy'
+    slug: collins-failed-practice-hedgehog-strategy
+    section_id: 8164
+    images:
+    - filename: 41.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2700/41.png
+      orig_hash: e02a5e1633ad1a800ce9b00ac5a6c57258b46a2a67256952695bd9a01b27a19b
+    - filename: 42.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2700/42.png
+      orig_hash: 328a2194bcdfd64eb49c1fe278496a73622b523e5ea3e73475852aa4a6ced86d
+  - type: TEST
+    title_ru: Упражнения
+    title_en: Exercises
+    slug: exercises
+    section_id: 8165
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8166
+  - type: TEXT
+    title_ru: Стратегирование вместо мечтаний
+    title_en: Strategizing Instead of Dreaming
+    slug: strategizing-instead-of-dreaming
+    section_id: 8167
+    images:
+    - filename: 43.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2850/43.jpeg
+      orig_hash: 5e204bb40c4f886fed389becfd961812da4ee76f5a27e772e9d137a1153c75a3
+    - filename: 44.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2850/44.png
+      orig_hash: a08cd9213b5074911ff9a6022b40b1a96c2167579caed122eeb13674d2d0caff
+    - filename: 45.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2850/45.png
+      orig_hash: 04c3e97375cb1600e5a29a7344117523d12ff51cd3f19f2911a1ab0be93491a3
+    - filename: 46.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2850/46.png
+      orig_hash: 9bbac94e57118ba92473a4e5099cd8f87f9dcf30c42f08c6ac618391a6e4f16c
+    - filename: 47.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2850/47.png
+      orig_hash: 8873dd8c72ebbdb626bfcce42c32445a7cf5e1d3cafd5ff9dd3bf98bee2b3435
+    - filename: 48.jpg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2850/48.jpg
+      orig_hash: 70dc0e3d2a1daf30212476d71f0f1299ab38ca2a82bdf0ccb13a4696139e059e
+    - filename: 49.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2850/49.jpeg
+      orig_hash: a95056c08de7040bd60ee0e51c912607e87c8229076847a8c1755ace4a733496
+    - filename: 50.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2850/50.jpeg
+      orig_hash: 285141f581939e0d219609741e3822eef28ed144fd8186938743eab978a2c641
+    - filename: 51.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2850/51.png
+      orig_hash: 6840df0b55d43c24ff8b8adc7dd2ef312bde630b1e7ee9c5ac1ac2d564bdf2f7
+    - filename: 52.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2850/52.jpeg
+      orig_hash: cb9c7f1a385884034b1365ddd8e3bdd48cce2fd07328a14fef0b360e7841c121
+  - type: TEST
+    title_ru: Упражнения
+    title_en: Exercises
+    slug: exercises
+    section_id: 8168
+  - type: TEXT
+    title_ru: Бесконечное развитие (open-endedness)
+    title_en: Endless Development (Open-Endedness)
+    slug: endless-development-open-endedness
+    section_id: 8169
+    images:
+    - filename: 53.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2950/53.png
+      orig_hash: 24097110be08d1441128b2ce289708d684328349e8e56ed4fb85c5aa9985bbfd
+    - filename: 54.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2950/54.jpeg
+      orig_hash: 54add0221a058a204ac9f1f6fc963dd4cfd6b6345f7796a7188ddfb6959d7ad3
+    - filename: 55.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/2950/55.png
+      orig_hash: 22b4341b14c6d72543cef128d9c71a364bf66f099b79b3db39b0c2a5009ec581
+  - type: TEST
+    title_ru: TEST бесконечного развития
+    title_en: TEST of Infinite Development
+    slug: test-of-infinite-development
+    section_id: 8170
+  - type: TEST
+    title_ru: Упражнения
+    title_en: Exercises
+    slug: exercises
+    section_id: 8171
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8172
+  - type: TEXT
+    title_ru: Теории счастья и богатства
+    title_en: Theories of Happiness and Wealth
+    slug: theories-of-happiness-and-wealth
+    section_id: 8173
+    images:
+    - filename: 56.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/3150/56.png
+      orig_hash: aa48e63d5104e37cd644d7f5f6afbded43b70b4150f11fef127c85b5c1c8c5e1
+    - filename: 57.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/3150/57.png
+      orig_hash: 6ebe79d93485a3a29572a263dfdab63101c5cd9f1e48e6e55aa6e7c129658f48
+    - filename: 58.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/3150/58.png
+      orig_hash: 8fdb7c2477ef478b81cc76fb073b76253f56837c23d4b0544db3c4f8aab487e8
+    - filename: 59.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/3150/59.png
+      orig_hash: 797b2437e2905b875a8f34d476aab7571cecf3900f026d5ed86901c84d1cdc8e
+  - type: TEST
+    title_ru: Упражнения
+    title_en: Exercises
+    slug: exercises
+    section_id: 8174
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8175
+- type: HEADER
+  title_ru: Практика управления работами (операционный менеджмент)
+  title_en: Practice of Work Management (Operational Management)
+  slug: practice-of-work-management-operational-management
+  section_id: 8176
+  children:
+  - type: TEXT
+    title_ru: Практика управления проектами
+    title_en: Project Management Practice
+    slug: project-management-practice
+    section_id: 8177
+    images:
+    - filename: 60.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/3350/60.png
+      orig_hash: 84b15d8bad4f80b70c44c707c97d82c58064f569a9cdf17c8d7fe9bd09ee4f95
+    - filename: 61.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/3350/61.png
+      orig_hash: f8a7cae011106dd6549783737ddd251fd29dc43a7a9182918442f2608eb000d2
+  - type: TEXT
+    title_ru: Практики управления процессами и управления кейсами
+    title_en: Process and Case Management Practices
+    slug: process-and-case-management-practices
+    section_id: 8178
+    images:
+    - filename: 62.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/3400/62.png
+      orig_hash: 8f03d42109102d91f5900679687199b13664a559169b9c70f615c61755c0967e
+    - filename: 63.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/3400/63.png
+      orig_hash: d50117c10248264f0e2bf5383f16788348b2e1e329d54dba6fed21919f5e4381
+    - filename: 64.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/3400/64.png
+      orig_hash: fcfd1ba4abe4b3331d838b4a98f673a78af29481fd46669d31da4ecdff11a182
+    - filename: 65.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/3400/65.png
+      orig_hash: 5b7d4122bf3b18a9a93011d18b86a90fbb5c4e231d2e4d5f0e1d9cbb4888f226
+  - type: TEST
+    title_ru: TEST Проекты, программы, процессы, кейсы
+    title_en: TEST Projects, Programs, Processes, Cases
+    slug: test-projects-programs-processes-cases
+    section_id: 8179
+  - type: TEST
+    title_ru: Упражнение
+    title_en: Exercise
+    slug: exercise
+    section_id: 8180
+  - type: TEXT
+    title_ru: «Распожаризация» и управление работами
+    title_en: '"De-escalation and Work Management"'
+    slug: de-escalation-and-work-management
+    section_id: 8181
+  - type: TEST
+    title_ru: Упражнение
+    title_en: Exercise
+    slug: exercise
+    section_id: 8182
+  - type: TEST
+    title_ru: TEST Управление кейсами
+    title_en: TEST Case Management
+    slug: test-case-management
+    section_id: 8183
+  - type: TEST
+    title_ru: Упражнение
+    title_en: Exercise
+    slug: exercise
+    section_id: 8184
+  - type: TEXT
+    title_ru: Основные книги по современному операционному менеджменту
+    title_en: Key Books on Modern Operational Management
+    slug: key-books-on-modern-operational-management
+    section_id: 8185
+    images:
+    - filename: 66.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/3750/66.png
+      orig_hash: 4aaa523c42f9cedcdb96253d980057b8fb5bd1136e1d1c8ca3cf5f7bc5a8d2fa
+    - filename: 67.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/3750/67.png
+      orig_hash: 9d341537e0d29366f16ea84a8e9a427d2c4364fd887b1095a1fced7ca40a4272
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8186
+  - type: TEXT
+    title_ru: Управленческий финансовый учёт и контроллинг
+    title_en: Managerial Financial Accounting and Controlling
+    slug: managerial-financial-accounting-and-controlling
+    section_id: 8187
+    images:
+    - filename: 68.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/3850/68.png
+      orig_hash: b9d02504cd160f50ccfdfae59e38cbb177573b7c1c5e240c470170e33e5b8445
+    - filename: 69.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/3850/69.png
+      orig_hash: c9215d091187c358ed2c6f50f61b8355e13f055f51715eed0585b5d46e91091e
+  - type: TEST
+    title_ru: TEST Много разных финансовых учётов
+    title_en: TEST Various Financial Accounts
+    slug: test-various-financial-accounts
+    section_id: 8188
+  - type: TEST
+    title_ru: Задание
+    title_en: Assignment
+    slug: assignment
+    section_id: 8189
+- type: HEADER
+  title_ru: Практика организационного дизайна
+  title_en: Organizational Design Practice
+  slug: organizational-design-practice
+  section_id: 8190
+  children:
+  - type: TEXT
+    title_ru: 'Оргразвитие: оргдизайнеры и лидеры'
+    title_en: 'Organizational Development: Organizational Designers and Leaders'
+    slug: organizational-development-organizational-designers-and-leaders
+    section_id: 8191
+  - type: TEST
+    title_ru: Упражнение
+    title_en: Exercise
+    slug: exercise
+    section_id: 8192
+  - type: TEXT
+    title_ru: Работа оргдизайнеров
+    title_en: Work of Organizational Designers
+    slug: work-of-organizational-designers
+    section_id: 8193
+    images:
+    - filename: 70.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/4150/70.png
+      orig_hash: 5652df780e430ed0271952e800bb2c760ad2afe538015382b74f18afe55c6833
+    - filename: 71.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/4150/71.png
+      orig_hash: 59269762ba1db7de61ea52b20aed6029950c21a231245f219fabc5d248ca194c
+  - type: TEST
+    title_ru: Упражнение
+    title_en: Exercise
+    slug: exercise
+    section_id: 8194
+  - type: TEXT
+    title_ru: Концепция организации и оргпроект
+    title_en: Organization Concept and Organizational Design
+    slug: organization-concept-and-organizational-design
+    section_id: 8195
+    images:
+    - filename: 72.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/4250/72.png
+      orig_hash: 7e8bd67b83f5c1b1142bc025ec8267d18731aade7c800357bd7f89c1e591a3a6
+  - type: TEXT
+    title_ru: Выбор оргмоделера
+    title_en: Choosing an Org Modeler
+    slug: choosing-an-org-modeler
+    section_id: 8196
+    images:
+    - filename: 73.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/4300/73.png
+      orig_hash: b879e96a4411a11a3431af2c82f48305acc65ec2ca35aff20ace3fab52261511
+  - type: TEST
+    title_ru: TEST концепция организации
+    title_en: TEST organization concept
+    slug: test-organization-concept
+    section_id: 8197
+  - type: TEXT
+    title_ru: Конструкция организации и координация работ
+    title_en: Organization Structure and Work Coordination
+    slug: organization-structure-and-work-coordination
+    section_id: 8198
+    images:
+    - filename: 74.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/4400/74.png
+      orig_hash: a202c971f061035c9fe41f80ae863c6e8ae8f8e3fcc3ae1e8edbb59faf2230e7
+  - type: TEST
+    title_ru: TEST
+    title_en: TEST
+    slug: test
+    section_id: 8199
+  - type: TEST
+    title_ru: Упражнение
+    title_en: Exercise
+    slug: exercise
+    section_id: 8200
+  - type: TEXT
+    title_ru: Модель органиграммы
+    title_en: Organizational Chart Model
+    slug: organizational-chart-model
+    section_id: 8201
+    images:
+    - filename: 75.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/4550/75.png
+      orig_hash: 4a3289770b75b015227b8e6f2fbc505f268c39a51ab2b0c1b1d271c85559e57e
+  - type: TEST
+    title_ru: Упражнение
+    title_en: Exercise
+    slug: exercise
+    section_id: 8202
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8203
+- type: HEADER
+  title_ru: Практика архитектуры предприятия
+  title_en: Enterprise Architecture Practice
+  slug: enterprise-architecture-practice
+  section_id: 8204
+  children:
+  - type: TEXT
+    title_ru: Архитектурные характеристики предприятия
+    title_en: Architectural Characteristics of the Enterprise
+    slug: architectural-characteristics-of-the-enterprise
+    section_id: 8205
+    images:
+    - filename: 76.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/4750/76.png
+      orig_hash: a28ff7e928c8f58ef0e7e6a187080f7b8ab1b349cdb30a5b2d79967612446cc6
+    - filename: 77.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/4750/77.png
+      orig_hash: 5cb9f83fb6d17fa155cf9681ec6848008a874e90abed23446e83d6e50bc31d83
+  - type: TEXT
+    title_ru: Исторические подходы к орг-архитектуре
+    title_en: Historical Approaches to Organizational Architecture
+    slug: historical-approaches-to-organizational-architecture
+    section_id: 8206
+    images:
+    - filename: 78.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/4800/78.png
+      orig_hash: ecd771589549f5d4aca4d741198f75a614e00cf581a6a99e0a8f533c9499015f
+    - filename: 79.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/4800/79.png
+      orig_hash: 2be9c698d08eeecc14427f0325b5f21a9d0d9c7b5b007380f6e23aa90e5aa6e8
+  - type: TEST
+    title_ru: TEST Бирюзовая организация
+    title_en: TEST Teal Organization
+    slug: test-teal-organization
+    section_id: 8207
+  - type: TEXT
+    title_ru: Современная (SoTA) орг-архитектура
+    title_en: Modern (SoTA) Organizational Architecture
+    slug: modern-sota-organizational-architecture
+    section_id: 8208
+    images:
+    - filename: 80.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/4900/80.png
+      orig_hash: 88aed6773a74e94629a84c0eb8e3790ccaa7415f284281aa647c48311d74d537
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8209
+- type: HEADER
+  title_ru: Практика лидерства
+  title_en: Leadership Practice
+  slug: leadership-practice
+  section_id: 8210
+  children:
+  - type: TEXT
+    title_ru: Лидерство как практика изготовления организаций
+    title_en: Leadership as the Practice of Building Organizations
+    slug: leadership-as-the-practice-of-building-organizations
+    section_id: 8211
+  - type: TEXT
+    title_ru: Рабочие продукты и корпоративные ритуалы как видимая форма оргизменений
+    title_en: Work Artifacts and Corporate Rituals as Visible Forms of Organizational
+      Changes
+    slug: work-artifacts-and-corporate-rituals-as-visible-forms-of-organizational-changes
+    section_id: 8212
+  - type: TEXT
+    title_ru: Табло и визуальный менеджмент
+    title_en: Dashboard and Visual Management
+    slug: dashboard-and-visual-management
+    section_id: 8213
+    images:
+    - filename: 81.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/5150/81.png
+      orig_hash: 494480f0b7db533f6785a53467534109373bb4d9a50e01701be020decb50726d
+    - filename: 82.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/5150/82.png
+      orig_hash: e5a06dff22d41e7edb755a8cdd9883512a31f56215d33dd9e4900a2a39315a24
+  - type: TEXT
+    title_ru: Лидерство для достижения уровней сотрудничества
+    title_en: Leadership for Achieving Levels of Collaboration
+    slug: leadership-for-achieving-levels-of-collaboration
+    section_id: 8214
+  - type: TEXT
+    title_ru: 'Шаг развития: постановка оргвозможности'
+    title_en: 'Development Step: Establishing Organizational Capability'
+    slug: development-step-establishing-organizational-capability
+    section_id: 8215
+    images:
+    - filename: 83.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/5250/83.png
+      orig_hash: e2133a0a8314ad2b052d46ab72b46b360db7bdd4a4eb7a083a73c1e9fd70e252
+  - type: TEST
+    title_ru: Упражнение
+    title_en: Exercise
+    slug: exercise
+    section_id: 8216
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8217
+  - type: TEXT
+    title_ru: Личное целеполагание как практика лидерства
+    title_en: Personal Goal Setting as a Leadership Practice
+    slug: personal-goal-setting-as-a-leadership-practice
+    section_id: 8218
+    images:
+    - filename: 84.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/systems-management/2023-05-17/5400/84.png
+      orig_hash: 2606816da672dfc2aa6ca1f6efb2b6dbf8e864d761c81b3d83019e16372c04f3
+  - type: TEST
+    title_ru: Упражнения
+    title_en: Exercises
+    slug: exercises
+    section_id: 8219
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8220
+- type: HEADER
+  title_ru: Практика администрирования
+  title_en: Administration Practice
+  slug: administration-practice
+  section_id: 8221
+  children:
+  - type: TEXT
+    title_ru: Администрация как оператор внутрифирменной организационной платформы
+    title_en: Administration as an Operator of the Intra-Company Organizational Platform
+    slug: administration-as-an-operator-of-the-intra-company-organizational-platform
+    section_id: 8222
+  - type: TEXT
+    title_ru: 'Опасность: администрация для организаторов или организаторы для администрации?'
+    title_en: 'Danger: Administration for Organizers or Organizers for Administration?'
+    slug: danger-administration-for-organizers-or-organizers-for-administration
+    section_id: 8223
+  - type: TEST
+    title_ru: Задания
+    title_en: Assignments
+    slug: assignments
+    section_id: 8224
+  - type: TEXT
+    title_ru: Что потом?
+    title_en: What Next?
+    slug: what-next
+    section_id: 8225

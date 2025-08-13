@@ -1,0 +1,930 @@
+course_id: intellect-stack
+course_name: 7. Интеллект-стек
+version: '2023-07-27'
+version_id: '151'
+sections:
+- type: TEXT
+  title_ru: Введение
+  title_en: Introduction
+  slug: introduction
+  section_id: 11476
+  images:
+  - filename: 0.jpg
+    title_ru: ''
+    title_en: ''
+    orig_path: /text/intelligence-stack/2023-07-27/0/0.jpg
+    orig_hash: 39e0ab370472dc7abfb5650e76ea53b314d629f98ac77465d1687ec53e7e97a4
+- type: HEADER
+  title_ru: Интеллект и практики интеллект-стека
+  title_en: Intellect and Practices of the Intelligence Stack
+  slug: intellect-and-practices-of-the-intelligence-stack
+  section_id: 11477
+  children:
+  - type: TEXT
+    title_ru: Берём понятие интеллекта у разработчиков машинного интеллекта
+    title_en: Adopting the Concept of Intelligence from Machine Intelligence Developers
+    slug: adopting-the-concept-of-intelligence-from-machine-intelligence-developers
+    section_id: 11478
+  - type: TEXT
+    title_ru: Интеллект — это вычислитель, мышление — это вычисления
+    title_en: Intelligence is a Computer, Thinking is Computation
+    slug: intelligence-is-a-computer-thinking-is-computation
+    section_id: 11479
+  - type: TEXT
+    title_ru: Нет наград, но есть избегание неизвестности. Оптимизм.
+    title_en: No Rewards, but Avoidance of the Unknown. The Optimism.
+    slug: no-rewards-but-avoidance-of-the-unknown-the-optimism
+    section_id: 11480
+    images:
+    - filename: 1.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/200/1.jpeg
+      orig_hash: aed2269622062ab368188b5fdb649b31f6a9400dd971109fc88654d31a88ea44
+    - filename: 2.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/200/2.png
+      orig_hash: 3dc638603efa454c93877e06a00693a32d3369a8bda9639a792b21bc70279e3c
+    - filename: 3.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/200/3.png
+      orig_hash: c023bdf4fe6fec9d57cfca6a2b52fa3211372773de01c3bbe6b55c11d181b6e5
+  - type: TEXT
+    title_ru: Интеллект — это вычислитель при познании, мышление — это вычисления
+      при познании
+    title_en: Intelligence as a Calculator in Knowledge Acquisition, Thinking as Calculations
+      in Knowledge Acquisition
+    slug: intelligence-as-a-calculator-in-knowledge-acquisition-thinking-as-calculations-in-knowledge-acquisition
+    section_id: 11481
+  - type: TEST
+    title_ru: Кейс по различению интеллекта и мышления
+    title_en: Case Study on Differentiating Intelligence and Thinking
+    slug: case-study-on-differentiating-intelligence-and-thinking
+    section_id: 11482
+  - type: TEXT
+    title_ru: Прикладное мастерство, прикладные рассуждения
+    title_en: Applied Mastery, Applied Reasoning
+    slug: applied-mastery-applied-reasoning
+    section_id: 11483
+  - type: TEXT
+    title_ru: Интеллект и прикладное мастерство неразрывны, мышление и прикладное
+      рассуждение тесно переплетены
+    title_en: Intelligence and Applied Mastery Are Inseparable, Thinking and Applied
+      Reasoning Are Interwoven
+    slug: intelligence-and-applied-mastery-are-inseparable-thinking-and-applied-reasoning-are-interwoven
+    section_id: 11484
+  - type: TEXT
+    title_ru: Бытовое использование терминов, которые мы использовали при рассказе
+      об интеллекте и мышлении
+    title_en: Household Use of Terms We Used When Discussing Intelligence and Thinking
+    slug: household-use-of-terms-we-used-when-discussing-intelligence-and-thinking
+    section_id: 11485
+  - type: TEXT
+    title_ru: Бесконечное развитие требует интеллекта
+    title_en: Endless Development Requires Intelligence
+    slug: endless-development-requires-intelligence
+    section_id: 11486
+    images:
+    - filename: 4.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/500/4.png
+      orig_hash: a5bbf5d08cd427e53e480b029225aba700ea3f43e14b6b86b3afef8403060273
+  - type: TEXT
+    title_ru: Интеллект определяет скорость обучения новому мастерству
+    title_en: Intelligence Determines the Speed of Learning New Skills
+    slug: intelligence-determines-the-speed-of-learning-new-skills
+    section_id: 11487
+    images:
+    - filename: 5.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/550/5.png
+      orig_hash: 68d7a0a8b8b1321da95939510f1bd212d7b847ca633c041552c8b14e33c8ab47
+  - type: TEXT
+    title_ru: Интеллект врождённый и приобретённый
+    title_en: Innate and Acquired Intelligence
+    slug: innate-and-acquired-intelligence
+    section_id: 11488
+  - type: TEXT
+    title_ru: Трансдисциплинарный интеллект-стек
+    title_en: Transdisciplinary Intelligence Stack
+    slug: transdisciplinary-intelligence-stack
+    section_id: 11489
+  - type: TEXT
+    title_ru: Без владения трансдисциплинами интеллект-стека трудно понимать тексты,
+      сосредоточиться, рассуждать без грубых ошибок
+    title_en: Without Mastery of Transdisciplines in the Intelligence Stack, It's
+      Hard to Understand Texts, Focus, and Reason Without Obvious Mistakes
+    slug: without-mastery-of-transdisciplines-in-the-intelligence-stack-it-s-hard-to-understand-texts-focus-and-reason-without-obvious-mistakes
+    section_id: 11490
+  - type: TEXT
+    title_ru: Граница между мыслительным и прикладным мастерством размыта
+    title_en: The Line Between Thinking Mastery and Applied Mastery is Blurred
+    slug: the-line-between-thinking-mastery-and-applied-mastery-is-blurred
+    section_id: 11491
+  - type: TEXT
+    title_ru: 'Важен порядок решения проблем: их надо решать по мере возрастания сложности'
+    title_en: 'The Order of Problem Solving Matters: Address Them by Increasing Complexity'
+    slug: the-order-of-problem-solving-matters-address-them-by-increasing-complexity
+    section_id: 11492
+  - type: TEST
+    title_ru: 'Кейс: интеллект как способность научиться'
+    title_en: 'Case: Intelligence as the Ability to Learn'
+    slug: case-intelligence-as-the-ability-to-learn
+    section_id: 11493
+  - type: TEXT
+    title_ru: Мышление — это функция/поведение/назначение интеллекта
+    title_en: Thinking is a Function/Behavior/Purpose of Intelligence
+    slug: thinking-is-a-function-behavior-purpose-of-intelligence
+    section_id: 11494
+  - type: TEXT
+    title_ru: Чему учиться уже образованным?
+    title_en: What Should the Educated Learn?
+    slug: what-should-the-educated-learn
+    section_id: 11495
+    images:
+    - filename: 6.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/950/6.png
+      orig_hash: 4836bf2fada5d242037c9476a2c65f508cf625e42276fbb136df045955f1e523
+  - type: TEST
+    title_ru: 'Упражнение: оценка мыслительного мастерства'
+    title_en: 'Exercise: Assessing Thinking Mastery'
+    slug: exercise-assessing-thinking-mastery
+    section_id: 11496
+  - type: TEXT
+    title_ru: Интеллект против культа карго
+    title_en: Intelligence vs. Cargo Cult
+    slug: intelligence-vs-cargo-cult
+    section_id: 11497
+    images:
+    - filename: 7.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/1050/7.jpeg
+      orig_hash: 8e3b5fb78a7769adb8c60137f512476ef6a15cc16322a1ea9fd693216a62e42a
+  - type: TEXT
+    title_ru: 'Дикарский мир 21 века: переучиваться самому, жалеть и учить других'
+    title_en: 'Savage World of the 21st Century: Self-Retraining, Empathy, and Teaching
+      Others'
+    slug: savage-world-of-the-21st-century-self-retraining-empathy-and-teaching-others
+    section_id: 11498
+  - type: TEXT
+    title_ru: 'Трансдисциплины: название то же, содержание уже другое'
+    title_en: 'Transdisciplines: Same Name, Different Content'
+    slug: transdisciplines-same-name-different-content
+    section_id: 11499
+- type: HEADER
+  title_ru: Понятизация
+  title_en: Conceptualization
+  slug: conceptualization
+  section_id: 11500
+  children:
+  - type: TEXT
+    title_ru: Быстрое мышление через поиск ассоциаций
+    title_en: Quick Thinking Through Association Search
+    slug: quick-thinking-through-association-search
+    section_id: 11501
+    images:
+    - filename: 8.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/1250/8.png
+      orig_hash: f51d24f78809f5b4fc589a8b971e7a70106d9db6a8f4ab3f423190e93e5f4e38
+    - filename: 9.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/1250/9.jpeg
+      orig_hash: c944b8f1cb7d0b4d882d62deca517855c39b93a677581e8995c8dd2ffd392cdc
+  - type: TEXT
+    title_ru: Передача субъективного опыта
+    title_en: Transferring Subjective Experience
+    slug: transferring-subjective-experience
+    section_id: 11502
+    images:
+    - filename: 10.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/1300/10.png
+      orig_hash: 17f603fc70922f64b11b2d49b8a53d21cada50747dd2e3a5f006fc8465c2963d
+  - type: TEXT
+    title_ru: Нейросемиотика. Нейросемиотическое программирование
+    title_en: Neurosemiotics. Neurosemiotic Programming
+    slug: neurosemiotics-neurosemiotic-programming
+    section_id: 11503
+    images:
+    - filename: 11.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/1350/11.png
+      orig_hash: a845172782d7f88b7ff609731ffa402b34a186b3b9deac3e246b2f62d4591596
+    - filename: 12.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/1350/12.png
+      orig_hash: 980198a2f87e52f92d1a4f2af3c6d8081e56327f8e0d2c925ba00d269962b2d9
+    - filename: 13.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/1350/13.png
+      orig_hash: 36ce7ab29e1e093706e2f31ca2121304cdb1186b64beeb08b038a0f76c732ab5
+    - filename: 14.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/1350/14.png
+      orig_hash: fd83dab90043f17e3ac8dc750f9cb6d6b0b757a9ddff4ebe4027050a402a4127
+    - filename: 15.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/1350/15.png
+      orig_hash: b9539ebb78e9d29dbeb74b4667b5feb2e806dc548fb1bbd3ebb6c846ce1edfbe
+  - type: TEXT
+    title_ru: 'Психопрактики для понятизации: внимание к кинестетике'
+    title_en: 'Psychopractices for Conceptualization: Attention to Kinesthetics'
+    slug: psychopractices-for-conceptualization-attention-to-kinesthetics
+    section_id: 11504
+- type: HEADER
+  title_ru: Собранность
+  title_en: Composure
+  slug: composure
+  section_id: 11505
+  children:
+  - type: TEXT
+    title_ru: Агенты
+    title_en: Agents
+    slug: agents
+    section_id: 11506
+  - type: TEXT
+    title_ru: 'Собранность: владеть умом и телом'
+    title_en: 'Composure: Mastering Mind and Body'
+    slug: composure-mastering-mind-and-body
+    section_id: 11507
+    images:
+    - filename: 16.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/1550/16.jpeg
+      orig_hash: 1557991ce30e3f2cbde0aa8a0a51220833eb95f2be7cb3f582eec9f3703b422e
+  - type: TEXT
+    title_ru: Собранность как часть актёрского/ролевого мастерства
+    title_en: Composure as Part of Acting/Role-Based Mastery
+    slug: composure-as-part-of-acting-role-based-mastery
+    section_id: 11508
+  - type: TEXT
+    title_ru: Сознательный присмотр за вниманием
+    title_en: Conscious Attention Supervision
+    slug: conscious-attention-supervision
+    section_id: 11509
+  - type: TEXT
+    title_ru: Присмотр за вниманием
+    title_en: Attention Supervision
+    slug: attention-supervision
+    section_id: 11510
+    images:
+    - filename: 17.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/1700/17.png
+      orig_hash: d8083ffa91cd7698b15c31d0ea0ffdb8dfafc83ce3a5250194c49005f42cf46c
+  - type: TEXT
+    title_ru: Интересы к осознанности
+    title_en: Interests in Mindfulness
+    slug: interests-in-mindfulness
+    section_id: 11511
+    images:
+    - filename: 18.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/1750/18.png
+      orig_hash: b8e11c95917e4e3c2b5df46ca8d5ffa108de00be312881d012f29873df6cf258
+  - type: TEXT
+    title_ru: Собранность — это не mindfulness и не спорт/цирк
+    title_en: Composure is Not Mindfulness or Sports/Circus
+    slug: composure-is-not-mindfulness-or-sports-circus
+    section_id: 11512
+  - type: TEXT
+    title_ru: Теория сознания
+    title_en: Theory of Consciousness
+    slug: theory-of-consciousness
+    section_id: 11513
+    images:
+    - filename: 19.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/1850/19.png
+      orig_hash: da313e4947d48f64727f8e3ce48ed91bf194f7685723430b5ac8907340c98b58
+  - type: TEXT
+    title_ru: Собранность ума на разных масштабах времени
+    title_en: Mental Focus Across Different Time Scales
+    slug: mental-focus-across-different-time-scales
+    section_id: 11514
+  - type: TEXT
+    title_ru: Собранность тела
+    title_en: Body Coordination
+    slug: body-coordination
+    section_id: 11515
+  - type: TEXT
+    title_ru: Обучение собранности требует времени
+    title_en: Training Composure Requires Time
+    slug: training-composure-requires-time
+    section_id: 11516
+  - type: TEXT
+    title_ru: 'Инженерия собранности: стать киборгом'
+    title_en: 'Engineering Composure: Becoming a Cyborg'
+    slug: engineering-composure-becoming-a-cyborg
+    section_id: 11517
+    images:
+    - filename: 20.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/2050/20.png
+      orig_hash: 22258daaad47b957c1f1e07c744b4df22d748764064b44f5223c4a3608124663
+    - filename: 21.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/2050/21.png
+      orig_hash: 9177046504109e609cadcb9d4f8889e8a3715335dda427c4cdc0ec15bcbd0b01
+    - filename: 22.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/2050/22.png
+      orig_hash: 2ee41c6fa105295696524a83ebcd243569760617f86e5bbd77b6b12c96a4ff49
+    - filename: 23.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/2050/23.png
+      orig_hash: 3e654cb2528c081d624f2255ab3a91d9ff943f174ec55c9b3a7f25c472aede23
+  - type: TEXT
+    title_ru: Организационная собранность
+    title_en: Organizational Composure
+    slug: organizational-composure
+    section_id: 11518
+  - type: TEST
+    title_ru: 'Упражнение: собранность ума и тела'
+    title_en: 'Exercise: Mind and Body Focus'
+    slug: exercise-mind-and-body-focus
+    section_id: 11519
+- type: HEADER
+  title_ru: Семантика
+  title_en: Semantics
+  slug: semantics
+  section_id: 11520
+  children:
+  - type: TEXT
+    title_ru: Чем занимается семантика
+    title_en: What Semantics Is About
+    slug: what-semantics-is-about
+    section_id: 11521
+    images:
+    - filename: 24.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/2250/24.jpeg
+      orig_hash: da80e761528441e610a535e57271757f14e49472ee94168ea93179db81376331
+    - filename: 25.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/2250/25.jpeg
+      orig_hash: 06f36e88cc9a0a73f3cbd0aba7932034ae1b21bc1701f9a4e71c478f889354aa
+    - filename: 26.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/2250/26.jpeg
+      orig_hash: 0aea73690e053cb44e8e8af386c1687c77ebc9fddfb490c75a98707d62f6a597
+  - type: TEXT
+    title_ru: От нестрогих рассуждений к строгим и обратно
+    title_en: From Loose Reasoning to Rigorous and Back
+    slug: from-loose-reasoning-to-rigorous-and-back
+    section_id: 11522
+    images:
+    - filename: 27.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/2300/27.jpeg
+      orig_hash: 53c37c8a5bd04ad06e10aa1c77036564903d799cdf0b3ffaa1bae7a2f37a6aad
+  - type: TEXT
+    title_ru: Пространство смыслов и его формализация
+    title_en: Space of Meanings and Its Formalization
+    slug: space-of-meanings-and-its-formalization
+    section_id: 11523
+  - type: TEXT
+    title_ru: Метанойя и семантика
+    title_en: Metanoia and Semantics
+    slug: metanoia-and-semantics
+    section_id: 11524
+  - type: TEXT
+    title_ru: Психопрактики движения по спектру формальности
+    title_en: Psychopractices for Navigating the Formality Spectrum
+    slug: psychopractices-for-navigating-the-formality-spectrum
+    section_id: 11525
+  - type: TEXT
+    title_ru: 'Единственный способ договориться: использовать заземление/grounding'
+    title_en: 'The Only Way to Agree: Use Grounding'
+    slug: the-only-way-to-agree-use-grounding
+    section_id: 11526
+    images:
+    - filename: 28.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/2500/28.png
+      orig_hash: 4780f24db75cc9c1eb2824a5289693e98452140ef60217720501d399fa2ebeb8
+  - type: TEXT
+    title_ru: 'Формализация: важнейшее умение мыслящего человека'
+    title_en: 'Formalization: A Key Skill for the Thinking Individual'
+    slug: formalization-a-key-skill-for-the-thinking-individual
+    section_id: 11527
+  - type: TEST
+    title_ru: 'Моделирование: формализмы в вашей жизни'
+    title_en: 'Modeling: Formalisms in Your Life'
+    slug: modeling-formalisms-in-your-life
+    section_id: 11528
+- type: HEADER
+  title_ru: Математика
+  title_en: Mathematics
+  slug: mathematics
+  section_id: 11529
+  children:
+  - type: TEXT
+    title_ru: Мета-моделирование aka онтологическая инженерия и место математики и
+      физики
+    title_en: Meta-Modeling aka Ontological Engineering and the Role of Mathematics
+      and Physics
+    slug: meta-modeling-aka-ontological-engineering-and-the-role-of-mathematics-and-physics
+    section_id: 11530
+  - type: TEXT
+    title_ru: Онтики, мегамодели, онтологии/графы знаний
+    title_en: Ontics, Megamodels, Ontologies/Knowledge Graphs
+    slug: ontics-megamodels-ontologies-knowledge-graphs
+    section_id: 11531
+  - type: TEXT
+    title_ru: Формализация как присвоение типов на стеке уровней абстракции
+    title_en: Formalization as Type Assignment on the Stack of Abstraction Levels
+    slug: formalization-as-type-assignment-on-the-stack-of-abstraction-levels
+    section_id: 11532
+  - type: TEXT
+    title_ru: 'Как строят естественные науки: присваивают их понятиям типы математических
+      объектов/понятий'
+    title_en: 'How Natural Sciences Are Built: Assigning Mathematical Object/Concept
+      Types'
+    slug: how-natural-sciences-are-built-assigning-mathematical-object-concept-types
+    section_id: 11533
+    images:
+    - filename: 29.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/2850/29.jpeg
+      orig_hash: a295e17483eda72124c4351cd3c32d496d928a91184ceb1902c0eb8e1bf02d38
+  - type: TEXT
+    title_ru: 'Компактификация/универсализация формальных описаний: нахождение аналогий
+      в формулах'
+    title_en: 'Compactification/Universalization of Formal Descriptions: Finding Analogies
+      in Formulas'
+    slug: compactification-universalization-of-formal-descriptions-finding-analogies-in-formulas
+    section_id: 11534
+    images:
+    - filename: 30.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/2900/30.png
+      orig_hash: 447477e57be9f27e54ff365ecfbe712af45dd58d69893c0b13558b8267da6d67
+  - type: TEXT
+    title_ru: 'Пример: физмат-моделирование сознания и эволюции'
+    title_en: 'Example: Physico-Mathematical Modeling of Consciousness and Evolution'
+    slug: example-physico-mathematical-modeling-of-consciousness-and-evolution
+    section_id: 11535
+  - type: TEXT
+    title_ru: Склейка математики, онтологии, физики и computer science
+    title_en: Merging Mathematics, Ontology, Physics, and Computer Science
+    slug: merging-mathematics-ontology-physics-and-computer-science
+    section_id: 11536
+  - type: TEXT
+    title_ru: 'Онтология и гомотопическая теория типов: унифицировать всё против найти
+      «убойное приложение»'
+    title_en: 'Ontology and Homotopy Type Theory: Unify Everything vs. Finding the Killer Application'
+    slug: ontology-and-homotopy-type-theory-unify-everything-vs-finding-the-killer-application
+    section_id: 11537
+  - type: TEXT
+    title_ru: Математическому мышлению учат исподволь, а не явно
+    title_en: Mathematical Thinking is Taught Indirectly, Not Explicitly
+    slug: mathematical-thinking-is-taught-indirectly-not-explicitly
+    section_id: 11538
+  - type: TEXT
+    title_ru: Чему учить в математике (написано в соавторстве с GPT-4)
+    title_en: What to Teach in Mathematics (Co-authored with GPT-4)
+    slug: what-to-teach-in-mathematics-co-authored-with-gpt-4
+    section_id: 11539
+    images:
+    - filename: 31.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/3150/31.jpeg
+      orig_hash: 3a2d0c65466dc87215852221aaa1da5263df544b570e3fa93d57be44f76efead
+- type: HEADER
+  title_ru: Физика
+  title_en: Physics
+  slug: physics
+  section_id: 11540
+  children:
+  - type: TEXT
+    title_ru: Многоуровневое наведение внимания
+    title_en: Multilevel Focus Guidance
+    slug: multilevel-focus-guidance
+    section_id: 11541
+  - type: TEXT
+    title_ru: Учим физическому мышлению на среднем уровне формальности, а не «разделам
+      физики»
+    title_en: Teaching Physical Thinking at a Moderate Level of Formality, Not "Physics
+      Sections"
+    slug: teaching-physical-thinking-at-a-moderate-level-of-formality-not-physics-sections
+    section_id: 11542
+  - type: TEXT
+    title_ru: Теория информации как часть физики
+    title_en: Information Theory as Part of Physics
+    slug: information-theory-as-part-of-physics
+    section_id: 11543
+  - type: TEXT
+    title_ru: Универсальные вычислители/компьютеры как часть физики
+    title_en: Universal Computers as Part of Physics
+    slug: universal-computers-as-part-of-physics
+    section_id: 11544
+    images:
+    - filename: 32.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/3400/32.png
+      orig_hash: 13be03cb5e17243c95fe7684024d306d1b10153e7f13488a2c4d6e6c07ab819a
+- type: HEADER
+  title_ru: Теория понятий
+  title_en: Concept Theory
+  slug: concept-theory
+  section_id: 11545
+  children:
+  - type: TEXT
+    title_ru: Теория теории и машинка типов
+    title_en: Theory of Theory and Type Classifier
+    slug: theory-of-theory-and-type-classifier
+    section_id: 11546
+  - type: TEXT
+    title_ru: Основные отношения между понятиями
+    title_en: Key Relationships Between Concepts
+    slug: key-relationships-between-concepts
+    section_id: 11547
+- type: HEADER
+  title_ru: Онтология
+  title_en: Ontology
+  slug: ontology
+  section_id: 11548
+  children:
+  - type: TEXT
+    title_ru: Абстрактность мышления
+    title_en: Abstract Thinking
+    slug: abstract-thinking
+    section_id: 11549
+  - type: TEXT
+    title_ru: Онтология/модель данных как структура пространства смыслов
+    title_en: Ontology/Data Model as a Structure of the Space of Meanings
+    slug: ontology-data-model-as-a-structure-of-the-space-of-meanings
+    section_id: 11550
+  - type: TEXT
+    title_ru: Уровни мета-моделирования/онтологические уровни
+    title_en: Meta-Modeling Levels/Ontological Levels
+    slug: meta-modeling-levels-ontological-levels
+    section_id: 11551
+  - type: TEXT
+    title_ru: Онтология нужна для разделения труда в мышлении
+    title_en: Ontology is Needed for Division of Labor in Thinking
+    slug: ontology-is-needed-for-division-of-labor-in-thinking
+    section_id: 11552
+  - type: TEXT
+    title_ru: Примеры управления вниманием с явным использованием онтологий
+    title_en: Examples of Attention Management with Explicit Use of Ontologies
+    slug: examples-of-attention-management-with-explicit-use-of-ontologies
+    section_id: 11553
+  - type: TEXT
+    title_ru: 'Онтология и отношение композиции: системность'
+    title_en: 'Ontology and Composition Relation: Systems Approach'
+    slug: ontology-and-composition-relation-systems-approach
+    section_id: 11554
+- type: HEADER
+  title_ru: Алгоритмика
+  title_en: Algorithmics
+  slug: algorithmics
+  section_id: 11555
+  children:
+  - type: TEXT
+    title_ru: Вычислительное/алгоритмическое мышление
+    title_en: Computational/Algorithmic Thinking
+    slug: computational-algorithmic-thinking
+    section_id: 11556
+  - type: TEXT
+    title_ru: Информатика-в-большом против информатики-в-малом
+    title_en: Informatics-at-Large vs. Informatics-at-Small
+    slug: informatics-at-large-vs-informatics-at-small
+    section_id: 11557
+  - type: TEXT
+    title_ru: Готовых курсов информатики пока нет
+    title_en: No Ready Computer Science Courses Yet
+    slug: no-ready-computer-science-courses-yet
+    section_id: 11558
+  - type: TEXT
+    title_ru: Информатика, её поддисциплины и её инженерная практика
+    title_en: Informatics, Its Subdisciplines, and Engineering Practice
+    slug: informatics-its-subdisciplines-and-engineering-practice
+    section_id: 11559
+  - type: TEXT
+    title_ru: 'Новая алгоритмика: изучение универсальных алгоритмов'
+    title_en: 'New Algorithmics: Studying Universal Algorithms'
+    slug: new-algorithmics-studying-universal-algorithms
+    section_id: 11560
+  - type: TEXT
+    title_ru: Уместна ли алгоритмика в интеллект-стеке?
+    title_en: Is Algorithmics Relevant in the Intelligence Stack?
+    slug: is-algorithmics-relevant-in-the-intelligence-stack
+    section_id: 11561
+  - type: TEXT
+    title_ru: Алгоритмика не только про способы вычислений на компьютерах, она и про
+      способы мышления людей!
+    title_en: Algorithmics Is Not Just About Computer Calculations, It's Also About
+      Human Thinking!
+    slug: algorithmics-is-not-just-about-computer-calculations-it-s-also-about-human-thinking
+    section_id: 11562
+  - type: TEXT
+    title_ru: Аппаратура сознания, различия исполнителей и выполнителей
+    title_en: Consciousness Apparatus, Differences Between Executors and Performers
+    slug: consciousness-apparatus-differences-between-executors-and-performers
+    section_id: 11563
+  - type: TEST
+    title_ru: 'Упражнение: современная алгоритмика'
+    title_en: 'Exercise: Modern Algorithmics'
+    slug: exercise-modern-algorithmics
+    section_id: 11564
+- type: HEADER
+  title_ru: Логика
+  title_en: Logic
+  slug: logic
+  section_id: 11565
+  children:
+  - type: TEXT
+    title_ru: Что происходит с логикой сегодня
+    title_en: What's Happening with Logic Today
+    slug: what-s-happening-with-logic-today
+    section_id: 11566
+  - type: TEXT
+    title_ru: Предвзятости
+    title_en: Biases
+    slug: biases
+    section_id: 11567
+    images:
+    - filename: 33.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/4550/33.png
+      orig_hash: ed531e2f3ac0f5789b7fc8bab85deeae8e7657872633bb009e95099810456298
+  - type: TEXT
+    title_ru: Аргументация
+    title_en: Argumentation
+    slug: argumentation
+    section_id: 11568
+    images:
+    - filename: 34.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/4600/34.png
+      orig_hash: 2e5c09c7e35fb6eab9b66688ae11f302e7f1d7aa7a58025fc9ce98976f822708
+    - filename: 35.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/4600/35.png
+      orig_hash: 46f671b82905929c10872c87695b91dc0a3f262aa7b175b4fff7d76752636263
+  - type: TEXT
+    title_ru: Логические рассуждения вероятностны
+    title_en: Logical Reasoning is Probabilistic
+    slug: logical-reasoning-is-probabilistic
+    section_id: 11569
+- type: HEADER
+  title_ru: Рациональность
+  title_en: Rationality
+  slug: rationality
+  section_id: 11570
+  children:
+  - type: TEXT
+    title_ru: Рациональность = объяснения + принятие решений + действия
+    title_en: Rationality = Explanations + Decision-Making + Actions
+    slug: rationality-explanations-decision-making-actions
+    section_id: 11571
+  - type: TEXT
+    title_ru: Объяснения
+    title_en: Explanations
+    slug: explanations
+    section_id: 11572
+    images:
+    - filename: 36.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/4800/36.png
+      orig_hash: 0b6453315f9b2ff37c5609e8390a29159b1490490c45cdb2bf17976dd2efe269
+  - type: TEXT
+    title_ru: Нам нужны теории-объяснения про причины и следствия
+    title_en: We Need Theories Explaining Causes and Effects
+    slug: we-need-theories-explaining-causes-and-effects
+    section_id: 11573
+    images:
+    - filename: 37.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/4850/37.png
+      orig_hash: 6b2db52296dc4a773a611652d235003b5f83ee109d10b453a93dcd4a4161471b
+  - type: TEXT
+    title_ru: Теории принятия решений
+    title_en: Decision-Making Theories
+    slug: decision-making-theories
+    section_id: 11574
+  - type: TEXT
+    title_ru: Действия
+    title_en: Actions
+    slug: actions
+    section_id: 11575
+- type: HEADER
+  title_ru: Познание/исследования
+  title_en: Knowledge Acquisition/Research
+  slug: knowledge-acquisition-research
+  section_id: 11576
+  children:
+  - type: TEXT
+    title_ru: Критический рационализм Поппера
+    title_en: Popper's Critical Rationalism
+    slug: popper-s-critical-rationalism
+    section_id: 11577
+  - type: TEXT
+    title_ru: Критическое мышление и его несовременность
+    title_en: Critical Thinking and Its Obsolescence
+    slug: critical-thinking-and-its-obsolescence
+    section_id: 11578
+    images:
+    - filename: 38.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/5100/38.png
+      orig_hash: 547c74a216248ab644391d01add5376208e1c76e737751e4fd20fffd771834a0
+  - type: TEXT
+    title_ru: Творчество
+    title_en: Creativity
+    slug: creativity
+    section_id: 11579
+  - type: TEXT
+    title_ru: Творчество как преодоление противоречий
+    title_en: Creativity as Overcoming Contradictions
+    slug: creativity-as-overcoming-contradictions
+    section_id: 11580
+- type: HEADER
+  title_ru: Эстетика
+  title_en: Aesthetics
+  slug: aesthetics
+  section_id: 11581
+  children:
+  - type: TEXT
+    title_ru: Теории красоты и любопытства
+    title_en: Theories of Beauty and Curiosity
+    slug: theories-of-beauty-and-curiosity
+    section_id: 11582
+    images:
+    - filename: 39.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/5300/39.jpeg
+      orig_hash: 7e7b6da852b4437e12cf48006c657461eefc4a10180660afd4f4f80c4900a5df
+  - type: TEXT
+    title_ru: Искусство как инженерия
+    title_en: Art as Engineering
+    slug: art-as-engineering
+    section_id: 11583
+- type: HEADER
+  title_ru: Этика
+  title_en: Ethics
+  slug: ethics
+  section_id: 11584
+  children:
+  - type: TEXT
+    title_ru: Какими вопросами занимается этика
+    title_en: What Questions Does Ethics Address
+    slug: what-questions-does-ethics-address
+    section_id: 11585
+    images:
+    - filename: 40.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/5450/40.png
+      orig_hash: 4ec00cbd29fd6dfb8bd3b35284f778129f30c3e154b2c94d3f2893ab6b6701d3
+    - filename: 41.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/5450/41.png
+      orig_hash: 33ad471195449fc5c9f61f386bc69306fb2f1f14fe257765cbb0e7fe77f8870b
+  - type: TEXT
+    title_ru: Государственное строительство и госпроекты
+    title_en: State Construction and Government Projects
+    slug: state-construction-and-government-projects
+    section_id: 11586
+  - type: TEXT
+    title_ru: Этика и системное мышление
+    title_en: Ethics and Systems Thinking
+    slug: ethics-and-systems-thinking
+    section_id: 11587
+  - type: TEXT
+    title_ru: Примеры этических вопросов, возникающих при инженерии систем разных
+      эволюционных уровней
+    title_en: Examples of Ethical Questions in Engineering Systems at Different Evolutionary
+      Levels
+    slug: examples-of-ethical-questions-in-engineering-systems-at-different-evolutionary-levels
+    section_id: 11588
+  - type: TEST
+    title_ru: 'Упражнение: этика'
+    title_en: 'Exercise: Ethics'
+    slug: exercise-ethics
+    section_id: 11589
+- type: HEADER
+  title_ru: Риторика
+  title_en: Rhetoric
+  slug: rhetoric
+  section_id: 11590
+  children:
+  - type: TEXT
+    title_ru: Риторика как использование вменяемости/убеждаемости интеллекта агентов
+    title_en: Rhetoric as the Use of Agents' Reasonableness/Persuadability
+    slug: rhetoric-as-the-use-of-agents-reasonableness-persuadability
+    section_id: 11591
+  - type: TEXT
+    title_ru: Результатом коммуникации является её результат, а не исходное намерение
+    title_en: The Outcome of Communication Is Its Result, Not the Initial Intention
+    slug: the-outcome-of-communication-is-its-result-not-the-initial-intention
+    section_id: 11592
+    images:
+    - filename: 42.jpeg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/5800/42.jpeg
+      orig_hash: 8fc7652b511170a101dbebe32e614afa01bcf1056d1c73c6d3fbe1b5787f9c34
+  - type: TEST
+    title_ru: 'Упражнение: риторика'
+    title_en: 'Exercise: Rhetoric'
+    slug: exercise-rhetoric
+    section_id: 11593
+- type: HEADER
+  title_ru: Методология
+  title_en: Methodology
+  slug: methodology
+  section_id: 11594
+  children:
+  - type: TEXT
+    title_ru: Метод работы как предмет методологии
+    title_en: Method of Work as a Subject of Methodology
+    slug: method-of-work-as-a-subject-of-methodology
+    section_id: 11595
+  - type: TEXT
+    title_ru: Разделение труда
+    title_en: Division of Labor
+    slug: division-of-labor
+    section_id: 11596
+  - type: TEXT
+    title_ru: 'Методология: агенты, намерения, стратегии, планы, роли, предметы интереса,
+      предпочтения'
+    title_en: 'Methodology: Agents, Intentions, Strategies, Plans, Roles, Subjects
+      of Interest, Preferences'
+    slug: methodology-agents-intentions-strategies-plans-roles-subjects-of-interest-preferences
+    section_id: 11597
+  - type: TEXT
+    title_ru: 'Праксиология: разделение труда в обществе'
+    title_en: 'Praxeology: Division of Labor in Society'
+    slug: praxeology-division-of-labor-in-society
+    section_id: 11598
+- type: HEADER
+  title_ru: Системная инженерия
+  title_en: Systems Engineering
+  slug: systems-engineering
+  section_id: 11599
+  children:
+  - type: TEXT
+    title_ru: Изменение мира к лучшему
+    title_en: Changing the World for the Better
+    slug: changing-the-world-for-the-better
+    section_id: 11600
+    images:
+    - filename: 43.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/6200/43.png
+      orig_hash: 4312dccc0515e9b5ba0be4bff45a17f3205f1a74c598cd7745110bfb3255a4e0
+    - filename: 44.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/intelligence-stack/2023-07-27/6200/44.png
+      orig_hash: 4cdd5d1c74085d6b265947099ce1997ae6e47a4002613ad73a7b2177b3923ffc
+  - type: TEST
+    title_ru: 'Упражнение: чему посвящены трансдисциплины практик интеллект-стека'
+    title_en: 'Exercise: What Transdisciplines of the Intelligence Stack Are About'
+    slug: exercise-what-transdisciplines-of-the-intelligence-stack-are-about
+    section_id: 11601
