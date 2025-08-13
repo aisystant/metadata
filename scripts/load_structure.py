@@ -182,11 +182,11 @@ def build_hierarchy(sections, old_sections):
 # ------------------------- Main -------------------------
 
 def main():
-    if len(sys.argv) != 5:
-        logger.error("Usage: script.py <course_id> <course_name> <version> <version_id>")
+    if len(sys.argv) != 6:
+        logger.error("Usage: script.py <course_id> <original_course_id> <course_name> <version> <version_id>")
         sys.exit(1)
 
-    course_id, course_name, version, version_id = sys.argv[1:5]
+    course_id, original_course_id, course_name, version, version_id = sys.argv[1:6]
     course_data = send_get_request(f"{config['BASE_URL']}/courses/course-versions/{version_id}").json()
     if not course_data or "sections" not in course_data:
         logger.error("Invalid course data")
@@ -198,6 +198,7 @@ def main():
     structure = build_hierarchy(course_data["sections"], old_sections)
     doc = {
         "course_id": course_id,
+        "original_course_id": original_course_id,
         "course_name": course_name,
         "version": version,
         "version_id": version_id,

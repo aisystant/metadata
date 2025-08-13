@@ -60,7 +60,7 @@ def get_courses_list():
             # Apply course name mapping
             mapped_course_id = get_mapped_name(course_id)
                 
-            result.append(f"{mapped_course_id}:{course_name}:{version}:{versionId}:{authors}:{changelog}")
+            result.append(f"{mapped_course_id}:{course_id}:{course_name}:{version}:{versionId}:{authors}:{changelog}")
         logger.info("Successfully fetched the courses list")
         return result
     except Exception as e:
