@@ -113,9 +113,9 @@ sections:
     section_id: 68348
 - type: HEADER
   title_ru: Архироль создателя/инженера и разделение инженерного труда
-  title_en: The Architect Role of Creator/Engineer and the Division of Engineering
+  title_en: Arch-role of Creator/Engineer and the Division of Engineering
     Labor
-  slug: the-architect-role-of-creator-engineer-and-the-division-of-engineering-labor
+  slug: arch-role-of-creator-engineer-and-the-division-of-engineering-labor
   section_id: 68349
   children:
   - type: TEXT
@@ -784,8 +784,8 @@ sections:
   children:
   - type: TEXT
     title_ru: Испытания, проверка и приёмка, обоснования
-    title_en: Testing, Verification, and Acceptance, Justifications
-    slug: testing-verification-and-acceptance-justifications
+    title_en: Testing, Verification, and Validation, Justifications
+    slug: testing-verification-and-validation-justifications
     section_id: 68408
     images:
     - filename: 77.jpeg
