@@ -114,8 +114,7 @@ sections:
     section_id: 68348
 - type: HEADER
   title_ru: Архироль создателя/инженера и разделение инженерного труда
-  title_en: Arch-role of Creator/Engineer and the Division of Engineering
-    Labor
+  title_en: Arch-role of Creator/Engineer and the Division of Engineering Labor
   slug: arch-role-of-creator-engineer-and-the-division-of-engineering-labor
   section_id: 68349
   children:
