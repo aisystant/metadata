@@ -47,7 +47,7 @@ sections:
         identify what truly matters, and decide what to do. Systematicity ensures
         actions are carried out regularly and consistently. Both are essential but
         serve different purposes.
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/250/0.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/250/0.png
       orig_hash: 7cb7fb7752c056fac0c9f7c726a0eb99b092a8a1ced76340557deb4c46f28e4b
   - type: TEXT
     title_ru: Что такое системное мышление?
@@ -103,7 +103,7 @@ sections:
       title_en: Comparison of Systems Approach 1.0 and 2.0. The classic approach begins
         with internal components; the modern approach starts with environment, context,
         and roles — shaping what the system becomes.
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/650/1.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/650/2.png
       orig_hash: f12da35d13d0aa335dab3efa111234675ec78780f3cb3d08ebecf5080c061343
   - type: TEXT
     title_ru: Выводы раздела и основные понятия
@@ -178,7 +178,7 @@ sections:
         пространству.
       title_en: Distinguishes a real human being (physical world) from descriptions
         like name, height, and photo — which exist in the mental space.
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1300/2.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/1300/3.png
       orig_hash: d04e8234c98d5629a8c1927fc1c8edac7205fe15fb026714c973ab4390c67af7
   - type: TEXT
     title_ru: Описание и воплощение системы
@@ -195,7 +195,7 @@ sections:
         description (mental attributes like make, model, and year), and its documentation
         (a physical medium that stores the description). The image illustrates how
         a system is represented across different realms.
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1350/3.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/1350/4.png
       orig_hash: 009a1107d7cea5eb134105c288494f55d238abe50343a511d2b991e908a49d3c
   - type: TEXT
     title_ru: Документация системы
@@ -229,7 +229,7 @@ sections:
         И именно люди именуют этим словом какой-то физический или абстрактный объект.
       title_en: Word is simply sounds and symbols (letters) put together. It is people
         who assign this word to a particular physical or abstract object.
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1550/5.jpeg
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/1550/6.jpeg
       orig_hash: 403de0db21216e86971692cb7ecc9895fcfe1878af5aef87d0e76bf1c377fa96
   - type: TEXT
     title_ru: 'Системы и функции: названия важны'
@@ -249,7 +249,7 @@ sections:
       title_en: The image shows an example of distinguishing between the functional
         objects ("shorts" and "swim trunks") and the physical object (the specific
         swim-short hybrids) that were chosen for the trip.
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1650/6.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/1650/7.png
       orig_hash: d9d951f88ac8976108801e089f118efc4c9ecf3bf7f4677a9fc2f3896114d55e
   - type: TEXT
     title_ru: Отношение состава
@@ -268,7 +268,7 @@ sections:
         an airplane broken down into its parts, such as the cockpit, center fuselage,
         wings, elevators, rudders, landing gear, and engine nacelles, each labeled
         to highlight the part-whole relationship.
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/1700/7.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/1700/8.png
       orig_hash: 94f63d28f8829888c196cdf7e56c004c097c0645e5446addcea3ae613a3511fc
   - type: TEXT
     title_ru: Сложные системы
@@ -411,7 +411,7 @@ sections:
         is the culturally defined role of a nail driver, while various physical objects
         (like a stone or microscope) can perform that role to achieve the function
         of nail driving.'
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/2700/8.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/2750/13.png
       orig_hash: 5e700692799118e8cc26ab977f48dd63574e69425f0f14511b0614af680c1304
   - type: TEXT
     title_ru: 'Исполнители роли: агент и его намерение, стратегия и планы'
@@ -445,7 +445,7 @@ sections:
         function of driving, which can be performed by either a human or a robot.
         The caption clarifies that inanimate objects, like the robot taxi, lack interests
         but can still fulfill roles, while interests arise in human agents.
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/2800/9.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/2850/15.png
       orig_hash: 03a0c8ae67c9aa9e60e839630f34f72f16f610166e8f9c9f06ce8828098f1a9b
   - type: TEXT
     title_ru: Должность, успешная система и интеллект
@@ -573,7 +573,7 @@ sections:
         spacecraft, supporting communications—are united by one shared system of interest:
         putting a man on the moon. A system of interest aligns all roles and efforts
         around a common goal.'
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/3800/10.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/3800/19.png
       orig_hash: ac61ddcb89b47df4ec8b6f2ec97fe7f76035d8c57e96d41808b6eb9fc9c12725
   - type: TEXT
     title_ru: Наша система
@@ -623,7 +623,7 @@ sections:
         (a crane dismantling cars), and a Car Dealer (selling a car). The example
         highlights how these systems apply to an automobile, involving designers,
         assembly lines, dealerships, and dismantlers.'
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/4000/11.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/4000/22.png
       orig_hash: 8cb6f959bbd70255a9aab09fa5b08ca4abdc6a7cebb7dff9860a39b884b12d54
   - type: TEXT
     title_ru: Процесс, система и поведение системы
@@ -658,7 +658,7 @@ sections:
         tools, and salon environment. The system of interest is the resulting hairstyle,
         while surrounding systems like clothing and accessories help contextualize
         the function of the haircut in the broader supersystem.
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/4150/12.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/4150/24.png
       orig_hash: 557906c82cb552d070e3d816a53716e2340336fd490b46183f3a210e4c29cd15
   - type: TEXT
     title_ru: Суть системного мышления
@@ -752,7 +752,7 @@ sections:
         and subsystem. Demonstrates how system levels (organisms, organs, cells, molecules)
         are defined by attention, not by physical boundaries. Emphasizes that system
         levels differ from areas of interest.
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/4900/14.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/4900/26.png
       orig_hash: 78e6a69e0a9dd2774ae6a92d23a9fa9ec60c0cb2baff412d7a4a179ff30cbd2c
   - type: TEXT
     title_ru: Мета-системный переход и эмерджентность
@@ -878,7 +878,7 @@ sections:
         methods, work, and descriptions are connected. All elements converge toward
         system implementation—the realized system that systems thinking aims to help
         us create.
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/5850/15.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/5850/30.png
       orig_hash: cf7e5556c60fd1807ab7a4a6534c620c238daf6ae2c94b528c6d26adbc706ae5
   - type: TEXT
     title_ru: Ролевые описания и модели
@@ -899,7 +899,7 @@ sections:
         these metamodels generates models, which form part of the role description
         and system documentation. This aligns with ISO 42010 principles and illustrates
         how documentation connects to system implementation.
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/5900/16.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/5900/31.png
       orig_hash: 7670f8e0fe2cae45fd2db3bbeff1f7cf08eae91d6cbfe6e38eefac170c79fd47
   - type: TEXT
     title_ru: Метод описания
@@ -919,7 +919,7 @@ sections:
         is created using a suitable description method or modeling practice, such
         as Gantt charts, IFRS standards, or ISO 42010. Choosing the correct method
         is essential for creating relevant and usable system documentation.
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/5950/17.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/5950/32.png
       orig_hash: e630d19bbf4e1a93d714af691817901b946508ebbd3b745b906b9e76292d8e51
   - type: TEXT
     title_ru: Связь метода описания с предметом интереса, проектными ролями и системой
@@ -938,7 +938,7 @@ sections:
         a description method, which is used to create documentation. This documentation
         contains a system description that corresponds to the subject of interest
         and ultimately characterizes the system.
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/6000/18.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/6000/33.png
       orig_hash: bda25de728d90a4160c45cc30abf7be3763c43898edb7e0b490efe80af2002a0
   - type: TEXT
     title_ru: Модели, мета-модели, мульти-модели, мега-модели
@@ -957,7 +957,7 @@ sections:
         (a set of maps emphasizing different aspects), and a mega-model (a structured
         collection of models with their corresponding meta-models). This framework
         helps organize how systems of interest are described and understood.
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/6050/19.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/6050/34.png
       orig_hash: ecc13423724d3e668f738bbb563814e807bc75b5c08ccf83274d9a1de0ed9334
   - type: TEXT
     title_ru: Мета-моделирование и моделирование
@@ -1009,7 +1009,7 @@ sections:
         components like gears and winding stem; the spatial view highlights the placement
         of these modules. Functional decomposition defines system levels in systems
         thinking.'
-      orig_path: /text/systems-thinking-introduction/2025-03-16T0959/6350/21.png
+      orig_path: /text/systems-thinking-intro-2022/2025-06-09T1050/6350/36.png
       orig_hash: bdafeeebde7241be0a3a3bca480d728fbd9341d7fa66c534570bc12f25512011
   - type: TEXT
     title_ru: Описания и документация разных областей интересов
