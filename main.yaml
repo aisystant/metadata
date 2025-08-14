@@ -1,0 +1,19 @@
+- title_ru: Рабочее развитие
+  title_en: Professional development 
+  slug: professional
+  items:
+    - rational-work
+    - systems-thinking
+    - methodology
+    - systems-engineering
+    - personality-engineering
+    - systems-management
+    - intellect-stack
+- title_ru: Личное развитие
+  title_en: Personal development
+  slug: personal
+  items:
+    - systems-self-development
+    - self-development-methods
+    - systems-thinking-introduction
+    - systems-based-fitness
