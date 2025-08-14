@@ -114,6 +114,7 @@ def build_image_structure(image_path, images):
     image_hash = get_image_hash(image_url)
     existing = find_image_by_hash(image_hash, images)
     if existing:
+        existing["orig_path"] = image_path
         return existing
     return {
         "filename": filename,
