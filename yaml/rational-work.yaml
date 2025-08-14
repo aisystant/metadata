@@ -79,7 +79,7 @@ sections:
     - filename: 0.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/600/0.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/650/0.png
       orig_hash: 6a6b2ccfa933ca549ab896c61415dbb61cd0dc5a86b4a69c85e9a3b5e00162d5
   - type: TEXT
     title_ru: Осознавать разрыв между разными описаниями и реальностью
@@ -90,12 +90,12 @@ sections:
     - filename: 1.jpg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/650/1.jpg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/700/1.jpg
       orig_hash: 28ce756ae45bc70f6285b68a4735fc938fad96818bc939a666633a417d89470a
     - filename: 2.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/650/2.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/700/2.png
       orig_hash: 57e32d46851602faa5b3aab24a92c57d95e07a0420d120ab92fe8eecce800404
   - type: TEST
     title_ru: Упражнение 1.1.
@@ -111,7 +111,7 @@ sections:
     - filename: 3.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/750/3.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/800/3.png
       orig_hash: a8c30a0f2807606040c769760803e862bc7bdab232bcdd60ad2542121968ec05
   - type: TEST
     title_ru: Упражнение 1.2
@@ -273,7 +273,7 @@ sections:
     - filename: 4.jpg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/2300/4.jpg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/2350/4.jpg
       orig_hash: 9f078bb55237d2382615b5720ce6d6751691908289f44d46e87e2070d3f31d64
   - type: TEXT
     title_ru: Надкласс — подкласс
@@ -284,7 +284,7 @@ sections:
     - filename: 5.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/2350/5.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/2400/5.png
       orig_hash: ed9eef095ddb2a545bd6b2fcc269812f44a0bf20f052fdc98009fb73dbe8d0b0
   - type: TEXT
     title_ru: Онтологии
@@ -397,7 +397,7 @@ sections:
     - filename: 6.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/3350/6.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/3450/6.png
       orig_hash: a960e067327891a0d278635365e2d5726491cd2077f9c345160a61d6658aa237
   - type: TEXT
     title_ru: Как мы интерпретируем знаки
@@ -473,7 +473,7 @@ sections:
     - filename: 7.jpeg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/4050/7.jpeg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/4150/7.jpeg
       orig_hash: d2b72c509cae9da6569efeffcac6fd7c662ff4cedda429aa4a44fb0e436f3a15
   - type: TEST
     title_ru: Задание 4.9
@@ -535,7 +535,7 @@ sections:
     - filename: 8.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/4600/8.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/4700/8.png
       orig_hash: c8c44a730faa7448073a0e6603592af59da1e47c66020eda729de50076fbc09f
   - type: TEXT
     title_ru: Функции экзокортекса
@@ -582,7 +582,7 @@ sections:
     - filename: 9.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/5000/9.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/5100/9.png
       orig_hash: b98c98284e2b69d56e127a415b01a7e2100fa6527a59194f3589d5e36db74796
   - type: TEXT
     title_ru: Классификаторы, таксономии
@@ -593,17 +593,17 @@ sections:
     - filename: 10.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/5050/10.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/5150/10.png
       orig_hash: 41f44c9e9f44400c0be440cc51efc1d740efaea5d1959c7ef68138c6a4573f8c
     - filename: 11.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/5050/11.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/5150/11.png
       orig_hash: fd3ad7d0aec2d31a4befb046f2449a53cea57f584eead99ac90c279f763ac447
     - filename: 12.jpg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/5050/12.jpg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/5150/12.jpg
       orig_hash: 0818cda6a7ed5c1b413c836bbda14509be52093a35d4dce1265ff6ae91bea1ba
   - type: TEST
     title_ru: Упражнение 6.1.
@@ -619,37 +619,37 @@ sections:
     - filename: 13.jpg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/5150/13.jpg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/5250/13.jpg
       orig_hash: 95991a464495e7b380bde4dce2e9ad94af52727c1ed3b9f6f18e8a57be105277
     - filename: 14.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/5150/14.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/5250/14.png
       orig_hash: 3287d64755370f737428085179d1d926c68324c7ac0577690160d5eb602d1331
     - filename: 15.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/5150/15.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/5250/15.png
       orig_hash: a65e2bfba8f358cf340b32c00a34dd93a29829ce34ba001856cea6b2cd93cf59
     - filename: 16.jpg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/5150/16.jpg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/5250/16.jpg
       orig_hash: 5771e3459471aa479ada5a0daefbd6d04ee37d80bee17a8bc4542e738f592374
     - filename: 17.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/5150/17.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/5250/17.png
       orig_hash: 0f11d467481f7dc0b778fc4a4e8bd0b304c1c2783d93f1877ebe2e70997aa02d
     - filename: 18.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/5150/18.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/5250/18.png
       orig_hash: c81ca68fef95cd3fd2540eb83cc9c41111c180111f72db0913ecb3a3e9f35fbf
     - filename: 19.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/5150/19.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/5250/19.png
       orig_hash: 35ae2e1a1584424581e916d63e48aaf206839472777af6ea8feced272f4dca58
   - type: TEST
     title_ru: Упражнение 6.2
@@ -670,7 +670,7 @@ sections:
     - filename: 20.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/5300/20.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/5400/20.png
       orig_hash: e5d2546ed2e7f2af9c047bd413cab1f205ef0b9409dc32dd85fef14222b27248
   - type: TEXT
     title_ru: Выделение 4D индивидов
@@ -681,7 +681,7 @@ sections:
     - filename: 21.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/5350/21.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/5450/21.png
       orig_hash: 7bffd213a86d890b3e9f47cbe6382bb00ad7bbed3d7e521b422b05b16e1c8f38
   - type: TEXT
     title_ru: Композиция 4D объектов
@@ -697,7 +697,7 @@ sections:
     - filename: 22.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/5450/22.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/5550/22.png
       orig_hash: ef58934378e4f52e322577c7477522f9cbd7e45e5a634b896324d2e26b08963f
   - type: TEXT
     title_ru: Кортежи
@@ -733,7 +733,7 @@ sections:
     - filename: 23.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/5750/23.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/5850/23.png
       orig_hash: f4454b53ff08970bec905899937a823653b45d93b14dd5c24f42d5596d8e2eda
   - type: TEST
     title_ru: Упражнение 6.4
@@ -775,17 +775,17 @@ sections:
     - filename: 24.jpeg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/6100/24.jpeg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/6200/24.jpeg
       orig_hash: 01287ce5c3897903aeed2846263f468c7b9534d01eb6333d85be33b3e3adb252
     - filename: 25.jpg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/6100/25.jpg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/6200/25.jpg
       orig_hash: 399af12ebc156598ed39bd6e957440b9c917d2acb43baf9e5653cca4bbb344e7
     - filename: 26.jpg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/6100/26.jpg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/6200/26.jpg
       orig_hash: bce6459b28fde916befb76d01ea598e7ff63c0994527f0bb1c6cbdb32aa4ea53
   - type: TEST
     title_ru: Задание 7.1
@@ -846,17 +846,17 @@ sections:
     - filename: 27.jpg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/6650/27.jpg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/6750/27.jpg
       orig_hash: 8959850f7398d1d77cafbabed5affaff9c8de88a9bbf65a26c70f62e4fb7bffc
     - filename: 28.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/6650/28.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/6750/28.png
       orig_hash: a960e067327891a0d278635365e2d5726491cd2077f9c345160a61d6658aa237
     - filename: 29.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/6650/29.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/6750/29.png
       orig_hash: c195cbdee447a173f4e5674d80e8691fa77d9adc51a0c605240556e6e1dee106
   - type: TEXT
     title_ru: Поиск дребезга
@@ -918,7 +918,7 @@ sections:
     - filename: 30.jpg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/7200/30.jpg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/7300/30.jpg
       orig_hash: 1f90fb1f3dd1dbc378df66c4105e791c31c9aa563ca3e099ae441e73d9a1645e
   - type: TEXT
     title_ru: Мета-языки и уровни моделирования
@@ -929,7 +929,7 @@ sections:
     - filename: 31.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/7250/31.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/7350/31.png
       orig_hash: 63f4afc6d8ed1509ae06900a19b9d1ded5974217ea6b65a48d1b3bc409e0c939
   - type: TEST
     title_ru: Упражнение 8.2.
@@ -965,7 +965,7 @@ sections:
     - filename: 32.jpg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/7550/32.jpg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/7650/32.jpg
       orig_hash: 474065f2143ce9f636dc5153bab3641b0ffc8c7c5e39939c492002e8907f434e
   - type: TEXT
     title_ru: Прагматический смысл описания
@@ -1012,12 +1012,12 @@ sections:
     - filename: 33.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/7950/33.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/8050/33.png
       orig_hash: ef58934378e4f52e322577c7477522f9cbd7e45e5a634b896324d2e26b08963f
     - filename: 34.jpg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/7950/34.jpg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/8050/34.jpg
       orig_hash: 442fedad868826e6598e60508f80b0893eabc90c5194fdda0ff206174d5aa185
   - type: TEST
     title_ru: Упражнение 9.1
@@ -1033,7 +1033,7 @@ sections:
     - filename: 35.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/8050/35.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/8150/35.png
       orig_hash: 0af2cd303b44e8f97444ef1b2cd14d8890be90de893d0260a4a68b4d37980289
   - type: TEST
     title_ru: Задание 9.2
@@ -1049,7 +1049,7 @@ sections:
     - filename: 36.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/8150/36.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/8250/36.png
       orig_hash: ec7a041a2ff78cd6c76009dfd56aeac9bf458a06b909b7ca97278a9be51bf136
   - type: TEXT
     title_ru: Шкалы
@@ -1060,7 +1060,7 @@ sections:
     - filename: 37.jpeg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/8200/37.jpeg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/8300/37.jpeg
       orig_hash: 01287ce5c3897903aeed2846263f468c7b9534d01eb6333d85be33b3e3adb252
   - type: TEXT
     title_ru: Вещь и граф создателей вещи
@@ -1071,12 +1071,12 @@ sections:
     - filename: 38.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/8250/38.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/8350/38.png
       orig_hash: fc111621501c4c8b5f3b0d9e313054920fb2e5b91a06eb2d885a0ec73c6c7973
     - filename: 39.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/8250/39.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/8350/39.png
       orig_hash: 6ab3bda3c881f3cccdf29addba396b872fab7d1fb90c702015ce084e1f1639c2
   - type: TEST
     title_ru: Задание 9.3
@@ -1092,12 +1092,12 @@ sections:
     - filename: 40.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-06-19T2004/8450/40.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/8450/40.png
       orig_hash: 1934ddbf3189bea152db31a5bfd065992f287aa7ddd8c24712d67541b8aaa9d0
     - filename: 41.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/8350/41.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/8450/41.png
       orig_hash: f244a10ae2c1f9b237bb0e0c0da076d84ed692f3e9a730bde2668482c4e30aff
   - type: TEST
     title_ru: Задание 9.4
@@ -1118,12 +1118,12 @@ sections:
     - filename: 42.jpg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/8500/42.jpg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/8600/42.jpg
       orig_hash: 6ce090e697c2d3cac22bb7754bc2d62e0c15e3c34a199b010fecca1b07299a78
     - filename: 43.jpg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/8500/43.jpg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/8600/43.jpg
       orig_hash: dcc785e4a21689ce5fcd9f3317fc43f65f08de5d196889801b9868a9a0151ec1
   - type: TEXT
     title_ru: Перестройка расписания
@@ -1281,7 +1281,7 @@ sections:
     - filename: 44.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/10000/44.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/10100/44.png
       orig_hash: 25cf3e5c5be1c1e3b73743a21665e3f77b9f61b5d5a9042ac509769732d62b3e
   - type: TEST
     title_ru: Упражнение 11.3.
@@ -1358,17 +1358,17 @@ sections:
     - filename: 45.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/10700/45.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/10800/45.png
       orig_hash: 1b207b552d123ce8626d066bf8755c8940b61ecdfbd1352e5f2054a6d21e65ab
     - filename: 46.jpeg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/10700/46.jpeg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/10800/46.jpeg
       orig_hash: a17ed1451def39886d932ce7eb330bef03c5b3d9e39774d4a0b74415b2946ba6
     - filename: 47.jpeg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/10700/47.jpeg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/10800/47.jpeg
       orig_hash: 43221cf6fdfcf70c9bdab979ee0ec2978ff742fb0eba35e61091fceb8d82e5b3
   - type: TEXT
     title_ru: Как работать с графами причинности
@@ -1379,12 +1379,12 @@ sections:
     - filename: 48.jpeg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/10750/48.jpeg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/10850/48.jpeg
       orig_hash: a3601f42cfe39d5d6e630830a812383f2e75a1c2f5f45b1993861196ac2dc953
     - filename: 49.jpeg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/10750/49.jpeg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/10850/49.jpeg
       orig_hash: 763eff9d40a76e7b50c6b9133dc253f8ec0844b04b1bafa8348e6922d9879eee
   - type: TEXT
     title_ru: 'Дребезг причинно-следственных связей:'
@@ -1416,7 +1416,7 @@ sections:
     - filename: 50.jpeg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11000/50.jpeg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11100/50.jpeg
       orig_hash: dda97461a8fbdc579b7b562cf891f5131ebfa701f6fe206e540b1ef8a441b2fc
   - type: TEXT
     title_ru: Времена в TameFlow
@@ -1427,17 +1427,17 @@ sections:
     - filename: 51.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11050/51.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11150/51.png
       orig_hash: 5d7ac2f473604103f164a2ff1c00d6bf24c4e4e11900972367d8f6d33717d63a
     - filename: 52.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11050/52.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11150/52.png
       orig_hash: ed8f5bc9380e282dfaafc6905405250a93d504acf70bed16f9d5ef341e6bdad7
     - filename: 53.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11050/53.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11150/53.png
       orig_hash: 4d90015886d29aed30fab6cbcda87eaccae45b0d18df247cddb998de293d2bc2
   - type: TEXT
     title_ru: Варианты предварительной подготовки
@@ -1448,7 +1448,7 @@ sections:
     - filename: 54.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11100/54.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11200/54.png
       orig_hash: c01ec9a2eb21d2d254c121ab01a830285ea7b5531d1388ee61ad816a8dc09621
   - type: TEXT
     title_ru: Память
@@ -1475,7 +1475,7 @@ sections:
     - filename: 55.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11300/55.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11400/55.png
       orig_hash: 8764d346375a0e9f9d4ddf70ab1d931700aa009207c35a0fe55cd222a884c3da
   - type: TEXT
     title_ru: Предметные роли для ситуационных ролей
@@ -1501,12 +1501,12 @@ sections:
     - filename: 56.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11500/56.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11600/56.png
       orig_hash: 4d90015886d29aed30fab6cbcda87eaccae45b0d18df247cddb998de293d2bc2
     - filename: 57.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11500/57.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11600/57.png
       orig_hash: 3ef3a53c9ce15fbb814098316918cbd80fc88ba691a310cefc95f7d78267f7d3
   - type: TEXT
     title_ru: Уровни моделирования и принципиальная модель предприятия
@@ -1517,22 +1517,22 @@ sections:
     - filename: 58.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11550/58.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11650/58.png
       orig_hash: 6ab3bda3c881f3cccdf29addba396b872fab7d1fb90c702015ce084e1f1639c2
     - filename: 59.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11550/59.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11650/59.png
       orig_hash: b9b89f20dca51d70f86bb0327b261ca747b292f561370d9a6282e2e7b7d32cfa
     - filename: 60.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11550/60.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11650/60.png
       orig_hash: 56928b6cb933b9f711cf79eda3e9d5e2512c5bce208aa4180ea0d1d28a18588e
     - filename: 61.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11550/61.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11650/61.png
       orig_hash: f244a10ae2c1f9b237bb0e0c0da076d84ed692f3e9a730bde2668482c4e30aff
   - type: TEXT
     title_ru: Базовая онтология работ
@@ -1548,7 +1548,7 @@ sections:
     - filename: 62.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11650/62.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11750/62.png
       orig_hash: 62c03792eb2051740598ff4e6cc592086e0fe0562001b277a32257d7e6f8c4e6
   - type: TEXT
     title_ru: Использование буферов для компенсации изменчивости
@@ -1559,37 +1559,37 @@ sections:
     - filename: 63.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11700/63.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11800/63.png
       orig_hash: 62c03792eb2051740598ff4e6cc592086e0fe0562001b277a32257d7e6f8c4e6
     - filename: 64.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11700/64.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11800/64.png
       orig_hash: d803cc208128f607adc4d0e90791e9dae101fecce1ffa61dbca64290662ef2f9
     - filename: 65.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11700/65.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11800/65.png
       orig_hash: 5ada2389f41ae6d390ccfef44e73002affedbd39eba2236d723582b76e577c5b
     - filename: 66.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11700/66.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11800/66.png
       orig_hash: 8310eb78a082ee7c48f0228391e8dfa5839d58ddc790070bc0d6531198ca8927
     - filename: 67.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11700/67.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11800/67.png
       orig_hash: 936fdad89c9bbfa8ab15e847634429c8fb1aa745a7751c2938ba248afdc31271
     - filename: 68.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11700/68.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11800/68.png
       orig_hash: 9bfef77182dddec961be5c9ae5f55e86a23a4bf923f177ae5c2f8bbec3f88852
     - filename: 69.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11700/69.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11800/69.png
       orig_hash: 2d454a10c19ce1e3dbdcbae3f397a7fd3f3c9c9dfb0249152e5779aeafb853c2
   - type: TEXT
     title_ru: Собираем всё вместе
@@ -1600,7 +1600,7 @@ sections:
     - filename: 70.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/11750/70.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/11850/70.png
       orig_hash: 9bfef77182dddec961be5c9ae5f55e86a23a4bf923f177ae5c2f8bbec3f88852
   - type: TEST
     title_ru: Задание 14.2
@@ -1637,17 +1637,17 @@ sections:
     - filename: 71.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/12050/71.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/12150/71.png
       orig_hash: 01f5ae4f5771ec13075918031571723459323d2ae17be99583e1ac6abe20c4af
     - filename: 72.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/12050/72.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/12150/72.png
       orig_hash: 1c7cfe69eacf98836bd0bd88a1ca389bfa67934bf52f410e96ce27ff9bea851f
     - filename: 73.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/12050/73.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/12150/73.png
       orig_hash: a960e067327891a0d278635365e2d5726491cd2077f9c345160a61d6658aa237
   - type: TEXT
     title_ru: Ошибки при постановке понятийного внимания
@@ -1658,7 +1658,7 @@ sections:
     - filename: 74.jpg
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/12100/74.jpg
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/12200/74.jpg
       orig_hash: 9351a5b4b9021d2d08cd812876bb62941af6fcb9e4d81312d76cb96558a61f2d
   - type: TEXT
     title_ru: Эволюция моделей
@@ -1669,7 +1669,7 @@ sections:
     - filename: 75.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/ontologics-sobr/2025-05-15T1900/12150/75.png
+      orig_path: /text/ontologics-sobr/2025-08-12T2251/12250/75.png
       orig_hash: f244a10ae2c1f9b237bb0e0c0da076d84ed692f3e9a730bde2668482c4e30aff
   - type: TEST
     title_ru: Задание 15.1
