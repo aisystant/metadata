@@ -206,7 +206,7 @@ sections:
     - filename: 0.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/selfdev/2025-04-22T1344/1850/0.png
+      orig_path: /text/selfdev/2025-07-06T0603/1850/0.png
       orig_hash: 3a183b0df4df5c97e9cd2bc28a519a0f5993515d3b876536f92f19c9eb547c38
   - type: TEST
     title_ru: Моделирование 2.2. Список моих затруднений. Инвестирование и учет времени
@@ -693,7 +693,7 @@ sections:
     - filename: 1.jpeg
       title_ru: ''
       title_en: ''
-      orig_path: /text/selfdev/2025-04-22T1344/6250/1.jpeg
+      orig_path: /text/selfdev/2025-07-06T0603/6250/1.jpeg
       orig_hash: 901643f0089bc1d108868bd19b9b32a20fb5aeaf61bd4a49f4ffeb6003cd199d
   - type: TEXT
     title_ru: Что такое практики досуга
@@ -1175,7 +1175,7 @@ sections:
     - filename: 2.png
       title_ru: ''
       title_en: ''
-      orig_path: /text/selfdev/2025-04-22T1344/10800/2.png
+      orig_path: /text/selfdev/2025-07-06T0603/10800/2.png
       orig_hash: b00964ccec0df8649ff6e44976f95ef8e6950f333532b91f8090a9861e138a10
   - type: TEXT
     title_ru: Как освоить практику планирования. Третий и четвертый этапы – «Навык»
