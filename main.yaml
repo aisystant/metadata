@@ -8,6 +8,10 @@
     - systems-engineering
     - personality-engineering
     - systems-management
+- title_ru: Исследовательское развитие
+  title_en: Research development 
+  slug: research
+  items:
     - intellect-stack
 - title_ru: Личное развитие
   title_en: Personal development
@@ -17,3 +21,4 @@
     - self-development-methods
     - systems-thinking-introduction
     - systems-based-fitness
+
