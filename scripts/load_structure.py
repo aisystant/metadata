@@ -197,6 +197,11 @@ def main():
     old_data = read_yaml_file(f"yaml/{course_id}.yaml") or {}
     old_sections = old_data.get("sections", [])
 
+    # Check if version has changed
+    if old_data.get("version") == version:
+        logger.info(f"Version {version} unchanged for course {course_id}, skipping update")
+        return
+
     structure = build_hierarchy(course_data["sections"], old_sections)
     doc = {
         "course_id": course_id,
