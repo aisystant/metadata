@@ -1,0 +1,368 @@
+course_id: modeling-1
+original_course_id: modeling-1-r2
+course_name: R2. Моделирование как основа коммуникации и лидерства
+version: 2026-01-07T1654
+version_id: '650'
+sections:
+- type: HEADER
+  title_ru: Основы моделирования
+  title_en: Basics of Modeling
+  slug: basics-of-modeling
+  section_id: 73162
+  children:
+  - type: TEXT
+    title_ru: Мышление и моделирование
+    title_en: Thinking and Modeling
+    slug: thinking-and-modeling
+    section_id: 73163
+  - type: TEST
+    title_ru: Упражнение 1.1.
+    title_en: Exercise 1.1
+    slug: exercise-1-1
+    section_id: 73164
+  - type: TEST
+    title_ru: Упражнение 1.2.
+    title_en: Exercise 1.2
+    slug: exercise-1-2
+    section_id: 73165
+  - type: TEXT
+    title_ru: Кто моделирует?
+    title_en: Who Models?
+    slug: who-models
+    section_id: 73166
+  - type: TEST
+    title_ru: Упражнение 1.3.
+    title_en: Exercise 1.3
+    slug: exercise-1-3
+    section_id: 73167
+  - type: TEXT
+    title_ru: Подход к выделению объектов и внимание
+    title_en: Approach to Object Identification and Attention
+    slug: approach-to-object-identification-and-attention
+    section_id: 73168
+  - type: TEST
+    title_ru: Задание 1.4.
+    title_en: Assignment 1.4
+    slug: assignment-1-4
+    section_id: 73169
+  - type: TEST
+    title_ru: Упражнение 1.5.
+    title_en: Exercise 1.5
+    slug: exercise-1-5
+    section_id: 73170
+  - type: TEXT
+    title_ru: Роль, метод и предметная область
+    title_en: Role, Method, and Subject Area
+    slug: role-method-and-subject-area
+    section_id: 73171
+  - type: TEST
+    title_ru: Задание 1.6
+    title_en: Assignment 1.6
+    slug: assignment-1-6
+    section_id: 73172
+  - type: TEST
+    title_ru: Упражнение 1.7.
+    title_en: Exercise 1.7
+    slug: exercise-1-7
+    section_id: 73173
+  - type: TEXT
+    title_ru: Объекты для разных ролей
+    title_en: Objects for Different Roles
+    slug: objects-for-different-roles
+    section_id: 73174
+  - type: TEST
+    title_ru: Упражнение 1.8.
+    title_en: Exercise 1.8
+    slug: exercise-1-8
+    section_id: 73175
+  - type: TEST
+    title_ru: Задание 1.9.
+    title_en: Assignment 1.9
+    slug: assignment-1-9
+    section_id: 73176
+  - type: TEXT
+    title_ru: Что моделируем? Деятельность создателей.
+    title_en: What Are We Modeling? Creators' Activities
+    slug: what-are-we-modeling-creators-activities
+    section_id: 73177
+  - type: TEST
+    title_ru: Упражнение 1.10.
+    title_en: Exercise 1.10
+    slug: exercise-1-10
+    section_id: 73178
+  - type: TEXT
+    title_ru: Что моделируем? Создатели.
+    title_en: What Are We Modeling? Creators.
+    slug: what-are-we-modeling-creators
+    section_id: 73179
+  - type: TEXT
+    title_ru: Что моделируем? Продукт и его использование.
+    title_en: What Are We Modeling? The Product and Its Use.
+    slug: what-are-we-modeling-the-product-and-its-use
+    section_id: 73180
+  - type: TEXT
+    title_ru: Что моделируем? Знание агентов.
+    title_en: What Are We Modeling? Agent Knowledge
+    slug: what-are-we-modeling-agent-knowledge
+    section_id: 73181
+- type: HEADER
+  title_ru: Коммуникация и лидерство
+  title_en: Communication and Leadership
+  slug: communication-and-leadership
+  section_id: 73182
+  children:
+  - type: TEXT
+    title_ru: Как использовать модели для создания преимущества в коммуникативных
+      ситуациях
+    title_en: How to Use Models to Create an Advantage in Communication Situations
+    slug: how-to-use-models-to-create-an-advantage-in-communication-situations
+    section_id: 73183
+  - type: TEXT
+    title_ru: Концептуальная часть
+    title_en: Conceptual Part
+    slug: conceptual-part
+    section_id: 73184
+  - type: TEST
+    title_ru: Задание 2.1.
+    title_en: Assignment 2.1
+    slug: assignment-2-1
+    section_id: 73185
+  - type: TEXT
+    title_ru: Эпистемическое состояние агентов
+    title_en: Epistemic State of Agents
+    slug: epistemic-state-of-agents
+    section_id: 73186
+  - type: TEST
+    title_ru: Задание 2.2.
+    title_en: Assignment 2.2
+    slug: assignment-2-2
+    section_id: 73187
+  - type: TEXT
+    title_ru: Роли, предпочтения, стратегии
+    title_en: Roles, Preferences, Strategies
+    slug: roles-preferences-strategies
+    section_id: 73188
+  - type: TEST
+    title_ru: Упражнение 2.3.
+    title_en: Exercise 2.3
+    slug: exercise-2-3
+    section_id: 73189
+  - type: TEXT
+    title_ru: Рамки целеполагания
+    title_en: Goal-Setting Frameworks
+    slug: goal-setting-frameworks
+    section_id: 73190
+  - type: TEST
+    title_ru: Упражнение 2.4.
+    title_en: Exercise 2.4
+    slug: exercise-2-4
+    section_id: 73191
+  - type: TEXT
+    title_ru: Риторическая часть
+    title_en: Rhetorical Section
+    slug: rhetorical-section
+    section_id: 73192
+  - type: TEXT
+    title_ru: Когда аргументов мало
+    title_en: When Arguments Are Scarce
+    slug: when-arguments-are-scarce
+    section_id: 73193
+  - type: TEST
+    title_ru: Упражнение 2.5.
+    title_en: Exercise 2.5
+    slug: exercise-2-5
+    section_id: 73194
+  - type: TEXT
+    title_ru: Внешние ссылки
+    title_en: External Links
+    slug: external-links
+    section_id: 73195
+- type: HEADER
+  title_ru: Создание и передача объяснений
+  title_en: Creation and Delivery of Explanations
+  slug: creation-and-delivery-of-explanations
+  section_id: 73196
+  children:
+  - type: TEXT
+    title_ru: Практика исследований
+    title_en: Research Practice
+    slug: research-practice
+    section_id: 73197
+  - type: TEXT
+    title_ru: Зачем создаются объяснения
+    title_en: Why Explanations Are Created
+    slug: why-explanations-are-created
+    section_id: 73198
+  - type: TEXT
+    title_ru: Как анализируют объяснения
+    title_en: How Explanations Are Analyzed
+    slug: how-explanations-are-analyzed
+    section_id: 73199
+  - type: TEST
+    title_ru: Задание 3.1.
+    title_en: Assignment 3.1
+    slug: assignment-3-1
+    section_id: 73200
+  - type: TEXT
+    title_ru: Утверждения и убеждения
+    title_en: Statements and Beliefs
+    slug: statements-and-beliefs
+    section_id: 73201
+  - type: TEST
+    title_ru: Упражнение 3.2.
+    title_en: Exercise 3.2
+    slug: exercise-3-2
+    section_id: 73202
+  - type: TEXT
+    title_ru: Предсказания и допущения
+    title_en: Predictions and Assumptions
+    slug: predictions-and-assumptions
+    section_id: 73203
+  - type: TEST
+    title_ru: Упражнение 3.3.
+    title_en: Exercise 3.3
+    slug: exercise-3-3
+    section_id: 73204
+  - type: TEXT
+    title_ru: Создание объяснений
+    title_en: Creating Explanations
+    slug: creating-explanations
+    section_id: 73205
+  - type: TEXT
+    title_ru: Исследования самого себя
+    title_en: Self-Exploration
+    slug: self-exploration
+    section_id: 73206
+  - type: TEXT
+    title_ru: Как оценить объяснение
+    title_en: How to Evaluate an Explanation
+    slug: how-to-evaluate-an-explanation
+    section_id: 73207
+  - type: TEST
+    title_ru: Задание 3.4.
+    title_en: Assignment 3.4
+    slug: assignment-3-4
+    section_id: 73208
+- type: HEADER
+  title_ru: Распознавать слабые сигналы в работе с людьми
+  title_en: Recognizing Weak Signals in Working with People
+  slug: recognizing-weak-signals-in-working-with-people
+  section_id: 73209
+  children:
+  - type: TEXT
+    title_ru: Приоритизация потоков
+    title_en: Prioritization of Flows
+    slug: prioritization-of-flows
+    section_id: 73210
+  - type: TEXT
+    title_ru: Метрики
+    title_en: Metrics
+    slug: metrics
+    section_id: 73211
+  - type: TEST
+    title_ru: Задание 4.1
+    title_en: Assignment 4.1
+    slug: assignment-4-1
+    section_id: 73212
+  - type: TEXT
+    title_ru: Действия для изменения состояний объектов
+    title_en: Actions for Changing Object States
+    slug: actions-for-changing-object-states
+    section_id: 73213
+  - type: TEST
+    title_ru: Задание 4.2
+    title_en: Assignment 4.2
+    slug: assignment-4-2
+    section_id: 73214
+- type: HEADER
+  title_ru: Удержание внимания
+  title_en: Attention Retention
+  slug: attention-retention
+  section_id: 73215
+  children:
+  - type: TEXT
+    title_ru: Динамическое рассмотрение объектов
+    title_en: Dynamic Analysis of Objects
+    slug: dynamic-analysis-of-objects
+    section_id: 73216
+  - type: TEXT
+    title_ru: Смены состояний объектов
+    title_en: State Changes of Objects
+    slug: state-changes-of-objects
+    section_id: 73217
+  - type: TEST
+    title_ru: Упражнение 5.1
+    title_en: Exercise 5.1
+    slug: exercise-5-1
+    section_id: 73218
+  - type: TEXT
+    title_ru: Чеклисты как способ удержания внимания
+    title_en: Checklists as a Way to Maintain Attention
+    slug: checklists-as-a-way-to-maintain-attention
+    section_id: 73219
+  - type: TEST
+    title_ru: Задание 5.2
+    title_en: Assignment 5.2
+    slug: assignment-5-2
+    section_id: 73220
+  - type: TEXT
+    title_ru: Измерение изменений
+    title_en: Measuring Changes
+    slug: measuring-changes
+    section_id: 73221
+  - type: TEXT
+    title_ru: Шкалы
+    title_en: Scales
+    slug: scales
+    section_id: 73222
+  - type: TEXT
+    title_ru: Вещь и граф создателей вещи
+    title_en: Thing and Graph of Creators
+    slug: thing-and-graph-of-creators
+    section_id: 73223
+  - type: TEST
+    title_ru: Задание 5.3
+    title_en: Assignment 5.3
+    slug: assignment-5-3
+    section_id: 73224
+  - type: TEXT
+    title_ru: Онтология путешествий объектов
+    title_en: Ontology of Object Journeys
+    slug: ontology-of-object-journeys
+    section_id: 73225
+  - type: TEST
+    title_ru: Задание 5.4
+    title_en: Assignment 5.4
+    slug: assignment-5-4
+    section_id: 73226
+  - type: TEXT
+    title_ru: Переключение внимания и напоминания
+    title_en: Attention Shifting and Reminders
+    slug: attention-shifting-and-reminders
+    section_id: 73227
+  - type: TEXT
+    title_ru: Проблемы и практики удержания внимания
+    title_en: Attention Retention Challenges and Practices
+    slug: attention-retention-challenges-and-practices
+    section_id: 73228
+  - type: TEXT
+    title_ru: Перестройка расписания
+    title_en: Schedule Restructuring
+    slug: schedule-restructuring
+    section_id: 73229
+  - type: TEST
+    title_ru: Задание 5.5
+    title_en: Assignment 5.5
+    slug: assignment-5-5
+    section_id: 73230
+- type: HEADER
+  title_ru: Совместная работа по моделям
+  title_en: Collaborative Work on Models
+  slug: collaborative-work-on-models
+  section_id: 73231
+  children:
+  - type: TEXT
+    title_ru: Практическое применение моделирования
+    title_en: Practical Application of Modeling
+    slug: practical-application-of-modeling
+    section_id: 73232

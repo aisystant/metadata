@@ -1,0 +1,473 @@
+course_id: firefighting
+original_course_id: firefighting-1
+course_name: 'R1. Распожаризация: как не «тушить пожары», а избегать их появления'
+version: 2026-02-27T1625
+version_id: '697'
+sections:
+- type: TEXT
+  title_ru: Введение
+  title_en: Introduction
+  slug: introduction
+  section_id: 75536
+- type: TEXT
+  title_ru: Чему можно научиться в ходе резидентуры
+  title_en: What Can Be Learned During Residency
+  slug: what-can-be-learned-during-residency
+  section_id: 75537
+- type: TEXT
+  title_ru: Что нужно знать для успешного применения руководства
+  title_en: What You Need to Know for Successful Guide Application
+  slug: what-you-need-to-know-for-successful-guide-application
+  section_id: 75538
+- type: TEXT
+  title_ru: Кому это руководство не подходит
+  title_en: Who This Guide Is Not For
+  slug: who-this-guide-is-not-for
+  section_id: 75539
+- type: TEXT
+  title_ru: Вещь, которую вы создаёте в ходе резидентуры
+  title_en: The Thing You Create During Residency
+  slug: the-thing-you-create-during-residency
+  section_id: 75540
+- type: TEXT
+  title_ru: Мастерство рациональной работы как инвестиционный актив и часть интеллекта
+  title_en: Rational Work Mastery as an Investment Asset and Part of Intelligence
+  slug: rational-work-mastery-as-an-investment-asset-and-part-of-intelligence
+  section_id: 75541
+- type: TEXT
+  title_ru: Как проходить резидентуру
+  title_en: How to Complete a Residency
+  slug: how-to-complete-a-residency
+  section_id: 75542
+- type: TEXT
+  title_ru: Памятка по факторам работоспособности
+  title_en: Guide to Productivity Factors
+  slug: guide-to-productivity-factors
+  section_id: 75543
+- type: TEST
+  title_ru: Упражнение 0.
+  title_en: Exercise 0
+  slug: exercise-0
+  section_id: 75544
+- type: TEXT
+  title_ru: Чеклист организации сессий рабочего развития
+  title_en: Checklist for Organizing Work Development Sessions
+  slug: checklist-for-organizing-work-development-sessions
+  section_id: 75545
+- type: HEADER
+  title_ru: Различать системы и представления о них и заземляться
+  title_en: Distinguish Systems and Their Representations and Ground Yourself
+  slug: distinguish-systems-and-their-representations-and-ground-yourself
+  section_id: 75546
+  children:
+  - type: TEXT
+    title_ru: Что вы будете уметь после применения материалов раздела
+    title_en: What You Will Be Able to Do After Applying the Section Materials
+    slug: what-you-will-be-able-to-do-after-applying-the-section-materials
+    section_id: 75547
+  - type: TEXT
+    title_ru: Игра «Назови систему»
+    title_en: Game "Name the System"
+    slug: game-name-the-system
+    section_id: 75548
+  - type: TEST
+    title_ru: Задание 1.1
+    title_en: Assignment 1.1
+    slug: assignment-1-1
+    section_id: 75549
+  - type: TEXT
+    title_ru: Зачем нужна игра
+    title_en: Why Play is Necessary
+    slug: why-play-is-necessary
+    section_id: 75550
+  - type: TEXT
+    title_ru: Основные объекты внимания в игре
+    title_en: Main Focus Areas in the Game
+    slug: main-focus-areas-in-the-game
+    section_id: 75551
+  - type: TEXT
+    title_ru: О разнообразии систем
+    title_en: On the Diversity of Systems
+    slug: on-the-diversity-of-systems
+    section_id: 75552
+  - type: TEXT
+    title_ru: О системах и эпистемах о них (описаниях, моделях)
+    title_en: About Systems and Epistemes (Descriptions, Models)
+    slug: about-systems-and-epistemes-descriptions-models
+    section_id: 75553
+  - type: TEXT
+    title_ru: О системах и ситуациях их эксплуатации
+    title_en: On Systems and Their Operational Contexts
+    slug: on-systems-and-their-operational-contexts
+    section_id: 75554
+  - type: TEST
+    title_ru: Задание 1.2
+    title_en: Assignment 1.2
+    slug: assignment-1-2
+    section_id: 75555
+  - type: TEXT
+    title_ru: Как мы путаем вещи (системы) и описания вещей (систем)
+    title_en: How We Confuse Things (Systems) and Descriptions of Things (Systems)
+    slug: how-we-confuse-things-systems-and-descriptions-of-things-systems
+    section_id: 75556
+  - type: TEXT
+    title_ru: Как мы путаем вещи (системы) и действия
+    title_en: How We Confuse Things (Systems) and Actions
+    slug: how-we-confuse-things-systems-and-actions
+    section_id: 75557
+  - type: TEST
+    title_ru: Задание 1.3
+    title_en: Assignment 1.3
+    slug: assignment-1-3
+    section_id: 75558
+  - type: TEXT
+    title_ru: Эпистемы, описания, модели и физический мир
+    title_en: Epistemes, Descriptions, Models, and the Physical World
+    slug: epistemes-descriptions-models-and-the-physical-world
+    section_id: 75559
+  - type: TEXT
+    title_ru: Воспринимаемая реальность
+    title_en: Perceived Reality
+    slug: perceived-reality
+    section_id: 75560
+  - type: TEXT
+    title_ru: Чем полезно различение эпистем и реальности
+    title_en: How Distinguishing Between Episteme and Reality is Useful
+    slug: how-distinguishing-between-episteme-and-reality-is-useful
+    section_id: 75561
+  - type: TEST
+    title_ru: Задание 1.4
+    title_en: Assignment 1.4
+    slug: assignment-1-4
+    section_id: 75562
+  - type: TEXT
+    title_ru: Особенности реконструирования реальности внутри агента
+    title_en: Features of Reality Reconstruction Within an Agent
+    slug: features-of-reality-reconstruction-within-an-agent
+    section_id: 75563
+  - type: TEXT
+    title_ru: Как (не) осознаётся разрыв между эпистемами и реальностью
+    title_en: How the Gap Between Epistemes and Reality is (Not) Recognized
+    slug: how-the-gap-between-epistemes-and-reality-is-not-recognized
+    section_id: 75564
+    images:
+    - filename: 0.jpg
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/firefighting-1/2026-02-27T1625/1400/0.jpg
+      orig_hash: 28ce756ae45bc70f6285b68a4735fc938fad96818bc939a666633a417d89470a
+  - type: TEXT
+    title_ru: Алгоритм заземления, или как видеть реальность
+    title_en: 'Grounding Algorithm: How to See Reality'
+    slug: grounding-algorithm-how-to-see-reality
+    section_id: 75565
+  - type: TEST
+    title_ru: Задание 1.5
+    title_en: Assignment 1.5
+    slug: assignment-1-5
+    section_id: 75566
+  - type: TEXT
+    title_ru: Что может помешать видеть реальность
+    title_en: What Can Hinder Seeing Reality
+    slug: what-can-hinder-seeing-reality
+    section_id: 75567
+  - type: TEXT
+    title_ru: Сигналы о наличии разрыва
+    title_en: Signals of a Gap
+    slug: signals-of-a-gap
+    section_id: 75568
+  - type: TEST
+    title_ru: Упражнение 1.6.
+    title_en: Exercise 1.6
+    slug: exercise-1-6
+    section_id: 75569
+  - type: TEXT
+    title_ru: Замеры для осознания реальности
+    title_en: Measurements for Reality Awareness
+    slug: measurements-for-reality-awareness
+    section_id: 75570
+  - type: TEST
+    title_ru: Задание 1.7.
+    title_en: Assignment 1.7
+    slug: assignment-1-7
+    section_id: 75571
+  - type: TEXT
+    title_ru: Дополнительные примечания для пользователей FPF
+    title_en: Additional Notes for FPF Users
+    slug: additional-notes-for-fpf-users
+    section_id: 75572
+- type: HEADER
+  title_ru: Отслеживать трату ресурсов на выполнение работ
+  title_en: Track Resource Expenditure for Task Execution
+  slug: track-resource-expenditure-for-task-execution
+  section_id: 75573
+  children:
+  - type: TEXT
+    title_ru: Управление ресурсами
+    title_en: Resource Management
+    slug: resource-management
+    section_id: 75574
+  - type: TEXT
+    title_ru: 'View операционного менеджера: что он пытается оптимизировать'
+    title_en: 'View of the Operations Manager: What They Are Trying to Optimize'
+    slug: view-of-the-operations-manager-what-they-are-trying-to-optimize
+    section_id: 75575
+  - type: TEXT
+    title_ru: Роль, view, viewpoint
+    title_en: Role, View, Viewpoint
+    slug: role-view-viewpoint
+    section_id: 75576
+  - type: TEXT
+    title_ru: Операционный менеджмент 101
+    title_en: Operational Management 101
+    slug: operational-management-101
+    section_id: 75577
+  - type: TEST
+    title_ru: Задание 2.1
+    title_en: Assignment 2.1
+    slug: assignment-2-1
+    section_id: 75578
+  - type: TEXT
+    title_ru: Ресурсы
+    title_en: Resources
+    slug: resources
+    section_id: 75579
+  - type: TEXT
+    title_ru: Свойства объектов и отношения между объектами
+    title_en: Properties of Objects and Relationships Between Objects
+    slug: properties-of-objects-and-relationships-between-objects
+    section_id: 75580
+  - type: TEST
+    title_ru: Задание 2.2.
+    title_en: Assignment 2.2
+    slug: assignment-2-2
+    section_id: 75581
+  - type: TEXT
+    title_ru: Онтологический дребезг и поиск ошибок
+    title_en: Ontological Jitter and Error Detection
+    slug: ontological-jitter-and-error-detection
+    section_id: 75582
+- type: HEADER
+  title_ru: Различать в поведении агента метод и работу
+  title_en: Distinguishing Between an Agent's Method and Work
+  slug: distinguishing-between-an-agent-s-method-and-work
+  section_id: 75583
+  children:
+  - type: TEXT
+    title_ru: Зачем нужно различать метод и работу
+    title_en: Why Distinguish Between Method and Work
+    slug: why-distinguish-between-method-and-work
+    section_id: 75584
+  - type: TEXT
+    title_ru: Метод
+    title_en: Method
+    slug: method
+    section_id: 75585
+  - type: TEST
+    title_ru: Задание 3.1.
+    title_en: Assignment 3.1
+    slug: assignment-3-1
+    section_id: 75586
+  - type: TEST
+    title_ru: Упражнение 3.2
+    title_en: Exercise 3.2
+    slug: exercise-3-2
+    section_id: 75587
+  - type: TEXT
+    title_ru: Работа
+    title_en: Work
+    slug: work
+    section_id: 75588
+  - type: TEST
+    title_ru: Упражнение 3.3
+    title_en: Exercise 3.3
+    slug: exercise-3-3
+    section_id: 75589
+  - type: TEST
+    title_ru: Упражнение 3.4
+    title_en: Exercise 3.4
+    slug: exercise-3-4
+    section_id: 75590
+  - type: TEXT
+    title_ru: Как пришли к разделению методов и работ
+    title_en: How Methods and Work Were Separated
+    slug: how-methods-and-work-were-separated
+    section_id: 75591
+  - type: TEXT
+    title_ru: Функциональное, конструктивное, ресурсное/стоимостное рассмотрения
+    title_en: Functional, Structural, Resource/Cost Perspectives
+    slug: functional-structural-resource-cost-perspectives
+    section_id: 75592
+  - type: TEXT
+    title_ru: Организовать работу
+    title_en: Organize Work
+    slug: organize-work
+    section_id: 75593
+  - type: TEXT
+    title_ru: Делегирование как передача метода
+    title_en: Delegation as Method Transfer
+    slug: delegation-as-method-transfer
+    section_id: 75594
+  - type: TEXT
+    title_ru: Выбор экзокортекса
+    title_en: Choosing an Exocortex
+    slug: choosing-an-exocortex
+    section_id: 75595
+  - type: TEXT
+    title_ru: Убираем лишние работы
+    title_en: Eliminating Unnecessary Work
+    slug: eliminating-unnecessary-work
+    section_id: 75596
+  - type: TEST
+    title_ru: Задание 3.5
+    title_en: Assignment 3.5
+    slug: assignment-3-5
+    section_id: 75597
+  - type: TEST
+    title_ru: Задание 3.6
+    title_en: Assignment 3.6
+    slug: assignment-3-6
+    section_id: 75598
+- type: HEADER
+  title_ru: Общаться на правильно выбранном языке
+  title_en: Communicate in the Correctly Chosen Language
+  slug: communicate-in-the-correctly-chosen-language
+  section_id: 75599
+  children:
+  - type: TEXT
+    title_ru: Выбор языка для общения
+    title_en: Choosing a Language for Communication
+    slug: choosing-a-language-for-communication
+    section_id: 75600
+  - type: TEXT
+    title_ru: 'Референция и заземление: сначала осмысленность, потом истинность'
+    title_en: 'Reference and Grounding: Meaning First, Then Truth'
+    slug: reference-and-grounding-meaning-first-then-truth
+    section_id: 75601
+  - type: TEST
+    title_ru: Упражнение 4.1.
+    title_en: Exercise 4.1
+    slug: exercise-4-1
+    section_id: 75602
+  - type: TEXT
+    title_ru: 'Шкала формальности языков: бытовой, профессиональный, художественный'
+    title_en: 'Scale of Language Formality: Casual, Professional, Artistic'
+    slug: scale-of-language-formality-casual-professional-artistic
+    section_id: 75603
+  - type: TEXT
+    title_ru: Концептуальное пространство и выбор названий
+    title_en: Conceptual Space and Naming Choices
+    slug: conceptual-space-and-naming-choices
+    section_id: 75604
+  - type: TEST
+    title_ru: Задание 4.2.
+    title_en: Assignment 4.2
+    slug: assignment-4-2
+    section_id: 75605
+  - type: TEXT
+    title_ru: 'Языковая прагматика: что высказывание делает в работе'
+    title_en: 'Linguistic Pragmatics: What an Utterance Does in Work'
+    slug: linguistic-pragmatics-what-an-utterance-does-in-work
+    section_id: 75606
+  - type: TEXT
+    title_ru: Явное и неявное содержание. Импликатуры
+    title_en: Explicit and Implicit Content. Implicatures
+    slug: explicit-and-implicit-content-implicatures
+    section_id: 75607
+  - type: TEST
+    title_ru: Задание 4.3.
+    title_en: Assignment 4.3
+    slug: assignment-4-3
+    section_id: 75608
+  - type: TEXT
+    title_ru: 'Язык инженера и менеджера: различение по семантике'
+    title_en: 'Engineer and Manager Language: Semantic Distinctions'
+    slug: engineer-and-manager-language-semantic-distinctions
+    section_id: 75609
+  - type: TEST
+    title_ru: Упражнение 4.4.
+    title_en: Exercise 4.4
+    slug: exercise-4-4
+    section_id: 75610
+  - type: TEXT
+    title_ru: Неявные роли и вычисление истинной роли
+    title_en: Implicit Roles and Calculating the True Role
+    slug: implicit-roles-and-calculating-the-true-role
+    section_id: 75611
+- type: HEADER
+  title_ru: Концентрироваться на важном
+  title_en: Focus on What Matters
+  slug: focus-on-what-matters
+  section_id: 75612
+  children:
+  - type: TEXT
+    title_ru: Что такое внимание агента
+    title_en: What is Agent Attention
+    slug: what-is-agent-attention
+    section_id: 75613
+  - type: TEXT
+    title_ru: Работа внимания агента
+    title_en: Agent's Attention Work
+    slug: agent-s-attention-work
+    section_id: 75614
+  - type: TEXT
+    title_ru: Ассоциативное и понятийное моделирование
+    title_en: Associative and Conceptual Modeling
+    slug: associative-and-conceptual-modeling
+    section_id: 75615
+  - type: TEXT
+    title_ru: Что такое важное
+    title_en: What Is Important
+    slug: what-is-important
+    section_id: 75616
+  - type: TEST
+    title_ru: Задание 5.1
+    title_en: Assignment 5.1
+    slug: assignment-5-1
+    section_id: 75617
+  - type: TEXT
+    title_ru: Фокусироваться на важном
+    title_en: Focus on What Matters
+    slug: focus-on-what-matters
+    section_id: 75618
+  - type: TEXT
+    title_ru: Переключения и отвлечения
+    title_en: Switches and Distractions
+    slug: switches-and-distractions
+    section_id: 75619
+    images:
+    - filename: 1.png
+      title_ru: ''
+      title_en: ''
+      orig_path: /text/firefighting-1/2026-02-27T1625/4150/1.png
+      orig_hash: c8c44a730faa7448073a0e6603592af59da1e47c66020eda729de50076fbc09f
+  - type: TEXT
+    title_ru: Функции экзокортекса
+    title_en: Functions of the Exocortex
+    slug: functions-of-the-exocortex
+    section_id: 75620
+  - type: TEXT
+    title_ru: 'Фокус: формула быстрой работы'
+    title_en: 'Focus: Quick Work Formula'
+    slug: focus-quick-work-formula
+    section_id: 75621
+  - type: TEXT
+    title_ru: Мантра элегантности в работе/lean
+    title_en: Mantra of Elegance in Work/Lean
+    slug: mantra-of-elegance-in-work-lean
+    section_id: 75622
+  - type: TEST
+    title_ru: Задание 5.2
+    title_en: Assignment 5.2
+    slug: assignment-5-2
+    section_id: 75623
+  - type: TEST
+    title_ru: Задание 5.3
+    title_en: Assignment 5.3
+    slug: assignment-5-3
+    section_id: 75624
+  - type: TEXT
+    title_ru: Что дальше?
+    title_en: What's Next?
+    slug: what-s-next
+    section_id: 75625

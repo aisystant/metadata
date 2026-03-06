@@ -16,6 +16,12 @@ COURSE_NAME_MAPPING = {
     "systems-engineering": "systems-engineering",
     "systems-teaching": "personality-engineering",
     "systems-management": "systems-management",
+    "firefighting-1": "firefighting",
+    "modeling-1-r2": "modeling-1",
+    "modeling-2-r3": "modeling-2",
+    "counterfactuality-r4": "counterfactuality",
+    "systems-thinking-r5": "systems-thinking",
+    "systems-modeling-r6": "systems-modeling",
     
     # Research Development (Исследовательское развитие)
     "intelligence-stack": "intellect-stack",

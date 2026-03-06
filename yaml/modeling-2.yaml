@@ -1,0 +1,547 @@
+course_id: modeling-2
+original_course_id: modeling-2-r3
+course_name: R3. Рабочее моделирование в инженерии и менеджменте
+version: 2026-01-08T1435
+version_id: '653'
+sections:
+- type: HEADER
+  title_ru: Языки и знаки
+  title_en: Languages and Signs
+  slug: languages-and-signs
+  section_id: 73362
+  children:
+  - type: TEXT
+    title_ru: Введение
+    title_en: Introduction
+    slug: introduction
+    section_id: 73363
+  - type: TEXT
+    title_ru: Что такое дребезг
+    title_en: What is Debounce
+    slug: what-is-debounce
+    section_id: 73364
+  - type: TEXT
+    title_ru: Теория языка
+    title_en: Language Theory
+    slug: language-theory
+    section_id: 73365
+  - type: TEXT
+    title_ru: Тексты и язык
+    title_en: Texts and Language
+    slug: texts-and-language
+    section_id: 73366
+  - type: TEXT
+    title_ru: Знак, объект и концепт
+    title_en: Sign, Object, and Concept
+    slug: sign-object-and-concept
+    section_id: 73367
+  - type: TEXT
+    title_ru: Как мы интерпретируем знаки
+    title_en: How We Interpret Signs
+    slug: how-we-interpret-signs
+    section_id: 73368
+  - type: TEXT
+    title_ru: Семантика языка
+    title_en: Language Semantics
+    slug: language-semantics
+    section_id: 73369
+  - type: TEST
+    title_ru: Задание 1.1
+    title_en: Assignment 1.1
+    slug: assignment-1-1
+    section_id: 73370
+  - type: TEST
+    title_ru: Задание 1.2
+    title_en: Assignment 1.2
+    slug: assignment-1-2
+    section_id: 73371
+  - type: TEXT
+    title_ru: Прагматика
+    title_en: Pragmatics
+    slug: pragmatics
+    section_id: 73372
+  - type: TEST
+    title_ru: Задание 1.3
+    title_en: Task 1.3
+    slug: task-1-3
+    section_id: 73373
+  - type: TEST
+    title_ru: Упражнение 1.4
+    title_en: Exercise 1.4
+    slug: exercise-1-4
+    section_id: 73374
+  - type: TEST
+    title_ru: Задание 1.5
+    title_en: Assignment 1.5
+    slug: assignment-1-5
+    section_id: 73375
+- type: HEADER
+  title_ru: Онтология моделирования и типы объектов
+  title_en: Ontology of Modeling and Object Types
+  slug: ontology-of-modeling-and-object-types
+  section_id: 73376
+  children:
+  - type: TEXT
+    title_ru: Индивидуальные объекты и категории
+    title_en: Individual Objects and Categories
+    slug: individual-objects-and-categories
+    section_id: 73377
+  - type: TEST
+    title_ru: Упражнение 2.1.
+    title_en: Exercise 2.1
+    slug: exercise-2-1
+    section_id: 73378
+  - type: TEXT
+    title_ru: Отнесение к категории
+    title_en: Categorization
+    slug: categorization
+    section_id: 73379
+  - type: TEST
+    title_ru: Упражнение 2.2.
+    title_en: Exercise 2.2
+    slug: exercise-2-2
+    section_id: 73380
+  - type: TEXT
+    title_ru: Дополнительные замечания об индивидах и категориях
+    title_en: Additional Notes on Individuals and Categories
+    slug: additional-notes-on-individuals-and-categories
+    section_id: 73381
+  - type: TEXT
+    title_ru: Отношения объектов
+    title_en: Object Relationships
+    slug: object-relationships
+    section_id: 73382
+  - type: TEST
+    title_ru: Упражнение 2.3.
+    title_en: Exercise 2.3
+    slug: exercise-2-3
+    section_id: 73383
+  - type: TEXT
+    title_ru: Описание сложных отношений и комплексных объектов
+    title_en: Description of Complex Relationships and Objects
+    slug: description-of-complex-relationships-and-objects
+    section_id: 73384
+  - type: TEXT
+    title_ru: Категории, классы и типы
+    title_en: Categories, Classes, and Types
+    slug: categories-classes-and-types
+    section_id: 73385
+  - type: TEXT
+    title_ru: Экземпляр класса
+    title_en: Class Instance
+    slug: class-instance
+    section_id: 73386
+  - type: TEXT
+    title_ru: Надкласс — подкласс
+    title_en: Superset — Subclass
+    slug: superset-subclass
+    section_id: 73387
+  - type: TEXT
+    title_ru: Онтологии
+    title_en: Ontologies
+    slug: ontologies
+    section_id: 73388
+  - type: TEXT
+    title_ru: Плотность концептуального пространства и качество онтологии
+    title_en: Density of Conceptual Space and Ontology Quality
+    slug: density-of-conceptual-space-and-ontology-quality
+    section_id: 73389
+  - type: TEXT
+    title_ru: Мозг и искусственные нейросети
+    title_en: Brain and Artificial Neural Networks
+    slug: brain-and-artificial-neural-networks
+    section_id: 73390
+  - type: TEST
+    title_ru: Упражнение 2.4.
+    title_en: Exercise 2.4
+    slug: exercise-2-4
+    section_id: 73391
+  - type: TEST
+    title_ru: Упражнение 2.5.
+    title_en: Exercise 2.5
+    slug: exercise-2-5
+    section_id: 73392
+  - type: TEXT
+    title_ru: Физический мир и ментальное пространство
+    title_en: Physical World and Mental Space
+    slug: physical-world-and-mental-space
+    section_id: 73393
+  - type: TEST
+    title_ru: Задание 2.6.
+    title_en: Assignment 2.6
+    slug: assignment-2-6
+    section_id: 73394
+  - type: TEXT
+    title_ru: Модели и знаки
+    title_en: Models and Signs
+    slug: models-and-signs
+    section_id: 73395
+  - type: TEST
+    title_ru: Вопросы 2.7.
+    title_en: Questions 2.7
+    slug: questions-2-7
+    section_id: 73396
+  - type: TEXT
+    title_ru: Варианты онтологического подхода
+    title_en: Ontological Approach Variants
+    slug: ontological-approach-variants
+    section_id: 73397
+  - type: TEXT
+    title_ru: Классы классов
+    title_en: Classes of Classes
+    slug: classes-of-classes
+    section_id: 73398
+  - type: TEXT
+    title_ru: Классификаторы, таксономии
+    title_en: Classifiers and Taxonomies
+    slug: classifiers-and-taxonomies
+    section_id: 73399
+  - type: TEST
+    title_ru: Упражнение 2.8.
+    title_en: Exercise 2.8
+    slug: exercise-2-8
+    section_id: 73400
+  - type: TEXT
+    title_ru: Разбиения, иерархии и другие деревья
+    title_en: Breakdowns, Hierarchies, and Other Trees
+    slug: breakdowns-hierarchies-and-other-trees
+    section_id: 73401
+  - type: TEST
+    title_ru: Упражнение 2.9.
+    title_en: Exercise 2.9
+    slug: exercise-2-9
+    section_id: 73402
+  - type: TEXT
+    title_ru: Присвоение типа
+    title_en: Type Assignment
+    slug: type-assignment
+    section_id: 73403
+  - type: TEXT
+    title_ru: Примеры систем типов
+    title_en: Examples of Type Systems
+    slug: examples-of-type-systems
+    section_id: 73404
+  - type: TEXT
+    title_ru: Выделение 4D индивидов
+    title_en: Highlighting 4D Individuals
+    slug: highlighting-4d-individuals
+    section_id: 73405
+  - type: TEXT
+    title_ru: Композиция 4D объектов
+    title_en: Composition of 4D Objects
+    slug: composition-of-4d-objects
+    section_id: 73406
+  - type: TEXT
+    title_ru: Классы
+    title_en: Classes
+    slug: classes
+    section_id: 73407
+  - type: TEXT
+    title_ru: Кортежи
+    title_en: Tuples
+    slug: tuples
+    section_id: 73408
+  - type: TEXT
+    title_ru: Основной алгоритм онтологического моделирования
+    title_en: Main Algorithm of Ontological Modeling
+    slug: main-algorithm-of-ontological-modeling
+    section_id: 73409
+  - type: TEST
+    title_ru: Задание 2.10
+    title_en: Assignment 2.10
+    slug: assignment-2-10
+    section_id: 73410
+  - type: TEXT
+    title_ru: Добавление классов в онтологию
+    title_en: Adding Classes to the Ontology
+    slug: adding-classes-to-the-ontology
+    section_id: 73411
+  - type: TEXT
+    title_ru: Функциональный физический объект
+    title_en: Functional Physical Object
+    slug: functional-physical-object
+    section_id: 73412
+  - type: TEXT
+    title_ru: Замена элемента системы
+    title_en: Replacing a System Component
+    slug: replacing-a-system-component
+    section_id: 73413
+  - type: TEST
+    title_ru: Упражнение 2.11
+    title_en: Exercise 2.11
+    slug: exercise-2-11
+    section_id: 73414
+  - type: TEXT
+    title_ru: Роли
+    title_en: Roles
+    slug: roles
+    section_id: 73415
+  - type: TEXT
+    title_ru: Понимание ролей
+    title_en: Understanding Roles
+    slug: understanding-roles
+    section_id: 73416
+  - type: TEST
+    title_ru: Упражнение 2.12.
+    title_en: Exercise 2.12
+    slug: exercise-2-12
+    section_id: 73417
+  - type: TEST
+    title_ru: Задание 2.13.
+    title_en: Assignment 2.13
+    slug: assignment-2-13
+    section_id: 73418
+- type: HEADER
+  title_ru: Виды моделей
+  title_en: Types of Models
+  slug: types-of-models
+  section_id: 73419
+  children:
+  - type: TEXT
+    title_ru: Описания как модели и знаки
+    title_en: Descriptions as Models and Signs
+    slug: descriptions-as-models-and-signs
+    section_id: 73420
+  - type: TEXT
+    title_ru: Толкование описаний
+    title_en: Interpreting Descriptions
+    slug: interpreting-descriptions
+    section_id: 73421
+  - type: TEST
+    title_ru: Упражнение 3.1.
+    title_en: Exercise 3.1
+    slug: exercise-3-1
+    section_id: 73422
+  - type: TEXT
+    title_ru: Описания описаний и шаблоны описаний
+    title_en: Descriptions of Descriptions and Description Templates
+    slug: descriptions-of-descriptions-and-description-templates
+    section_id: 73423
+  - type: TEXT
+    title_ru: Мета-языки и уровни моделирования
+    title_en: Meta-languages and Modeling Levels
+    slug: meta-languages-and-modeling-levels
+    section_id: 73424
+  - type: TEST
+    title_ru: Упражнение 3.2.
+    title_en: Exercise 3.2
+    slug: exercise-3-2
+    section_id: 73425
+  - type: TEXT
+    title_ru: Онтологические уровни
+    title_en: Ontological Levels
+    slug: ontological-levels
+    section_id: 73426
+  - type: TEXT
+    title_ru: Поиск или разработка онтологий
+    title_en: Searching or Developing Ontologies
+    slug: searching-or-developing-ontologies
+    section_id: 73427
+  - type: TEST
+    title_ru: Упражнение 3.3.
+    title_en: Exercise 3.3
+    slug: exercise-3-3
+    section_id: 73428
+  - type: TEST
+    title_ru: Упражнение 3.4.
+    title_en: Exercise 3.4
+    slug: exercise-3-4
+    section_id: 73429
+  - type: TEXT
+    title_ru: Описание и поиск его языка
+    title_en: Description and Search for Its Language
+    slug: description-and-search-for-its-language
+    section_id: 73430
+  - type: TEXT
+    title_ru: Прагматический смысл описания
+    title_en: Pragmatic Meaning of Description
+    slug: pragmatic-meaning-of-description
+    section_id: 73431
+  - type: TEXT
+    title_ru: Условия истинности и эпистемический статус высказывания
+    title_en: Truth Conditions and Epistemic Status of a Statement
+    slug: truth-conditions-and-epistemic-status-of-a-statement
+    section_id: 73432
+  - type: TEXT
+    title_ru: Процесс толкования
+    title_en: Interpretation Process
+    slug: interpretation-process
+    section_id: 73433
+  - type: TEST
+    title_ru: Задание 3.5.
+    title_en: Assignment 3.5
+    slug: assignment-3-5
+    section_id: 73434
+  - type: TEXT
+    title_ru: Факультативное задание 3.6
+    title_en: Optional Assignment 3.6
+    slug: optional-assignment-3-6
+    section_id: 73435
+- type: HEADER
+  title_ru: Основные кейсы
+  title_en: Main Cases
+  slug: main-cases
+  section_id: 73436
+  children:
+  - type: TEXT
+    title_ru: Основные объекты описания и уровни организации
+    title_en: Main Objects of Description and Levels of Organization
+    slug: main-objects-of-description-and-levels-of-organization
+    section_id: 73437
+  - type: TEXT
+    title_ru: Уровни моделирования и принципиальная модель предприятия
+    title_en: Modeling Levels and Enterprise Conceptual Model
+    slug: modeling-levels-and-enterprise-conceptual-model
+    section_id: 73438
+  - type: TEXT
+    title_ru: Базовая онтология работ
+    title_en: Basic Work Ontology
+    slug: basic-work-ontology
+    section_id: 73439
+  - type: TEXT
+    title_ru: Принципы физики предприятия и закон Литтла
+    title_en: Principles of Enterprise Physics and Little's Law
+    slug: principles-of-enterprise-physics-and-little-s-law
+    section_id: 73440
+  - type: TEXT
+    title_ru: Использование буферов для компенсации изменчивости
+    title_en: Using Buffers to Compensate for Variability
+    slug: using-buffers-to-compensate-for-variability
+    section_id: 73441
+- type: HEADER
+  title_ru: Представление моделей
+  title_en: Model Presentation
+  slug: model-presentation
+  section_id: 73442
+  children:
+  - type: TEXT
+    title_ru: Ситуация моделирования
+    title_en: Modeling Scenario
+    slug: modeling-scenario
+    section_id: 73443
+  - type: TEXT
+    title_ru: Уровни абстракции
+    title_en: Levels of Abstraction
+    slug: levels-of-abstraction
+    section_id: 73444
+  - type: TEST
+    title_ru: Задание 5.1
+    title_en: Assignment 5.1
+    slug: assignment-5-1
+    section_id: 73445
+  - type: TEXT
+    title_ru: Виды описаний
+    title_en: Types of Descriptions
+    slug: types-of-descriptions
+    section_id: 73446
+  - type: TEST
+    title_ru: Упражнение 5.2
+    title_en: Exercise 5.2
+    slug: exercise-5-2
+    section_id: 73447
+  - type: TEXT
+    title_ru: Предметные роли и язык описания
+    title_en: Subject Roles and Description Language
+    slug: subject-roles-and-description-language
+    section_id: 73448
+  - type: TEST
+    title_ru: Упражнение 5.3
+    title_en: Exercise 5.3
+    slug: exercise-5-3
+    section_id: 73449
+  - type: TEST
+    title_ru: Задание 5.4 (факультативное)
+    title_en: Assignment 5.4 (Optional)
+    slug: assignment-5-4-optional
+    section_id: 73450
+  - type: TEXT
+    title_ru: Формат описания и моделеры
+    title_en: Description Format and Modelers
+    slug: description-format-and-modelers
+    section_id: 73451
+  - type: TEXT
+    title_ru: Модальность описания
+    title_en: Description Modality
+    slug: description-modality
+    section_id: 73452
+  - type: TEST
+    title_ru: Задание 5.5
+    title_en: Assignment 5.5
+    slug: assignment-5-5
+    section_id: 73453
+  - type: TEXT
+    title_ru: Уровни детализации
+    title_en: Levels of Detail
+    slug: levels-of-detail
+    section_id: 73454
+  - type: TEST
+    title_ru: Упражнение 5.6
+    title_en: Exercise 5.6
+    slug: exercise-5-6
+    section_id: 73455
+  - type: TEXT
+    title_ru: Классификаторы
+    title_en: Classifiers
+    slug: classifiers
+    section_id: 73456
+  - type: TEST
+    title_ru: Упражнение 5.7
+    title_en: Exercise 5.7
+    slug: exercise-5-7
+    section_id: 73457
+  - type: TEXT
+    title_ru: Описатели и отношения объектов
+    title_en: Object Descriptors and Relationships
+    slug: object-descriptors-and-relationships
+    section_id: 73458
+  - type: TEST
+    title_ru: Упражнение 5.8
+    title_en: Exercise 5.8
+    slug: exercise-5-8
+    section_id: 73459
+  - type: TEXT
+    title_ru: Составление описания или шаблона описания
+    title_en: Creating a Description or Description Template
+    slug: creating-a-description-or-description-template
+    section_id: 73460
+  - type: TEST
+    title_ru: Задание 5.9
+    title_en: Assignment 5.9
+    slug: assignment-5-9
+    section_id: 73461
+- type: HEADER
+  title_ru: Использование моделей в совместной работе
+  title_en: Using Models in Collaboration
+  slug: using-models-in-collaboration
+  section_id: 73462
+  children:
+  - type: TEXT
+    title_ru: 'Подготовка к составлению модели: ситуация моделирования'
+    title_en: 'Preparing to Create a Model: Modeling Situation'
+    slug: preparing-to-create-a-model-modeling-situation
+    section_id: 73463
+  - type: TEXT
+    title_ru: Предметные роли для ситуационных ролей
+    title_en: Subject Roles for Situational Roles
+    slug: subject-roles-for-situational-roles
+    section_id: 73464
+  - type: TEST
+    title_ru: Упражнение 6.1
+    title_en: Exercise 6.1
+    slug: exercise-6-1
+    section_id: 73465
+  - type: TEXT
+    title_ru: Неявные предположения при моделировании
+    title_en: Implicit Assumptions in Modeling
+    slug: implicit-assumptions-in-modeling
+    section_id: 73466
+  - type: TEXT
+    title_ru: Собираем всё вместе
+    title_en: Putting It All Together
+    slug: putting-it-all-together
+    section_id: 73467
+  - type: TEST
+    title_ru: Задание 6.2
+    title_en: Assignment 6.2
+    slug: assignment-6-2
+    section_id: 73468

@@ -1,0 +1,136 @@
+course_id: counterfactuality
+original_course_id: counterfactuality-r4
+course_name: R4. Причинность, интервенции и контрфактичность в инженерии и менеджменте
+version: 2026-01-08T1426
+version_id: '652'
+sections:
+- type: HEADER
+  title_ru: Поиск и решение проблем, исследование
+  title_en: Problem Solving and Research
+  slug: problem-solving-and-research
+  section_id: 73337
+  children:
+  - type: TEXT
+    title_ru: Модель практики создания объяснений
+    title_en: Model for the Practice of Creating Explanations
+    slug: model-for-the-practice-of-creating-explanations
+    section_id: 73338
+  - type: TEXT
+    title_ru: Исследования самого себя
+    title_en: Self-Exploration
+    slug: self-exploration
+    section_id: 73339
+  - type: TEXT
+    title_ru: Как оценить объяснение
+    title_en: How to Evaluate an Explanation
+    slug: how-to-evaluate-an-explanation
+    section_id: 73340
+  - type: TEST
+    title_ru: Задание 1.1.
+    title_en: Assignment 1.1
+    slug: assignment-1-1
+    section_id: 73341
+- type: HEADER
+  title_ru: Мета-модель исследовательской деятельности
+  title_en: Meta-Model of Research Activities
+  slug: meta-model-of-research-activities
+  section_id: 73342
+  children:
+  - type: TEXT
+    title_ru: Предсказания и допущения
+    title_en: Predictions and Assumptions
+    slug: predictions-and-assumptions
+    section_id: 73343
+  - type: TEST
+    title_ru: Упражнение 2.1.
+    title_en: Exercise 2.1
+    slug: exercise-2-1
+    section_id: 73344
+  - type: TEXT
+    title_ru: Создание объяснений
+    title_en: Creating Explanations
+    slug: creating-explanations
+    section_id: 73345
+- type: HEADER
+  title_ru: Причинность и виды причин
+  title_en: Causality and Types of Causes
+  slug: causality-and-types-of-causes
+  section_id: 73346
+  children:
+  - type: TEXT
+    title_ru: События и вероятности
+    title_en: Events and Probabilities
+    slug: events-and-probabilities
+    section_id: 73347
+  - type: TEXT
+    title_ru: Лестница причинности
+    title_en: Causality Ladder
+    slug: causality-ladder
+    section_id: 73348
+  - type: TEST
+    title_ru: Задание 3.1.
+    title_en: Assignment 3.1
+    slug: assignment-3-1
+    section_id: 73349
+  - type: TEXT
+    title_ru: Типы причин
+    title_en: Types of Causes
+    slug: types-of-causes
+    section_id: 73350
+  - type: TEST
+    title_ru: Задание 3.2.
+    title_en: Assignment 3.2
+    slug: assignment-3-2
+    section_id: 73351
+- type: HEADER
+  title_ru: Формальное моделирование причинно-следственных связей
+  title_en: Formal Modeling of Causal Relationships
+  slug: formal-modeling-of-causal-relationships
+  section_id: 73352
+  children:
+  - type: TEXT
+    title_ru: Основные элементы графа причинности
+    title_en: Key Elements of a Causality Graph
+    slug: key-elements-of-a-causality-graph
+    section_id: 73353
+  - type: TEXT
+    title_ru: Как работать с графами причинности
+    title_en: How to Work with Causality Graphs
+    slug: how-to-work-with-causality-graphs
+    section_id: 73354
+  - type: TEXT
+    title_ru: 'Дребезг причинно-следственных связей:'
+    title_en: Causal Link Jitter
+    slug: causal-link-jitter
+    section_id: 73355
+  - type: TEST
+    title_ru: Задание 4.1.
+    title_en: Assignment 4.1
+    slug: assignment-4-1
+    section_id: 73356
+  - type: TEXT
+    title_ru: Гипотезы и планирование экспериментов
+    title_en: Hypotheses and Experiment Planning
+    slug: hypotheses-and-experiment-planning
+    section_id: 73357
+- type: HEADER
+  title_ru: Создание и передача объяснений
+  title_en: Creation and Delivery of Explanations
+  slug: creation-and-delivery-of-explanations
+  section_id: 73358
+  children:
+  - type: TEXT
+    title_ru: Практическое применение моделирования
+    title_en: Practical Application of Modeling
+    slug: practical-application-of-modeling
+    section_id: 73359
+  - type: TEST
+    title_ru: Задание 6.1/
+    title_en: Assignment 6.1
+    slug: assignment-6-1
+    section_id: 73360
+  - type: TEXT
+    title_ru: Что дальше?
+    title_en: What's Next?
+    slug: what-s-next
+    section_id: 73361
